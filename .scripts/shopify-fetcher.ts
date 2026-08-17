@@ -1,3 +1,5 @@
+import { JsonArray, JsonObject } from "./types";
+
 export async function fetchShopifyData(shopUrl: string) {
   const products = [];
   let page = 1;
@@ -17,8 +19,8 @@ export async function fetchShopifyData(shopUrl: string) {
   }
 
   return {
-    products,
-  };
+    products: products.map(cleanupProduct) as JsonArray,
+  } as JsonObject;
 }
 
 export async function fetchShopifyPage(shopUrl: string, page: number) {
@@ -28,4 +30,25 @@ export async function fetchShopifyPage(shopUrl: string, page: number) {
   const data = await response.json();
   const products = data.products;
   return products;
+}
+
+// updated_at must be stripped, because for some shops, it changes constantly,
+// even if nothing is changed
+function cleanupProduct(product: any): any {
+  return {
+    ...product,
+    updated_at: undefined,
+    variants: product.variants
+      ? product.variants.map((variant: any) => ({
+          ...variant,
+          updated_at: undefined,
+        }))
+      : undefined,
+    images: product.images
+      ? product.images.map((image: any) => ({
+          ...image,
+          updated_at: undefined,
+        }))
+      : undefined,
+  };
 }
