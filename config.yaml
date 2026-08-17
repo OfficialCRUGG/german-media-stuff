@@ -1,0 +1,7 @@
+shops:
+  - type: shopify
+    id: akibapassshop
+    url: https://akibapassshop.de
+  - type: shopify
+    id: animoon
+    url: https://animoon-publishing.de

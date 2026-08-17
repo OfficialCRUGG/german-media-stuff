@@ -1,0 +1,45 @@
+name: Shops & Git
+
+on:
+  schedule:
+    - cron: "0 * * * *" # Run every hour
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_BOT_TOKEN }}
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
+          run_install: false
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Configure Git
+        run: |
+          git config user.name "${{ secrets.GH_BOT_NAME }}"
+          git config user.email "${{ secrets.GH_BOT_EMAIL }}"
+
+      - name: Update shops
+        run: pnpm run shops
+
+      - name: Commit changes
+        run: pnpm run git
+
+      - name: Push changes
+        run: git push

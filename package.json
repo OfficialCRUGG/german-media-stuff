@@ -1,0 +1,20 @@
+{
+  "name": "german-media-stuff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "shops": "tsx .scripts/shops.ts",
+    "git": "tsx .scripts/git.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.33.0",
+  "devDependencies": {
+    "@types/node": "^26.2.0",
+    "tsx": "^4.23.12",
+    "yaml": "^2.9.0"
+  }
+}
