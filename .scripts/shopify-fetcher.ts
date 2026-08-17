@@ -19,7 +19,9 @@ export async function fetchShopifyData(shopUrl: string) {
   }
 
   return {
-    products: products.map(cleanupProduct) as JsonArray,
+    products: (products.map(cleanupProduct) as JsonArray).sort(
+      (a: any, b: any) => a.handle.localeCompare(b.handle),
+    ),
   } as JsonObject;
 }
 
