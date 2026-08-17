@@ -30,11 +30,11 @@ async function commitDirWithFileNames(dir: string, baseMessage: string) {
     .map((file) => path.basename(file, path.extname(file)))
     .join(", ");
 
-  const commitMessage = `${baseMessage}\n\nAffected:\n${changedFiles.join("\n")}`;
+  const commitMessage = `update: ${baseMessage}\n\nAffected:\n${fileNames}`;
 
   await git("commit", "-m", commitMessage);
 }
 
-await commitDirWithFileNames("shops", "Update shop data");
+await commitDirWithFileNames("shops", "updated shops");
 
 export {};

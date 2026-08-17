@@ -1,4 +1,4 @@
-name: Shops & Git
+name: Run Updates
 
 on:
   schedule:
