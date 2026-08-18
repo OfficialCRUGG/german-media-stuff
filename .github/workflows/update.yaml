@@ -3,6 +3,7 @@ name: Run Updates
 on:
   schedule:
     - cron: "0 * * * *" # Run every hour
+      timezone: "Europe/Berlin"
   workflow_dispatch:
 
 jobs:
