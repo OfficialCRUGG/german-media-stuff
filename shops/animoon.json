@@ -22114,16 +22114,16 @@
         "fantasy",
         "harem",
         "isekai",
-        "preorder",
+        "Neuheit",
         "reincarnated",
-        "Serie",
-        "vorbestellung"
+        "released",
+        "Serie"
       ],
       "variants": [
         {
           "id": 56047815983369,
-          "title": "Blu-ray (Vorbestellung)",
-          "option1": "Blu-ray (Vorbestellung)",
+          "title": "Blu-ray",
+          "option1": "Blu-ray",
           "option2": null,
           "option3": null,
           "sku": "4260497796848",
@@ -22131,9 +22131,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "77.99",
+          "price": "79.99",
           "grams": 400,
-          "compare_at_price": "79.99",
+          "compare_at_price": null,
           "position": 1,
           "product_id": 15271187284233,
           "created_at": "2025-08-21T14:53:32+02:00"
@@ -22156,7 +22156,7 @@
           "name": "Medium auswählen:",
           "position": 1,
           "values": [
-            "Blu-ray (Vorbestellung)"
+            "Blu-ray"
           ]
         }
       ]
