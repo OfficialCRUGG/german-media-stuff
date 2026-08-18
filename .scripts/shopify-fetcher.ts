@@ -40,6 +40,7 @@ function cleanupProduct(product: any): any {
   return {
     ...product,
     updated_at: undefined,
+    body_html: undefined,
     variants: product.variants
       ? product.variants.map((variant: any) => ({
           ...variant,
