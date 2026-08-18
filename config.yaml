@@ -5,3 +5,6 @@ shops:
   - type: shopify
     id: animoon
     url: https://animoon-publishing.de
+  - type: shopify
+    id: leonine
+    url: https://shop.leoninestudios.com
