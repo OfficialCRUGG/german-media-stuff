@@ -14913,7 +14913,7 @@
               44560616227081
             ]
           },
-          "available": false,
+          "available": true,
           "price": "59.99",
           "grams": 400,
           "compare_at_price": null,
