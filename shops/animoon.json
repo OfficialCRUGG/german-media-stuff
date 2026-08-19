@@ -43101,6 +43101,316 @@
       ]
     },
     {
+      "id": 15656763261193,
+      "title": "T-Shirt \"I LOVE ANIMOON \"",
+      "handle": "t-shirt-the-ghost-in-the-shell-kopie",
+      "published_at": "2026-08-19T21:32:09+02:00",
+      "created_at": "2026-08-19T21:00:29+02:00",
+      "vendor": "AniMoon Shop",
+      "product_type": "",
+      "tags": [
+        "merch",
+        "released",
+        "shirt"
+      ],
+      "variants": [
+        {
+          "id": 57267161661705,
+          "title": "S",
+          "option1": "S",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 81387362222345,
+            "product_id": 15656763261193,
+            "position": 1,
+            "created_at": "2026-08-19T21:00:49+02:00",
+            "updated_at": "2026-08-19T21:00:52+02:00",
+            "alt": null,
+            "width": 1848,
+            "height": 1848,
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Animoon-T-Shirt.png?v=1787166052",
+            "variant_ids": [
+              57267161661705,
+              57267161694473,
+              57267161727241,
+              57267161760009,
+              57267161792777,
+              57267161825545,
+              57267161858313
+            ]
+          },
+          "available": true,
+          "price": "29.99",
+          "grams": 300,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15656763261193,
+          "created_at": "2026-08-19T21:00:30+02:00"
+        },
+        {
+          "id": 57267161694473,
+          "title": "M",
+          "option1": "M",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 81387362222345,
+            "product_id": 15656763261193,
+            "position": 1,
+            "created_at": "2026-08-19T21:00:49+02:00",
+            "updated_at": "2026-08-19T21:00:52+02:00",
+            "alt": null,
+            "width": 1848,
+            "height": 1848,
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Animoon-T-Shirt.png?v=1787166052",
+            "variant_ids": [
+              57267161661705,
+              57267161694473,
+              57267161727241,
+              57267161760009,
+              57267161792777,
+              57267161825545,
+              57267161858313
+            ]
+          },
+          "available": true,
+          "price": "29.99",
+          "grams": 300,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 15656763261193,
+          "created_at": "2026-08-19T21:00:30+02:00"
+        },
+        {
+          "id": 57267161727241,
+          "title": "L",
+          "option1": "L",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 81387362222345,
+            "product_id": 15656763261193,
+            "position": 1,
+            "created_at": "2026-08-19T21:00:49+02:00",
+            "updated_at": "2026-08-19T21:00:52+02:00",
+            "alt": null,
+            "width": 1848,
+            "height": 1848,
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Animoon-T-Shirt.png?v=1787166052",
+            "variant_ids": [
+              57267161661705,
+              57267161694473,
+              57267161727241,
+              57267161760009,
+              57267161792777,
+              57267161825545,
+              57267161858313
+            ]
+          },
+          "available": true,
+          "price": "29.99",
+          "grams": 300,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 15656763261193,
+          "created_at": "2026-08-19T21:00:30+02:00"
+        },
+        {
+          "id": 57267161760009,
+          "title": "XL",
+          "option1": "XL",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 81387362222345,
+            "product_id": 15656763261193,
+            "position": 1,
+            "created_at": "2026-08-19T21:00:49+02:00",
+            "updated_at": "2026-08-19T21:00:52+02:00",
+            "alt": null,
+            "width": 1848,
+            "height": 1848,
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Animoon-T-Shirt.png?v=1787166052",
+            "variant_ids": [
+              57267161661705,
+              57267161694473,
+              57267161727241,
+              57267161760009,
+              57267161792777,
+              57267161825545,
+              57267161858313
+            ]
+          },
+          "available": true,
+          "price": "29.99",
+          "grams": 300,
+          "compare_at_price": null,
+          "position": 4,
+          "product_id": 15656763261193,
+          "created_at": "2026-08-19T21:00:30+02:00"
+        },
+        {
+          "id": 57267161792777,
+          "title": "XXL",
+          "option1": "XXL",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 81387362222345,
+            "product_id": 15656763261193,
+            "position": 1,
+            "created_at": "2026-08-19T21:00:49+02:00",
+            "updated_at": "2026-08-19T21:00:52+02:00",
+            "alt": null,
+            "width": 1848,
+            "height": 1848,
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Animoon-T-Shirt.png?v=1787166052",
+            "variant_ids": [
+              57267161661705,
+              57267161694473,
+              57267161727241,
+              57267161760009,
+              57267161792777,
+              57267161825545,
+              57267161858313
+            ]
+          },
+          "available": true,
+          "price": "29.99",
+          "grams": 300,
+          "compare_at_price": null,
+          "position": 5,
+          "product_id": 15656763261193,
+          "created_at": "2026-08-19T21:00:30+02:00"
+        },
+        {
+          "id": 57267161825545,
+          "title": "XXXL",
+          "option1": "XXXL",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 81387362222345,
+            "product_id": 15656763261193,
+            "position": 1,
+            "created_at": "2026-08-19T21:00:49+02:00",
+            "updated_at": "2026-08-19T21:00:52+02:00",
+            "alt": null,
+            "width": 1848,
+            "height": 1848,
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Animoon-T-Shirt.png?v=1787166052",
+            "variant_ids": [
+              57267161661705,
+              57267161694473,
+              57267161727241,
+              57267161760009,
+              57267161792777,
+              57267161825545,
+              57267161858313
+            ]
+          },
+          "available": false,
+          "price": "29.99",
+          "grams": 300,
+          "compare_at_price": null,
+          "position": 6,
+          "product_id": 15656763261193,
+          "created_at": "2026-08-19T21:00:30+02:00"
+        },
+        {
+          "id": 57267161858313,
+          "title": "XXXXL",
+          "option1": "XXXXL",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 81387362222345,
+            "product_id": 15656763261193,
+            "position": 1,
+            "created_at": "2026-08-19T21:00:49+02:00",
+            "updated_at": "2026-08-19T21:00:52+02:00",
+            "alt": null,
+            "width": 1848,
+            "height": 1848,
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Animoon-T-Shirt.png?v=1787166052",
+            "variant_ids": [
+              57267161661705,
+              57267161694473,
+              57267161727241,
+              57267161760009,
+              57267161792777,
+              57267161825545,
+              57267161858313
+            ]
+          },
+          "available": true,
+          "price": "29.99",
+          "grams": 300,
+          "compare_at_price": null,
+          "position": 7,
+          "product_id": 15656763261193,
+          "created_at": "2026-08-19T21:00:30+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 81387362222345,
+          "created_at": "2026-08-19T21:00:49+02:00",
+          "position": 1,
+          "product_id": 15656763261193,
+          "variant_ids": [
+            57267161661705,
+            57267161694473,
+            57267161727241,
+            57267161760009,
+            57267161792777,
+            57267161825545,
+            57267161858313
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Animoon-T-Shirt.png?v=1787166052",
+          "width": 1848,
+          "height": 1848
+        }
+      ],
+      "options": [
+        {
+          "name": "Größe auswählen:",
+          "position": 1,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL",
+            "XXXXL"
+          ]
+        }
+      ]
+    },
+    {
       "id": 15271198294281,
       "title": "The Café Terrace and its Goddesses - Staffel 1",
       "handle": "the-cafe-terrace-and-its-goddesses-vol-1",
