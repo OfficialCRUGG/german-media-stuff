@@ -45373,9 +45373,9 @@
             ]
           },
           "available": true,
-          "price": "89.99",
+          "price": "49.00",
           "grams": 400,
-          "compare_at_price": null,
+          "compare_at_price": "89.99",
           "position": 1,
           "product_id": 8384173703433,
           "created_at": "2023-12-08T16:10:44+01:00"
@@ -45404,9 +45404,9 @@
             ]
           },
           "available": true,
-          "price": "89.99",
+          "price": "49.00",
           "grams": 400,
-          "compare_at_price": null,
+          "compare_at_price": "89.99",
           "position": 2,
           "product_id": 8384173703433,
           "created_at": "2023-12-08T16:10:44+01:00"
@@ -49726,7 +49726,7 @@
             ]
           },
           "available": true,
-          "price": "19.00",
+          "price": "39.99",
           "grams": 400,
           "compare_at_price": "39.99",
           "position": 1,
