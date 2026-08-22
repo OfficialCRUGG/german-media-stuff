@@ -179329,7 +179329,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "19.90",
           "grams": 0,
           "compare_at_price": "19.90",
