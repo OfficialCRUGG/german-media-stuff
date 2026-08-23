@@ -44153,7 +44153,7 @@
           "available": true,
           "price": "29.99",
           "grams": 0,
-          "compare_at_price": "0.00",
+          "compare_at_price": null,
           "position": 1,
           "product_id": 7841273053237,
           "created_at": "2025-02-03T17:31:37+01:00"
