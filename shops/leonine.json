@@ -3221,7 +3221,7 @@
           "available": true,
           "price": "49.99",
           "grams": 500,
-          "compare_at_price": "0.00",
+          "compare_at_price": null,
           "position": 1,
           "product_id": 7828506083381,
           "created_at": "2025-01-23T09:37:18+01:00"
@@ -44064,7 +44064,7 @@
           "available": true,
           "price": "34.99",
           "grams": 0,
-          "compare_at_price": "0.00",
+          "compare_at_price": null,
           "position": 1,
           "product_id": 7851070521397,
           "created_at": "2025-02-07T11:30:09+01:00"
