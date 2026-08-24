@@ -159953,7 +159953,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "59.90",
           "grams": 0,
           "compare_at_price": "59.90",
@@ -185116,7 +185116,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.00",
           "grams": 50,
           "compare_at_price": "0.00",
@@ -185688,12 +185688,32 @@
       ],
       "images": [
         {
-          "id": 86088135508232,
-          "created_at": "2026-08-06T10:48:23+02:00",
+          "id": 86467766583560,
+          "created_at": "2026-08-24T10:48:03+02:00",
           "position": 1,
           "product_id": 12155389542664,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dr-stone-science-future-staffel-4-part-1-sammelschuber-blu-ray-979.webp?v=1786006103",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dr-stone-science-future-staffel-4-part-1-sammelschuber-blu-ray-454.webp?v=1787561283",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 86467767632136,
+          "created_at": "2026-08-24T10:48:12+02:00",
+          "position": 2,
+          "product_id": 12155389542664,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dr-stone-science-future-staffel-4-part-1-sammelschuber-blu-ray-895.webp?v=1787561292",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 86467768549640,
+          "created_at": "2026-08-24T10:48:21+02:00",
+          "position": 3,
+          "product_id": 12155389542664,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dr-stone-science-future-staffel-4-part-1-sammelschuber-blu-ray-372.webp?v=1787561301",
           "width": 2500,
           "height": 2500
         }
