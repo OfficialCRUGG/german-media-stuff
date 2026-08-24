@@ -92446,7 +92446,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "34.90",
           "grams": 310,
           "compare_at_price": "44.90",
@@ -160043,6 +160043,516 @@
           "product_id": 12000836419848,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/sword-of-the-demon-hunter-vol-2-blu-ray-standard-edition-ksm-anime-936.webp?v=1780906344",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12203493622024,
+      "title": "Memories (Blu-ray)",
+      "handle": "26ksm028-memories-blu-ray",
+      "published_at": "2026-08-24T17:30:59+02:00",
+      "created_at": "2026-08-24T16:45:40+02:00",
+      "vendor": "KSM Anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58524974219528,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26ksm028",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "24.90",
+          "grams": 0,
+          "compare_at_price": "24.90",
+          "position": 1,
+          "product_id": 12203493622024,
+          "created_at": "2026-08-24T16:45:40+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86485937062152,
+          "created_at": "2026-08-24T17:42:55+02:00",
+          "position": 1,
+          "product_id": 12203493622024,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/memories-blu-ray-standard-edition-ksm-anime-894.webp?v=1787586175",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12203488411912,
+      "title": "Mila Superstar (Blu-ray)",
+      "handle": "26ksm029-mila-superstar-blu-ray",
+      "published_at": "2026-08-24T17:30:59+02:00",
+      "created_at": "2026-08-24T16:44:00+02:00",
+      "vendor": "KSM Anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58524957114632,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26ksm029",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "99.90",
+          "grams": 0,
+          "compare_at_price": "99.90",
+          "position": 1,
+          "product_id": 12203488411912,
+          "created_at": "2026-08-24T16:44:00+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86485935685896,
+          "created_at": "2026-08-24T17:42:18+02:00",
+          "position": 1,
+          "product_id": 12203488411912,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/mila-superstar-blu-ray-gesamtausgabe-ksm-anime-797.webp?v=1787586138",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12203487789320,
+      "title": "Naruto Shippuden - The New Movie Collection mit 8 Filmen (Blu-ray)",
+      "handle": "26ksm030-naruto-shippuden-the-new-movie-collection-blu-ray",
+      "published_at": "2026-08-24T17:30:59+02:00",
+      "created_at": "2026-08-24T16:43:12+02:00",
+      "vendor": "KSM Anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58524955934984,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26ksm030",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "99.90",
+          "grams": 0,
+          "compare_at_price": "99.90",
+          "position": 1,
+          "product_id": 12203487789320,
+          "created_at": "2026-08-24T16:43:12+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86485934440712,
+          "created_at": "2026-08-24T17:41:47+02:00",
+          "position": 1,
+          "product_id": 12203487789320,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/naruto-shippuden-the-new-movie-collection-8-filmen-blu-ray-standard-727.webp?v=1787586107",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12203482448136,
+      "title": "All You Need is Kill - Collector's Edition (Blu-ray)",
+      "handle": "26ksm031-all-you-need-is-kill-collectors-edition-blu-ray",
+      "published_at": "2026-08-24T17:31:00+02:00",
+      "created_at": "2026-08-24T16:41:32+02:00",
+      "vendor": "KSM Anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58524923855112,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26ksm031",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "27.90",
+          "grams": 0,
+          "compare_at_price": "27.90",
+          "position": 1,
+          "product_id": 12203482448136,
+          "created_at": "2026-08-24T16:41:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86485928837384,
+          "created_at": "2026-08-24T17:41:09+02:00",
+          "position": 1,
+          "product_id": 12203482448136,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/all-you-need-is-kill-collectors-edition-blu-ray-limited-edition-861.webp?v=1787586069",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12203477860616,
+      "title": "Ame & Yuki - Die Wolfskinder - Ultimate Edition (4K UHD & Blu-ray)",
+      "handle": "26ksm032-ame-yuki-die-wolfskinder-ultimate-edition-4k-uhd-blu-ray",
+      "published_at": "2026-08-24T17:31:00+02:00",
+      "created_at": "2026-08-24T16:40:37+02:00",
+      "vendor": "KSM Anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58524898361608,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26ksm032",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "59.90",
+          "grams": 0,
+          "compare_at_price": "59.90",
+          "position": 1,
+          "product_id": 12203477860616,
+          "created_at": "2026-08-24T16:40:37+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86485926281480,
+          "created_at": "2026-08-24T17:40:34+02:00",
+          "position": 1,
+          "product_id": 12203477860616,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/ame-yuki-wolfskinder-ultimate-edition-4k-uhd-blu-ray-limited-587.webp?v=1787586034",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12203477795080,
+      "title": "Das Mädchen, das durch die Zeit sprang - Ultimate Edition (4K UHD & Blu-ray)",
+      "handle": "26ksm033-das-madchen-das-durch-die-zeit-sprang-ultimate-edition-4k-uhd-blu-ray",
+      "published_at": "2026-08-24T17:31:00+02:00",
+      "created_at": "2026-08-24T16:40:22+02:00",
+      "vendor": "KSM Anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58524898132232,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26ksm033",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "59.90",
+          "grams": 0,
+          "compare_at_price": "59.90",
+          "position": 1,
+          "product_id": 12203477795080,
+          "created_at": "2026-08-24T16:40:22+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86485918056712,
+          "created_at": "2026-08-24T17:38:42+02:00",
+          "position": 1,
+          "product_id": 12203477795080,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/maedchen-zeit-sprang-ultimate-edition-4k-uhd-blu-ray-limited-867.webp?v=1787585922",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12203477401864,
+      "title": "Der Junge und das Biest - Ultimate Edition (4K UHD & Blu-ray)",
+      "handle": "26ksm034-der-junge-und-das-biest-ultimate-edition-4k-uhd-blu-ray",
+      "published_at": "2026-08-24T17:31:00+02:00",
+      "created_at": "2026-08-24T16:39:49+02:00",
+      "vendor": "KSM Anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58524897378568,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26ksm034",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "59.90",
+          "grams": 0,
+          "compare_at_price": "59.90",
+          "position": 1,
+          "product_id": 12203477401864,
+          "created_at": "2026-08-24T16:39:49+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86485915435272,
+          "created_at": "2026-08-24T17:37:49+02:00",
+          "position": 1,
+          "product_id": 12203477401864,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/junge-biest-ultimate-edition-4k-uhd-blu-ray-limited-edition-ksm-970.webp?v=1787585869",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12203566825736,
+      "title": "Detektei Layton: Katrielles rätselhafte Fälle - Die komplette Serie (Blu-ray)",
+      "handle": "26ksm035-detektei-layton-die-komplette-serie-blu-ray",
+      "published_at": "2026-08-24T17:30:59+02:00",
+      "created_at": "2026-08-24T17:26:47+02:00",
+      "vendor": "KSM Anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58525251535112,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26ksm035",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "79.90",
+          "grams": 0,
+          "compare_at_price": "79.90",
+          "position": 1,
+          "product_id": 12203566825736,
+          "created_at": "2026-08-24T17:26:47+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86485968945416,
+          "created_at": "2026-08-24T17:49:07+02:00",
+          "position": 1,
+          "product_id": 12203566825736,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/detektei-layton-katrielles-raetselhafte-faelle-komplette-serie-blu-908.webp?v=1787586547",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12203472519432,
+      "title": "Summer Wars - Ultimate Edition (4K UHD & Blu-ray)",
+      "handle": "26ksm036-summer-wars-ultimate-edition-4k-uhd-blu-ray",
+      "published_at": "2026-08-24T17:31:01+02:00",
+      "created_at": "2026-08-24T16:38:09+02:00",
+      "vendor": "KSM Anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58524885909768,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26ksm036",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "59.90",
+          "grams": 0,
+          "compare_at_price": "59.90",
+          "position": 1,
+          "product_id": 12203472519432,
+          "created_at": "2026-08-24T16:38:09+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86485904064776,
+          "created_at": "2026-08-24T17:36:25+02:00",
+          "position": 1,
+          "product_id": 12203472519432,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/summer-wars-ultimate-edition-4k-uhd-blu-ray-limited-edition-ksm-356.webp?v=1787585785",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12203468816648,
+      "title": "There's No Freaking Way I'll be Your Lover Unless… (Blu-ray)",
+      "handle": "26ksm037-theres-no-freaking-way-ill-be-your-lover-unless-blu-ray",
+      "published_at": "2026-08-24T17:31:01+02:00",
+      "created_at": "2026-08-24T16:36:27+02:00",
+      "vendor": "KSM Anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58524879454472,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26ksm037",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "89.90",
+          "grams": 0,
+          "compare_at_price": "89.90",
+          "position": 1,
+          "product_id": 12203468816648,
+          "created_at": "2026-08-24T16:36:27+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86485779579144,
+          "created_at": "2026-08-24T17:28:02+02:00",
+          "position": 1,
+          "product_id": 12203468816648,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/theres-no-freaking-way-ill-be-your-lover-unless-blu-ray-standard-489.webp?v=1787585282",
           "width": 2500,
           "height": 2500
         }
