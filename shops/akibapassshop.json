@@ -82852,7 +82852,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "54.90",
           "grams": 0,
           "compare_at_price": "54.90",
@@ -82863,14 +82863,14 @@
       ],
       "images": [
         {
-          "id": 73676004360456,
-          "created_at": "2025-10-21T10:38:25+02:00",
+          "id": 86504509866248,
+          "created_at": "2026-08-25T17:45:47+02:00",
           "position": 1,
           "product_id": 10261475623176,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dragonball-z-tv-serie-box-4-dvd-standard-edition-crunchyroll-film-380.webp?v=1769031468",
-          "width": 2000,
-          "height": 2000
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017532749_DragonballZ_Box4_DVD_Front.png?v=1787672752",
+          "width": 2500,
+          "height": 2500
         }
       ],
       "options": [
@@ -92523,7 +92523,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "29.90",
           "grams": 300,
           "compare_at_price": "39.90",
@@ -113297,7 +113297,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "24.90",
           "grams": 120,
           "compare_at_price": "34.90",
@@ -157712,7 +157712,7 @@
           "available": true,
           "price": "69.90",
           "grams": 0,
-          "compare_at_price": "59.90",
+          "compare_at_price": "69.90",
           "position": 1,
           "product_id": 12155613020424,
           "created_at": "2026-08-06T11:47:43+02:00"
