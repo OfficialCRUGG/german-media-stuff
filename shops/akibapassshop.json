@@ -160060,7 +160060,7 @@
     {
       "id": 12203493622024,
       "title": "Memories (Blu-ray)",
-      "handle": "26ksm028-memories-blu-ray",
+      "handle": "26ksm028-memories-bluray",
       "published_at": "2026-08-24T17:30:59+02:00",
       "created_at": "2026-08-24T16:45:40+02:00",
       "vendor": "KSM Anime",
@@ -160111,7 +160111,7 @@
     {
       "id": 12203488411912,
       "title": "Mila Superstar (Blu-ray)",
-      "handle": "26ksm029-mila-superstar-blu-ray",
+      "handle": "26ksm029-mila-superstar-bluray",
       "published_at": "2026-08-24T17:30:59+02:00",
       "created_at": "2026-08-24T16:44:00+02:00",
       "vendor": "KSM Anime",
@@ -160162,7 +160162,7 @@
     {
       "id": 12203487789320,
       "title": "Naruto Shippuden - The New Movie Collection mit 8 Filmen (Blu-ray)",
-      "handle": "26ksm030-naruto-shippuden-the-new-movie-collection-blu-ray",
+      "handle": "26ksm030-naruto-shippuden-the-new-movie-collection-bluray",
       "published_at": "2026-08-24T17:30:59+02:00",
       "created_at": "2026-08-24T16:43:12+02:00",
       "vendor": "KSM Anime",
@@ -160213,7 +160213,7 @@
     {
       "id": 12203482448136,
       "title": "All You Need is Kill - Collector's Edition (Blu-ray)",
-      "handle": "26ksm031-all-you-need-is-kill-collectors-edition-blu-ray",
+      "handle": "26ksm031-all-you-need-is-kill-collectors-edition-bluray",
       "published_at": "2026-08-24T17:31:00+02:00",
       "created_at": "2026-08-24T16:41:32+02:00",
       "vendor": "KSM Anime",
@@ -160264,7 +160264,7 @@
     {
       "id": 12203477860616,
       "title": "Ame & Yuki - Die Wolfskinder - Ultimate Edition (4K UHD & Blu-ray)",
-      "handle": "26ksm032-ame-yuki-die-wolfskinder-ultimate-edition-4k-uhd-blu-ray",
+      "handle": "26ksm032-ame-yuki-die-wolfskinder-ultimate-edition-4k-uhd-bluray",
       "published_at": "2026-08-24T17:31:00+02:00",
       "created_at": "2026-08-24T16:40:37+02:00",
       "vendor": "KSM Anime",
@@ -160315,7 +160315,7 @@
     {
       "id": 12203477795080,
       "title": "Das Mädchen, das durch die Zeit sprang - Ultimate Edition (4K UHD & Blu-ray)",
-      "handle": "26ksm033-das-madchen-das-durch-die-zeit-sprang-ultimate-edition-4k-uhd-blu-ray",
+      "handle": "26ksm033-das-maedchen-das-durch-die-zeit-sprang-ultimate-edition-4k-uhd-bluray",
       "published_at": "2026-08-24T17:31:00+02:00",
       "created_at": "2026-08-24T16:40:22+02:00",
       "vendor": "KSM Anime",
@@ -160366,7 +160366,7 @@
     {
       "id": 12203477401864,
       "title": "Der Junge und das Biest - Ultimate Edition (4K UHD & Blu-ray)",
-      "handle": "26ksm034-der-junge-und-das-biest-ultimate-edition-4k-uhd-blu-ray",
+      "handle": "26ksm034-der-junge-und-das-biest-ultimate-edition-4k-uhd-bluray",
       "published_at": "2026-08-24T17:31:00+02:00",
       "created_at": "2026-08-24T16:39:49+02:00",
       "vendor": "KSM Anime",
@@ -160417,7 +160417,7 @@
     {
       "id": 12203566825736,
       "title": "Detektei Layton: Katrielles rätselhafte Fälle - Die komplette Serie (Blu-ray)",
-      "handle": "26ksm035-detektei-layton-die-komplette-serie-blu-ray",
+      "handle": "26ksm035-detektei-layton-die-komplette-serie-bluray",
       "published_at": "2026-08-24T17:30:59+02:00",
       "created_at": "2026-08-24T17:26:47+02:00",
       "vendor": "KSM Anime",
@@ -160468,7 +160468,7 @@
     {
       "id": 12203472519432,
       "title": "Summer Wars - Ultimate Edition (4K UHD & Blu-ray)",
-      "handle": "26ksm036-summer-wars-ultimate-edition-4k-uhd-blu-ray",
+      "handle": "26ksm036-summer-wars-ultimate-edition-4k-uhd-bluray",
       "published_at": "2026-08-24T17:31:01+02:00",
       "created_at": "2026-08-24T16:38:09+02:00",
       "vendor": "KSM Anime",
@@ -160519,7 +160519,7 @@
     {
       "id": 12203468816648,
       "title": "There's No Freaking Way I'll be Your Lover Unless… (Blu-ray)",
-      "handle": "26ksm037-theres-no-freaking-way-ill-be-your-lover-unless-blu-ray",
+      "handle": "26ksm037-theres-no-freaking-way-ill-be-your-lover-unless-bluray",
       "published_at": "2026-08-24T17:31:01+02:00",
       "created_at": "2026-08-24T16:36:27+02:00",
       "vendor": "KSM Anime",
@@ -212595,7 +212595,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "129.90",
           "grams": 0,
           "compare_at_price": "129.90",
