@@ -108617,7 +108617,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "39.90",
           "grams": 620,
           "compare_at_price": "79.90",
@@ -158072,6 +158072,1536 @@
           "product_id": 12155678556424,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/zombie-land-saga-staffel-1-2-gesamtausgabe-bundle-blu-ray-964.webp?v=1786018764",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12205904396552,
+      "title": "The 100 Girlfriends Who Really Really Really Really REALLY Love you - Season 2 - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
+      "handle": "26cr119-100-girlfriends-who-really-love-you-limited-bluray",
+      "published_at": "2026-08-25T18:52:19+02:00",
+      "created_at": "2026-08-25T17:14:56+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58536244412680,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr119",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "44.90",
+          "grams": 0,
+          "compare_at_price": "44.90",
+          "position": 1,
+          "product_id": 12205904396552,
+          "created_at": "2026-08-25T17:14:56+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86505176170760,
+          "created_at": "2026-08-25T18:46:40+02:00",
+          "position": 1,
+          "product_id": 12205904396552,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_95aa457a-73a3-4687-b725-13ca3935f204.png?v=1787676403",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12205905215752,
+      "title": "A Gatherer's Adventure in Isekai - Das Reisetagebuch des Sammlers - Gesamtausgabe (Blu-ray)",
+      "handle": "26cr120-a-gatherers-adventure-in-isekai-gesamtausgabe-bluray",
+      "published_at": "2026-08-25T18:52:19+02:00",
+      "created_at": "2026-08-25T17:15:10+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58536245821704,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr120",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "69.90",
+          "grams": 0,
+          "compare_at_price": "69.90",
+          "position": 1,
+          "product_id": 12205905215752,
+          "created_at": "2026-08-25T17:15:10+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86505176203528,
+          "created_at": "2026-08-25T18:46:41+02:00",
+          "position": 1,
+          "product_id": 12205905215752,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_bde00151-02a6-44c1-a586-885975c1dda3.png?v=1787676403",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12205900824840,
+      "title": "A Silent Voice - Steelbook (Blu-ray)",
+      "handle": "26cr121-a-silent-voice-steelbook-bluray",
+      "published_at": "2026-08-25T18:52:21+02:00",
+      "created_at": "2026-08-25T17:13:25+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58536231076104,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr121",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "24.90",
+          "grams": 0,
+          "compare_at_price": "24.90",
+          "position": 1,
+          "product_id": 12205900824840,
+          "created_at": "2026-08-25T17:13:25+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86505176236296,
+          "created_at": "2026-08-25T18:46:41+02:00",
+          "position": 1,
+          "product_id": 12205900824840,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_1ebddc1e-67e5-41a6-9b01-4d48749ef320.png?v=1787676403",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12205900202248,
+      "title": "A Wild Last Boss Appeared! - Gesamtausgabe (Blu-ray)",
+      "handle": "26cr122-a-wild-last-boss-appeared-gesamtausgabe-bluray",
+      "published_at": "2026-08-25T18:52:21+02:00",
+      "created_at": "2026-08-25T17:13:11+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58536229961992,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr122",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "69.90",
+          "grams": 0,
+          "compare_at_price": "69.90",
+          "position": 1,
+          "product_id": 12205900202248,
+          "created_at": "2026-08-25T17:13:11+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86505176269064,
+          "created_at": "2026-08-25T18:46:41+02:00",
+          "position": 1,
+          "product_id": 12205900202248,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_6bc4fe12-39f9-4d31-817a-4d22121b0e6c.png?v=1787676403",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12205901611272,
+      "title": "Afro Samurai - Die komplette Serie & Afro Samurai: Resurrection - Director's Cut - Gesamtausgabe - Steelbook (Blu-ray)",
+      "handle": "26cr123-afro-samurai-directors-cut-steelbook-bluray",
+      "published_at": "2026-08-25T18:52:20+02:00",
+      "created_at": "2026-08-25T17:13:43+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58536232616200,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr123",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "49.90",
+          "grams": 0,
+          "compare_at_price": "49.90",
+          "position": 1,
+          "product_id": 12205901611272,
+          "created_at": "2026-08-25T17:13:43+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86505176301832,
+          "created_at": "2026-08-25T18:46:41+02:00",
+          "position": 1,
+          "product_id": 12205901611272,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_184ea2c5-85f5-4857-9032-aa91919e0a86.png?v=1787676403",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12205908525320,
+      "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World - Season 2 - Vol. 1 (Blu-ray)",
+      "handle": "26cr124-as-a-reincarnated-aristocrat-bluray",
+      "published_at": "2026-08-25T18:52:18+02:00",
+      "created_at": "2026-08-25T17:16:56+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58536254112008,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr124",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "39.90",
+          "grams": 0,
+          "compare_at_price": "39.90",
+          "position": 1,
+          "product_id": 12205908525320,
+          "created_at": "2026-08-25T17:16:56+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86505176334600,
+          "created_at": "2026-08-25T18:46:41+02:00",
+          "position": 1,
+          "product_id": 12205908525320,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_13cf1c58-3d4f-44c4-9d8a-7325f2f3a080.png?v=1787676403",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12205909278984,
+      "title": "Black Butler: Emerald Witch Arc - Season 4 - Vol. 2 (Blu-ray)",
+      "handle": "26cr125-black-butler-emerald-witch-arc-season-4-vol-2-bluray",
+      "published_at": "2026-08-25T18:52:18+02:00",
+      "created_at": "2026-08-25T17:17:17+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58536255947016,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr125",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "39.90",
+          "grams": 0,
+          "compare_at_price": "39.90",
+          "position": 1,
+          "product_id": 12205909278984,
+          "created_at": "2026-08-25T17:17:17+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86505176367368,
+          "created_at": "2026-08-25T18:46:41+02:00",
+          "position": 1,
+          "product_id": 12205909278984,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_5bf39ca1-4409-49c9-9c2b-5bd44ab2bbed.png?v=1787676403",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12205908164872,
+      "title": "Black Butler: Emerald Witch Arc - Season 4 - Vol. 2 (DVD)",
+      "handle": "26cr126-black-butler-emerald-witch-arc-season-4-vol-2-dvd",
+      "published_at": "2026-08-25T18:52:18+02:00",
+      "created_at": "2026-08-25T17:16:46+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58536253260040,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr126",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "34.90",
+          "grams": 0,
+          "compare_at_price": "34.90",
+          "position": 1,
+          "product_id": 12205908164872,
+          "created_at": "2026-08-25T17:16:46+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86505176400136,
+          "created_at": "2026-08-25T18:46:41+02:00",
+          "position": 1,
+          "product_id": 12205908164872,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_f0f4fe08-8f2f-484a-ab43-5fe5755f1ea2.png?v=1787676403",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12205902627080,
+      "title": "Clevatess - Season 1 - Vol. 1 - mit Sammelschuber (Blu-ray)",
+      "handle": "26cr127-clevatess-season-1-vol-1-mit-sammelschuber-bluray",
+      "published_at": "2026-08-25T18:52:20+02:00",
+      "created_at": "2026-08-25T17:14:14+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58536236613896,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr127",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "44.90",
+          "grams": 0,
+          "compare_at_price": "44.90",
+          "position": 1,
+          "product_id": 12205902627080,
+          "created_at": "2026-08-25T17:14:14+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86505176432904,
+          "created_at": "2026-08-25T18:46:41+02:00",
+          "position": 1,
+          "product_id": 12205902627080,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_e3e70dd3-b1fa-4514-8fe3-ab4c7c270b55.png?v=1787676403",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12205909999880,
+      "title": "Detektiv Conan - 28. Film: Der Flashback des Einäugigen - Limited Edition (Blu-ray)",
+      "handle": "26cr128-detektiv-conan-28-film-limited-edition-bluray",
+      "published_at": "2026-08-25T18:52:18+02:00",
+      "created_at": "2026-08-25T17:17:39+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58536258371848,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr128",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "24.90",
+          "grams": 0,
+          "compare_at_price": "24.90",
+          "position": 1,
+          "product_id": 12205909999880,
+          "created_at": "2026-08-25T17:17:39+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86505176465672,
+          "created_at": "2026-08-25T18:46:41+02:00",
+          "position": 1,
+          "product_id": 12205909999880,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_b7e61e22-06d9-4d28-a1f6-3ec6906fe5ff.png?v=1787676403",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12205910294792,
+      "title": "Detektiv Conan - 28. Film: Der Flashback des Einäugigen - Limited Edition (DVD)",
+      "handle": "26cr129-detektiv-conan-28-film-limited-edition-dvd",
+      "published_at": "2026-08-25T18:52:18+02:00",
+      "created_at": "2026-08-25T17:17:48+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58536259879176,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr129",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "24.90",
+          "grams": 0,
+          "compare_at_price": "24.90",
+          "position": 1,
+          "product_id": 12205910294792,
+          "created_at": "2026-08-25T17:17:48+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86505177514248,
+          "created_at": "2026-08-25T18:47:07+02:00",
+          "position": 1,
+          "product_id": 12205910294792,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_5015c508-236e-49b0-9e71-b8d76af9c9a4.png?v=1787676429",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12205911998728,
+      "title": "Detektiv Conan - TV-Serie - Box 1 - 30th Anniversary Edition (Blu-ray)",
+      "handle": "26cr130-detektiv-conan-tv-serie-30th-anniversary-bluray",
+      "published_at": "2026-08-25T18:52:18+02:00",
+      "created_at": "2026-08-25T17:18:40+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58536262598920,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr130",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "59.90",
+          "grams": 0,
+          "compare_at_price": "59.90",
+          "position": 1,
+          "product_id": 12205911998728,
+          "created_at": "2026-08-25T17:18:40+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86505177547016,
+          "created_at": "2026-08-25T18:47:07+02:00",
+          "position": 1,
+          "product_id": 12205911998728,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_6615809f-a652-426a-8b45-5a93cda24a32.png?v=1787676429",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12205914521864,
+      "title": "Detektiv Conan - TV-Serie - Box 1 - 30th Anniversary Edition (DVD)",
+      "handle": "26cr131-detektiv-conan-tv-serie-30th-anniversary-dvd",
+      "published_at": "2026-08-25T18:52:17+02:00",
+      "created_at": "2026-08-25T17:19:58+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58536270266632,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr131",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "49.90",
+          "grams": 0,
+          "compare_at_price": "49.90",
+          "position": 1,
+          "product_id": 12205914521864,
+          "created_at": "2026-08-25T17:19:58+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86505177579784,
+          "created_at": "2026-08-25T18:47:08+02:00",
+          "position": 1,
+          "product_id": 12205914521864,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_638a5a4f-e594-4d21-97f3-dbbfdd49c112.png?v=1787676430",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12205914226952,
+      "title": "Dragonball Z - Movies Box - Vol. 1 (Blu-ray)",
+      "handle": "26cr132-dragonball-z-movies-box-vol-1-bluray",
+      "published_at": "2026-08-25T18:52:17+02:00",
+      "created_at": "2026-08-25T17:19:50+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58536269971720,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr132",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "39.90",
+          "grams": 0,
+          "compare_at_price": "39.90",
+          "position": 1,
+          "product_id": 12205914226952,
+          "created_at": "2026-08-25T17:19:50+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86505177612552,
+          "created_at": "2026-08-25T18:47:08+02:00",
+          "position": 1,
+          "product_id": 12205914226952,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_de3673f8-b5c2-4814-98cd-826f96d498f9.png?v=1787676430",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12205899186440,
+      "title": "Dragonball Z - Movies Box - Vol. 1 (DVD)",
+      "handle": "26cr133-dragonball-z-movies-box-vol-1-dvd",
+      "published_at": "2026-08-25T18:52:21+02:00",
+      "created_at": "2026-08-25T17:12:41+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58536227078408,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr133",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "34.90",
+          "grams": 0,
+          "compare_at_price": "34.90",
+          "position": 1,
+          "product_id": 12205899186440,
+          "created_at": "2026-08-25T17:12:41+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86505177645320,
+          "created_at": "2026-08-25T18:47:08+02:00",
+          "position": 1,
+          "product_id": 12205899186440,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_db9a4762-7dce-48ee-9e44-f43366d684b9.png?v=1787676430",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12205897875720,
+      "title": "Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells - Gesamtausgabe (Blu-ray)",
+      "handle": "26cr134-failure-frame-gesamtausgabe-bluray",
+      "published_at": "2026-08-25T18:52:21+02:00",
+      "created_at": "2026-08-25T17:11:55+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58536217018632,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr134",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "69.90",
+          "grams": 0,
+          "compare_at_price": "69.90",
+          "position": 1,
+          "product_id": 12205897875720,
+          "created_at": "2026-08-25T17:11:55+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86505177678088,
+          "created_at": "2026-08-25T18:47:08+02:00",
+          "position": 1,
+          "product_id": 12205897875720,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_63f39386-962c-4c1c-ae0b-8723d58d6211.png?v=1787676430",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12205898268936,
+      "title": "Jujutsu Kaisen - Season 1 - Gesamtausgabe - Steelbook - Limited Edition (Blu-ray)",
+      "handle": "26cr135-jujutsu-kaisen-season-1-gesamtausgabe-steelbook-limited-edition-bluray",
+      "published_at": "2026-08-25T18:52:22+02:00",
+      "created_at": "2026-08-25T17:12:09+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58536219705608,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr135",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "119.90",
+          "grams": 0,
+          "compare_at_price": "119.90",
+          "position": 1,
+          "product_id": 12205898268936,
+          "created_at": "2026-08-25T17:12:09+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86505177710856,
+          "created_at": "2026-08-25T18:47:08+02:00",
+          "position": 1,
+          "product_id": 12205898268936,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_0e5ebdbf-7e2b-48db-ab38-9c56471f5989.png?v=1787676430",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12205899153672,
+      "title": "Kaiju No. 8 - Season 2 - Gesamtausgabe (Blu-ray)",
+      "handle": "26cr136-kaiju-no-8-season-2-gesamtausgabe-bluray",
+      "published_at": "2026-08-25T18:52:21+02:00",
+      "created_at": "2026-08-25T17:12:40+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58536227045640,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr136",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "89.90",
+          "grams": 0,
+          "compare_at_price": "89.90",
+          "position": 1,
+          "product_id": 12205899153672,
+          "created_at": "2026-08-25T17:12:41+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86505177743624,
+          "created_at": "2026-08-25T18:47:08+02:00",
+          "position": 1,
+          "product_id": 12205899153672,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_2a68e6de-2724-402a-bdd4-51cab5669865.png?v=1787676430",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12205903610120,
+      "title": "Lord of Mysteries - Season 1 - Gesamtausgabe (Blu-ray)",
+      "handle": "26cr137-lord-of-mysteries-season-1-gesamtausgabe-bluray",
+      "published_at": "2026-08-25T18:52:20+02:00",
+      "created_at": "2026-08-25T17:14:39+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58536242774280,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr137",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "69.90",
+          "grams": 0,
+          "compare_at_price": "69.90",
+          "position": 1,
+          "product_id": 12205903610120,
+          "created_at": "2026-08-25T17:14:39+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86505177776392,
+          "created_at": "2026-08-25T18:47:08+02:00",
+          "position": 1,
+          "product_id": 12205903610120,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_225f8850-10cf-4ed4-acca-3d4e53f47465.png?v=1787676430",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12205902528776,
+      "title": "Miss Kobayashi's Dragon Maid - Season 1 - Gesamtausgabe - Steelbook (Blu-ray)",
+      "handle": "26cr138-miss-kobayashis-dragon-maids-steelbook-bluray",
+      "published_at": "2026-08-25T18:52:20+02:00",
+      "created_at": "2026-08-25T17:14:12+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58536236417288,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr138",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "69.90",
+          "grams": 0,
+          "compare_at_price": "69.90",
+          "position": 1,
+          "product_id": 12205902528776,
+          "created_at": "2026-08-25T17:14:12+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86505177841928,
+          "created_at": "2026-08-25T18:47:08+02:00",
+          "position": 1,
+          "product_id": 12205902528776,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_f6ba5741-7917-4d0d-a6ae-d9962fe0790a.png?v=1787676430",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12205906526472,
+      "title": "Miss Kobayashi's Dragon Maid S - Season 2 - Gesamtausgabe - Steelbook (Blu-ray)",
+      "handle": "26cr139-miss-kobayashis-dragon-maids-steelbook-bluray",
+      "published_at": "2026-08-25T18:52:19+02:00",
+      "created_at": "2026-08-25T17:15:53+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58536251261192,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr139",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "69.90",
+          "grams": 0,
+          "compare_at_price": "69.90",
+          "position": 1,
+          "product_id": 12205906526472,
+          "created_at": "2026-08-25T17:15:53+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86505178988808,
+          "created_at": "2026-08-25T18:47:33+02:00",
+          "position": 1,
+          "product_id": 12205906526472,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_1d8a2729-45c9-4322-9b4b-a2b37319cc20.png?v=1787676455",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12205906723080,
+      "title": "My Dress-Up Darling - Season 1 - Gesamtausgabe - Steelbook (Blu-ray)",
+      "handle": "26cr140-my-dress-up-darling-season-1-gesamtausgabe-steelbook-bluray",
+      "published_at": "2026-08-25T18:52:19+02:00",
+      "created_at": "2026-08-25T17:15:58+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58536251490568,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr140",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "79.90",
+          "grams": 0,
+          "compare_at_price": "79.90",
+          "position": 1,
+          "product_id": 12205906723080,
+          "created_at": "2026-08-25T17:15:58+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86505179021576,
+          "created_at": "2026-08-25T18:47:33+02:00",
+          "position": 1,
+          "product_id": 12205906723080,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_540f40a9-f74f-4a34-9ca3-9429e4808f37.png?v=1787676455",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12205911736584,
+      "title": "Pass the Monster Meat, Milady! - Gesamtausgabe (Blu-ray)",
+      "handle": "26cr141-pass-the-monster-meat-milady-gesamtausgabe-bluray",
+      "published_at": "2026-08-25T18:52:17+02:00",
+      "created_at": "2026-08-25T17:18:32+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58536262336776,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr141",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "69.90",
+          "grams": 0,
+          "compare_at_price": "69.90",
+          "position": 1,
+          "product_id": 12205911736584,
+          "created_at": "2026-08-25T17:18:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86505179054344,
+          "created_at": "2026-08-25T18:47:33+02:00",
+          "position": 1,
+          "product_id": 12205911736584,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_95bfd0b6-45ea-4750-8397-5d10da1aa486.png?v=1787676456",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12205913309448,
+      "title": "Re:ZERO - Starting Life in Another World - Season 3 - Vol. 2 (Blu-ray)",
+      "handle": "26cr142-re-zero-starting-life-in-another-world-season-3-vol-2-bluray",
+      "published_at": "2026-08-25T18:52:18+02:00",
+      "created_at": "2026-08-25T17:19:25+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58536268890376,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr142",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "39.90",
+          "grams": 0,
+          "compare_at_price": "39.90",
+          "position": 1,
+          "product_id": 12205913309448,
+          "created_at": "2026-08-25T17:19:25+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86505179087112,
+          "created_at": "2026-08-25T18:47:34+02:00",
+          "position": 1,
+          "product_id": 12205913309448,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_a5ef36c4-baa8-4561-8106-03572a11be5c.png?v=1787676456",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12206028751112,
+      "title": "Re:ZERO - Starting Life in Another World - Season 3 - Vol. 3 (Blu-ray)",
+      "handle": "26cr143-re-zero-starting-life-in-another-world-season-3-vol-3-bluray",
+      "published_at": "2026-08-25T18:52:16+02:00",
+      "created_at": "2026-08-25T18:06:24+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58536559575304,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr143",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "39.90",
+          "grams": 0,
+          "compare_at_price": "39.90",
+          "position": 1,
+          "product_id": 12206028751112,
+          "created_at": "2026-08-25T18:06:24+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86505209561352,
+          "created_at": "2026-08-25T19:00:21+02:00",
+          "position": 1,
+          "product_id": 12206028751112,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/ReZero_S3_Vol3_BD_Front.png?v=1787677226",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12205913866504,
+      "title": "Ron Kamonohashi's Forbidden Deductions - Meisterdetektiv Ron Kamonohashi - Season 2 - Vol. 2 (Blu-ray)",
+      "handle": "26cr144-ron-kamonohashis-forbidden-deductions-bluray",
+      "published_at": "2026-08-25T18:52:17+02:00",
+      "created_at": "2026-08-25T17:19:40+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58536269611272,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr144",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "39.90",
+          "grams": 0,
+          "compare_at_price": "39.90",
+          "position": 1,
+          "product_id": 12205913866504,
+          "created_at": "2026-08-25T17:19:40+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86505179152648,
+          "created_at": "2026-08-25T18:47:34+02:00",
+          "position": 1,
+          "product_id": 12205913866504,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_6bfdccdd-b3a0-4ff8-a80c-9d44cf8aa591.png?v=1787676456",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12205915275528,
+      "title": "Suzume - The Movie - Steelbook - Limited Edition (4K UHD & Blu-ray)",
+      "handle": "26cr145-suzume-the-movie-steelbook-limited-4k-uhd-bluray",
+      "published_at": "2026-08-25T18:52:17+02:00",
+      "created_at": "2026-08-25T17:20:20+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58536271413512,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr145",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "49.90",
+          "grams": 0,
+          "compare_at_price": "49.90",
+          "position": 1,
+          "product_id": 12205915275528,
+          "created_at": "2026-08-25T17:20:20+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86505179185416,
+          "created_at": "2026-08-25T18:47:34+02:00",
+          "position": 1,
+          "product_id": 12205915275528,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_9d2f180f-f79f-4e56-bcc5-04f997fe847d.png?v=1787676456",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12205916061960,
+      "title": "The Apothecary Diaries - Die Tagebücher der Apothekerin - Season 2 - Vol. 1 (Blu-ray)",
+      "handle": "26cr146-apothecary-diaries-tagebuecher-der-apothekerin-bluray",
+      "published_at": "2026-08-25T18:52:16+02:00",
+      "created_at": "2026-08-25T17:20:47+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58536273969416,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr146",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "39.90",
+          "grams": 0,
+          "compare_at_price": "39.90",
+          "position": 1,
+          "product_id": 12205916061960,
+          "created_at": "2026-08-25T17:20:47+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86505179218184,
+          "created_at": "2026-08-25T18:47:34+02:00",
+          "position": 1,
+          "product_id": 12205916061960,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_448fd91f-151d-4b1c-b676-2cc94095205c.png?v=1787676456",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12205917110536,
+      "title": "The Apothecary Diaries - Die Tagebücher der Apothekerin - Season 2 - Vol. 1 (DVD)",
+      "handle": "26cr147-apothecary-diaries-tagebuecher-der-apothekerin-dvd",
+      "published_at": "2026-08-25T18:52:16+02:00",
+      "created_at": "2026-08-25T17:21:14+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58536279539976,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr147",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "34.90",
+          "grams": 0,
+          "compare_at_price": "34.90",
+          "position": 1,
+          "product_id": 12205917110536,
+          "created_at": "2026-08-25T17:21:14+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86505179250952,
+          "created_at": "2026-08-25T18:47:34+02:00",
+          "position": 1,
+          "product_id": 12205917110536,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_7f032fd2-4b9e-4467-9042-5f188c055746.png?v=1787676456",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12205916127496,
+      "title": "The Rising of the Shield Hero - Season 4 - Vol. 1 - mit Sammelschuber (Blu-ray)",
+      "handle": "26cr148-the-rising-of-the-shield-hero-season-4-bluray",
+      "published_at": "2026-08-25T18:52:16+02:00",
+      "created_at": "2026-08-25T17:20:47+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58536274166024,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr148",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "69.90",
+          "grams": 0,
+          "compare_at_price": "69.90",
+          "position": 1,
+          "product_id": 12205916127496,
+          "created_at": "2026-08-25T17:20:47+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86505211789576,
+          "created_at": "2026-08-25T19:01:19+02:00",
+          "position": 1,
+          "product_id": 12205916127496,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/ShieldHero_S4_Vol1_BD_Front.png?v=1787677283",
           "width": 2500,
           "height": 2500
         }
