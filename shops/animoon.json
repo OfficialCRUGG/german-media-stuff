@@ -5004,15 +5004,15 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": {
-            "id": 46949710266633,
+            "id": 81394627248393,
             "product_id": 15657949692169,
             "position": 1,
-            "created_at": "2024-03-31T18:30:16+02:00",
-            "updated_at": "2024-03-31T18:30:19+02:00",
+            "created_at": "2026-08-21T12:27:32+02:00",
+            "updated_at": "2026-08-21T12:27:36+02:00",
             "alt": null,
             "width": 1848,
             "height": 1848,
-            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Arifureta2_BD_Bundle.png?v=1711902619",
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Arifureta3_BD_Bundle.png?v=1787308056",
             "variant_ids": [
               57269560115465
             ]
@@ -5046,23 +5046,13 @@
       ],
       "images": [
         {
-          "id": 46949710266633,
-          "created_at": "2024-03-31T18:30:16+02:00",
+          "id": 81394627248393,
+          "created_at": "2026-08-21T12:27:32+02:00",
           "position": 1,
           "product_id": 15657949692169,
           "variant_ids": [
             57269560115465
           ],
-          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Arifureta2_BD_Bundle.png?v=1711902619",
-          "width": 1848,
-          "height": 1848
-        },
-        {
-          "id": 81394627248393,
-          "created_at": "2026-08-21T12:27:32+02:00",
-          "position": 2,
-          "product_id": 15657949692169,
-          "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Arifureta3_BD_Bundle.png?v=1787308056",
           "width": 1848,
           "height": 1848
