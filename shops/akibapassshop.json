@@ -82810,12 +82810,12 @@
       ],
       "images": [
         {
-          "id": 86501583028488,
-          "created_at": "2026-08-25T14:55:57+02:00",
+          "id": 86505924722952,
+          "created_at": "2026-08-25T20:09:30+02:00",
           "position": 1,
           "product_id": 10261475557640,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017531100_DragonballZ_Box4_BD_Front.png?v=1787662562",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dragonball-z-tv-serie-box-4-blu-ray-standard-edition-crunchyroll-433.webp?v=1787681370",
           "width": 2500,
           "height": 2500
         }
@@ -82863,12 +82863,12 @@
       ],
       "images": [
         {
-          "id": 86504509866248,
-          "created_at": "2026-08-25T17:45:47+02:00",
+          "id": 86506147971336,
+          "created_at": "2026-08-25T20:33:23+02:00",
           "position": 1,
           "product_id": 10261475623176,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017532749_DragonballZ_Box4_DVD_Front.png?v=1787672752",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dragonball-z-tv-serie-box-4-dvd-standard-edition-crunchyroll-film-154.webp?v=1787682803",
           "width": 2500,
           "height": 2500
         }
@@ -108553,7 +108553,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "39.90",
           "grams": 90,
           "compare_at_price": "39.90",
@@ -158117,12 +158117,12 @@
       ],
       "images": [
         {
-          "id": 86505176170760,
-          "created_at": "2026-08-25T18:46:40+02:00",
+          "id": 86506051993864,
+          "created_at": "2026-08-25T20:27:11+02:00",
           "position": 1,
           "product_id": 12205904396552,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_95aa457a-73a3-4687-b725-13ca3935f204.png?v=1787676403",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/the-100-girlfriends-who-really-really-really-really-really-love-you-516.webp?v=1787682431",
           "width": 1024,
           "height": 1024
         }
@@ -158168,12 +158168,12 @@
       ],
       "images": [
         {
-          "id": 86505176203528,
-          "created_at": "2026-08-25T18:46:41+02:00",
+          "id": 86506053959944,
+          "created_at": "2026-08-25T20:27:23+02:00",
           "position": 1,
           "product_id": 12205905215752,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_bde00151-02a6-44c1-a586-885975c1dda3.png?v=1787676403",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/a-gatherers-adventure-isekai-reisetagebuch-sammlers-gesamtausgabe-189.webp?v=1787682443",
           "width": 1024,
           "height": 1024
         }
@@ -158219,12 +158219,12 @@
       ],
       "images": [
         {
-          "id": 86505176236296,
-          "created_at": "2026-08-25T18:46:41+02:00",
+          "id": 86506047766792,
+          "created_at": "2026-08-25T20:25:56+02:00",
           "position": 1,
           "product_id": 12205900824840,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_1ebddc1e-67e5-41a6-9b01-4d48749ef320.png?v=1787676403",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/a-silent-voice-limited-edition-steelbook-blu-ray-steelbook-edition-751.webp?v=1787682356",
           "width": 1024,
           "height": 1024
         }
@@ -158270,12 +158270,12 @@
       ],
       "images": [
         {
-          "id": 86505176269064,
-          "created_at": "2026-08-25T18:46:41+02:00",
+          "id": 86506047504648,
+          "created_at": "2026-08-25T20:25:42+02:00",
           "position": 1,
           "product_id": 12205900202248,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_6bc4fe12-39f9-4d31-817a-4d22121b0e6c.png?v=1787676403",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/a-wild-last-boss-appeared-gesamtausgabe-blu-ray-gesamtausgabe-633.webp?v=1787682342",
           "width": 1024,
           "height": 1024
         }
@@ -158321,12 +158321,12 @@
       ],
       "images": [
         {
-          "id": 86505176301832,
-          "created_at": "2026-08-25T18:46:41+02:00",
+          "id": 86506047897864,
+          "created_at": "2026-08-25T20:26:07+02:00",
           "position": 1,
           "product_id": 12205901611272,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_184ea2c5-85f5-4857-9032-aa91919e0a86.png?v=1787676403",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/afro-samurai-komplette-serie-afro-samurai-resurrection-directors-849.webp?v=1787682367",
           "width": 1024,
           "height": 1024
         }
@@ -158372,12 +158372,12 @@
       ],
       "images": [
         {
-          "id": 86505176334600,
-          "created_at": "2026-08-25T18:46:41+02:00",
+          "id": 86506062709000,
+          "created_at": "2026-08-25T20:28:11+02:00",
           "position": 1,
           "product_id": 12205908525320,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_13cf1c58-3d4f-44c4-9d8a-7325f2f3a080.png?v=1787676403",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-the-964.webp?v=1787682491",
           "width": 1024,
           "height": 1024
         }
@@ -158423,12 +158423,12 @@
       ],
       "images": [
         {
-          "id": 86505176367368,
-          "created_at": "2026-08-25T18:46:41+02:00",
+          "id": 86506070573320,
+          "created_at": "2026-08-25T20:28:52+02:00",
           "position": 1,
           "product_id": 12205909278984,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_5bf39ca1-4409-49c9-9c2b-5bd44ab2bbed.png?v=1787676403",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/black-butler-emerald-witch-arc-season-4-vol-2-blu-ray-standard-566.webp?v=1787682532",
           "width": 1024,
           "height": 1024
         }
@@ -158474,12 +158474,12 @@
       ],
       "images": [
         {
-          "id": 86505176400136,
-          "created_at": "2026-08-25T18:46:41+02:00",
+          "id": 86506060611848,
+          "created_at": "2026-08-25T20:27:57+02:00",
           "position": 1,
           "product_id": 12205908164872,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_f0f4fe08-8f2f-484a-ab43-5fe5755f1ea2.png?v=1787676403",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/black-butler-emerald-witch-arc-season-4-vol-2-dvd-standard-958.webp?v=1787682477",
           "width": 1024,
           "height": 1024
         }
@@ -158525,12 +158525,12 @@
       ],
       "images": [
         {
-          "id": 86505176432904,
-          "created_at": "2026-08-25T18:46:41+02:00",
+          "id": 86506048585992,
+          "created_at": "2026-08-25T20:26:31+02:00",
           "position": 1,
           "product_id": 12205902627080,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_e3e70dd3-b1fa-4514-8fe3-ab4c7c270b55.png?v=1787676403",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/clevatess-season-1-vol-1-limited-edition-sammelschuber-blu-ray-991.webp?v=1787682391",
           "width": 1024,
           "height": 1024
         }
@@ -158576,12 +158576,12 @@
       ],
       "images": [
         {
-          "id": 86505176465672,
-          "created_at": "2026-08-25T18:46:41+02:00",
+          "id": 86506084729096,
+          "created_at": "2026-08-25T20:29:22+02:00",
           "position": 1,
           "product_id": 12205909999880,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_b7e61e22-06d9-4d28-a1f6-3ec6906fe5ff.png?v=1787676403",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/detektiv-conan-28-film-flashback-einaeugigen-limited-edition-blu-880.webp?v=1787682562",
           "width": 1024,
           "height": 1024
         }
@@ -158627,12 +158627,12 @@
       ],
       "images": [
         {
-          "id": 86505177514248,
-          "created_at": "2026-08-25T18:47:07+02:00",
+          "id": 86506105602312,
+          "created_at": "2026-08-25T20:29:44+02:00",
           "position": 1,
           "product_id": 12205910294792,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_5015c508-236e-49b0-9e71-b8d76af9c9a4.png?v=1787676429",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/detektiv-conan-28-film-flashback-einaeugigen-limited-edition-dvd-768.webp?v=1787682584",
           "width": 1024,
           "height": 1024
         }
@@ -158678,12 +158678,12 @@
       ],
       "images": [
         {
-          "id": 86505177547016,
-          "created_at": "2026-08-25T18:47:07+02:00",
+          "id": 86506107699464,
+          "created_at": "2026-08-25T20:30:23+02:00",
           "position": 1,
           "product_id": 12205911998728,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_6615809f-a652-426a-8b45-5a93cda24a32.png?v=1787676429",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/detektiv-conan-tv-serie-box-1-30th-anniversary-edition-blu-ray-244.webp?v=1787682623",
           "width": 1024,
           "height": 1024
         }
@@ -158729,12 +158729,12 @@
       ],
       "images": [
         {
-          "id": 86505177579784,
-          "created_at": "2026-08-25T18:47:08+02:00",
+          "id": 86506116546824,
+          "created_at": "2026-08-25T20:31:47+02:00",
           "position": 1,
           "product_id": 12205914521864,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_638a5a4f-e594-4d21-97f3-dbbfdd49c112.png?v=1787676430",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/detektiv-conan-tv-serie-box-1-30th-anniversary-edition-dvd-standard-633.webp?v=1787682707",
           "width": 1024,
           "height": 1024
         }
@@ -158780,12 +158780,12 @@
       ],
       "images": [
         {
-          "id": 86505177612552,
-          "created_at": "2026-08-25T18:47:08+02:00",
+          "id": 86506115924232,
+          "created_at": "2026-08-25T20:31:32+02:00",
           "position": 1,
           "product_id": 12205914226952,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_de3673f8-b5c2-4814-98cd-826f96d498f9.png?v=1787676430",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dragonball-z-movies-box-vol-1-blu-ray-standard-edition-crunchyroll-244.webp?v=1787682692",
           "width": 1024,
           "height": 1024
         }
@@ -158831,12 +158831,12 @@
       ],
       "images": [
         {
-          "id": 86505177645320,
-          "created_at": "2026-08-25T18:47:08+02:00",
+          "id": 86506046849288,
+          "created_at": "2026-08-25T20:25:26+02:00",
           "position": 1,
           "product_id": 12205899186440,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_db9a4762-7dce-48ee-9e44-f43366d684b9.png?v=1787676430",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dragonball-z-movies-box-vol-1-dvd-standard-edition-crunchyroll-698.webp?v=1787682326",
           "width": 1024,
           "height": 1024
         }
@@ -158882,12 +158882,12 @@
       ],
       "images": [
         {
-          "id": 86505177678088,
-          "created_at": "2026-08-25T18:47:08+02:00",
+          "id": 86506045112584,
+          "created_at": "2026-08-25T20:24:27+02:00",
           "position": 1,
           "product_id": 12205897875720,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_63f39386-962c-4c1c-ae0b-8723d58d6211.png?v=1787676430",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/failure-frame-i-became-the-strongest-and-annihilated-everything-with-487.webp?v=1787682267",
           "width": 1024,
           "height": 1024
         }
@@ -158933,12 +158933,12 @@
       ],
       "images": [
         {
-          "id": 86505177710856,
-          "created_at": "2026-08-25T18:47:08+02:00",
+          "id": 86506045833480,
+          "created_at": "2026-08-25T20:24:53+02:00",
           "position": 1,
           "product_id": 12205898268936,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_0e5ebdbf-7e2b-48db-ab38-9c56471f5989.png?v=1787676430",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-season-1-gesamtausgabe-limited-edition-steelbook-blu-454.webp?v=1787682293",
           "width": 1024,
           "height": 1024
         }
@@ -158984,12 +158984,12 @@
       ],
       "images": [
         {
-          "id": 86505177743624,
-          "created_at": "2026-08-25T18:47:08+02:00",
+          "id": 86506046521608,
+          "created_at": "2026-08-25T20:25:12+02:00",
           "position": 1,
           "product_id": 12205899153672,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_2a68e6de-2724-402a-bdd4-51cab5669865.png?v=1787676430",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/kaiju-no-8-season-2-gesamtausgabe-blu-ray-gesamtausgabe-crunchyroll-351.webp?v=1787682312",
           "width": 1024,
           "height": 1024
         }
@@ -159035,12 +159035,12 @@
       ],
       "images": [
         {
-          "id": 86505177776392,
-          "created_at": "2026-08-25T18:47:08+02:00",
+          "id": 86506049896712,
+          "created_at": "2026-08-25T20:26:58+02:00",
           "position": 1,
           "product_id": 12205903610120,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_225f8850-10cf-4ed4-acca-3d4e53f47465.png?v=1787676430",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/lord-of-mysteries-season-1-gesamtausgabe-blu-ray-gesamtausgabe-242.webp?v=1787682418",
           "width": 1024,
           "height": 1024
         }
@@ -159086,12 +159086,12 @@
       ],
       "images": [
         {
-          "id": 86505177841928,
-          "created_at": "2026-08-25T18:47:08+02:00",
+          "id": 86506048422152,
+          "created_at": "2026-08-25T20:26:19+02:00",
           "position": 1,
           "product_id": 12205902528776,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_f6ba5741-7917-4d0d-a6ae-d9962fe0790a.png?v=1787676430",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/miss-kobayashis-dragon-maid-season-1-gesamtausgabe-limited-edition-938.webp?v=1787682379",
           "width": 1024,
           "height": 1024
         }
@@ -159137,12 +159137,12 @@
       ],
       "images": [
         {
-          "id": 86505178988808,
-          "created_at": "2026-08-25T18:47:33+02:00",
+          "id": 86506056024328,
+          "created_at": "2026-08-25T20:27:33+02:00",
           "position": 1,
           "product_id": 12205906526472,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_1d8a2729-45c9-4322-9b4b-a2b37319cc20.png?v=1787676455",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/miss-kobayashis-dragon-maid-s-season-2-gesamtausgabe-limited-edition-684.webp?v=1787682453",
           "width": 1024,
           "height": 1024
         }
@@ -159188,12 +159188,12 @@
       ],
       "images": [
         {
-          "id": 86505179021576,
-          "created_at": "2026-08-25T18:47:33+02:00",
+          "id": 86506057466120,
+          "created_at": "2026-08-25T20:27:44+02:00",
           "position": 1,
           "product_id": 12205906723080,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_540f40a9-f74f-4a34-9ca3-9429e4808f37.png?v=1787676455",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/my-dress-up-darling-season-1-gesamtausgabe-limited-edition-steelbook-939.webp?v=1787682465",
           "width": 1024,
           "height": 1024
         }
@@ -159239,12 +159239,12 @@
       ],
       "images": [
         {
-          "id": 86505179054344,
-          "created_at": "2026-08-25T18:47:33+02:00",
+          "id": 86506106159368,
+          "created_at": "2026-08-25T20:30:04+02:00",
           "position": 1,
           "product_id": 12205911736584,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_95bfd0b6-45ea-4750-8397-5d10da1aa486.png?v=1787676456",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pass-the-monster-meat-milady-gesamtausgabe-blu-ray-gesamtausgabe-646.webp?v=1787682604",
           "width": 1024,
           "height": 1024
         }
@@ -159290,12 +159290,12 @@
       ],
       "images": [
         {
-          "id": 86505179087112,
-          "created_at": "2026-08-25T18:47:34+02:00",
+          "id": 86506112221448,
+          "created_at": "2026-08-25T20:30:39+02:00",
           "position": 1,
           "product_id": 12205913309448,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_a5ef36c4-baa8-4561-8106-03572a11be5c.png?v=1787676456",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/re-zero-starting-life-another-world-season-3-vol-2-blu-ray-917.webp?v=1787682639",
           "width": 1024,
           "height": 1024
         }
@@ -159341,12 +159341,12 @@
       ],
       "images": [
         {
-          "id": 86505209561352,
-          "created_at": "2026-08-25T19:00:21+02:00",
+          "id": 86506328260872,
+          "created_at": "2026-08-25T20:35:36+02:00",
           "position": 1,
           "product_id": 12206028751112,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/ReZero_S3_Vol3_BD_Front.png?v=1787677226",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/re-zero-starting-life-another-world-season-3-vol-3-blu-ray-145.webp?v=1787682936",
           "width": 2500,
           "height": 2500
         }
@@ -159392,12 +159392,12 @@
       ],
       "images": [
         {
-          "id": 86505179152648,
-          "created_at": "2026-08-25T18:47:34+02:00",
+          "id": 86506113827080,
+          "created_at": "2026-08-25T20:30:57+02:00",
           "position": 1,
           "product_id": 12205913866504,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_6bfdccdd-b3a0-4ff8-a80c-9d44cf8aa591.png?v=1787676456",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/ron-kamonohashis-forbidden-deductions-meisterdetektiv-ron-372.webp?v=1787682657",
           "width": 1024,
           "height": 1024
         }
@@ -159443,12 +159443,12 @@
       ],
       "images": [
         {
-          "id": 86505179185416,
-          "created_at": "2026-08-25T18:47:34+02:00",
+          "id": 86506121724168,
+          "created_at": "2026-08-25T20:32:08+02:00",
           "position": 1,
           "product_id": 12205915275528,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_9d2f180f-f79f-4e56-bcc5-04f997fe847d.png?v=1787676456",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/suzume-the-movie-steelbook-limited-edition-4k-uhd-blu-ray-226.webp?v=1787682728",
           "width": 1024,
           "height": 1024
         }
@@ -159494,12 +159494,12 @@
       ],
       "images": [
         {
-          "id": 86505179218184,
-          "created_at": "2026-08-25T18:47:34+02:00",
+          "id": 86506127130888,
+          "created_at": "2026-08-25T20:32:21+02:00",
           "position": 1,
           "product_id": 12205916061960,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_448fd91f-151d-4b1c-b676-2cc94095205c.png?v=1787676456",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/the-apothecary-diaries-tagebuecher-apothekerin-season-2-vol-1-blu-254.webp?v=1787682741",
           "width": 1024,
           "height": 1024
         }
@@ -159545,12 +159545,12 @@
       ],
       "images": [
         {
-          "id": 86505179250952,
-          "created_at": "2026-08-25T18:47:34+02:00",
+          "id": 86506133618952,
+          "created_at": "2026-08-25T20:32:51+02:00",
           "position": 1,
           "product_id": 12205917110536,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_7f032fd2-4b9e-4467-9042-5f188c055746.png?v=1787676456",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/the-apothecary-diaries-tagebuecher-apothekerin-season-2-vol-1-dvd-835.webp?v=1787682771",
           "width": 1024,
           "height": 1024
         }
@@ -159596,12 +159596,12 @@
       ],
       "images": [
         {
-          "id": 86505211789576,
-          "created_at": "2026-08-25T19:01:19+02:00",
+          "id": 86506131030280,
+          "created_at": "2026-08-25T20:32:42+02:00",
           "position": 1,
           "product_id": 12205916127496,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/ShieldHero_S4_Vol1_BD_Front.png?v=1787677283",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/the-rising-of-the-shield-hero-season-4-vol-1-limited-edition-642.webp?v=1787682762",
           "width": 2500,
           "height": 2500
         }
