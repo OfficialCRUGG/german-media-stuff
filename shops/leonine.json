@@ -13170,6 +13170,83 @@
       ]
     },
     {
+      "id": 8221444538421,
+      "title": "Die Geister, die ich rief… 4K UHD + Blu-ray Lim. SteelBook",
+      "handle": "die-geister-die-ich-rief-4k-uhd-blu-ray-lim-steelbook",
+      "published_at": "2026-08-25T14:35:24+02:00",
+      "created_at": "2026-08-25T14:18:52+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "4K UHD + Blu-ray",
+        "Filme & Serien",
+        "Komödie & Drama",
+        "preorder",
+        "Steelbooks"
+      ],
+      "variants": [
+        {
+          "id": 45924170530869,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00727",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "29.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8221444538421,
+          "created_at": "2026-08-25T14:18:52+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38691413491765,
+          "created_at": "2026-08-25T14:34:34+02:00",
+          "position": 1,
+          "product_id": 8221444538421,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573389701jpg-218889.jpg?v=1787661275",
+          "width": 1604,
+          "height": 2024
+        },
+        {
+          "id": 38691413655605,
+          "created_at": "2026-08-25T14:34:38+02:00",
+          "position": 2,
+          "product_id": 8221444538421,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573389702jpg-218934.jpg?v=1787661280",
+          "width": 1604,
+          "height": 2024
+        },
+        {
+          "id": 38691413917749,
+          "created_at": "2026-08-25T14:34:43+02:00",
+          "position": 3,
+          "product_id": 8221444538421,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573389703jpg-218953.jpg?v=1787661286",
+          "width": 5315,
+          "height": 3300
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 7794188320821,
       "title": "Die Legende der Prinzessin Kaguya Blu-ray (White Edition)",
       "handle": "die-legende-der-prinzessin-kaguya-bd-white-edition",
@@ -30010,6 +30087,72 @@
       ]
     },
     {
+      "id": 8221445685301,
+      "title": "Oh La La 2: Neue Tests, neues Chaos Blu-ray",
+      "handle": "oh-la-la-2-neue-tests-neues-chaos-blu-ray",
+      "published_at": "2026-08-25T14:35:24+02:00",
+      "created_at": "2026-08-25T14:34:19+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "Blu-ray",
+        "Filme & Serien",
+        "Komödie & Drama",
+        "preorder"
+      ],
+      "variants": [
+        {
+          "id": 45924175380533,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00728",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "17.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8221445685301,
+          "created_at": "2026-08-25T14:34:19+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38691414114357,
+          "created_at": "2026-08-25T14:34:49+02:00",
+          "position": 1,
+          "product_id": 8221445685301,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972671901jpg-219159.jpg?v=1787661290",
+          "width": 1594,
+          "height": 2008
+        },
+        {
+          "id": 38691414343733,
+          "created_at": "2026-08-25T14:34:54+02:00",
+          "position": 2,
+          "product_id": 8221445685301,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972671902jpg-219204.jpg?v=1787661295",
+          "width": 1172,
+          "height": 1680
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 7845393989685,
       "title": "Olympus/London/Angel has fallen - Triple Film Collection Blu-ray",
       "handle": "olympus-london-angel-has-fallen-triple-film-collection-bd",
@@ -39775,6 +39918,73 @@
       ]
     },
     {
+      "id": 8221443915829,
+      "title": "The Crow - Die Krähe 4K UHD + Blu-ray Lim. SteelBook (exkl. LEONINE Shop)",
+      "handle": "the-crow-die-kr-he-4k-uhd-blu-ray-lim-steelbook-exkl-leonine-shop",
+      "published_at": "2026-08-25T14:35:24+02:00",
+      "created_at": "2026-08-25T14:12:41+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "4K UHD + Blu-ray",
+        "Action & Thriller",
+        "Filme & Serien",
+        "preorder",
+        "Steelbooks"
+      ],
+      "variants": [
+        {
+          "id": 45924169089077,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00726",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "29.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8221443915829,
+          "created_at": "2026-08-25T14:12:41+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38691399139381,
+          "created_at": "2026-08-25T14:19:06+02:00",
+          "position": 1,
+          "product_id": 8221443915829,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573419101jpg-218708.jpg?v=1787660347",
+          "width": 1604,
+          "height": 2024
+        },
+        {
+          "id": 38691399303221,
+          "created_at": "2026-08-25T14:19:10+02:00",
+          "position": 2,
+          "product_id": 8221443915829,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573419102jpg-218752.jpg?v=1787660352",
+          "width": 1604,
+          "height": 2024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 8178834243637,
       "title": "The Death of Robin Hood 4K UHD + Blu-ray (Collector's Edition)",
       "handle": "the-death-of-robin-hood-4k-uhd-blu-ray-collector-s-edition",
@@ -40642,7 +40852,7 @@
           "available": true,
           "price": "29.99",
           "grams": 300,
-          "compare_at_price": "0.00",
+          "compare_at_price": null,
           "position": 1,
           "product_id": 8038682591285,
           "created_at": "2026-01-15T10:41:19+01:00"
