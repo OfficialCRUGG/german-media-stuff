@@ -959,6 +959,100 @@
       ]
     },
     {
+      "id": 15279477391625,
+      "title": "A Certain Magical Index II - Staffel 2 + Movie Bundle",
+      "handle": "a-certain-magical-index-ii-staffel-2-movie-bundle",
+      "published_at": "2026-08-26T09:52:26+02:00",
+      "created_at": "2025-09-01T15:13:23+02:00",
+      "vendor": "AniMoon Shop",
+      "product_type": "",
+      "tags": [
+        "action",
+        "angebot",
+        "BD/DVD",
+        "index",
+        "released",
+        "school",
+        "sci-fi",
+        "Serie"
+      ],
+      "variants": [
+        {
+          "id": 56088081432841,
+          "title": "Blu-ray",
+          "option1": "Blu-ray",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 77006992179465,
+            "product_id": 15279477391625,
+            "position": 1,
+            "created_at": "2025-09-01T15:25:21+02:00",
+            "updated_at": "2025-09-01T15:25:26+02:00",
+            "alt": null,
+            "width": 1848,
+            "height": 1848,
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Index_II_Movie_Bundle.png?v=1756733126",
+            "variant_ids": [
+              56088081432841
+            ]
+          },
+          "available": true,
+          "price": "99.00",
+          "grams": 1000,
+          "compare_at_price": "212.95",
+          "position": 1,
+          "product_id": 15279477391625,
+          "created_at": "2025-09-01T15:13:23+02:00"
+        },
+        {
+          "id": 56088081465609,
+          "title": "DVD",
+          "option1": "DVD",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "99.00",
+          "grams": 1000,
+          "compare_at_price": "212.95",
+          "position": 2,
+          "product_id": 15279477391625,
+          "created_at": "2025-09-01T15:13:23+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 77006992179465,
+          "created_at": "2025-09-01T15:25:21+02:00",
+          "position": 1,
+          "product_id": 15279477391625,
+          "variant_ids": [
+            56088081432841
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Index_II_Movie_Bundle.png?v=1756733126",
+          "width": 1848,
+          "height": 1848
+        }
+      ],
+      "options": [
+        {
+          "name": "Medium auswählen:",
+          "position": 1,
+          "values": [
+            "Blu-ray",
+            "DVD"
+          ]
+        }
+      ]
+    },
+    {
       "id": 8455555842313,
       "title": "A Certain Magical Index II - Vol. 1",
       "handle": "a-certain-magical-index-ii-vol-1",
@@ -1633,7 +1727,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "179.00",
+          "price": "89.00",
           "grams": 1200,
           "compare_at_price": "182.96",
           "position": 1,
@@ -1651,7 +1745,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "179.00",
+          "price": "89.00",
           "grams": 1200,
           "compare_at_price": "182.96",
           "position": 2,
@@ -2917,7 +3011,7 @@
             ]
           },
           "available": true,
-          "price": "179.00",
+          "price": "89.00",
           "grams": 1200,
           "compare_at_price": "182.96",
           "position": 1,
@@ -2935,7 +3029,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "179.00",
+          "price": "89.00",
           "grams": 1200,
           "compare_at_price": "182.96",
           "position": 2,
@@ -3000,7 +3094,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "179.00",
+          "price": "89.00",
           "grams": 1100,
           "compare_at_price": "182.96",
           "position": 1,
@@ -3018,7 +3112,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "179.00",
+          "price": "89.00",
           "grams": 1200,
           "compare_at_price": "182.96",
           "position": 2,
@@ -37736,7 +37830,7 @@
             ]
           },
           "available": true,
-          "price": "79.00",
+          "price": "119.00",
           "grams": 1000,
           "compare_at_price": "122.97",
           "position": 1,
@@ -37754,7 +37848,7 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "79.00",
+          "price": "119.00",
           "grams": 1000,
           "compare_at_price": "122.97",
           "position": 2,
