@@ -187853,7 +187853,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.00",
           "grams": 50,
           "compare_at_price": "0.00",
