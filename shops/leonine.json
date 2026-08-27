@@ -20479,7 +20479,7 @@
           "available": true,
           "price": "17.99",
           "grams": 200,
-          "compare_at_price": "0.00",
+          "compare_at_price": null,
           "position": 1,
           "product_id": 8031714869301,
           "created_at": "2026-01-05T12:02:27+01:00"
