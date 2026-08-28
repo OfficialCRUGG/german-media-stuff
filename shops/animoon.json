@@ -17388,7 +17388,7 @@
             ]
           },
           "available": true,
-          "price": "79.00",
+          "price": "119.00",
           "grams": 1000,
           "compare_at_price": "123.00",
           "position": 1,
@@ -17406,7 +17406,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "79.00",
+          "price": "119.00",
           "grams": 1000,
           "compare_at_price": "123.00",
           "position": 2,
@@ -25879,7 +25879,6 @@
         "isekai",
         "konosuba",
         "konosuba 3",
-        "released",
         "Serie"
       ],
       "variants": [
@@ -39934,7 +39933,6 @@
         "comedy",
         "ecchi",
         "fantasy",
-        "released",
         "school",
         "sci-fi",
         "Serie",
