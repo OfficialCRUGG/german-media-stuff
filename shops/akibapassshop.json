@@ -37680,7 +37680,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "39.90",
           "grams": 100,
           "compare_at_price": "39.90",
@@ -173602,7 +173602,8 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-august-2026"
       ],
       "variants": [
         {
