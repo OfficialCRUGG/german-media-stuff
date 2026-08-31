@@ -7911,6 +7911,92 @@
       ]
     },
     {
+      "id": 15664082551049,
+      "title": "DAN DA DAN Staffel 1 Bundle - LIMITIERTE STEELCASE EDITION (ANIMOON-EXKLUSIV)",
+      "handle": "dan-da-dan-staffel-1-bundle-limitierte-steelcase-edition-animoon-exklusiv",
+      "published_at": "2026-08-31T21:27:12+02:00",
+      "created_at": "2026-08-31T17:07:43+02:00",
+      "vendor": "Polyband",
+      "product_type": "DVD & Blu-Ray",
+      "tags": [
+        "action",
+        "BD/DVD",
+        "comedy",
+        "dandadan",
+        "polyband",
+        "romance",
+        "school",
+        "sci-fi",
+        "Serie"
+      ],
+      "variants": [
+        {
+          "id": 57297882677513,
+          "title": "Blu-ray",
+          "option1": "Blu-ray",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 81458016026889,
+            "product_id": 15664082551049,
+            "position": 1,
+            "created_at": "2026-08-31T17:10:14+02:00",
+            "updated_at": "2026-08-31T17:10:18+02:00",
+            "alt": null,
+            "width": 1848,
+            "height": 1848,
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Dandadan_S1_Bundle.png?v=1788189018",
+            "variant_ids": [
+              57297882677513
+            ]
+          },
+          "available": true,
+          "price": "99.00",
+          "grams": 1000,
+          "compare_at_price": "149.96",
+          "position": 1,
+          "product_id": 15664082551049,
+          "created_at": "2026-08-31T17:07:43+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 81458016026889,
+          "created_at": "2026-08-31T17:10:14+02:00",
+          "position": 1,
+          "product_id": 15664082551049,
+          "variant_ids": [
+            57297882677513
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Dandadan_S1_Bundle.png?v=1788189018",
+          "width": 1848,
+          "height": 1848
+        },
+        {
+          "id": 81458015994121,
+          "created_at": "2026-08-31T17:10:14+02:00",
+          "position": 2,
+          "product_id": 15664082551049,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Dandadan_S1_Bundle_2_mitExtras.png?v=1788189018",
+          "width": 1848,
+          "height": 1848
+        }
+      ],
+      "options": [
+        {
+          "name": "Medium auswählen:",
+          "position": 1,
+          "values": [
+            "Blu-ray"
+          ]
+        }
+      ]
+    },
+    {
       "id": 15201817985289,
       "title": "DAN DA DAN Staffel 1 - LIMITIERTER SAMMELSCHUBER (ANIMOON-EXKLUSIV)",
       "handle": "dan-da-dan-staffel-1-sammelschuber-animoon-exklusiv",
