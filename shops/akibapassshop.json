@@ -69308,7 +69308,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "28.90",
           "grams": 120,
           "compare_at_price": "29.00",
