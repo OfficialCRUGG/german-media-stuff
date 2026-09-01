@@ -158475,12 +158475,32 @@
       ],
       "images": [
         {
-          "id": 86518453666056,
-          "created_at": "2026-08-26T11:11:15+02:00",
+          "id": 86605885014280,
+          "created_at": "2026-09-01T11:51:09+02:00",
           "position": 1,
           "product_id": 12205909278984,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/black-butler-emerald-witch-arc-season-4-vol-2-blu-ray-standard-381.webp?v=1787735475",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/black-butler-emerald-witch-arc-season-4-vol-2-blu-ray-standard-140.webp?v=1788256269",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 86605886226696,
+          "created_at": "2026-09-01T11:51:17+02:00",
+          "position": 2,
+          "product_id": 12205909278984,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/black-butler-emerald-witch-arc-season-4-vol-2-blu-ray-standard-531.webp?v=1788256277",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 86605887635720,
+          "created_at": "2026-09-01T11:51:25+02:00",
+          "position": 3,
+          "product_id": 12205909278984,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/black-butler-emerald-witch-arc-season-4-vol-2-blu-ray-standard-304.webp?v=1788256285",
           "width": 2500,
           "height": 2500
         }
@@ -158526,12 +158546,32 @@
       ],
       "images": [
         {
-          "id": 86518454386952,
-          "created_at": "2026-08-26T11:11:36+02:00",
+          "id": 86605876101384,
+          "created_at": "2026-09-01T11:50:30+02:00",
           "position": 1,
           "product_id": 12205908164872,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/black-butler-emerald-witch-arc-season-4-vol-2-dvd-standard-586.webp?v=1787735496",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/black-butler-emerald-witch-arc-season-4-vol-2-dvd-standard-730.webp?v=1788256230",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 86605877281032,
+          "created_at": "2026-09-01T11:50:38+02:00",
+          "position": 2,
+          "product_id": 12205908164872,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/black-butler-emerald-witch-arc-season-4-vol-2-dvd-standard-532.webp?v=1788256238",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 86605879083272,
+          "created_at": "2026-09-01T11:50:46+02:00",
+          "position": 3,
+          "product_id": 12205908164872,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/black-butler-emerald-witch-arc-season-4-vol-2-dvd-standard-799.webp?v=1788256246",
           "width": 2500,
           "height": 2500
         }
@@ -186050,6 +186090,16 @@
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dan-dan-staffel-1-mega-bundle-alle-volumes-extras-box-blu-ray-539.webp?v=1786113757",
           "width": 2500,
           "height": 2500
+        },
+        {
+          "id": 86605785170184,
+          "created_at": "2026-09-01T11:44:30+02:00",
+          "position": 2,
+          "product_id": 12158135992584,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dan-dan-staffel-1-mega-bundle-alle-volumes-extras-box-blu-ray-183.webp?v=1788255870",
+          "width": 2500,
+          "height": 2500
         }
       ],
       "options": [
@@ -186099,6 +186149,16 @@
           "product_id": 12158131568904,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dan-dan-staffel-1-mega-bundle-alle-volumes-extras-box-dvd-standard-422.webp?v=1786113703",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 86605800177928,
+          "created_at": "2026-09-01T11:45:20+02:00",
+          "position": 2,
+          "product_id": 12158131568904,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dan-dan-staffel-1-mega-bundle-alle-volumes-extras-box-dvd-769.webp?v=1788255920",
           "width": 2500,
           "height": 2500
         }
