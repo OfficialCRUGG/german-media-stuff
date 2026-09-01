@@ -82832,32 +82832,32 @@
       ],
       "images": [
         {
-          "id": 86610229854472,
-          "created_at": "2026-09-01T16:54:52+02:00",
+          "id": 86610350833928,
+          "created_at": "2026-09-01T17:12:48+02:00",
           "position": 1,
           "product_id": 10261475557640,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017531100_DragonballZ_Box4_BD.png?v=1788274496",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dragonball-z-tv-serie-box-4-blu-ray-standard-edition-crunchyroll-645.webp?v=1788275568",
           "width": 2500,
           "height": 2500
         },
         {
-          "id": 86610230083848,
-          "created_at": "2026-09-01T16:55:00+02:00",
+          "id": 86610351325448,
+          "created_at": "2026-09-01T17:12:58+02:00",
           "position": 2,
           "product_id": 10261475557640,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017531100_DragonballZ_Box4_BD_Complete.png?v=1788274505",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dragonball-z-tv-serie-box-4-blu-ray-standard-edition-crunchyroll-921.webp?v=1788275578",
           "width": 2500,
           "height": 2500
         },
         {
-          "id": 86610229920008,
-          "created_at": "2026-09-01T16:54:57+02:00",
+          "id": 86610351751432,
+          "created_at": "2026-09-01T17:13:09+02:00",
           "position": 3,
           "product_id": 10261475557640,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017531100_DragonballZ_Box4_BD_Back.png?v=1788274502",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dragonball-z-tv-serie-box-4-blu-ray-standard-edition-crunchyroll-405.webp?v=1788275589",
           "width": 2500,
           "height": 2500
         },
@@ -82915,32 +82915,32 @@
       ],
       "images": [
         {
-          "id": 86610231361800,
-          "created_at": "2026-09-01T16:55:22+02:00",
+          "id": 86610352931080,
+          "created_at": "2026-09-01T17:13:26+02:00",
           "position": 1,
           "product_id": 10261475623176,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017532749_DragonballZ_Box4_DVD.png?v=1788274527",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dragonball-z-tv-serie-box-4-dvd-standard-edition-crunchyroll-film-298.webp?v=1788275606",
           "width": 2500,
           "height": 2500
         },
         {
-          "id": 86610231984392,
-          "created_at": "2026-09-01T16:55:27+02:00",
+          "id": 86610353783048,
+          "created_at": "2026-09-01T17:13:37+02:00",
           "position": 2,
           "product_id": 10261475623176,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017532749_DragonballZ_Box4_DVD_Complete.png?v=1788274533",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dragonball-z-tv-serie-box-4-dvd-standard-edition-crunchyroll-film-943.webp?v=1788275617",
           "width": 2500,
           "height": 2500
         },
         {
-          "id": 86610231460104,
-          "created_at": "2026-09-01T16:55:25+02:00",
+          "id": 86610354372872,
+          "created_at": "2026-09-01T17:13:47+02:00",
           "position": 3,
           "product_id": 10261475623176,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017532749_DragonballZ_Box4_DVD_Back.png?v=1788274530",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dragonball-z-tv-serie-box-4-dvd-standard-edition-crunchyroll-film-159.webp?v=1788275627",
           "width": 2500,
           "height": 2500
         },
@@ -182765,6 +182765,536 @@
       ]
     },
     {
+      "id": 12215814095112,
+      "title": "Frieren - Animal Party Sitting in a Row Series - Plüschfigur mit Vinylgesicht (14cm) - Blindbox-Display (6 Stück)",
+      "handle": "26sam148-frieren-plueschfigur-blindbox-display",
+      "published_at": "2026-09-01T18:13:33+02:00",
+      "created_at": "2026-09-01T17:14:58+02:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58587177812232,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam148",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "104.90",
+          "grams": 0,
+          "compare_at_price": "119.90",
+          "position": 1,
+          "product_id": 12215814095112,
+          "created_at": "2026-09-01T17:14:58+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86611008291080,
+          "created_at": "2026-09-01T18:10:59+02:00",
+          "position": 1,
+          "product_id": 12215814095112,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/6977374994317_Frieren_Vinylplush_Blindboxen_1869c66e-e2ca-4198-badb-87d7f537d334.png?v=1788279064",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12215813669128,
+      "title": "Frieren - Animal Party Sitting in a Row Series - Plüschfigur mit Vinylgesicht (14cm) - Blindbox (1 aus 6)",
+      "handle": "26sam149-frieren-animal-party-sitting-in-a-row-plueschfigur-blindbox",
+      "published_at": "2026-09-01T18:13:32+02:00",
+      "created_at": "2026-09-01T17:14:37+02:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58587177320712,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam149",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "19.90",
+          "grams": 0,
+          "compare_at_price": "19.90",
+          "position": 1,
+          "product_id": 12215813669128,
+          "created_at": "2026-09-01T17:14:37+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86611201982728,
+          "created_at": "2026-09-01T18:26:30+02:00",
+          "position": 1,
+          "product_id": 12215813669128,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/frieren-animal-party-sitting-a-row-series-plueschfigur-vinylgesicht-754.webp?v=1788279990",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12215816618248,
+      "title": "Jujutsu Kaisen - Stride Series - Minifigur (5cm) - Blindbox-Display (6 Stück)",
+      "handle": "26sam150-jujutsu-kaisen-stride-series-minifigur-blindbox-display",
+      "published_at": "2026-09-01T18:13:36+02:00",
+      "created_at": "2026-09-01T17:16:41+02:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58587183317256,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam150",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "104.90",
+          "grams": 0,
+          "compare_at_price": "119.90",
+          "position": 1,
+          "product_id": 12215816618248,
+          "created_at": "2026-09-01T17:16:41+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86611034439944,
+          "created_at": "2026-09-01T18:12:42+02:00",
+          "position": 1,
+          "product_id": 12215816618248,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/6977374991385_JujutsuKaisen_Figure_Blindboxen_0afe8fa0-4e5b-4436-a51b-07ccc1facbc4.png?v=1788279167",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12215812391176,
+      "title": "Jujutsu Kaisen - Stride Series - Minifigur (5cm) - Blindbox (1 aus 6)",
+      "handle": "26sam151-jujutsu-kaisen-stride-series-minifigur-blindbox",
+      "published_at": "2026-09-01T18:13:30+02:00",
+      "created_at": "2026-09-01T17:13:41+02:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58587173519624,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam151",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "19.90",
+          "grams": 0,
+          "compare_at_price": "19.90",
+          "position": 1,
+          "product_id": 12215812391176,
+          "created_at": "2026-09-01T17:13:41+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86611190874376,
+          "created_at": "2026-09-01T18:25:25+02:00",
+          "position": 1,
+          "product_id": 12215812391176,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-stride-series-minifigur-5cm-blindbox-1-6-sakami-662.webp?v=1788279925",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12215817011464,
+      "title": "Jujutsu Kaisen - Season 2 Sitting Series - Minifigur (8cm) - Blindbox-Display (6 Stück)",
+      "handle": "26sam152-jujutsu-kaisen-season-2-sitting-minifigur-blindbox-display",
+      "published_at": "2026-09-01T18:13:37+02:00",
+      "created_at": "2026-09-01T17:16:57+02:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58587187380488,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam152",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "94.90",
+          "grams": 0,
+          "compare_at_price": "107.90",
+          "position": 1,
+          "product_id": 12215817011464,
+          "created_at": "2026-09-01T17:16:57+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86610979619080,
+          "created_at": "2026-09-01T18:09:02+02:00",
+          "position": 1,
+          "product_id": 12215817011464,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/6977374994072_JujutsuKaisen_Figure_Blindboxen.png?v=1788278946",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 86610979651848,
+          "created_at": "2026-09-01T18:09:02+02:00",
+          "position": 2,
+          "product_id": 12215817011464,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/6977374994072_JujutsuKaisen_Figure_Blindboxen_1.png?v=1788278947",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12215813112072,
+      "title": "Jujutsu Kaisen - Season 2 Sitting Series - Minifigur (8cm) - Blindbox (1 aus 6)",
+      "handle": "26sam153-jujutsu-kaisen-season-2-sitting-series-minifigur-blindbox",
+      "published_at": "2026-09-01T18:13:31+02:00",
+      "created_at": "2026-09-01T17:14:11+02:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58587175878920,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam153",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "17.90",
+          "grams": 0,
+          "compare_at_price": "17.90",
+          "position": 1,
+          "product_id": 12215813112072,
+          "created_at": "2026-09-01T17:14:11+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86611197690120,
+          "created_at": "2026-09-01T18:26:02+02:00",
+          "position": 1,
+          "product_id": 12215813112072,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-season-2-sitting-series-minifigur-8cm-blindbox-1-6-332.webp?v=1788279962",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 86611199000840,
+          "created_at": "2026-09-01T18:26:11+02:00",
+          "position": 2,
+          "product_id": 12215813112072,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-season-2-sitting-series-minifigur-8cm-blindbox-1-6-247.webp?v=1788279971",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12215822680328,
+      "title": "Jujutsu Kaisen - Season 3 - Armbanduhr (7cm) - Blindbox-Display (12 Stück)",
+      "handle": "26sam154-jujutsu-kaisen-season-3-armbanduhr-blindbox-display",
+      "published_at": "2026-09-01T18:13:38+02:00",
+      "created_at": "2026-09-01T17:18:10+02:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58587193508104,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam154",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "189.90",
+          "grams": 0,
+          "compare_at_price": "202.90",
+          "position": 1,
+          "product_id": 12215822680328,
+          "created_at": "2026-09-01T17:18:10+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86610996527368,
+          "created_at": "2026-09-01T18:10:13+02:00",
+          "position": 1,
+          "product_id": 12215822680328,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-season-3-armbanduhr-7cm-blindbox-display-12-stueck-777.webp?v=1788279013",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12215815307528,
+      "title": "Jujutsu Kaisen - Season 3 - Armbanduhr (7cm) - Blindbox (1 aus 12)",
+      "handle": "26sam155-jujutsu-kaisen-season-3-armbanduhr-blindbox",
+      "published_at": "2026-09-01T18:13:35+02:00",
+      "created_at": "2026-09-01T17:15:53+02:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58587180663048,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam155",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "16.90",
+          "grams": 0,
+          "compare_at_price": "16.90",
+          "position": 1,
+          "product_id": 12215815307528,
+          "created_at": "2026-09-01T17:15:53+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86610989187336,
+          "created_at": "2026-09-01T18:09:51+02:00",
+          "position": 1,
+          "product_id": 12215815307528,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/6977374994409_JujutsuKaisen_Watch_Blindboxen_cd295caa-06c7-4a21-ac10-41966b5b8877.png?v=1788278995",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12215819141384,
+      "title": "Spy x Family - Animal Party Plush Charms Series - Plüschanhänger mit Vinylgesicht (14cm) - Blindbox-Display (6 Stück)",
+      "handle": "26sam156-spy-x-family-plueschanhaenger-blindbox-display",
+      "published_at": "2026-09-01T18:13:37+02:00",
+      "created_at": "2026-09-01T17:17:29+02:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58587189641480,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam156",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "104.90",
+          "grams": 0,
+          "compare_at_price": "119.90",
+          "position": 1,
+          "product_id": 12215819141384,
+          "created_at": "2026-09-01T17:17:29+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86610979455240,
+          "created_at": "2026-09-01T18:09:02+02:00",
+          "position": 1,
+          "product_id": 12215819141384,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/spy-x-family-animal-party-plush-charms-series-plueschanhaenger-446.webp?v=1788278942",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12215814816008,
+      "title": "Spy x Family - Animal Party Plush Charms Series - Plüschanhänger mit Vinylgesicht (14cm) - Blindbox (1 aus 6)",
+      "handle": "26sam157-spy-x-family-plueschanhaenger-blindbox",
+      "published_at": "2026-09-01T18:13:34+02:00",
+      "created_at": "2026-09-01T17:15:38+02:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58587179385096,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam157",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "19.90",
+          "grams": 0,
+          "compare_at_price": "19.90",
+          "position": 1,
+          "product_id": 12215814816008,
+          "created_at": "2026-09-01T17:15:38+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86611002589448,
+          "created_at": "2026-09-01T18:10:35+02:00",
+          "position": 1,
+          "product_id": 12215814816008,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/6977374994294_SpyFamily_VinylplushCharms_Blindboxen.png?v=1788279038",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 10261268529416,
       "title": "Akame ga Kill - Vol. 1 - Limited Edition (Blu-ray)",
       "handle": "akame-ga-kill-bd-vol-1-le",
@@ -188077,7 +188607,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.00",
           "grams": 50,
           "compare_at_price": "0.00",
