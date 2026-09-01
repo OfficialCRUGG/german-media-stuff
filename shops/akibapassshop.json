@@ -199246,59 +199246,6 @@
       ]
     },
     {
-      "id": 10353733435656,
-      "title": "Mutafukaz - Limited Edition (Blu-ray)",
-      "handle": "mutafukaz-limited-edition-bd",
-      "published_at": "2025-06-18T12:09:07+02:00",
-      "created_at": "2025-06-18T10:54:53+02:00",
-      "vendor": "AKIBA PASS SHOP",
-      "product_type": "",
-      "tags": [
-        "Online"
-      ],
-      "variants": [
-        {
-          "id": 51770522730760,
-          "title": "Default Title",
-          "option1": "Default Title",
-          "option2": null,
-          "option3": null,
-          "sku": "4009750312346",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": null,
-          "available": false,
-          "price": "54.90",
-          "grams": 0,
-          "compare_at_price": "54.90",
-          "position": 1,
-          "product_id": 10353733435656,
-          "created_at": "2025-06-18T10:54:53+02:00"
-        }
-      ],
-      "images": [
-        {
-          "id": 73959641448712,
-          "created_at": "2025-10-29T20:34:15+01:00",
-          "position": 1,
-          "product_id": 10353733435656,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/mutafukaz-limited-edition-blu-ray-311.webp?v=1769043122",
-          "width": 800,
-          "height": 800
-        }
-      ],
-      "options": [
-        {
-          "name": "Title",
-          "position": 1,
-          "values": [
-            "Default Title"
-          ]
-        }
-      ]
-    },
-    {
       "id": 10787421651208,
       "title": "My Dress-Up Darling - Handtuch (150x95cm) - Marin & Shizuku Kuroe Cosplay",
       "handle": "my-dress-up-darling-handtuch-150x95cm-marin-shizuku-kuroe-cosplay",
