@@ -185052,6 +185052,16 @@
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/call-of-the-night-acrylaufsteller-holo-effekt-nazuna-haare-offen-616.webp?v=1784732114",
           "width": 2500,
           "height": 2500
+        },
+        {
+          "id": 86625964622088,
+          "created_at": "2026-09-02T15:20:23+02:00",
+          "position": 2,
+          "product_id": 12121964216584,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/4262441492486_CoTN_Acrylicstandee_Holo_Nazuna.png?v=1788355228",
+          "width": 2500,
+          "height": 2500
         }
       ],
       "options": [
@@ -185105,6 +185115,16 @@
           "product_id": 12121963659528,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/call-of-the-night-acrylaufsteller-holo-effekt-nazuna-umhang-132.webp?v=1784732104",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 86625953710344,
+          "created_at": "2026-09-02T15:20:02+02:00",
+          "position": 2,
+          "product_id": 12121963659528,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/4262441492493_CoTN_Acrylicstandee_Holo_Nazuna.png?v=1788355206",
           "width": 2500,
           "height": 2500
         }
@@ -188607,7 +188627,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.00",
           "grams": 50,
           "compare_at_price": "0.00",
@@ -188677,7 +188697,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.00",
           "grams": 50,
           "compare_at_price": "0.00",
@@ -214450,6 +214470,16 @@
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/the-eminence-shadow-acrylaufsteller-shadow-holo-finish-618.webp?v=1784732123",
           "width": 2500,
           "height": 2500
+        },
+        {
+          "id": 86625935491336,
+          "created_at": "2026-09-02T15:18:12+02:00",
+          "position": 2,
+          "product_id": 12121963692296,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/4262441491885_Eminence_Acrylicstandee_Holo_Shadow.png?v=1788355096",
+          "width": 2500,
+          "height": 2500
         }
       ],
       "options": [
@@ -214731,6 +214761,16 @@
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/undead-unluck-acrylaufsteller-fuko-andy-holo-effekt-307.webp?v=1784732688",
           "width": 2500,
           "height": 2500
+        },
+        {
+          "id": 86625942307080,
+          "created_at": "2026-09-02T15:19:25+02:00",
+          "position": 2,
+          "product_id": 12121965199624,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/4262441491892_UndeadUnluck_Acrylicstandee_Holo_Fuko_Andy.png?v=1788355171",
+          "width": 2500,
+          "height": 2500
         }
       ],
       "options": [
@@ -214946,6 +214986,16 @@
           "product_id": 12121965035784,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/yaiba-samurai-legend-acrylaufsteller-yaiba-kagetora-holo-effekt-770.webp?v=1784732623",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 86625974452488,
+          "created_at": "2026-09-02T15:20:52+02:00",
+          "position": 2,
+          "product_id": 12121965035784,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/4262441491755_Yaiba_Acrylicstandee_Holo.png?v=1788355257",
           "width": 2500,
           "height": 2500
         }
