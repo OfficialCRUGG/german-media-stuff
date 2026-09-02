@@ -123566,7 +123566,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "79.90",
           "grams": 173,
           "compare_at_price": "79.90",
@@ -176091,6 +176091,310 @@
       ]
     },
     {
+      "id": 12217377685768,
+      "title": "Pokémon - Die TV-Serie: Die Anfänge - Season 1 & 2 (DVD)",
+      "handle": "26pol042-pokemon-die-tv-serie-die-anfaenge-season-1-2-dvd",
+      "published_at": "2026-09-02T18:50:25+02:00",
+      "created_at": "2026-09-02T18:14:47+02:00",
+      "vendor": "polyband anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58595488629000,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26pol042",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "49.90",
+          "grams": 0,
+          "compare_at_price": "49.90",
+          "position": 1,
+          "product_id": 12217377685768,
+          "created_at": "2026-09-02T18:14:48+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86629174640904,
+          "created_at": "2026-09-02T18:48:07+02:00",
+          "position": 1,
+          "product_id": 12217377685768,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_12fb1b88-f90f-4792-a660-e80a2c9d9d1f.png?v=1788367689",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12217377653000,
+      "title": "Pokémon - Die TV-Serie: Schwarz und Weiß - Season 14-16 (DVD)",
+      "handle": "26pol043-pokemon-die-tv-serie-schwarz-und-weiss-season-14-16-dvd",
+      "published_at": "2026-09-02T18:50:24+02:00",
+      "created_at": "2026-09-02T18:14:42+02:00",
+      "vendor": "polyband anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58595488563464,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26pol043",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "74.90",
+          "grams": 0,
+          "compare_at_price": "74.90",
+          "position": 1,
+          "product_id": 12217377653000,
+          "created_at": "2026-09-02T18:14:42+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86629180965128,
+          "created_at": "2026-09-02T18:48:13+02:00",
+          "position": 1,
+          "product_id": 12217377653000,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/BD_DVD_Rahmen_edited_standin_v6_e0e933d6-7b1d-46f7-be48-e5cd6e9aa2d3.png?v=1788367695",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12217377489160,
+      "title": "Loner Life in Another World - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
+      "handle": "26pol044-loner-life-in-another-world-vol-1-limited-bluray",
+      "published_at": "2026-09-02T18:50:23+02:00",
+      "created_at": "2026-09-02T18:14:14+02:00",
+      "vendor": "polyband anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58595488170248,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26pol044",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "49.90",
+          "grams": 0,
+          "compare_at_price": "49.90",
+          "position": 1,
+          "product_id": 12217377489160,
+          "created_at": "2026-09-02T18:14:14+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86629161730312,
+          "created_at": "2026-09-02T18:47:54+02:00",
+          "position": 1,
+          "product_id": 12217377489160,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/LonerLife_Vol1_BD.png?v=1788367678",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 86629161697544,
+          "created_at": "2026-09-02T18:47:54+02:00",
+          "position": 2,
+          "product_id": 12217377489160,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/LonerLife_Vol1_BD_Complete.png?v=1788367678",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 86629161763080,
+          "created_at": "2026-09-02T18:47:54+02:00",
+          "position": 3,
+          "product_id": 12217377489160,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/LonerLife_Vol1_BD_Box.png?v=1788367678",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 86629161795848,
+          "created_at": "2026-09-02T18:47:54+02:00",
+          "position": 4,
+          "product_id": 12217377489160,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/LonerLife_Vol1_BD_Front_1.png?v=1788367678",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 86629161828616,
+          "created_at": "2026-09-02T18:47:54+02:00",
+          "position": 5,
+          "product_id": 12217377489160,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/LonerLife_Vol1_BD_Front.png?v=1788367678",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 86629161861384,
+          "created_at": "2026-09-02T18:47:54+02:00",
+          "position": 6,
+          "product_id": 12217377489160,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/LonerLife_Vol1_BD_Digi.png?v=1788367678",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 86629161894152,
+          "created_at": "2026-09-02T18:47:54+02:00",
+          "position": 7,
+          "product_id": 12217377489160,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/LonerLife_Vol1_BD_Digi_Front.png?v=1788367678",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12217377849608,
+      "title": "Loner Life in Another World - Vol. 2 - Limited Edition mit Booklet, Poster und Sticker (Blu-ray)",
+      "handle": "26pol045-loner-life-in-another-world-vol-2-limited-bluray",
+      "published_at": "2026-09-02T18:50:26+02:00",
+      "created_at": "2026-09-02T18:15:23+02:00",
+      "vendor": "polyband anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58595488891144,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26pol045",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "49.90",
+          "grams": 0,
+          "compare_at_price": "49.90",
+          "position": 1,
+          "product_id": 12217377849608,
+          "created_at": "2026-09-02T18:15:23+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86629142331656,
+          "created_at": "2026-09-02T18:47:23+02:00",
+          "position": 1,
+          "product_id": 12217377849608,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/LonerLife_Vol2_BD_Complete.png?v=1788367648",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 86629142364424,
+          "created_at": "2026-09-02T18:47:23+02:00",
+          "position": 2,
+          "product_id": 12217377849608,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/LonerLife_Vol2_BD_Digi.png?v=1788367647",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 86629142397192,
+          "created_at": "2026-09-02T18:47:23+02:00",
+          "position": 3,
+          "product_id": 12217377849608,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/LonerLife_Vol2_BD.png?v=1788367647",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 86629142429960,
+          "created_at": "2026-09-02T18:47:23+02:00",
+          "position": 4,
+          "product_id": 12217377849608,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/LonerLife_Vol2_BD_Digi_Front.png?v=1788367647",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 86629142462728,
+          "created_at": "2026-09-02T18:47:23+02:00",
+          "position": 5,
+          "product_id": 12217377849608,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/LonerLife_Vol2_BD_Front.png?v=1788367647",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 10716560359688,
       "title": "Cinnamoroll - Plüschschlüsselanhänger",
       "handle": "26sam001-cinnamoroll-plueschschluesselanhaenger",
@@ -185054,12 +185358,12 @@
           "height": 2500
         },
         {
-          "id": 86625964622088,
-          "created_at": "2026-09-02T15:20:23+02:00",
+          "id": 86629277729032,
+          "created_at": "2026-09-02T18:53:35+02:00",
           "position": 2,
           "product_id": 12121964216584,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/4262441492486_CoTN_Acrylicstandee_Holo_Nazuna.png?v=1788355228",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/call-of-the-night-acrylaufsteller-holo-effekt-nazuna-haare-offen-353.webp?v=1788368015",
           "width": 2500,
           "height": 2500
         }
@@ -185119,12 +185423,12 @@
           "height": 2500
         },
         {
-          "id": 86625953710344,
-          "created_at": "2026-09-02T15:20:02+02:00",
+          "id": 86629267112200,
+          "created_at": "2026-09-02T18:52:56+02:00",
           "position": 2,
           "product_id": 12121963659528,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/4262441492493_CoTN_Acrylicstandee_Holo_Nazuna.png?v=1788355206",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/call-of-the-night-acrylaufsteller-holo-effekt-nazuna-umhang-925.webp?v=1788367976",
           "width": 2500,
           "height": 2500
         }
@@ -214472,12 +214776,12 @@
           "height": 2500
         },
         {
-          "id": 86625935491336,
-          "created_at": "2026-09-02T15:18:12+02:00",
+          "id": 86629271175432,
+          "created_at": "2026-09-02T18:53:12+02:00",
           "position": 2,
           "product_id": 12121963692296,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/4262441491885_Eminence_Acrylicstandee_Holo_Shadow.png?v=1788355096",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/the-eminence-shadow-acrylaufsteller-shadow-holo-finish-peppermint-573.webp?v=1788367992",
           "width": 2500,
           "height": 2500
         }
@@ -214763,12 +215067,12 @@
           "height": 2500
         },
         {
-          "id": 86625942307080,
-          "created_at": "2026-09-02T15:19:25+02:00",
+          "id": 86629286641928,
+          "created_at": "2026-09-02T18:54:12+02:00",
           "position": 2,
           "product_id": 12121965199624,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/4262441491892_UndeadUnluck_Acrylicstandee_Holo_Fuko_Andy.png?v=1788355171",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/undead-unluck-acrylaufsteller-fuko-andy-holo-effekt-peppermint-321.webp?v=1788368052",
           "width": 2500,
           "height": 2500
         }
@@ -214990,12 +215294,12 @@
           "height": 2500
         },
         {
-          "id": 86625974452488,
-          "created_at": "2026-09-02T15:20:52+02:00",
+          "id": 86629282382088,
+          "created_at": "2026-09-02T18:53:56+02:00",
           "position": 2,
           "product_id": 12121965035784,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/4262441491755_Yaiba_Acrylicstandee_Holo.png?v=1788355257",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/yaiba-samurai-legend-acrylaufsteller-yaiba-kagetora-holo-effekt-545.webp?v=1788368036",
           "width": 2500,
           "height": 2500
         }
