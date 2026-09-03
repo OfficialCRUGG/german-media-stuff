@@ -9925,6 +9925,73 @@
       ]
     },
     {
+      "id": 8230748323893,
+      "title": "Der Club der toten Dichter 4K UHD + Blu-ray (Lim. Steelbook)",
+      "handle": "der-club-der-toten-dichter-4k-uhd-blu-ray-lim-steelbook",
+      "published_at": "2026-09-03T15:35:05+02:00",
+      "created_at": "2026-09-03T15:32:13+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "4K UHD + Blu-ray",
+        "Disney",
+        "Komödie & Drama",
+        "preorder",
+        "Steelbooks"
+      ],
+      "variants": [
+        {
+          "id": 45968441737269,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00735",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "34.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8230748323893,
+          "created_at": "2026-09-03T15:32:13+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38777064423477,
+          "created_at": "2026-09-03T15:34:13+02:00",
+          "position": 1,
+          "product_id": 8230748323893,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/der-club-der-toten-dichteruhd-steelbook2d-packshotlow-res-rgbjpg-220212.jpg?v=1788442454",
+          "width": 1106,
+          "height": 1389
+        },
+        {
+          "id": 38777064554549,
+          "created_at": "2026-09-03T15:34:16+02:00",
+          "position": 2,
+          "product_id": 8230748323893,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/der-club-der-toten-dichteruhd-steelbook3d-packshotlow-res-rgbjpg-220258.jpg?v=1788442458",
+          "width": 1743,
+          "height": 2152
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 7847787200565,
       "title": "Der Doktor und das liebe Vieh Komplettbox",
       "handle": "der-doktor-und-das-liebe-vieh-komplettbox-neu",
@@ -28939,6 +29006,72 @@
       ]
     },
     {
+      "id": 8230748291125,
+      "title": "Mrs. Doubtfire - Das stachelige Kindermädchen 4K UHD + Blu-ray",
+      "handle": "mrs-doubtfire-das-stachelige-kinderm-dchen-4k-uhd-blu-ray",
+      "published_at": "2026-09-03T15:35:05+02:00",
+      "created_at": "2026-09-03T15:32:10+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "4K UHD + Blu-ray",
+        "Disney",
+        "Komödie & Drama",
+        "preorder"
+      ],
+      "variants": [
+        {
+          "id": 45968441704501,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00734",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "29.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8230748291125,
+          "created_at": "2026-09-03T15:32:10+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38777064259637,
+          "created_at": "2026-09-03T15:34:04+02:00",
+          "position": 1,
+          "product_id": 8230748291125,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573349101jpg-220078.jpg?v=1788442446",
+          "width": 1607,
+          "height": 2032
+        },
+        {
+          "id": 38777064325173,
+          "created_at": "2026-09-03T15:34:08+02:00",
+          "position": 2,
+          "product_id": 8230748291125,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573349102jpg-220123.jpg?v=1788442449",
+          "width": 1731,
+          "height": 2400
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 7858069340213,
       "title": "Mufasa: Der König der Löwen 4K UHD + Blu-ray (Lim. Steelbook)",
       "handle": "mufasa-der-konig-der-lowen-uhd-bd-lim-steelbook",
@@ -44731,6 +44864,336 @@
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229719667_02.jpg?v=1780399050",
           "width": 1331,
           "height": 1737
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8230748225589,
+      "title": "Toy Story 5",
+      "handle": "toy-story-5",
+      "published_at": "2026-09-03T15:35:05+02:00",
+      "created_at": "2026-09-03T15:32:08+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "Blu-ray",
+        "Disney",
+        "Pixar",
+        "preorder"
+      ],
+      "variants": [
+        {
+          "id": 45968441638965,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00733",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "14.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8230748225589,
+          "created_at": "2026-09-03T15:32:08+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38777063374901,
+          "created_at": "2026-09-03T15:33:42+02:00",
+          "position": 1,
+          "product_id": 8230748225589,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969281601jpg-219898.jpg?v=1788442424",
+          "width": 1527,
+          "height": 2156
+        },
+        {
+          "id": 38777063407669,
+          "created_at": "2026-09-03T15:33:47+02:00",
+          "position": 2,
+          "product_id": 8230748225589,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969281602jpg-219943.jpg?v=1788442429",
+          "width": 1617,
+          "height": 2336
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8230748127285,
+      "title": "Toy Story 5 Blu-ray",
+      "handle": "toy-story-5-blu-ray",
+      "published_at": "2026-09-03T15:35:05+02:00",
+      "created_at": "2026-09-03T15:32:06+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "Blu-ray",
+        "Disney",
+        "Pixar",
+        "preorder"
+      ],
+      "variants": [
+        {
+          "id": 45968441311285,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00732",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "17.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8230748127285,
+          "created_at": "2026-09-03T15:32:06+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38777063374901,
+          "created_at": "2026-09-03T15:33:42+02:00",
+          "position": 1,
+          "product_id": 8230748127285,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969281601jpg-219898.jpg?v=1788442424",
+          "width": 1527,
+          "height": 2156
+        },
+        {
+          "id": 38777063407669,
+          "created_at": "2026-09-03T15:33:47+02:00",
+          "position": 2,
+          "product_id": 8230748127285,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969281602jpg-219943.jpg?v=1788442429",
+          "width": 1617,
+          "height": 2336
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8230719946805,
+      "title": "Toy Story 5 Blu-ray (Lim. Steelbook)",
+      "handle": "toy-story-5-blu-ray-lim-steelbook",
+      "published_at": "2026-09-03T15:35:06+02:00",
+      "created_at": "2026-09-03T14:47:57+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "Disney",
+        "Pixar",
+        "preorder",
+        "Steelbook"
+      ],
+      "variants": [
+        {
+          "id": 45968361717813,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00731",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "24.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8230719946805,
+          "created_at": "2026-09-03T14:47:57+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38777063112757,
+          "created_at": "2026-09-03T15:33:30+02:00",
+          "position": 1,
+          "product_id": 8230719946805,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969284701jpg-219763.jpg?v=1788442412",
+          "width": 1106,
+          "height": 1389
+        },
+        {
+          "id": 38777063145525,
+          "created_at": "2026-09-03T15:33:34+02:00",
+          "position": 2,
+          "product_id": 8230719946805,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969284702jpg-219808.jpg?v=1788442419",
+          "width": 1579,
+          "height": 2050
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8230719914037,
+      "title": "Toy Story 5-Movie-Collection",
+      "handle": "toy-story-5-movie-collection",
+      "published_at": "2026-09-03T15:35:06+02:00",
+      "created_at": "2026-09-03T14:47:56+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "Disney",
+        "DVD Box",
+        "Pixar",
+        "preorder"
+      ],
+      "variants": [
+        {
+          "id": 45968361685045,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00730",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "29.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8230719914037,
+          "created_at": "2026-09-03T14:47:56+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38777062817845,
+          "created_at": "2026-09-03T15:33:22+02:00",
+          "position": 1,
+          "product_id": 8230719914037,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969285401jpg-219583.jpg?v=1788442403",
+          "width": 1527,
+          "height": 2156
+        },
+        {
+          "id": 38777062850613,
+          "created_at": "2026-09-03T15:33:25+02:00",
+          "position": 2,
+          "product_id": 8230719914037,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969285402jpg-219628.jpg?v=1788442407",
+          "width": 1616,
+          "height": 2335
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8230719881269,
+      "title": "Toy Story 5-Movie-Collection Blu-ray",
+      "handle": "toy-story-5-movie-collection-blu-ray",
+      "published_at": "2026-09-03T15:35:06+02:00",
+      "created_at": "2026-09-03T14:47:54+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "Blu-ray Box",
+        "Disney",
+        "Pixar",
+        "preorder"
+      ],
+      "variants": [
+        {
+          "id": 45968361652277,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00729",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "39.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8230719881269,
+          "created_at": "2026-09-03T14:47:54+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38777062424629,
+          "created_at": "2026-09-03T15:33:12+02:00",
+          "position": 1,
+          "product_id": 8230719881269,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969286101jpg-219673.jpg?v=1788442394",
+          "width": 1744,
+          "height": 2141
+        },
+        {
+          "id": 38777062555701,
+          "created_at": "2026-09-03T15:33:17+02:00",
+          "position": 2,
+          "product_id": 8230719881269,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969286102jpg-219718.jpg?v=1788442398",
+          "width": 1224,
+          "height": 1753
         }
       ],
       "options": [
