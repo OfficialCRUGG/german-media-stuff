@@ -4375,6 +4375,136 @@
       ]
     },
     {
+      "id": 8231505494069,
+      "title": "Babylon Berlin - St. 5 Blu-ray",
+      "handle": "babylon-berlin-st-5-blu-ray",
+      "published_at": "2026-09-04T10:35:46+02:00",
+      "created_at": "2026-09-04T08:29:05+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "Filme & Serien",
+        "preorder",
+        "Serien"
+      ],
+      "variants": [
+        {
+          "id": 45971179044917,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00736",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "19.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8231505494069,
+          "created_at": "2026-09-04T08:29:05+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38784616169525,
+          "created_at": "2026-09-04T08:29:31+02:00",
+          "position": 1,
+          "product_id": 8231505494069,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122964815801jpg-220464.jpg?v=1788503372",
+          "width": 1530,
+          "height": 2162
+        },
+        {
+          "id": 38784616267829,
+          "created_at": "2026-09-04T08:29:34+02:00",
+          "position": 2,
+          "product_id": 8231505494069,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122964815802jpg-220509.jpg?v=1788503376",
+          "width": 1174,
+          "height": 1879
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8231505526837,
+      "title": "Babylon Berlin - St. 5 Blu-ray",
+      "handle": "babylon-berlin-st-5-blu-ray-1",
+      "published_at": "2026-09-04T10:35:46+02:00",
+      "created_at": "2026-09-04T08:29:07+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "Filme & Serien",
+        "preorder",
+        "Serien"
+      ],
+      "variants": [
+        {
+          "id": 45971179077685,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00737",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "24.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8231505526837,
+          "created_at": "2026-09-04T08:29:07+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38785212350517,
+          "created_at": "2026-09-04T10:33:59+02:00",
+          "position": 1,
+          "product_id": 8231505526837,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122964816501jpg-221248.jpg?v=1788510841",
+          "width": 1500,
+          "height": 1915
+        },
+        {
+          "id": 38785212645429,
+          "created_at": "2026-09-04T10:34:04+02:00",
+          "position": 2,
+          "product_id": 8231505526837,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122964816502jpg-221293.jpg?v=1788510846",
+          "width": 1172,
+          "height": 1680
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 8164439556149,
       "title": "Backrooms: Everything Must Go Edition 4K UHD + Blu-ray (Collector's Edition)",
       "handle": "backrooms-4k-uhd-blu-ray",
@@ -8416,6 +8546,71 @@
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/dasfuenfteelementremastered2017uhduhd4k8898548359962d72dpijpg.jpg?v=1737357969",
           "width": 1500,
           "height": 1915
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8231505559605,
+      "title": "Das gewisse Etwas Blu-ray",
+      "handle": "das-gewisse-etwas-blu-ray",
+      "published_at": "2026-09-04T10:35:46+02:00",
+      "created_at": "2026-09-04T08:29:09+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "Filme & Serien",
+        "Komödie & Drama",
+        "preorder"
+      ],
+      "variants": [
+        {
+          "id": 45971179110453,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00738",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "17.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8231505559605,
+          "created_at": "2026-09-04T08:29:09+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38784714178613,
+          "created_at": "2026-09-04T08:59:55+02:00",
+          "position": 1,
+          "product_id": 8231505559605,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122973121801jpg-220618.jpg?v=1788505197",
+          "width": 1500,
+          "height": 1915
+        },
+        {
+          "id": 38784714211381,
+          "created_at": "2026-09-04T09:00:00+02:00",
+          "position": 2,
+          "product_id": 8231505559605,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122973121802png-220663.png?v=1788505203",
+          "width": 1172,
+          "height": 1680
         }
       ],
       "options": [
@@ -13444,6 +13639,71 @@
       ]
     },
     {
+      "id": 8231515553845,
+      "title": "Die Legende von Aang 4K UHD + Blu-ray",
+      "handle": "die-legende-von-aang-4k-uhd-blu-ray",
+      "published_at": "2026-09-04T10:35:46+02:00",
+      "created_at": "2026-09-04T08:59:16+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "4K UHD + Blu-ray",
+        "Action & Thriller",
+        "preorder"
+      ],
+      "variants": [
+        {
+          "id": 45971207225397,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00739",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "29.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8231515553845,
+          "created_at": "2026-09-04T08:59:17+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38784714604597,
+          "created_at": "2026-09-04T09:00:05+02:00",
+          "position": 1,
+          "product_id": 8231515553845,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573399601jpg-220824.jpg?v=1788505207",
+          "width": 1500,
+          "height": 1915
+        },
+        {
+          "id": 38784714637365,
+          "created_at": "2026-09-04T09:00:10+02:00",
+          "position": 2,
+          "product_id": 8231515553845,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573399602jpg-220869.jpg?v=1788505212",
+          "width": 1172,
+          "height": 1680
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 8050226757685,
       "title": "Die rote Schildkröte (Amaray)",
       "handle": "die-rote-schildkrote-amaray",
@@ -13624,6 +13884,136 @@
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229366557_08.jpg?v=1752777533",
           "width": 5760,
           "height": 2160
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8231515619381,
+      "title": "Die Schule der magischen Tiere 1-4",
+      "handle": "die-schule-der-magischen-tiere-1-4",
+      "published_at": "2026-09-04T10:35:45+02:00",
+      "created_at": "2026-09-04T08:59:19+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "Die Schule der magischen Tiere",
+        "Family & Kids",
+        "preorder"
+      ],
+      "variants": [
+        {
+          "id": 45971207356469,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00740",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "29.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8231515619381,
+          "created_at": "2026-09-04T08:59:19+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38784780795957,
+          "created_at": "2026-09-04T09:13:42+02:00",
+          "position": 1,
+          "product_id": 8231515619381,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122936675501jpg-221004.jpg?v=1788506024",
+          "width": 1536,
+          "height": 2162
+        },
+        {
+          "id": 38784781156405,
+          "created_at": "2026-09-04T09:13:47+02:00",
+          "position": 2,
+          "product_id": 8231515619381,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122936675502jpg-221049.jpg?v=1788506028",
+          "width": 1174,
+          "height": 1879
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8231539212341,
+      "title": "Die Schule der magischen Tiere 1-4 Blu-ray",
+      "handle": "die-schule-der-magischen-tiere-1-4-blu-ray",
+      "published_at": "2026-09-04T10:35:45+02:00",
+      "created_at": "2026-09-04T10:30:28+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "Die Schule der magischen Tiere",
+        "Family & Kids",
+        "preorder"
+      ],
+      "variants": [
+        {
+          "id": 45971466649653,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00741",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "39.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8231539212341,
+          "created_at": "2026-09-04T10:30:28+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38785212809269,
+          "created_at": "2026-09-04T10:34:08+02:00",
+          "position": 1,
+          "product_id": 8231539212341,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122936676201jpg-221184.jpg?v=1788510850",
+          "width": 1500,
+          "height": 1915
+        },
+        {
+          "id": 38785213104181,
+          "created_at": "2026-09-04T10:34:12+02:00",
+          "position": 2,
+          "product_id": 8231539212341,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122936676202jpg-221229.jpg?v=1788510853",
+          "width": 1237,
+          "height": 1699
         }
       ],
       "options": [
@@ -18549,6 +18939,69 @@
       ]
     },
     {
+      "id": 8231539245109,
+      "title": "Flight 298 Blu-ray",
+      "handle": "flight-298-blu-ray",
+      "published_at": "2026-09-04T10:35:45+02:00",
+      "created_at": "2026-09-04T10:30:30+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "preorder"
+      ],
+      "variants": [
+        {
+          "id": 45971466682421,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00742",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "14.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8231539245109,
+          "created_at": "2026-09-04T10:30:31+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38785213268021,
+          "created_at": "2026-09-04T10:34:16+02:00",
+          "position": 1,
+          "product_id": 8231539245109,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972971001jpg-221518.jpg?v=1788510857",
+          "width": 1500,
+          "height": 1915
+        },
+        {
+          "id": 38785213399093,
+          "created_at": "2026-09-04T10:34:19+02:00",
+          "position": 2,
+          "product_id": 8231539245109,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972971002jpg-221563.jpg?v=1788510861",
+          "width": 1172,
+          "height": 1680
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 7874132869173,
       "title": "Flight Risk 4K UHD Blu-ray",
       "handle": "flight-risk-4k-uhd-blu-ray",
@@ -22528,6 +22981,70 @@
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/iceage15dvdstandard87174185793333d72dpijpg.jpg?v=1738771617",
           "width": 1500,
           "height": 2000
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8231539277877,
+      "title": "In meinem Himmel 4K UHD + Blu-ray",
+      "handle": "in-meinem-himmel-4k-uhd-blu-ray",
+      "published_at": "2026-09-04T10:35:45+02:00",
+      "created_at": "2026-09-04T10:30:33+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "Komödie & Drama",
+        "preorder"
+      ],
+      "variants": [
+        {
+          "id": 45971466715189,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00743",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "34.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8231539277877,
+          "created_at": "2026-09-04T10:30:33+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38785214021685,
+          "created_at": "2026-09-04T10:34:23+02:00",
+          "position": 1,
+          "product_id": 8231539277877,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573409201jpg-221428.jpg?v=1788510865",
+          "width": 1500,
+          "height": 1915
+        },
+        {
+          "id": 38785214119989,
+          "created_at": "2026-09-04T10:34:28+02:00",
+          "position": 2,
+          "product_id": 8231539277877,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573409202jpg-221473.jpg?v=1788510869",
+          "width": 1172,
+          "height": 1680
         }
       ],
       "options": [
