@@ -154262,6 +154262,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Ausverkauft",
         "Online"
       ],
       "variants": [
@@ -154275,7 +154276,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "19.90",
           "grams": 160,
           "compare_at_price": "39.90",
@@ -154325,6 +154326,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Ausverkauft",
         "Online"
       ],
       "variants": [
@@ -154338,7 +154340,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "19.90",
           "grams": 160,
           "compare_at_price": "39.90",
@@ -171054,6 +171056,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Ausverkauft",
         "Online"
       ],
       "variants": [
@@ -171067,7 +171070,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "9.90",
           "grams": 150,
           "compare_at_price": "9.90",
@@ -171472,6 +171475,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -171864,6 +171868,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -186402,6 +186407,7 @@
       "vendor": "peppermint anime",
       "product_type": "singleton_gift",
       "tags": [
+        "Auf Lager",
         "Click&Collect",
         "Online"
       ],
@@ -188911,6 +188917,7 @@
       "product_type": "Gift",
       "tags": [
         "__hidden",
+        "Ausverkauft",
         "bonsai_excluded",
         "Click&Collect",
         "Exclude From Back In Stock",
@@ -188941,7 +188948,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.00",
           "grams": 50,
           "compare_at_price": "0.00",
@@ -190847,6 +190854,7 @@
       "product_type": "",
       "tags": [
         "AnimagiC2026",
+        "Auf Lager",
         "Online",
         "warenpost"
       ],
