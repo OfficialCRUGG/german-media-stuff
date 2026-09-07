@@ -6436,6 +6436,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime",
         "Romance"
@@ -57668,6 +57669,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Auf Lager",
         "Dauersale",
         "Frisch eingetroffen",
         "Online",
@@ -61366,6 +61368,7 @@
       "vendor": "AKIBA PASS TV",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Digital",
         "Online"
       ],
@@ -95605,6 +95608,7 @@
       "vendor": "Bandai",
       "product_type": "",
       "tags": [
+        "Ausverkauft",
         "Bandai",
         "Figur",
         "Online"
@@ -95620,7 +95624,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "41.90",
           "grams": 0,
           "compare_at_price": "41.90",
@@ -96045,6 +96049,7 @@
       "vendor": "Bandai",
       "product_type": "",
       "tags": [
+        "Ausverkauft",
         "Bandai",
         "Figur",
         "Online"
@@ -96060,7 +96065,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "41.90",
           "grams": 0,
           "compare_at_price": "41.90",
@@ -98605,6 +98610,7 @@
       "vendor": "Bandai",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Bandai",
         "Online",
         "Q posket"
@@ -98715,6 +98721,7 @@
       "vendor": "Bandai",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Bandai",
         "Online",
         "Q posket"
@@ -98770,6 +98777,7 @@
       "vendor": "Bandai",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Bandai",
         "Online",
         "Q posket"
@@ -116855,6 +116863,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -159071,7 +159080,9 @@
       "created_at": "2026-08-25T17:12:09+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58536219705608,
@@ -159428,7 +159439,9 @@
       "created_at": "2026-08-25T17:19:25+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58536268890376,
@@ -159499,7 +159512,9 @@
       "created_at": "2026-08-25T18:06:24+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58536559575304,
@@ -182954,7 +182969,9 @@
       "created_at": "2026-08-26T15:06:08+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58549978038536,
@@ -182966,7 +182983,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "19.90",
           "grams": 0,
           "compare_at_price": "19.90",
@@ -183971,6 +183988,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Click&Collect"
       ],
       "variants": [
@@ -188568,6 +188586,7 @@
       "vendor": "peppermint anime",
       "product_type": "Gift",
       "tags": [
+        "Auf Lager",
         "Click&Collect",
         "Goodie",
         "Online"
@@ -188683,6 +188702,7 @@
       "product_type": "Gift",
       "tags": [
         "__hidden",
+        "Auf Lager",
         "bonsai_excluded",
         "Click&Collect",
         "Exclude From Back In Stock",
@@ -188755,6 +188775,7 @@
       "product_type": "Gift",
       "tags": [
         "__hidden",
+        "Auf Lager",
         "bonsai_excluded",
         "Click&Collect",
         "Exclude From Back In Stock",
@@ -188825,6 +188846,7 @@
       "product_type": "Gift",
       "tags": [
         "__hidden",
+        "Auf Lager",
         "bonsai_excluded",
         "Click&Collect",
         "hidden",
@@ -191079,6 +191101,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Click&Collect"
       ],
       "variants": [
@@ -197729,6 +197752,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Goodie",
         "OhneRabatt",
         "Online"
@@ -200444,7 +200468,9 @@
       "created_at": "2026-08-01T14:56:29+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58342072680712,
@@ -200495,7 +200521,9 @@
       "created_at": "2026-08-01T14:56:54+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58342074056968,
@@ -200546,7 +200574,9 @@
       "created_at": "2026-08-01T14:56:01+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58342067798280,
@@ -200597,7 +200627,9 @@
       "created_at": "2026-08-01T14:56:00+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58342067765512,
