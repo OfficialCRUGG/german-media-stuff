@@ -53530,6 +53530,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Auf Lager",
         "Frisch eingetroffen",
         "Online",
         "peppermint anime",
@@ -70767,6 +70768,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Frisch eingetroffen",
         "Online",
         "peppermint anime",
@@ -156778,7 +156780,9 @@
       "created_at": "2026-07-07T13:00:10+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Auf Lager"
+      ],
       "variants": [
         {
           "id": 58174905712904,
@@ -159663,7 +159667,9 @@
       "created_at": "2026-08-25T17:20:47+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58536273969416,
@@ -172160,6 +172166,7 @@
       "product_type": "",
       "tags": [
         "AnimagiC2025",
+        "Auf Lager",
         "Click&Collect",
         "Highlight",
         "Online"
