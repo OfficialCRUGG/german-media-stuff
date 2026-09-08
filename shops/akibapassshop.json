@@ -40558,6 +40558,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Dauersale",
         "Online",
         "peppermint anime",
@@ -40692,6 +40693,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Dauersale",
         "Online",
         "peppermint anime",
@@ -108726,6 +108728,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Dauersale",
         "Online"
       ],
@@ -158674,7 +158677,9 @@
       "created_at": "2026-08-25T17:14:14+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58536236613896,
