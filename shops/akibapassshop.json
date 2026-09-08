@@ -160476,6 +160476,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Click&Collect",
         "Online"
       ],
@@ -174198,6 +174199,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Click&Collect",
         "Online"
       ],
@@ -199076,9 +199078,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "38.90",
+          "price": "29.90",
           "grams": 400,
-          "compare_at_price": "38.90",
+          "compare_at_price": "29.90",
           "position": 1,
           "product_id": 12138654531848,
           "created_at": "2026-07-29T15:30:38+02:00"
@@ -216287,7 +216289,9 @@
       "created_at": "2026-07-30T16:42:01+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58330198278408,
@@ -216389,7 +216393,9 @@
       "created_at": "2026-07-30T16:41:08+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58330195394824,
