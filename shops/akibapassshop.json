@@ -158555,7 +158555,9 @@
       "created_at": "2026-08-25T17:17:17+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58536255947016,
@@ -166836,7 +166838,9 @@
       "created_at": "2026-09-03T15:42:07+02:00",
       "vendor": "Leonine Anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58600554430728,
@@ -175301,6 +175305,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -187295,6 +187300,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -187461,6 +187467,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -200240,6 +200247,7 @@
       "product_type": "",
       "tags": [
         "AnimagiC2026",
+        "Auf Lager",
         "Online",
         "warenpost"
       ],
@@ -200295,6 +200303,7 @@
       "product_type": "",
       "tags": [
         "AnimagiC2026",
+        "Auf Lager",
         "Online",
         "warenpost"
       ],
