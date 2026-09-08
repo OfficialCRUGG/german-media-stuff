@@ -3787,6 +3787,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Ausverkauft",
         "Dauersale",
         "Frisch eingetroffen",
         "Online",
@@ -3804,7 +3805,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "9.90",
           "grams": 100,
           "compare_at_price": "49.90",
@@ -154207,6 +154208,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -159251,7 +159253,9 @@
       "created_at": "2026-08-25T17:14:12+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58536236417288,
@@ -159302,7 +159306,9 @@
       "created_at": "2026-08-25T17:15:53+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58536251261192,
@@ -159807,7 +159813,9 @@
       "created_at": "2026-08-25T17:20:47+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58536274166024,
@@ -160667,7 +160675,9 @@
       "created_at": "2026-09-08T15:38:20+02:00",
       "vendor": "Hardball Films",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58653476389128,
@@ -160718,7 +160728,9 @@
       "created_at": "2026-09-08T13:21:28+02:00",
       "vendor": "Hardball Films",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58649536594184,
@@ -183193,7 +183205,9 @@
       "created_at": "2026-08-26T15:05:52+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58549977678088,
