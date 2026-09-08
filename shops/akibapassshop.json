@@ -108728,7 +108728,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Auf Lager",
+        "Ausverkauft",
         "Dauersale",
         "Online"
       ],
@@ -108743,7 +108743,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "39.90",
           "grams": 620,
           "compare_at_price": "79.90",
@@ -160645,6 +160645,108 @@
           "product_id": 11920705093896,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/hellsing-gesamtausgabe-limited-edition-steelbook-blu-ray-limited-675.webp?v=1776695375",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12229642158344,
+      "title": "Good Luck Girl! - Vol. 1 - Limited Edition mit Steelcase & Sammelschuber (Blu-ray)",
+      "handle": "26hf006-good-luck-girl-vol-1-limited-steelcase-sammelschuber-bluray",
+      "published_at": "2026-09-08T16:17:48+02:00",
+      "created_at": "2026-09-08T15:38:20+02:00",
+      "vendor": "Hardball Films",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58653476389128,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26hf006",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "54.90",
+          "grams": 0,
+          "compare_at_price": "54.90",
+          "position": 1,
+          "product_id": 12229642158344,
+          "created_at": "2026-09-08T15:38:20+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86777670500616,
+          "created_at": "2026-09-08T16:34:21+02:00",
+          "position": 1,
+          "product_id": 12229642158344,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/good-luck-girl-vol-1-limited-edition-steelcase-sammelschuber-blu-468.webp?v=1788878061",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12229253071112,
+      "title": "Good Luck Girl! - Vol. 2 - Limited Edition mit Steelcase (Blu-ray)",
+      "handle": "26hf007-good-luck-girl-vol-2-limited-steelcase-bluray",
+      "published_at": "2026-09-08T16:18:58+02:00",
+      "created_at": "2026-09-08T13:21:28+02:00",
+      "vendor": "Hardball Films",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58649536594184,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26hf007",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "49.90",
+          "grams": 0,
+          "compare_at_price": "49.90",
+          "position": 1,
+          "product_id": 12229253071112,
+          "created_at": "2026-09-08T13:21:28+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86777612894472,
+          "created_at": "2026-09-08T16:26:14+02:00",
+          "position": 1,
+          "product_id": 12229253071112,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/good-luck-girl-vol-2-limited-edition-steelcase-blu-ray-limited-309.webp?v=1788877574",
           "width": 2500,
           "height": 2500
         }
