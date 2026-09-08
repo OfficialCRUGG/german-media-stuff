@@ -161671,6 +161671,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -199060,7 +199061,9 @@
       "created_at": "2026-07-29T15:30:38+02:00",
       "vendor": "polyband anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58323615449352,
