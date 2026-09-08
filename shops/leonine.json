@@ -3053,8 +3053,7 @@
       "tags": [
         "Avatar",
         "Disney",
-        "Filme",
-        "Neuheiten"
+        "Filme"
       ],
       "variants": [
         {
@@ -3070,7 +3069,7 @@
           "available": true,
           "price": "39.99",
           "grams": 200,
-          "compare_at_price": "0.00",
+          "compare_at_price": null,
           "position": 1,
           "product_id": 8116784037941,
           "created_at": "2026-04-23T12:28:10+02:00"
@@ -18555,8 +18554,7 @@
       "tags": [
         "Blu-ray",
         "Filme & Serien",
-        "Komödie & Drama",
-        "Neuheiten"
+        "Komödie & Drama"
       ],
       "variants": [
         {
@@ -18572,7 +18570,7 @@
           "available": true,
           "price": "17.99",
           "grams": 0,
-          "compare_at_price": "0.00",
+          "compare_at_price": null,
           "position": 1,
           "product_id": 8109857079349,
           "created_at": "2026-04-14T13:49:26+02:00"
@@ -22127,7 +22125,6 @@
         "blu-ray",
         "bluray",
         "Disney",
-        "Neuheiten",
         "Pixar"
       ],
       "variants": [
@@ -22193,7 +22190,6 @@
       "tags": [
         "4K UHD",
         "Disney",
-        "Neuheiten",
         "Pixar",
         "Steelbooks"
       ],
@@ -35118,8 +35114,7 @@
       "tags": [
         "Blu-ray",
         "Filme & Serien",
-        "Horror",
-        "Neuheiten"
+        "Horror"
       ],
       "variants": [
         {
@@ -35184,8 +35179,7 @@
       "tags": [
         "Blu-ray",
         "collector",
-        "Filme",
-        "Neuheiten"
+        "Filme"
       ],
       "variants": [
         {
@@ -35845,7 +35839,6 @@
         "Blu-ray",
         "Filme & Serien",
         "Horror",
-        "Neuheiten",
         "Steelbook"
       ],
       "variants": [
