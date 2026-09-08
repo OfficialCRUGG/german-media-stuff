@@ -40895,6 +40895,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime",
         "Sport"
@@ -55174,6 +55175,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Frisch eingetroffen",
         "Mystery",
         "Online",
@@ -55251,6 +55253,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Frisch eingetroffen",
         "Mystery",
         "Online",
@@ -57453,6 +57456,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -82819,6 +82823,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Ausverkauft",
         "Crunchyroll",
         "Online",
         "Shounen"
@@ -103462,6 +103467,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -154036,6 +154042,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -158741,7 +158748,9 @@
       "created_at": "2026-08-25T17:17:39+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58536258371848,
@@ -159658,7 +159667,9 @@
       "created_at": "2026-08-25T17:20:20+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58536271413512,
@@ -173730,6 +173741,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -189949,6 +189961,7 @@
       "product_type": "Gift",
       "tags": [
         "__hidden",
+        "Auf Lager",
         "bonsai_excluded",
         "Click&Collect",
         "Exclude From Back In Stock",
@@ -190019,6 +190032,7 @@
       "product_type": "Gift",
       "tags": [
         "__hidden",
+        "Auf Lager",
         "bonsai_excluded",
         "Click&Collect",
         "Exclude From Back In Stock",
@@ -190865,7 +190879,9 @@
       "created_at": "2026-08-06T10:37:40+02:00",
       "vendor": "Hardball Films",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58377446621448,
@@ -208406,6 +208422,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online",
         "sale-august-2026"
       ],
