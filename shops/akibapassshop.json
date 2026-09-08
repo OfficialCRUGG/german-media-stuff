@@ -189459,7 +189459,7 @@
       "product_type": "Gift",
       "tags": [
         "__hidden",
-        "Auf Lager",
+        "Ausverkauft",
         "bonsai_excluded",
         "Click&Collect",
         "Exclude From Back In Stock",
@@ -189490,7 +189490,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.00",
           "grams": 50,
           "compare_at_price": "0.00",
@@ -216238,7 +216238,9 @@
       "created_at": "2026-07-30T16:41:28+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58330196181256,
@@ -216342,7 +216344,9 @@
       "created_at": "2026-07-30T16:42:05+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58330198376712,
