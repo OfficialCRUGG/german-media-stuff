@@ -138763,6 +138763,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime",
         "sale-august-2026",
@@ -138820,6 +138821,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Click&Collect",
         "Online",
         "peppermint anime",
@@ -152876,6 +152878,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Ausverkauft",
         "Online"
       ],
       "variants": [
@@ -188922,7 +188925,7 @@
       "product_type": "Gift",
       "tags": [
         "__hidden",
-        "Ausverkauft",
+        "Auf Lager",
         "bonsai_excluded",
         "Click&Collect",
         "Exclude From Back In Stock",
@@ -188953,7 +188956,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.00",
           "grams": 50,
           "compare_at_price": "0.00",
@@ -215129,6 +215132,7 @@
       "vendor": "peppermint anime",
       "product_type": "singleton_gift",
       "tags": [
+        "Auf Lager",
         "Online",
         "singleton_gift"
       ],
