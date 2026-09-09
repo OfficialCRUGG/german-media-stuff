@@ -35643,6 +35643,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Auf Lager",
         "Dauersale",
         "Frisch eingetroffen",
         "Online",
@@ -55350,6 +55351,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Dauersale",
         "Online"
       ],
@@ -55488,6 +55490,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Dauersale",
         "Online"
       ],
@@ -55626,6 +55629,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Dauersale",
         "Online"
       ],
@@ -121992,6 +121996,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Ausverkauft",
         "Crunchyroll",
         "Online"
       ],
@@ -122006,7 +122011,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "119.90",
           "grams": 230,
           "compare_at_price": "119.90",
@@ -127404,6 +127409,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -200029,6 +200035,7 @@
       "product_type": "",
       "tags": [
         "AnimagiC2026",
+        "Auf Lager",
         "Online",
         "warenpost"
       ],
@@ -200466,6 +200473,7 @@
       "product_type": "",
       "tags": [
         "AnimagiC2026",
+        "Ausverkauft",
         "Online"
       ],
       "variants": [
@@ -200479,7 +200487,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "14.90",
           "grams": 0,
           "compare_at_price": "14.90",
