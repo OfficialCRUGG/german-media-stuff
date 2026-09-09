@@ -187194,7 +187194,7 @@
       "vendor": "peppermint anime",
       "product_type": "singleton_gift",
       "tags": [
-        "Auf Lager",
+        "Ausverkauft",
         "Click&Collect",
         "Online"
       ],
@@ -187209,7 +187209,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.00",
           "grams": 50,
           "compare_at_price": "0.00",
@@ -189706,7 +189706,7 @@
       "product_type": "Gift",
       "tags": [
         "__hidden",
-        "Auf Lager",
+        "Ausverkauft",
         "bonsai_excluded",
         "Click&Collect",
         "Exclude From Back In Stock",
@@ -189737,7 +189737,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.00",
           "grams": 50,
           "compare_at_price": "0.00",
