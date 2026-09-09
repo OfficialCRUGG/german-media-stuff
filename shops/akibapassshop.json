@@ -159045,7 +159045,9 @@
       "created_at": "2026-08-25T17:19:50+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58536269971720,
@@ -159147,7 +159149,9 @@
       "created_at": "2026-08-25T17:11:55+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58536217018632,
@@ -159510,7 +159514,9 @@
       "created_at": "2026-08-25T17:18:32+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58536262336776,
