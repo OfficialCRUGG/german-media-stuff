@@ -113540,6 +113540,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Auf Lager",
         "Crunchyroll",
         "Frisch eingetroffen",
         "Online"
@@ -133735,6 +133736,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -135116,6 +135118,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -187316,7 +187319,9 @@
       "created_at": "2026-08-06T10:18:24+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58377324462344,
