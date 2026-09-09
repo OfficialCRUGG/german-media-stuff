@@ -158366,7 +158366,9 @@
       "created_at": "2026-08-25T17:15:10+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58536245821704,
@@ -161793,6 +161795,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Ausverkauft",
         "Online"
       ],
       "variants": [
