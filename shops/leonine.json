@@ -46762,7 +46762,7 @@
           "available": true,
           "price": "29.99",
           "grams": 500,
-          "compare_at_price": "0.00",
+          "compare_at_price": null,
           "position": 1,
           "product_id": 8004107206709,
           "created_at": "2025-12-03T08:59:20+01:00"
