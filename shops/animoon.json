@@ -43692,6 +43692,318 @@
       ]
     },
     {
+      "id": 15671879663881,
+      "title": "T-Shirt \"Toradora!\"",
+      "handle": "t-shirt-toradora",
+      "published_at": "2026-09-10T14:24:52+02:00",
+      "created_at": "2026-09-10T14:16:19+02:00",
+      "vendor": "AniMoon Shop",
+      "product_type": "",
+      "tags": [
+        "merch",
+        "merch-highlight",
+        "released",
+        "shirt",
+        "toradora"
+      ],
+      "variants": [
+        {
+          "id": 57320106393865,
+          "title": "S",
+          "option1": "S",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 81513694331145,
+            "product_id": 15671879663881,
+            "position": 1,
+            "created_at": "2026-09-10T14:18:58+02:00",
+            "updated_at": "2026-09-10T14:19:01+02:00",
+            "alt": null,
+            "width": 1848,
+            "height": 1848,
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Toradora-T-Shirt.png?v=1789042741",
+            "variant_ids": [
+              57320106393865,
+              57320106426633,
+              57320106459401,
+              57320106492169,
+              57320106524937,
+              57320106557705,
+              57320106590473
+            ]
+          },
+          "available": true,
+          "price": "29.99",
+          "grams": 300,
+          "compare_at_price": "27.99",
+          "position": 1,
+          "product_id": 15671879663881,
+          "created_at": "2026-09-10T14:16:19+02:00"
+        },
+        {
+          "id": 57320106426633,
+          "title": "M",
+          "option1": "M",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 81513694331145,
+            "product_id": 15671879663881,
+            "position": 1,
+            "created_at": "2026-09-10T14:18:58+02:00",
+            "updated_at": "2026-09-10T14:19:01+02:00",
+            "alt": null,
+            "width": 1848,
+            "height": 1848,
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Toradora-T-Shirt.png?v=1789042741",
+            "variant_ids": [
+              57320106393865,
+              57320106426633,
+              57320106459401,
+              57320106492169,
+              57320106524937,
+              57320106557705,
+              57320106590473
+            ]
+          },
+          "available": true,
+          "price": "29.99",
+          "grams": 300,
+          "compare_at_price": "27.99",
+          "position": 2,
+          "product_id": 15671879663881,
+          "created_at": "2026-09-10T14:16:19+02:00"
+        },
+        {
+          "id": 57320106459401,
+          "title": "L",
+          "option1": "L",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 81513694331145,
+            "product_id": 15671879663881,
+            "position": 1,
+            "created_at": "2026-09-10T14:18:58+02:00",
+            "updated_at": "2026-09-10T14:19:01+02:00",
+            "alt": null,
+            "width": 1848,
+            "height": 1848,
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Toradora-T-Shirt.png?v=1789042741",
+            "variant_ids": [
+              57320106393865,
+              57320106426633,
+              57320106459401,
+              57320106492169,
+              57320106524937,
+              57320106557705,
+              57320106590473
+            ]
+          },
+          "available": true,
+          "price": "29.99",
+          "grams": 300,
+          "compare_at_price": "27.99",
+          "position": 3,
+          "product_id": 15671879663881,
+          "created_at": "2026-09-10T14:16:19+02:00"
+        },
+        {
+          "id": 57320106492169,
+          "title": "XL",
+          "option1": "XL",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 81513694331145,
+            "product_id": 15671879663881,
+            "position": 1,
+            "created_at": "2026-09-10T14:18:58+02:00",
+            "updated_at": "2026-09-10T14:19:01+02:00",
+            "alt": null,
+            "width": 1848,
+            "height": 1848,
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Toradora-T-Shirt.png?v=1789042741",
+            "variant_ids": [
+              57320106393865,
+              57320106426633,
+              57320106459401,
+              57320106492169,
+              57320106524937,
+              57320106557705,
+              57320106590473
+            ]
+          },
+          "available": true,
+          "price": "29.99",
+          "grams": 300,
+          "compare_at_price": "27.99",
+          "position": 4,
+          "product_id": 15671879663881,
+          "created_at": "2026-09-10T14:16:19+02:00"
+        },
+        {
+          "id": 57320106524937,
+          "title": "2XL",
+          "option1": "2XL",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 81513694331145,
+            "product_id": 15671879663881,
+            "position": 1,
+            "created_at": "2026-09-10T14:18:58+02:00",
+            "updated_at": "2026-09-10T14:19:01+02:00",
+            "alt": null,
+            "width": 1848,
+            "height": 1848,
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Toradora-T-Shirt.png?v=1789042741",
+            "variant_ids": [
+              57320106393865,
+              57320106426633,
+              57320106459401,
+              57320106492169,
+              57320106524937,
+              57320106557705,
+              57320106590473
+            ]
+          },
+          "available": true,
+          "price": "29.99",
+          "grams": 300,
+          "compare_at_price": "27.99",
+          "position": 5,
+          "product_id": 15671879663881,
+          "created_at": "2026-09-10T14:16:19+02:00"
+        },
+        {
+          "id": 57320106557705,
+          "title": "3XL",
+          "option1": "3XL",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 81513694331145,
+            "product_id": 15671879663881,
+            "position": 1,
+            "created_at": "2026-09-10T14:18:58+02:00",
+            "updated_at": "2026-09-10T14:19:01+02:00",
+            "alt": null,
+            "width": 1848,
+            "height": 1848,
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Toradora-T-Shirt.png?v=1789042741",
+            "variant_ids": [
+              57320106393865,
+              57320106426633,
+              57320106459401,
+              57320106492169,
+              57320106524937,
+              57320106557705,
+              57320106590473
+            ]
+          },
+          "available": true,
+          "price": "29.99",
+          "grams": 300,
+          "compare_at_price": "27.99",
+          "position": 6,
+          "product_id": 15671879663881,
+          "created_at": "2026-09-10T14:16:19+02:00"
+        },
+        {
+          "id": 57320106590473,
+          "title": "4XL",
+          "option1": "4XL",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 81513694331145,
+            "product_id": 15671879663881,
+            "position": 1,
+            "created_at": "2026-09-10T14:18:58+02:00",
+            "updated_at": "2026-09-10T14:19:01+02:00",
+            "alt": null,
+            "width": 1848,
+            "height": 1848,
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Toradora-T-Shirt.png?v=1789042741",
+            "variant_ids": [
+              57320106393865,
+              57320106426633,
+              57320106459401,
+              57320106492169,
+              57320106524937,
+              57320106557705,
+              57320106590473
+            ]
+          },
+          "available": true,
+          "price": "29.99",
+          "grams": 300,
+          "compare_at_price": "27.99",
+          "position": 7,
+          "product_id": 15671879663881,
+          "created_at": "2026-09-10T14:16:19+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 81513694331145,
+          "created_at": "2026-09-10T14:18:58+02:00",
+          "position": 1,
+          "product_id": 15671879663881,
+          "variant_ids": [
+            57320106393865,
+            57320106426633,
+            57320106459401,
+            57320106492169,
+            57320106524937,
+            57320106557705,
+            57320106590473
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Toradora-T-Shirt.png?v=1789042741",
+          "width": 1848,
+          "height": 1848
+        }
+      ],
+      "options": [
+        {
+          "name": "Größe auswählen:",
+          "position": 1,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL",
+            "3XL",
+            "4XL"
+          ]
+        }
+      ]
+    },
+    {
       "id": 15271198294281,
       "title": "The Café Terrace and its Goddesses - Staffel 1",
       "handle": "the-cafe-terrace-and-its-goddesses-vol-1",

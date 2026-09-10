@@ -107018,6 +107018,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime"
       ],
@@ -107094,6 +107095,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime"
       ],
@@ -107170,6 +107172,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime"
       ],
@@ -107184,7 +107187,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "14.90",
           "grams": 110,
           "compare_at_price": "43.90",
@@ -107246,7 +107249,7 @@
       "tags": [
         "Action",
         "Anime",
-        "Auf Lager",
+        "Ausverkauft",
         "Online",
         "peppermint anime"
       ],
@@ -107261,7 +107264,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "14.90",
           "grams": 110,
           "compare_at_price": "43.90",
@@ -161735,6 +161738,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -173642,6 +173646,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -213359,7 +213364,9 @@
       "created_at": "2026-07-01T16:38:04+02:00",
       "vendor": "KSM Anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Auf Lager"
+      ],
       "variants": [
         {
           "id": 58124927336712,
