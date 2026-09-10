@@ -172379,6 +172379,61 @@
       ]
     },
     {
+      "id": 10426316161288,
+      "title": "Eyeshield21 - Vol. 3 (Blu-ray)",
+      "handle": "26p01-03-eyeshield21-bluray",
+      "published_at": "2026-09-10T19:15:55+02:00",
+      "created_at": "2025-07-23T16:54:43+02:00",
+      "vendor": "peppermint anime",
+      "product_type": "",
+      "tags": [
+        "AnimagiC2025",
+        "Dauersale",
+        "Online"
+      ],
+      "variants": [
+        {
+          "id": 52027837710600,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26p01-03",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "47.40",
+          "grams": 140,
+          "compare_at_price": "49.90",
+          "position": 1,
+          "product_id": 10426316161288,
+          "created_at": "2025-07-23T16:54:43+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 79190715891976,
+          "created_at": "2026-03-03T10:35:00+01:00",
+          "position": 1,
+          "product_id": 10426316161288,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/eyeshield21-vol-3-blu-ray-standard-edition-peppermint-anime-252.webp?v=1772530500",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 10426330284296,
       "title": "Eyeshield21 - Vol. 4 (Blu-ray)",
       "handle": "26p01-04-eyeshield21-bluray",
@@ -172418,6 +172473,60 @@
           "product_id": 10426330284296,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/eyeshield21-vol-4-blu-ray-standard-edition-peppermint-anime-914.webp?v=1776413180",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10426339066120,
+      "title": "Eyeshield21 - Vol. 5 (Blu-ray)",
+      "handle": "26p01-05-eyeshield21-bluray",
+      "published_at": "2026-09-10T19:17:12+02:00",
+      "created_at": "2025-07-23T17:11:16+02:00",
+      "vendor": "peppermint anime",
+      "product_type": "",
+      "tags": [
+        "AnimagiC2025",
+        "Online"
+      ],
+      "variants": [
+        {
+          "id": 52027886403848,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26p01-05",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "47.40",
+          "grams": 140,
+          "compare_at_price": "49.90",
+          "position": 1,
+          "product_id": 10426339066120,
+          "created_at": "2025-07-23T17:11:16+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 84496554393864,
+          "created_at": "2026-05-21T11:06:20+02:00",
+          "position": 1,
+          "product_id": 10426339066120,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/eyeshield21-vol-5-blu-ray-standard-edition-peppermint-anime-881.webp?v=1779354380",
           "width": 2500,
           "height": 2500
         }
