@@ -159316,7 +159316,9 @@
       "created_at": "2026-08-25T17:14:39+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58536242774280,
@@ -185658,7 +185660,9 @@
       "created_at": "2026-08-06T09:51:39+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58377113108744,
