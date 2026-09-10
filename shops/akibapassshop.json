@@ -161567,6 +161567,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -164008,6 +164009,7 @@
       "vendor": "Leonine Anime",
       "product_type": "",
       "tags": [
+        "Ausverkauft",
         "Online"
       ],
       "variants": [
@@ -164021,7 +164023,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "24.90",
           "grams": 80,
           "compare_at_price": "24.90",
@@ -174175,6 +174177,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online",
         "sale-august-2026"
       ],
@@ -176056,7 +176059,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "39.90",
           "grams": 222,
           "compare_at_price": "39.90",
