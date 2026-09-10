@@ -41232,7 +41232,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "14.99",
           "grams": 400,
           "compare_at_price": "19.99",
