@@ -3671,6 +3671,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Dauersale",
         "Frisch eingetroffen",
         "Online",
@@ -3729,6 +3730,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Dauersale",
         "Frisch eingetroffen",
         "Online",
@@ -3846,6 +3848,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Dauersale",
         "Frisch eingetroffen",
         "Online",
@@ -3863,7 +3866,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "9.90",
           "grams": 100,
           "compare_at_price": "41.90",
@@ -4132,6 +4135,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Dauersale",
         "Online",
         "peppermint anime",
@@ -5491,6 +5495,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -5599,6 +5604,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime"
       ],
@@ -7994,6 +8000,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime",
         "Sport"
@@ -8009,7 +8016,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "19.90",
           "grams": 130,
           "compare_at_price": "36.90",
@@ -8060,6 +8067,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime",
         "Sport"
@@ -8075,7 +8083,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "19.90",
           "grams": 130,
           "compare_at_price": "36.90",
@@ -8182,6 +8190,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime",
         "Sport"
@@ -8558,6 +8567,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime",
         "Sport"
@@ -8624,6 +8634,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime",
         "Sport"
@@ -10514,6 +10525,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime",
         "Sport"
@@ -10570,6 +10582,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime",
         "Sport"
@@ -10680,6 +10693,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Ausverkauft",
         "Dauersale",
         "Online",
         "peppermint anime",
@@ -10736,6 +10750,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Ausverkauft",
         "Dauersale",
         "Online"
       ],
@@ -10791,6 +10806,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Ausverkauft",
         "Dauersale",
         "Online",
         "peppermint anime",
@@ -11686,6 +11702,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Ausverkauft",
         "Online"
       ],
       "variants": [
@@ -11740,6 +11757,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Ausverkauft",
         "Drama",
         "Online",
         "peppermint anime"
@@ -11796,6 +11814,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime",
         "Sport"
@@ -31058,6 +31077,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Comedy",
         "Dauersale",
         "Online",
@@ -31709,6 +31729,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Auf Lager",
         "Dauersale",
         "Online",
         "peppermint anime"
@@ -32103,6 +32124,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime"
       ],
@@ -32167,6 +32189,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -32453,6 +32476,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Frisch eingetroffen",
         "Online",
         "peppermint anime",
@@ -32469,7 +32493,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "9.90",
           "grams": 100,
           "compare_at_price": "39.90",
@@ -32510,6 +32534,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime",
         "Sport"
@@ -33433,6 +33458,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Dauersale",
         "Magical Girl",
         "Online",
@@ -33490,6 +33516,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Dauersale",
         "Magical Girl",
         "Online",
@@ -33547,6 +33574,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Dauersale",
         "Magical Girl",
         "Online",
@@ -33604,6 +33632,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Dauersale",
         "Magical Girl",
         "Online",
@@ -33718,6 +33747,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Dauersale",
         "Magical Girl",
         "Online",
@@ -33854,6 +33884,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime"
       ],
@@ -37400,6 +37431,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Dauersale",
         "Frisch eingetroffen",
         "Online",
@@ -37545,6 +37577,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime"
       ],
@@ -37935,6 +37968,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime"
       ],
@@ -38001,6 +38035,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime"
       ],
@@ -38132,6 +38167,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Comedy",
         "Online",
         "peppermint anime"
@@ -39185,6 +39221,7 @@
       "tags": [
         "Adventure",
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime"
       ],
@@ -39383,6 +39420,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime"
       ],
@@ -41180,7 +41218,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "9.90",
           "grams": 100,
           "compare_at_price": "39.90",
@@ -41313,7 +41351,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "9.90",
           "grams": 100,
           "compare_at_price": "39.90",
@@ -41364,6 +41402,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Ausverkauft",
         "Online",
         "peppermint anime",
         "Sport"
@@ -42362,6 +42401,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime"
       ],
@@ -44087,7 +44127,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "49.90",
           "grams": 410,
           "compare_at_price": "99.90",
@@ -44242,6 +44282,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Frisch eingetroffen",
         "Online",
         "peppermint anime",
@@ -53627,6 +53668,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime",
         "sale-august-2026"
@@ -57221,7 +57263,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "19.90",
           "grams": 400,
           "compare_at_price": "54.90",
@@ -68782,6 +68824,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Frühstücksbrettchen",
         "Online",
         "Schneidebrett",
@@ -68894,6 +68937,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Ausverkauft",
         "Frühstücksbrettchen",
         "Online",
         "sale-august-2026",
@@ -70837,7 +70881,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "9.90",
           "grams": 90,
           "compare_at_price": "26.90",
@@ -70888,6 +70932,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime",
         "sale-august-2026",
@@ -71111,6 +71156,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime",
         "sale-august-2026",
@@ -71492,6 +71538,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime"
       ],
@@ -71568,6 +71615,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime"
       ],
@@ -71863,6 +71911,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Fantasy",
         "Online",
         "peppermint anime",
@@ -71941,6 +71990,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Fantasy",
         "Online",
         "peppermint anime",
@@ -101748,6 +101798,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Ausverkauft",
         "Online",
         "Schlüsselanhänger",
         "warenpost"
@@ -101813,6 +101864,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online",
         "Schlüsselanhänger",
         "warenpost"
@@ -101878,6 +101930,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online",
         "Schlüsselanhänger",
         "warenpost"
@@ -101943,6 +101996,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online",
         "Schlüsselanhänger",
         "warenpost"
@@ -104478,6 +104532,7 @@
       "product_type": "",
       "tags": [
         "Acrylaufsteller",
+        "Ausverkauft",
         "Dauersale",
         "Online",
         "warenpost"
@@ -107327,6 +107382,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime",
         "Romance",
@@ -107384,6 +107440,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime",
         "Romance",
@@ -107613,6 +107670,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Comedy",
         "Online",
         "peppermint anime"
@@ -107689,6 +107747,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Comedy",
         "Online",
         "peppermint anime"
@@ -107900,6 +107959,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Fantasy",
         "Online",
         "peppermint anime",
@@ -107966,6 +108026,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -108029,6 +108090,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -108136,6 +108198,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -108338,6 +108401,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Ausverkauft",
         "Frisch eingetroffen",
         "Online",
         "peppermint anime",
@@ -108406,6 +108470,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Auf Lager",
         "Frisch eingetroffen",
         "Online",
         "peppermint anime",
@@ -108552,6 +108617,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime",
         "Romance",
@@ -108727,6 +108793,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Ausverkauft",
         "Online"
       ],
       "variants": [
@@ -108856,6 +108923,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Comedy",
         "FSK18",
         "Online",
@@ -137272,6 +137340,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Digital",
         "Online"
       ],
@@ -137286,7 +137355,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.00",
           "grams": 0,
           "compare_at_price": "0.00",
@@ -138004,6 +138073,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime"
       ],
@@ -172309,6 +172379,60 @@
       ]
     },
     {
+      "id": 10426330284296,
+      "title": "Eyeshield21 - Vol. 4 (Blu-ray)",
+      "handle": "26p01-04-eyeshield21-bluray",
+      "published_at": "2026-09-10T18:58:19+02:00",
+      "created_at": "2025-07-23T17:05:43+02:00",
+      "vendor": "peppermint anime",
+      "product_type": "",
+      "tags": [
+        "AnimagiC2025",
+        "Online"
+      ],
+      "variants": [
+        {
+          "id": 52027867595016,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26p01-04",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "47.40",
+          "grams": 140,
+          "compare_at_price": "49.90",
+          "position": 1,
+          "product_id": 10426330284296,
+          "created_at": "2025-07-23T17:05:43+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 83310532624648,
+          "created_at": "2026-04-17T10:06:20+02:00",
+          "position": 1,
+          "product_id": 10426330284296,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/eyeshield21-vol-4-blu-ray-standard-edition-peppermint-anime-914.webp?v=1776413180",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 10426100384008,
       "title": "Call of the Night Season 2 - Vol. 1 (Blu-ray)",
       "handle": "26p02-01-call-of-the-night-season2-bluray",
@@ -173621,7 +173745,9 @@
       "created_at": "2026-08-06T12:26:28+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Auf Lager"
+      ],
       "variants": [
         {
           "id": 58378903421192,
@@ -187166,6 +187292,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Ausverkauft",
         "Magical Girl",
         "Online",
         "peppermint anime"
