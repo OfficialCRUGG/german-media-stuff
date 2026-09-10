@@ -7106,6 +7106,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Comedy",
         "Dauersale",
         "Online",
@@ -7163,6 +7164,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Comedy",
         "Dauersale",
         "Online",
@@ -7220,6 +7222,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Comedy",
         "Dauersale",
         "Online",
@@ -56581,6 +56584,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime"
       ],
@@ -84626,6 +84630,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Crunchyroll",
         "Online",
         "Romance"
@@ -127816,6 +127821,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Frisch eingetroffen",
         "Online"
       ],
@@ -161155,7 +161161,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "54.90",
           "grams": 250,
           "compare_at_price": "54.90",
