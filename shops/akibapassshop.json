@@ -158449,32 +158449,12 @@
       ],
       "images": [
         {
-          "id": 86801369104648,
-          "created_at": "2026-09-09T10:22:38+02:00",
+          "id": 86831839641864,
+          "created_at": "2026-09-10T10:36:46+02:00",
           "position": 1,
           "product_id": 12205900824840,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/a-silent-voice-limited-edition-steelbook-blu-ray-steelbook-edition-498.webp?v=1788942158",
-          "width": 2500,
-          "height": 2500
-        },
-        {
-          "id": 86801370972424,
-          "created_at": "2026-09-09T10:22:48+02:00",
-          "position": 2,
-          "product_id": 12205900824840,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/a-silent-voice-limited-edition-steelbook-blu-ray-steelbook-edition-828.webp?v=1788942168",
-          "width": 2500,
-          "height": 2500
-        },
-        {
-          "id": 86801373135112,
-          "created_at": "2026-09-09T10:22:55+02:00",
-          "position": 3,
-          "product_id": 12205900824840,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/a-silent-voice-limited-edition-steelbook-blu-ray-steelbook-edition-888.webp?v=1788942176",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/a-silent-voice-limited-edition-steelbook-blu-ray-steelbook-edition-955.webp?v=1789029406",
           "width": 2500,
           "height": 2500
         }
