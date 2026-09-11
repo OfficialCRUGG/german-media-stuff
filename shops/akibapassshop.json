@@ -48262,6 +48262,7 @@
       "vendor": "AKIBA PASS TV",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Digital",
         "Online"
       ],
@@ -48354,6 +48355,7 @@
       "vendor": "AKIBA PASS TV",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Digital",
         "Online"
       ],
@@ -50314,6 +50316,7 @@
       "vendor": "AKIBA PASS TV",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Digital",
         "Online"
       ],
@@ -50406,6 +50409,7 @@
       "vendor": "AKIBA PASS TV",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Digital",
         "Online"
       ],
@@ -62495,6 +62499,7 @@
       "vendor": "AKIBA PASS TV",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Digital",
         "Online"
       ],
@@ -134961,7 +134966,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "29.90",
           "grams": 220,
           "compare_at_price": "29.90",
@@ -161161,7 +161166,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "54.90",
           "grams": 250,
           "compare_at_price": "54.90",
