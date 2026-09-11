@@ -4397,7 +4397,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "19.99",
           "grams": 200,
           "compare_at_price": null,
@@ -4462,7 +4462,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "24.99",
           "grams": 200,
           "compare_at_price": null,
@@ -4800,7 +4800,7 @@
         "4KUHD",
         "Blu-Ray",
         "Disney",
-        "preorder"
+        "Neuheiten"
       ],
       "variants": [
         {
@@ -4867,7 +4867,7 @@
         "4KUHD",
         "Blu-Ray",
         "Disney",
-        "preorder",
+        "Neuheiten",
         "Steelbooks"
       ],
       "variants": [
@@ -28093,7 +28093,7 @@
         "Action & Thriller",
         "DVD",
         "Filme & Serien",
-        "preorder"
+        "Neuheiten"
       ],
       "variants": [
         {
@@ -30901,7 +30901,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "17.99",
           "grams": 200,
           "compare_at_price": null,
@@ -38166,6 +38166,194 @@
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/st8erstekontaktsbuhdbdexplodedpackshot3djpg-203418.jpg?v=1783410968",
           "width": 5100,
           "height": 3300
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8235782996021,
+      "title": "Star Trek 1-6 Lim. Steelbook Film-Collection 4K UHD + Blu-ray (12 Discs)",
+      "handle": "star-trek-1-6-lim-steelbook-film-collection-4k-uhd-blu-ray-12-discs",
+      "published_at": "2026-09-11T11:41:54+02:00",
+      "created_at": "2026-09-11T11:39:52+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "blu-ray",
+        "collector",
+        "Filme & Serien",
+        "preorder",
+        "Science-Fiction",
+        "Serien"
+      ],
+      "variants": [
+        {
+          "id": 45990395117621,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00750",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "199.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8235782996021,
+          "created_at": "2026-09-11T11:39:53+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38846179901493,
+          "created_at": "2026-09-11T11:40:40+02:00",
+          "position": 1,
+          "product_id": 8235782996021,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/exploded-white-bgmitfskpng-224975.png?v=1789119641",
+          "width": 2500,
+          "height": 2000
+        },
+        {
+          "id": 38846178885685,
+          "created_at": "2026-09-11T11:40:36+02:00",
+          "position": 2,
+          "product_id": 8235782996021,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/box-side-1png-224930.png?v=1789119638",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "id": 38846178394165,
+          "created_at": "2026-09-11T11:40:33+02:00",
+          "position": 3,
+          "product_id": 8235782996021,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/box-sidepng-224885.png?v=1789119634",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "id": 38846174101557,
+          "created_at": "2026-09-11T11:40:09+02:00",
+          "position": 4,
+          "product_id": 8235782996021,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/star-trek-3png-224638.png?v=1789119610",
+          "width": 1100,
+          "height": 1375
+        },
+        {
+          "id": 38846175051829,
+          "created_at": "2026-09-11T11:40:12+02:00",
+          "position": 5,
+          "product_id": 8235782996021,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/star-trek-4-rckseitepngpng-224659.png?v=1789119614",
+          "width": 1100,
+          "height": 1375
+        },
+        {
+          "id": 38846176034869,
+          "created_at": "2026-09-11T11:40:17+02:00",
+          "position": 6,
+          "product_id": 8235782996021,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/star-trek-4png-224704.png?v=1789119618",
+          "width": 1100,
+          "height": 1375
+        },
+        {
+          "id": 38846176952373,
+          "created_at": "2026-09-11T11:40:21+02:00",
+          "position": 7,
+          "product_id": 8235782996021,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/star-trek-5png-224750.png?v=1789119622",
+          "width": 1100,
+          "height": 1375
+        },
+        {
+          "id": 38846177476661,
+          "created_at": "2026-09-11T11:40:24+02:00",
+          "position": 8,
+          "product_id": 8235782996021,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/star-trek-6-rckseitepng-224795.png?v=1789119626",
+          "width": 1100,
+          "height": 1375
+        },
+        {
+          "id": 38846177935413,
+          "created_at": "2026-09-11T11:40:29+02:00",
+          "position": 9,
+          "product_id": 8235782996021,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/star-trek-6png-224840.png?v=1789119630",
+          "width": 1100,
+          "height": 1375
+        },
+        {
+          "id": 38846180425781,
+          "created_at": "2026-09-11T11:40:44+02:00",
+          "position": 10,
+          "product_id": 8235782996021,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/star-trek-1-rckseitepng-225020.png?v=1789119646",
+          "width": 1100,
+          "height": 1375
+        },
+        {
+          "id": 38846182752309,
+          "created_at": "2026-09-11T11:40:54+02:00",
+          "position": 11,
+          "product_id": 8235782996021,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/star-trek-1png-225065.png?v=1789119655",
+          "width": 1100,
+          "height": 1375
+        },
+        {
+          "id": 38846183374901,
+          "created_at": "2026-09-11T11:40:57+02:00",
+          "position": 12,
+          "product_id": 8235782996021,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/star-trek-2-rckseitepng-225110.png?v=1789119659",
+          "width": 1100,
+          "height": 1375
+        },
+        {
+          "id": 38846184292405,
+          "created_at": "2026-09-11T11:41:01+02:00",
+          "position": 13,
+          "product_id": 8235782996021,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/star-trek-2png-225155.png?v=1789119662",
+          "width": 1100,
+          "height": 1375
+        },
+        {
+          "id": 38846184947765,
+          "created_at": "2026-09-11T11:41:04+02:00",
+          "position": 14,
+          "product_id": 8235782996021,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/star-trek-3-rckseitepng-225200.png?v=1789119666",
+          "width": 1100,
+          "height": 1375
         }
       ],
       "options": [
@@ -47690,6 +47878,133 @@
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/Vaiana_2_BD_Bluray_4061229514019_3D.72dpi.jpg?v=1739456305",
           "width": 1223,
           "height": 1752
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8235133468725,
+      "title": "Vaiana (Live Action)",
+      "handle": "vaiana-live-action",
+      "published_at": "2026-09-11T11:47:38+02:00",
+      "created_at": "2026-09-10T08:56:12+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "DVD",
+      "tags": [
+        "Abenteuer & Family",
+        "Disney Kat",
+        "DVD",
+        "Filme",
+        "preorder"
+      ],
+      "variants": [
+        {
+          "id": 45986927738933,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00744",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "14.99",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8235133468725,
+          "created_at": "2026-09-10T08:56:12+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38834604572725,
+          "created_at": "2026-09-10T12:48:13+02:00",
+          "position": 1,
+          "product_id": 8235133468725,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/vaiana-live-actiondvdpackshot2dfrontrgb300dpijpg-223178.jpg?v=1789037296",
+          "width": 1527,
+          "height": 2156
+        },
+        {
+          "id": 38834605326389,
+          "created_at": "2026-09-10T12:48:18+02:00",
+          "position": 2,
+          "product_id": 8235133468725,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/vaiana-live-actiondvdpackshot3drgb300dpijpg-223223.jpg?v=1789037301",
+          "width": 1800,
+          "height": 2400
+        },
+        {
+          "id": 38834395119669,
+          "created_at": "2026-09-10T12:23:26+02:00",
+          "position": 3,
+          "product_id": 8235133468725,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/mna-t10028jpg-222143.jpg?v=1789035807",
+          "width": 4096,
+          "height": 1716
+        },
+        {
+          "id": 38834395578421,
+          "created_at": "2026-09-10T12:23:30+02:00",
+          "position": 4,
+          "product_id": 8235133468725,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/mna-t1-0004jpg-222188.jpg?v=1789035811",
+          "width": 4096,
+          "height": 1716
+        },
+        {
+          "id": 38834396135477,
+          "created_at": "2026-09-10T12:23:33+02:00",
+          "position": 5,
+          "product_id": 8235133468725,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/mna-tp2-0086756jpg-222233.jpg?v=1789035814",
+          "width": 3840,
+          "height": 1608
+        },
+        {
+          "id": 38834396495925,
+          "created_at": "2026-09-10T12:23:36+02:00",
+          "position": 6,
+          "product_id": 8235133468725,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/mna-tp2-0087943jpg-222278.jpg?v=1789035818",
+          "width": 3840,
+          "height": 1608
+        },
+        {
+          "id": 38834397085749,
+          "created_at": "2026-09-10T12:23:40+02:00",
+          "position": 7,
+          "product_id": 8235133468725,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/mna-tp3-00086594jpg-222323.jpg?v=1789035822",
+          "width": 3840,
+          "height": 1608
+        },
+        {
+          "id": 38834397773877,
+          "created_at": "2026-09-10T12:23:45+02:00",
+          "position": 8,
+          "product_id": 8235133468725,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/mna-tp3-00089366jpg-222368.jpg?v=1789035826",
+          "width": 3840,
+          "height": 1608
         }
       ],
       "options": [
