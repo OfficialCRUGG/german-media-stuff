@@ -118452,6 +118452,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Auf Lager",
         "Crunchyroll",
         "Dauersale",
         "Online"
@@ -160433,6 +160434,7 @@
       "vendor": "Film Confect",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -175933,7 +175935,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Auf Lager",
+        "Ausverkauft",
         "Online"
       ],
       "variants": [
@@ -175947,7 +175949,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "79.90",
           "grams": 0,
           "compare_at_price": "79.90",
@@ -176210,6 +176212,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
