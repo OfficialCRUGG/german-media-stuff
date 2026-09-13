@@ -132901,6 +132901,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Auf Lager",
         "KSM Anime",
         "Online"
       ],
@@ -132915,7 +132916,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "49.90",
           "grams": 120,
           "compare_at_price": "49.90",
@@ -160640,6 +160641,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Click&Collect",
         "Online"
       ],
