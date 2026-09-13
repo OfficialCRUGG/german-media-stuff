@@ -77196,6 +77196,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Crunchyroll",
         "Online"
       ],
@@ -77210,7 +77211,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "9.90",
           "grams": 180,
           "compare_at_price": "34.90",
