@@ -138318,6 +138318,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime",
         "Sammelschuber"
@@ -159775,7 +159776,9 @@
       "created_at": "2026-08-25T17:19:40+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58536269611272,
@@ -205214,6 +205217,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Frisch eingetroffen",
         "Goodie",
         "OhneRabatt",
@@ -208652,6 +208656,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime"
       ],
