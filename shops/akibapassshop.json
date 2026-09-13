@@ -75665,6 +75665,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Crunchyroll",
         "Isekai",
         "Online"
@@ -78552,6 +78553,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Crunchyroll",
         "Isekai",
         "Online"
@@ -78567,7 +78569,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "24.90",
           "grams": 150,
           "compare_at_price": "39.90",
