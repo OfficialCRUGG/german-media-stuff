@@ -137309,7 +137309,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Auf Lager",
+        "Ausverkauft",
         "Digital",
         "Online"
       ],
@@ -137324,7 +137324,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.00",
           "grams": 0,
           "compare_at_price": "0.00",
@@ -157031,7 +157031,9 @@
       "created_at": "2026-07-07T12:59:33+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58174872256776,
@@ -157043,7 +157045,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "39.90",
           "grams": 258,
           "compare_at_price": "39.90",
@@ -190470,6 +190472,7 @@
       "product_type": "Gift",
       "tags": [
         "__hidden",
+        "Auf Lager",
         "bonsai_excluded",
         "Exclude From Back In Stock",
         "exclude_rebuy",
