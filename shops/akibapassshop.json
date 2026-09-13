@@ -85215,10 +85215,10 @@
       "tags": [
         "Action",
         "Anime",
-        "Auf Lager",
         "Crunchyroll",
         "Online",
-        "Seinen"
+        "Seinen",
+        "vorbestellen"
       ],
       "variants": [
         {
@@ -85231,7 +85231,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "49.90",
           "grams": 0,
           "compare_at_price": "64.90",
