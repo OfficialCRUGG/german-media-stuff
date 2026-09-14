@@ -34043,7 +34043,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "9.90",
           "grams": 100,
           "compare_at_price": "39.90",
@@ -77216,7 +77216,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "9.90",
           "grams": 180,
           "compare_at_price": "34.90",
@@ -78573,7 +78573,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "24.90",
           "grams": 150,
           "compare_at_price": "39.90",
@@ -85223,10 +85223,10 @@
       "tags": [
         "Action",
         "Anime",
+        "Auf Lager",
         "Crunchyroll",
         "Online",
-        "Seinen",
-        "vorbestellen"
+        "Seinen"
       ],
       "variants": [
         {
@@ -85239,7 +85239,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "49.90",
           "grams": 0,
           "compare_at_price": "64.90",
@@ -109809,6 +109809,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Ausverkauft",
         "Crunchyroll",
         "Online"
       ],
@@ -109823,7 +109824,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "49.90",
           "grams": 430,
           "compare_at_price": "69.90",
@@ -205644,7 +205645,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "34.90",
           "grams": 180,
           "compare_at_price": "34.90",
