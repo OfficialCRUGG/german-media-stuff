@@ -17949,6 +17949,7 @@
       "vendor": "Import Ware",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Dauersale",
         "Online",
         "Sticker",
@@ -124557,7 +124558,7 @@
           "featured_image": null,
           "available": false,
           "price": "69.90",
-          "grams": 0,
+          "grams": 157,
           "compare_at_price": "69.90",
           "position": 1,
           "product_id": 10270983258376,
@@ -143563,6 +143564,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Ausverkauft",
         "Online"
       ],
       "variants": [
@@ -155061,7 +155063,7 @@
           "featured_image": null,
           "available": false,
           "price": "39.90",
-          "grams": 0,
+          "grams": 169,
           "compare_at_price": "39.90",
           "position": 1,
           "product_id": 11122716868872,
@@ -156129,7 +156131,7 @@
           "featured_image": null,
           "available": true,
           "price": "69.90",
-          "grams": 0,
+          "grams": 165,
           "compare_at_price": "69.90",
           "position": 1,
           "product_id": 11979255054600,
@@ -156818,7 +156820,7 @@
           "featured_image": null,
           "available": false,
           "price": "99.90",
-          "grams": 0,
+          "grams": 1050,
           "compare_at_price": "139.90",
           "position": 1,
           "product_id": 12046811463944,
@@ -156920,7 +156922,7 @@
           "featured_image": null,
           "available": true,
           "price": "99.90",
-          "grams": 0,
+          "grams": 1054,
           "compare_at_price": "99.90",
           "position": 1,
           "product_id": 12046811496712,
@@ -173854,7 +173856,9 @@
       "created_at": "2026-09-11T18:27:12+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58705106272520,
