@@ -157139,7 +157139,7 @@
           "featured_image": null,
           "available": true,
           "price": "79.90",
-          "grams": 0,
+          "grams": 290,
           "compare_at_price": "79.90",
           "position": 1,
           "product_id": 12088349589768,
@@ -157431,7 +157431,7 @@
           "featured_image": null,
           "available": true,
           "price": "44.90",
-          "grams": 0,
+          "grams": 215,
           "compare_at_price": "44.90",
           "position": 1,
           "product_id": 12088407982344,
@@ -157588,7 +157588,7 @@
           "featured_image": null,
           "available": true,
           "price": "79.90",
-          "grams": 0,
+          "grams": 432,
           "compare_at_price": "79.90",
           "position": 1,
           "product_id": 12088458445064,
@@ -157955,7 +157955,9 @@
       "created_at": "2026-08-06T11:40:49+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58378577608968,
@@ -162203,7 +162205,9 @@
       "created_at": "2026-08-24T16:45:40+02:00",
       "vendor": "KSM Anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58524974219528,
@@ -162356,7 +162360,9 @@
       "created_at": "2026-08-24T16:41:32+02:00",
       "vendor": "KSM Anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58524923855112,
@@ -173841,6 +173847,77 @@
       ]
     },
     {
+      "id": 12242055135496,
+      "title": "Godzilla Minus One – Glow-in-the-dark Steelbook Edition (Blu-ray)",
+      "handle": "26p80-godzilla-minus-one-glow-steelbook-bluray",
+      "published_at": "2026-09-14T11:57:27+02:00",
+      "created_at": "2026-09-11T18:27:12+02:00",
+      "vendor": "peppermint anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58705106272520,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26p80",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "49.90",
+          "grams": 0,
+          "compare_at_price": "49.90",
+          "position": 1,
+          "product_id": 12242055135496,
+          "created_at": "2026-09-11T18:27:12+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86900011925768,
+          "created_at": "2026-09-14T10:52:26+02:00",
+          "position": 1,
+          "product_id": 12242055135496,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/godzilla-minus-one-glow-the-dark-steelbook-edition-blu-ray-629.webp?v=1789375946",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 86900015333640,
+          "created_at": "2026-09-14T10:52:37+02:00",
+          "position": 2,
+          "product_id": 12242055135496,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/godzilla-minus-one-glow-the-dark-steelbook-edition-blu-ray-516.webp?v=1789375957",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 86900017561864,
+          "created_at": "2026-09-14T10:52:46+02:00",
+          "position": 3,
+          "product_id": 12242055135496,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/godzilla-minus-one-glow-the-dark-steelbook-edition-blu-ray-564.webp?v=1789375966",
+          "width": 1617,
+          "height": 1993
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 12155693072648,
       "title": "Steins;Gate 0 - Gesamtausgabe - Bundle mit Vol 1-4 (DVD)",
       "handle": "26p81-steins-gate-0-gesamtausgabe-dvd",
@@ -181326,7 +181403,9 @@
       "created_at": "2026-07-27T15:58:01+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58312298135816,
@@ -186133,7 +186212,9 @@
       "created_at": "2026-08-06T10:07:13+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58377275801864,
@@ -188053,7 +188134,9 @@
       "created_at": "2026-08-07T10:29:11+02:00",
       "vendor": "polyband anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58387286032648,
@@ -199447,7 +199530,9 @@
       "created_at": "2026-07-01T13:42:10+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58123789304072,
