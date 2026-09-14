@@ -17966,7 +17966,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.90",
           "grams": 20,
           "compare_at_price": "7.90",
@@ -155136,7 +155136,7 @@
           "featured_image": null,
           "available": true,
           "price": "34.90",
-          "grams": 0,
+          "grams": 171,
           "compare_at_price": "34.90",
           "position": 1,
           "product_id": 11122716967176,
@@ -156603,7 +156603,7 @@
           "featured_image": null,
           "available": false,
           "price": "69.90",
-          "grams": 0,
+          "grams": 143,
           "compare_at_price": "69.90",
           "position": 1,
           "product_id": 11979262001416,
@@ -173899,16 +173899,6 @@
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/godzilla-minus-one-glow-the-dark-steelbook-edition-blu-ray-516.webp?v=1789375957",
           "width": 2500,
           "height": 2500
-        },
-        {
-          "id": 86900017561864,
-          "created_at": "2026-09-14T10:52:46+02:00",
-          "position": 3,
-          "product_id": 12242055135496,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/godzilla-minus-one-glow-the-dark-steelbook-edition-blu-ray-564.webp?v=1789375966",
-          "width": 1617,
-          "height": 1993
         }
       ],
       "options": [
@@ -190087,7 +190077,7 @@
       "product_type": "Gift",
       "tags": [
         "__hidden",
-        "Ausverkauft",
+        "Auf Lager",
         "bonsai_excluded",
         "Click&Collect",
         "Exclude From Back In Stock",
