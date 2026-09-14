@@ -20431,7 +20431,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "4.90",
           "grams": 10,
           "compare_at_price": "4.90",
@@ -20610,7 +20610,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Ausverkauft",
+        "Auf Lager",
         "Button",
         "Online"
       ],
@@ -20625,7 +20625,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "4.90",
           "grams": 10,
           "compare_at_price": "4.90",
@@ -137383,6 +137383,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime",
         "Sammelschuber"
@@ -170352,6 +170353,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -170459,6 +170461,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -188278,6 +188281,7 @@
       "product_type": "",
       "tags": [
         "AnimagiC2026",
+        "Auf Lager",
         "Online",
         "warenpost"
       ],
@@ -191788,6 +191792,7 @@
       "product_type": "",
       "tags": [
         "AnimagiC2026",
+        "Auf Lager",
         "Online",
         "warenpost"
       ],
@@ -191853,6 +191858,7 @@
       "product_type": "",
       "tags": [
         "AnimagiC2026",
+        "Auf Lager",
         "Online",
         "warenpost"
       ],
@@ -191973,6 +191979,7 @@
       "product_type": "",
       "tags": [
         "AnimagiC2026",
+        "Auf Lager",
         "Online",
         "warenpost"
       ],
@@ -192179,6 +192186,7 @@
       "product_type": "",
       "tags": [
         "AnimagiC2026",
+        "Auf Lager",
         "Online",
         "warenpost"
       ],
@@ -198496,6 +198504,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Frisch eingetroffen",
         "Goodie",
         "OhneRabatt",
