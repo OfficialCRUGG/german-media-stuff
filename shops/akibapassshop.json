@@ -132919,7 +132919,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "49.90",
           "grams": 120,
           "compare_at_price": "49.90",
@@ -157902,7 +157902,9 @@
       "created_at": "2026-08-06T11:38:54+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58378561552648,
@@ -158077,7 +158079,9 @@
       "created_at": "2026-08-06T11:54:25+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58378674110728,
@@ -187986,7 +187990,9 @@
       "created_at": "2026-08-07T10:32:26+02:00",
       "vendor": "polyband anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58387301335304,
@@ -214684,7 +214690,9 @@
       "created_at": "2026-08-07T09:21:51+02:00",
       "vendor": "polyband anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58387074810120,
