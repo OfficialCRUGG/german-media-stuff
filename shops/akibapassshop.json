@@ -54560,6 +54560,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime",
         "Romance"
@@ -54844,6 +54845,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime",
         "Romance"
@@ -54859,7 +54861,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "41.90",
           "grams": 100,
           "compare_at_price": "41.90",
@@ -112142,6 +112144,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Auf Lager",
         "Crunchyroll",
         "Frisch eingetroffen",
         "Online",
@@ -127486,7 +127489,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "99.90",
           "grams": 450,
           "compare_at_price": "99.90",
@@ -137563,6 +137566,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Blu-ray",
         "Online",
         "Romance",
@@ -157683,7 +157687,9 @@
       "created_at": "2026-07-07T12:54:38+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Auf Lager"
+      ],
       "variants": [
         {
           "id": 58174677287176,
@@ -157697,7 +157703,7 @@
           "featured_image": null,
           "available": true,
           "price": "79.90",
-          "grams": 0,
+          "grams": 1014,
           "compare_at_price": "79.90",
           "position": 1,
           "product_id": 12088456413448,
@@ -169067,6 +169073,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -171416,6 +171423,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -171469,7 +171477,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Ausverkauft",
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -171483,7 +171491,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "9.90",
           "grams": 150,
           "compare_at_price": "9.90",
@@ -171523,6 +171531,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -171576,6 +171585,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -171682,6 +171692,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -172002,6 +172013,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -172208,6 +172220,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -181331,7 +181344,9 @@
       "created_at": "2026-07-27T16:07:20+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58312355578120,
