@@ -44184,6 +44184,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Auf Lager",
         "Dauersale",
         "Online",
         "peppermint anime"
@@ -101572,6 +101573,7 @@
       "product_type": "",
       "tags": [
         "Acrylaufsteller",
+        "Auf Lager",
         "Online",
         "warenpost"
       ],
@@ -101702,6 +101704,7 @@
       "product_type": "",
       "tags": [
         "Acrylaufsteller",
+        "Auf Lager",
         "Online",
         "warenpost"
       ],
@@ -199371,7 +199374,9 @@
       "created_at": "2026-07-01T13:43:35+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58123793334536,
@@ -199422,7 +199427,9 @@
       "created_at": "2026-07-01T13:41:22+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58123786944776,
@@ -199473,7 +199480,9 @@
       "created_at": "2026-07-27T16:20:21+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58312494743816,
