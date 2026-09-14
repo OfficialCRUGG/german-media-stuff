@@ -120531,6 +120531,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Ausverkauft",
         "Online"
       ],
       "variants": [
@@ -120544,7 +120545,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "34.90",
           "grams": 240,
           "compare_at_price": "44.90",
