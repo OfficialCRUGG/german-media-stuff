@@ -181292,7 +181292,7 @@
     {
       "id": 12134628458760,
       "title": "Die Tagebücher der Apothekerin - Japanischer Papierschirm (Ø83cm) - Motiv: Mao & Jinshi",
-      "handle": "26sam095-tagebucher-der-apothekerin-japanischer-papierschirm",
+      "handle": "26sam095-tagebuecher-der-apothekerin-japanischer-papierschirm",
       "published_at": "2026-07-27T16:25:34+02:00",
       "created_at": "2026-07-27T15:59:07+02:00",
       "vendor": "Sakami Merchandise",
@@ -181436,7 +181436,7 @@
     {
       "id": 12134625968392,
       "title": "Die Tagebücher der Apothekerin - Plüsch-Schlüsselanhänger (12cm) - Maomao",
-      "handle": "26sam097-tagebucher-der-apothekerin-plueschanhaenger-maomao",
+      "handle": "26sam097-tagebuecher-der-apothekerin-plueschanhaenger-maomao",
       "published_at": "2026-07-27T16:23:01+02:00",
       "created_at": "2026-07-27T15:58:01+02:00",
       "vendor": "Sakami Merchandise",
@@ -183451,7 +183451,7 @@
     {
       "id": 12207748514056,
       "title": "Die Tagebücher der Apothekerin - Maomao & Jinshi - Tragetasche (34,5x43cm)",
-      "handle": "26sam144-apothecary-diaries-maomao-jinshi-tragetasche",
+      "handle": "26sam144-tagebuecher-der-apothekerin-maomao-jinshi-tragetasche",
       "published_at": "2026-08-26T15:38:07+02:00",
       "created_at": "2026-08-26T15:03:57+02:00",
       "vendor": "Sakami Merchandise",
@@ -183504,7 +183504,7 @@
     {
       "id": 12207752315144,
       "title": "Die Tagebücher der Apothekerin - Jinshi's White Day - XXL Mousepad (80x40cm)",
-      "handle": "26sam145-apothecary-diaries-jinshis-white-day-xxl-mousepad",
+      "handle": "26sam145-tagebuecher-der-apothekerin-jinshis-white-day-xxl-mousepad",
       "published_at": "2026-08-26T15:38:09+02:00",
       "created_at": "2026-08-26T15:04:54+02:00",
       "vendor": "Sakami Merchandise",
@@ -184704,6 +184704,371 @@
           "product_id": 12215814816008,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/spy-x-family-animal-party-plush-charms-series-plueschanhaenger-829.webp?v=1788856989",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12249452871944,
+      "title": "Detektiv Conan - Kaito Kid Edition - Spielkarten",
+      "handle": "26sam158-detektiv-conan-kaito-kid-edition-spielkarten",
+      "published_at": "2026-09-15T16:36:52+02:00",
+      "created_at": "2026-09-15T15:56:39+02:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58746723664136,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam158",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "9.90",
+          "grams": 0,
+          "compare_at_price": "9.90",
+          "position": 1,
+          "product_id": 12249452871944,
+          "created_at": "2026-09-15T15:56:40+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86933383184648,
+          "created_at": "2026-09-15T16:18:15+02:00",
+          "position": 1,
+          "product_id": 12249452871944,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/detektiv-conan-kaito-kid-edition-spielkarten-497.webp?v=1789481895",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12249453232392,
+      "title": "Hatsune Miku - Strandtuch (150x75cm) - Summertime",
+      "handle": "26sam159-hatsune-miku-strandtuch-150x75cm-summertime",
+      "published_at": "2026-09-15T16:36:53+02:00",
+      "created_at": "2026-09-15T15:56:56+02:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58746725040392,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam159",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "22.90",
+          "grams": 0,
+          "compare_at_price": "22.90",
+          "position": 1,
+          "product_id": 12249453232392,
+          "created_at": "2026-09-15T15:56:56+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86933385183496,
+          "created_at": "2026-09-15T16:18:34+02:00",
+          "position": 1,
+          "product_id": 12249453232392,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/hatsune-miku-strandtuch-150x75cm-summertime-827.webp?v=1789481914",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12249454117128,
+      "title": "Die Tagebücher der Apothekerin - Plüsch-Schlüsselanhänger (12cm) - Jinshi",
+      "handle": "26sam160-tagebuecher-der-apothekerin-plueschanhaenger-jinshi",
+      "published_at": "2026-09-15T16:36:54+02:00",
+      "created_at": "2026-09-15T15:58:14+02:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58746731888904,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam160",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "13.90",
+          "grams": 0,
+          "compare_at_price": "13.90",
+          "position": 1,
+          "product_id": 12249454117128,
+          "created_at": "2026-09-15T15:58:14+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86933387772168,
+          "created_at": "2026-09-15T16:19:21+02:00",
+          "position": 1,
+          "product_id": 12249454117128,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/tagebuecher-apothekerin-pluesch-schluesselanhaenger-12cm-jinshi-286.webp?v=1789481961",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 86933388427528,
+          "created_at": "2026-09-15T16:19:29+02:00",
+          "position": 2,
+          "product_id": 12249454117128,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/tagebuecher-apothekerin-pluesch-schluesselanhaenger-12cm-jinshi-831.webp?v=1789481969",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 86933388984584,
+          "created_at": "2026-09-15T16:19:37+02:00",
+          "position": 3,
+          "product_id": 12249454117128,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/tagebuecher-apothekerin-pluesch-schluesselanhaenger-12cm-jinshi-950.webp?v=1789481977",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 86933389836552,
+          "created_at": "2026-09-15T16:19:46+02:00",
+          "position": 4,
+          "product_id": 12249454117128,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/tagebuecher-apothekerin-pluesch-schluesselanhaenger-12cm-jinshi-587.webp?v=1789481986",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12249453527304,
+      "title": "Die Tagebücher der Apothekerin - Regenschirm (96cm Durchmesser)",
+      "handle": "26sam161-tagebuecher-der-apothekerin-regenschirm-96cm-durchmesser",
+      "published_at": "2026-09-15T16:36:53+02:00",
+      "created_at": "2026-09-15T15:57:34+02:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58746726744328,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam161",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "24.90",
+          "grams": 0,
+          "compare_at_price": "24.90",
+          "position": 1,
+          "product_id": 12249453527304,
+          "created_at": "2026-09-15T15:57:34+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86933386330376,
+          "created_at": "2026-09-15T16:18:48+02:00",
+          "position": 1,
+          "product_id": 12249453527304,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/tagebuecher-apothekerin-regenschirm-96cm-durchmesser-475.webp?v=1789481928",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 86933386756360,
+          "created_at": "2026-09-15T16:18:59+02:00",
+          "position": 2,
+          "product_id": 12249453527304,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/tagebuecher-apothekerin-regenschirm-96cm-durchmesser-181.webp?v=1789481939",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12249455034632,
+      "title": "Die Tagebücher der Apothekerin - Portemonaie (10x19cm)",
+      "handle": "26sam162-tagebuecher-der-apothekerin-portemonaie-10x19cm",
+      "published_at": "2026-09-15T16:36:55+02:00",
+      "created_at": "2026-09-15T15:58:53+02:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58746738147592,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam162",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "26.90",
+          "grams": 0,
+          "compare_at_price": "26.90",
+          "position": 1,
+          "product_id": 12249455034632,
+          "created_at": "2026-09-15T15:58:53+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 86933388919048,
+          "created_at": "2026-09-15T16:19:36+02:00",
+          "position": 1,
+          "product_id": 12249455034632,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/tagebuecher-apothekerin-portemonaie-10x19cm-372.webp?v=1789481976",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 86933389607176,
+          "created_at": "2026-09-15T16:19:44+02:00",
+          "position": 2,
+          "product_id": 12249455034632,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/tagebuecher-apothekerin-portemonaie-10x19cm-347.webp?v=1789481984",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 86933390491912,
+          "created_at": "2026-09-15T16:19:51+02:00",
+          "position": 3,
+          "product_id": 12249455034632,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/tagebuecher-apothekerin-portemonaie-10x19cm-212.webp?v=1789481991",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 86933391081736,
+          "created_at": "2026-09-15T16:19:59+02:00",
+          "position": 4,
+          "product_id": 12249455034632,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/tagebuecher-apothekerin-portemonaie-10x19cm-965.webp?v=1789481999",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 86933394718984,
+          "created_at": "2026-09-15T16:20:10+02:00",
+          "position": 5,
+          "product_id": 12249455034632,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/tagebuecher-apothekerin-portemonaie-10x19cm-198.webp?v=1789482010",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 86933402288392,
+          "created_at": "2026-09-15T16:20:19+02:00",
+          "position": 6,
+          "product_id": 12249455034632,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/tagebuecher-apothekerin-portemonaie-10x19cm-434.webp?v=1789482019",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 86933406810376,
+          "created_at": "2026-09-15T16:20:28+02:00",
+          "position": 7,
+          "product_id": 12249455034632,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/tagebuecher-apothekerin-portemonaie-10x19cm-761.webp?v=1789482028",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 86933416182024,
+          "created_at": "2026-09-15T16:20:37+02:00",
+          "position": 8,
+          "product_id": 12249455034632,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/tagebuecher-apothekerin-portemonaie-10x19cm-260.webp?v=1789482037",
           "width": 2500,
           "height": 2500
         }
