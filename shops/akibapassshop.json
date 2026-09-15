@@ -161188,7 +161188,6 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
-        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -161202,7 +161201,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "54.90",
           "grams": 250,
           "compare_at_price": "54.90",
