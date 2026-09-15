@@ -125246,7 +125246,7 @@
       "tags": [
         "Action",
         "Anime",
-        "Ausverkauft",
+        "Auf Lager",
         "Crunchyroll",
         "Online"
       ],
@@ -125261,9 +125261,9 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "39.90",
-          "grams": 0,
+          "grams": 125,
           "compare_at_price": "69.90",
           "position": 1,
           "product_id": 10270984470792,
@@ -125702,9 +125702,9 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "39.90",
-          "grams": 0,
+          "grams": 190,
           "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10270985453832,
@@ -125776,9 +125776,9 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "34.90",
-          "grams": 0,
+          "grams": 190,
           "compare_at_price": "34.90",
           "position": 1,
           "product_id": 10270985552136,
@@ -125836,7 +125836,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
-        "Ausverkauft"
+        "Auf Lager"
       ],
       "variants": [
         {
@@ -125849,7 +125849,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "49.90",
           "grams": 400,
           "compare_at_price": "49.90",
@@ -136652,6 +136652,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -157257,9 +157258,9 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "29.90",
-          "grams": 0,
+          "grams": 166,
           "compare_at_price": "29.90",
           "position": 1,
           "product_id": 12088472043784,
@@ -157588,7 +157589,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
-        "Ausverkauft"
+        "Auf Lager"
       ],
       "variants": [
         {
@@ -187029,6 +187030,7 @@
       "product_type": "",
       "tags": [
         "AnimagiC2026",
+        "Auf Lager",
         "Online",
         "warenpost"
       ],
