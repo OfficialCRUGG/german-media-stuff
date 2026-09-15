@@ -124499,6 +124499,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -157657,7 +157658,7 @@
           "featured_image": null,
           "available": true,
           "price": "59.90",
-          "grams": 0,
+          "grams": 440,
           "compare_at_price": "59.90",
           "position": 1,
           "product_id": 12088458346760,
@@ -189776,6 +189777,7 @@
       "product_type": "Gift",
       "tags": [
         "__hidden",
+        "Ausverkauft",
         "bonsai_excluded",
         "Click&Collect",
         "Exclude From Back In Stock",
