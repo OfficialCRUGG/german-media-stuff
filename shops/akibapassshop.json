@@ -176605,7 +176605,9 @@
       "created_at": "2026-06-23T11:11:11+02:00",
       "vendor": "polyband anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58078089642248,
@@ -182362,6 +182364,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "vorbestellen",
         "warenpost"
       ],
       "variants": [
@@ -182375,7 +182378,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "19.90",
           "grams": 0,
           "compare_at_price": "19.90",
@@ -182425,6 +182428,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "vorbestellen",
         "warenpost"
       ],
       "variants": [
@@ -182438,7 +182442,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "19.90",
           "grams": 0,
           "compare_at_price": "19.90",
@@ -182551,6 +182555,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "vorbestellen",
         "warenpost"
       ],
       "variants": [
@@ -182564,7 +182569,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "19.90",
           "grams": 0,
           "compare_at_price": "19.90",
@@ -182614,6 +182619,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Ausverkauft",
         "warenpost"
       ],
       "variants": [
@@ -182627,7 +182633,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "19.90",
           "grams": 0,
           "compare_at_price": "19.90",
@@ -182677,6 +182683,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Ausverkauft",
         "warenpost"
       ],
       "variants": [
@@ -182690,7 +182697,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "19.90",
           "grams": 0,
           "compare_at_price": "19.90",
@@ -203476,6 +203483,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -203489,7 +203497,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "14.90",
           "grams": 80,
           "compare_at_price": "14.90",
