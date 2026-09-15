@@ -136715,6 +136715,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -136778,6 +136779,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -157429,7 +157431,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
-        "Ausverkauft"
+        "Auf Lager"
       ],
       "variants": [
         {
@@ -157638,7 +157640,9 @@
       "created_at": "2026-07-07T12:55:09+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Auf Lager"
+      ],
       "variants": [
         {
           "id": 58174697308424,
@@ -206513,6 +206517,7 @@
       "product_type": "",
       "tags": [
         "AnimagiC-Merch",
+        "Auf Lager",
         "Online"
       ],
       "variants": [

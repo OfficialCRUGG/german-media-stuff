@@ -42367,9 +42367,9 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "49.99",
+          "price": "59.99",
           "grams": 600,
-          "compare_at_price": "59.99",
+          "compare_at_price": null,
           "position": 1,
           "product_id": 7785450930229,
           "created_at": "2025-01-06T11:08:15+01:00"
