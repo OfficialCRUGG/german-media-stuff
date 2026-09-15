@@ -28214,6 +28214,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Frühstücksbrettchen",
         "Online",
         "Schneidebrett",
@@ -52158,6 +52159,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online",
         "Untersetzer"
       ],
@@ -53018,6 +53020,7 @@
       "product_type": "",
       "tags": [
         "Acrylaufsteller",
+        "Auf Lager",
         "Online",
         "warenpost"
       ],
@@ -53083,6 +53086,7 @@
       "product_type": "",
       "tags": [
         "Acrylaufsteller",
+        "Auf Lager",
         "Online",
         "warenpost"
       ],
@@ -181779,6 +181783,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "vorbestellen",
         "warenpost"
       ],
       "variants": [
@@ -181792,7 +181797,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "16.90",
           "grams": 0,
           "compare_at_price": "16.90",
@@ -216936,7 +216941,7 @@
     },
     {
       "id": 12140163989768,
-      "title": "Yaiba: Samurai Legend - Vol. 1 (Blu-ray) -EARLY-BIRD PHASE-",
+      "title": "Yaiba: Samurai Legend - Vol. 1 (Blu-ray)",
       "handle": "yaiba-samurai-legend-vol-1-blu-ray-early-bird-phase",
       "published_at": "2026-07-31T14:04:23+02:00",
       "created_at": "2026-07-30T16:41:28+02:00",
@@ -216989,7 +216994,7 @@
     },
     {
       "id": 12140165300488,
-      "title": "Yaiba: Samurai Legend - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray) -EARLY-BIRD PHASE-",
+      "title": "Yaiba: Samurai Legend - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
       "handle": "yaiba-samurai-legend-vol-1-limited-edition-mit-sammelschuber-blu-ray-early-bird-phase",
       "published_at": "2026-07-31T14:04:23+02:00",
       "created_at": "2026-07-30T16:42:01+02:00",
@@ -217042,7 +217047,7 @@
     },
     {
       "id": 12140165398792,
-      "title": "Yaiba: Samurai Legend - Vol. 2 (Blu-ray) - EARLY-BIRD PHASE-",
+      "title": "Yaiba: Samurai Legend - Vol. 2 (Blu-ray)",
       "handle": "yaiba-samurai-legend-vol-2-blu-ray-early-bird-phase",
       "published_at": "2026-07-31T14:04:24+02:00",
       "created_at": "2026-07-30T16:42:05+02:00",
@@ -217095,7 +217100,7 @@
     },
     {
       "id": 12140163531016,
-      "title": "Yaiba: Samurai Legend - Vol. 2 - Limited Edition mit exklusiven Extras (Blu-ray) -EARLY-BIRD PHASE-",
+      "title": "Yaiba: Samurai Legend - Vol. 2 - Limited Edition mit exklusiven Extras (Blu-ray)",
       "handle": "yaiba-samurai-legend-vol-2-limited-edition-mit-exklusiven-extras-blu-ray-early-bird-phase",
       "published_at": "2026-07-31T14:04:22+02:00",
       "created_at": "2026-07-30T16:41:08+02:00",
