@@ -184914,7 +184914,9 @@
       "created_at": "2026-09-15T15:57:34+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58746726744328,
@@ -184975,7 +184977,9 @@
       "created_at": "2026-09-15T15:58:53+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 58746738147592,
