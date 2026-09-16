@@ -85393,6 +85393,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Ausverkauft",
         "Crunchyroll",
         "Online",
         "Seinen"
@@ -85408,7 +85409,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "79.90",
           "grams": 270,
           "compare_at_price": "99.90",
