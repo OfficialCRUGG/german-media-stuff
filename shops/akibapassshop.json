@@ -63257,6 +63257,7 @@
       "vendor": "AKIBA PASS TV",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Digital",
         "Frisch eingetroffen",
         "Online"
@@ -64164,6 +64165,7 @@
       "vendor": "AKIBA PASS TV",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Digital",
         "Frisch eingetroffen",
         "Online"
@@ -64257,6 +64259,7 @@
       "vendor": "AKIBA PASS TV",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Digital",
         "Frisch eingetroffen",
         "Online"
@@ -66463,6 +66466,7 @@
       "vendor": "AKIBA PASS TV",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Digital",
         "Online"
       ],
@@ -142677,6 +142681,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Online",
         "polyband anime"
       ],
@@ -142691,7 +142696,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "42.90",
           "grams": 170,
           "compare_at_price": "42.90",
@@ -160637,7 +160642,9 @@
       "created_at": "2026-03-26T10:19:00+01:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Ausverkauft"
+      ],
       "variants": [
         {
           "id": 54887535313160,
@@ -175690,7 +175697,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Ausverkauft",
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -175704,7 +175711,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "42.90",
           "grams": 0,
           "compare_at_price": "42.90",
@@ -175764,6 +175771,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -175777,7 +175785,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "39.90",
           "grams": 170,
           "compare_at_price": "39.90",
@@ -176091,7 +176099,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Ausverkauft",
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -176105,7 +176113,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "79.90",
           "grams": 0,
           "compare_at_price": "79.90",
@@ -176208,7 +176216,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Ausverkauft",
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -176222,7 +176230,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "39.90",
           "grams": 222,
           "compare_at_price": "39.90",
@@ -176631,7 +176639,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Ausverkauft"
+        "Auf Lager"
       ],
       "variants": [
         {
@@ -188211,6 +188219,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -188224,7 +188233,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "39.90",
           "grams": 0,
           "compare_at_price": "39.90",
