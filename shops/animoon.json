@@ -32626,7 +32626,8 @@
             "height": 1848,
             "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Vol.1_Vorabcover.png?v=1755802040",
             "variant_ids": [
-              56047605809417
+              56047605809417,
+              57337961480457
             ]
           },
           "available": true,
@@ -32636,6 +32637,38 @@
           "position": 1,
           "product_id": 15271140819209,
           "created_at": "2025-08-21T13:33:23+02:00"
+        },
+        {
+          "id": 57337961480457,
+          "title": "DVD (Vorbestellung)",
+          "option1": "DVD (Vorbestellung)",
+          "option2": null,
+          "option3": null,
+          "sku": "4260497796947",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 76898668970249,
+            "product_id": 15271140819209,
+            "position": 1,
+            "created_at": "2025-08-21T20:47:10+02:00",
+            "updated_at": "2025-08-21T20:47:20+02:00",
+            "alt": null,
+            "width": 1848,
+            "height": 1848,
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Vol.1_Vorabcover.png?v=1755802040",
+            "variant_ids": [
+              56047605809417,
+              57337961480457
+            ]
+          },
+          "available": true,
+          "price": "39.99",
+          "grams": 400,
+          "compare_at_price": "42.99",
+          "position": 2,
+          "product_id": 15271140819209,
+          "created_at": "2026-09-16T12:42:50+02:00"
         }
       ],
       "images": [
@@ -32645,7 +32678,8 @@
           "position": 1,
           "product_id": 15271140819209,
           "variant_ids": [
-            56047605809417
+            56047605809417,
+            57337961480457
           ],
           "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Vol.1_Vorabcover.png?v=1755802040",
           "width": 1848,
@@ -32657,7 +32691,8 @@
           "name": "Medium auswählen:",
           "position": 1,
           "values": [
-            "Blu-ray (Vorbestellung)"
+            "Blu-ray (Vorbestellung)",
+            "DVD (Vorbestellung)"
           ]
         }
       ]
@@ -32704,7 +32739,8 @@
             "height": 1848,
             "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Vol.2_Vorabcover_3c727529-93af-427f-8a48-1128da62491c.png?v=1755803205",
             "variant_ids": [
-              56047634710793
+              56047634710793,
+              57337970262281
             ]
           },
           "available": true,
@@ -32714,6 +32750,38 @@
           "position": 1,
           "product_id": 15271152222473,
           "created_at": "2025-08-21T13:45:27+02:00"
+        },
+        {
+          "id": 57337970262281,
+          "title": "DVD (Vorbestellung)",
+          "option1": "DVD (Vorbestellung)",
+          "option2": null,
+          "option3": null,
+          "sku": "4260497796954",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 76898799190281,
+            "product_id": 15271152222473,
+            "position": 1,
+            "created_at": "2025-08-21T21:06:27+02:00",
+            "updated_at": "2025-08-21T21:06:45+02:00",
+            "alt": null,
+            "width": 1848,
+            "height": 1848,
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Vol.2_Vorabcover_3c727529-93af-427f-8a48-1128da62491c.png?v=1755803205",
+            "variant_ids": [
+              56047634710793,
+              57337970262281
+            ]
+          },
+          "available": true,
+          "price": "37.99",
+          "grams": 400,
+          "compare_at_price": "39.99",
+          "position": 2,
+          "product_id": 15271152222473,
+          "created_at": "2026-09-16T12:45:37+02:00"
         }
       ],
       "images": [
@@ -32723,7 +32791,8 @@
           "position": 1,
           "product_id": 15271152222473,
           "variant_ids": [
-            56047634710793
+            56047634710793,
+            57337970262281
           ],
           "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Vol.2_Vorabcover_3c727529-93af-427f-8a48-1128da62491c.png?v=1755803205",
           "width": 1848,
@@ -32735,7 +32804,8 @@
           "name": "Medium auswählen:",
           "position": 1,
           "values": [
-            "Blu-ray (Vorbestellung)"
+            "Blu-ray (Vorbestellung)",
+            "DVD (Vorbestellung)"
           ]
         }
       ]
@@ -32782,7 +32852,8 @@
             "height": 1848,
             "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Vol.3_Vorabcover_1bb2976d-d423-4cf3-85ae-2b0caa6cbfee.png?v=1755803232",
             "variant_ids": [
-              56047640379657
+              56047640379657,
+              57337973997833
             ]
           },
           "available": true,
@@ -32792,6 +32863,38 @@
           "position": 1,
           "product_id": 15271152845065,
           "created_at": "2025-08-21T13:48:17+02:00"
+        },
+        {
+          "id": 57337973997833,
+          "title": "DVD (Vorbestellung)",
+          "option1": "DVD (Vorbestellung)",
+          "option2": null,
+          "option3": null,
+          "sku": "4260497796961",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 76898804269321,
+            "product_id": 15271152845065,
+            "position": 1,
+            "created_at": "2025-08-21T21:07:05+02:00",
+            "updated_at": "2025-08-21T21:07:12+02:00",
+            "alt": null,
+            "width": 1848,
+            "height": 1848,
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Vol.3_Vorabcover_1bb2976d-d423-4cf3-85ae-2b0caa6cbfee.png?v=1755803232",
+            "variant_ids": [
+              56047640379657,
+              57337973997833
+            ]
+          },
+          "available": true,
+          "price": "37.99",
+          "grams": 400,
+          "compare_at_price": "39.99",
+          "position": 2,
+          "product_id": 15271152845065,
+          "created_at": "2026-09-16T12:46:41+02:00"
         }
       ],
       "images": [
@@ -32801,7 +32904,8 @@
           "position": 1,
           "product_id": 15271152845065,
           "variant_ids": [
-            56047640379657
+            56047640379657,
+            57337973997833
           ],
           "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Vol.3_Vorabcover_1bb2976d-d423-4cf3-85ae-2b0caa6cbfee.png?v=1755803232",
           "width": 1848,
@@ -32813,7 +32917,8 @@
           "name": "Medium auswählen:",
           "position": 1,
           "values": [
-            "Blu-ray (Vorbestellung)"
+            "Blu-ray (Vorbestellung)",
+            "DVD (Vorbestellung)"
           ]
         }
       ]
