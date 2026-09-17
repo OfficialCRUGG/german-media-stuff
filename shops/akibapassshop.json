@@ -84772,72 +84772,6 @@
       ]
     },
     {
-      "id": 10261477228808,
-      "title": "Skeleton Knight in Another World - Gesamtausgabe (Blu-ray)",
-      "handle": "24a232-skeleton-knight-in-another-world-gesamtausgabe-bluray",
-      "published_at": "2025-05-28T16:27:05+02:00",
-      "created_at": "2025-05-28T16:02:27+02:00",
-      "vendor": "Crunchyroll",
-      "product_type": "",
-      "tags": [
-        "Anime",
-        "Crunchyroll",
-        "Isekai",
-        "Online"
-      ],
-      "variants": [
-        {
-          "id": 51542555263240,
-          "title": "Default Title",
-          "option1": "Default Title",
-          "option2": null,
-          "option3": null,
-          "sku": "24a232",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": null,
-          "available": false,
-          "price": "59.90",
-          "grams": 100,
-          "compare_at_price": "64.90",
-          "position": 1,
-          "product_id": 10261477228808,
-          "created_at": "2025-05-28T16:02:27+02:00"
-        }
-      ],
-      "images": [
-        {
-          "id": 73724829860104,
-          "created_at": "2025-10-22T17:54:16+02:00",
-          "position": 1,
-          "product_id": 10261477228808,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/skeleton-knight-another-world-gesamtausgabe-blu-ray-gesamtausgabe-178.webp?v=1769031832",
-          "width": 1024,
-          "height": 1024
-        },
-        {
-          "id": 73724832055560,
-          "created_at": "2025-10-22T17:54:26+02:00",
-          "position": 2,
-          "product_id": 10261477228808,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/skeleton-knight-another-world-gesamtausgabe-blu-ray-gesamtausgabe-999.webp?v=1769031836",
-          "width": 1024,
-          "height": 1024
-        }
-      ],
-      "options": [
-        {
-          "name": "Title",
-          "position": 1,
-          "values": [
-            "Default Title"
-          ]
-        }
-      ]
-    },
-    {
       "id": 10261477261576,
       "title": "Spy x Family - Staffel 1 (Part 2) - Vol. 3 (Blu-ray)",
       "handle": "24a233-spy-x-family-staffel-1-part-2-vol-3-bluray",
@@ -136541,6 +136475,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -136859,6 +136794,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -156513,6 +156449,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -156619,6 +156556,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -156632,7 +156570,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "69.90",
           "grams": 143,
           "compare_at_price": "69.90",
@@ -187615,6 +187553,7 @@
       "product_type": "",
       "tags": [
         "AnimagiC2026",
+        "Auf Lager",
         "Online",
         "warenpost"
       ],
@@ -187810,6 +187749,7 @@
       "product_type": "",
       "tags": [
         "AnimagiC2026",
+        "Auf Lager",
         "Online",
         "warenpost"
       ],
@@ -187940,6 +187880,7 @@
       "product_type": "",
       "tags": [
         "AnimagiC2026",
+        "Auf Lager",
         "Online",
         "warenpost"
       ],
@@ -188266,6 +188207,7 @@
       "product_type": "",
       "tags": [
         "AnimagiC2026",
+        "Auf Lager",
         "Online",
         "warenpost"
       ],
@@ -202492,7 +202434,9 @@
       "created_at": "2026-07-07T12:57:51+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Auf Lager"
+      ],
       "variants": [
         {
           "id": 58174770610440,
@@ -202504,7 +202448,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "79.90",
           "grams": 290,
           "compare_at_price": "79.90",
