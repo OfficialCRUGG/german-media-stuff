@@ -53837,6 +53837,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Frisch eingetroffen",
         "Online"
       ],
@@ -53851,7 +53852,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "14.90",
           "grams": 190,
           "compare_at_price": "45.90",
@@ -53911,6 +53912,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Frisch eingetroffen",
         "Online"
       ],
@@ -53985,6 +53987,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Frisch eingetroffen",
         "Online"
       ],
@@ -54185,6 +54188,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Frisch eingetroffen",
         "Online"
       ],
@@ -56105,6 +56109,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -56324,6 +56329,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -69644,6 +69650,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -135149,7 +135156,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
-        "Auf Lager",
+        "Ausverkauft",
         "Online"
       ],
       "variants": [
@@ -135163,7 +135170,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "69.90",
           "grams": 160,
           "compare_at_price": "69.90",
@@ -161476,7 +161483,9 @@
       "created_at": "2026-03-03T14:46:49+01:00",
       "vendor": "KSM Anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Auf Lager"
+      ],
       "variants": [
         {
           "id": 53420789727496,
@@ -161488,7 +161497,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "54.90",
           "grams": 124,
           "compare_at_price": "54.90",
@@ -161636,6 +161645,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -161649,7 +161659,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "34.90",
           "grams": 250,
           "compare_at_price": "34.90",
@@ -175384,6 +175394,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -176014,6 +176025,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -176452,6 +176464,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Online"
       ],
       "variants": [
@@ -177288,6 +177301,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Ausverkauft",
         "Online"
       ],
       "variants": [
@@ -177301,7 +177315,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "9.90",
           "grams": 0,
           "compare_at_price": "9.90",
@@ -178905,6 +178919,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Ausverkauft",
         "Online"
       ],
       "variants": [
@@ -178918,7 +178933,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "19.90",
           "grams": 160,
           "compare_at_price": "19.90",
@@ -181179,7 +181194,9 @@
       "created_at": "2026-07-07T13:07:34+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Auf Lager"
+      ],
       "variants": [
         {
           "id": 58175328747784,
