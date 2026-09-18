@@ -53853,7 +53853,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "14.90",
           "grams": 185,
           "compare_at_price": "45.90",
@@ -67784,6 +67784,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Auf Lager",
         "Frisch eingetroffen",
         "Online",
         "Poster"
@@ -67799,7 +67800,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "11.90",
           "grams": 900,
           "compare_at_price": "11.90",
@@ -85988,7 +85989,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "49.90",
           "grams": 100,
           "compare_at_price": "69.90",
@@ -112297,7 +112298,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "49.90",
           "grams": 215,
           "compare_at_price": "49.90",
@@ -138570,6 +138571,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime"
       ],
@@ -138679,6 +138681,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime",
         "Sammelschuber"
@@ -161612,7 +161615,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "54.90",
           "grams": 124,
           "compare_at_price": "54.90",
@@ -161774,7 +161777,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "34.90",
           "grams": 250,
           "compare_at_price": "34.90",
