@@ -3866,7 +3866,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "9.90",
           "grams": 102,
           "compare_at_price": "41.90",
@@ -3965,6 +3965,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Dauersale",
         "Frisch eingetroffen",
         "Online",
@@ -11880,6 +11881,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Online",
         "peppermint anime",
         "Sport"
@@ -32381,6 +32383,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Frisch eingetroffen",
         "Online",
         "peppermint anime",
@@ -32511,7 +32514,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "9.90",
           "grams": 97,
           "compare_at_price": "39.90",
@@ -69377,6 +69380,7 @@
       "vendor": "Import Ware",
       "product_type": "",
       "tags": [
+        "Ausverkauft",
         "Dauersale",
         "Musik-CD",
         "Online",
@@ -138094,6 +138098,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Auf Lager",
         "Comedy",
         "Online",
         "peppermint anime"
