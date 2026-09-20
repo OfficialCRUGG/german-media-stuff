@@ -38671,7 +38671,7 @@
               56697432211721
             ]
           },
-          "available": true,
+          "available": false,
           "price": "39.99",
           "grams": 250,
           "compare_at_price": "42.99",
@@ -38818,7 +38818,7 @@
               56697433063689
             ]
           },
-          "available": true,
+          "available": false,
           "price": "39.99",
           "grams": 250,
           "compare_at_price": "42.99",
@@ -38965,7 +38965,7 @@
               56697433358601
             ]
           },
-          "available": true,
+          "available": false,
           "price": "39.99",
           "grams": 250,
           "compare_at_price": "42.99",
