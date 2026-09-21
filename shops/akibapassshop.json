@@ -159200,12 +159200,42 @@
       ],
       "images": [
         {
-          "id": 86518449635592,
-          "created_at": "2026-08-26T11:10:59+02:00",
+          "id": 87090549063944,
+          "created_at": "2026-09-21T16:38:21+02:00",
           "position": 1,
           "product_id": 12205910294792,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/detektiv-conan-28-film-flashback-einaeugigen-limited-edition-dvd-504.webp?v=1787735459",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/detektiv-conan-28-film-flashback-einaeugigen-limited-edition-dvd-702.webp?v=1790001501",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87090551947528,
+          "created_at": "2026-09-21T16:38:30+02:00",
+          "position": 2,
+          "product_id": 12205910294792,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/detektiv-conan-28-film-flashback-einaeugigen-limited-edition-dvd-730.webp?v=1790001510",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87090554700040,
+          "created_at": "2026-09-21T16:38:39+02:00",
+          "position": 3,
+          "product_id": 12205910294792,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/detektiv-conan-28-film-flashback-einaeugigen-limited-edition-dvd-125.webp?v=1790001519",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87090555126024,
+          "created_at": "2026-09-21T16:38:48+02:00",
+          "position": 4,
+          "product_id": 12205910294792,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/detektiv-conan-28-film-flashback-einaeugigen-limited-edition-dvd-313.webp?v=1790001528",
           "width": 2500,
           "height": 2500
         }
@@ -163148,6 +163178,67 @@
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/bikini-warriors-blu-ray-standard-edition-ksm-anime-826.webp?v=1789753726",
           "width": 2500,
           "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12286376313096,
+      "title": "Kubo Won't Let Me Be Invisible (Blu-ray)",
+      "handle": "26ksm042-kubo-wont-let-me-be-invisible-bluray",
+      "published_at": "2026-09-21T16:35:45+02:00",
+      "created_at": "2026-09-21T15:12:16+02:00",
+      "vendor": "KSM Anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58820547838216,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26ksm042",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "79.90",
+          "grams": 0,
+          "compare_at_price": "79.90",
+          "position": 1,
+          "product_id": 12286376313096,
+          "created_at": "2026-09-21T15:12:16+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87090664603912,
+          "created_at": "2026-09-21T16:44:27+02:00",
+          "position": 1,
+          "product_id": 12286376313096,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/kubo-wont-let-me-be-invisible-blu-ray-gesamtausgabe-ksm-anime-940.webp?v=1790001867",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87090665095432,
+          "created_at": "2026-09-21T16:44:34+02:00",
+          "position": 2,
+          "product_id": 12286376313096,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/kubo-wont-let-me-be-invisible-blu-ray-gesamtausgabe-ksm-anime-931.webp?v=1790001874",
+          "width": 2000,
+          "height": 2000
         }
       ],
       "options": [
