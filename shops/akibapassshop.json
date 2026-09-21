@@ -162266,9 +162266,9 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "79.90",
-          "grams": 250,
+          "grams": 168,
           "compare_at_price": "79.90",
           "position": 1,
           "product_id": 11943055851784,
@@ -174557,9 +174557,9 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "39.90",
-          "grams": 763,
+          "grams": 766,
           "compare_at_price": "39.90",
           "position": 1,
           "product_id": 12155693072648,
@@ -193625,6 +193625,87 @@
           "product_id": 12121985810696,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/girls-band-cry-acrylplatte-togenashi-togeari-528.webp?v=1784733178",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12285495869704,
+      "title": "Girls Band Cry - Clearfile Set (DIN A4)",
+      "handle": "girls-band-cry-clearfile-set-din-a4",
+      "published_at": "2026-09-21T09:48:31+02:00",
+      "created_at": "2026-09-21T09:28:56+02:00",
+      "vendor": "peppermint anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58817401585928,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26m105",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "12.90",
+          "grams": 86,
+          "compare_at_price": "12.90",
+          "position": 1,
+          "product_id": 12285495869704,
+          "created_at": "2026-09-21T09:28:56+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87081767764232,
+          "created_at": "2026-09-21T10:00:18+02:00",
+          "position": 1,
+          "product_id": 12285495869704,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/girls-band-cry-clearfile-set-din-a4-peppermint-anime-klarsichthuellen-626.webp?v=1789977618",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 87081770090760,
+          "created_at": "2026-09-21T10:00:27+02:00",
+          "position": 2,
+          "product_id": 12285495869704,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/girls-band-cry-clearfile-set-din-a4-peppermint-anime-klarsichthuellen-520.webp?v=1789977627",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87081773728008,
+          "created_at": "2026-09-21T10:00:37+02:00",
+          "position": 3,
+          "product_id": 12285495869704,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/girls-band-cry-clearfile-set-din-a4-peppermint-anime-klarsichthuellen-129.webp?v=1789977637",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87081776382216,
+          "created_at": "2026-09-21T10:00:46+02:00",
+          "position": 4,
+          "product_id": 12285495869704,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/girls-band-cry-clearfile-set-din-a4-peppermint-anime-klarsichthuellen-382.webp?v=1789977646",
           "width": 2500,
           "height": 2500
         }
