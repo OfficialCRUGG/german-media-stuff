@@ -125277,12 +125277,32 @@
       ],
       "images": [
         {
-          "id": 73608213856520,
-          "created_at": "2025-10-19T18:36:54+02:00",
+          "id": 87088680763656,
+          "created_at": "2026-09-21T14:42:24+02:00",
           "position": 1,
           "product_id": 10270984470792,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-the-252.webp?v=1769042601",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-the-724.webp?v=1789994545",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87088683188488,
+          "created_at": "2026-09-21T14:42:35+02:00",
+          "position": 2,
+          "product_id": 10270984470792,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-the-534.webp?v=1789994555",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87088688365832,
+          "created_at": "2026-09-21T14:42:45+02:00",
+          "position": 3,
+          "product_id": 10270984470792,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-the-806.webp?v=1789994565",
           "width": 2500,
           "height": 2500
         }
@@ -158610,12 +158630,12 @@
       ],
       "images": [
         {
-          "id": 86519576789256,
-          "created_at": "2026-08-26T12:32:42+02:00",
+          "id": 87088708452616,
+          "created_at": "2026-09-21T14:43:22+02:00",
           "position": 1,
           "product_id": 12205904396552,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/the-100-girlfriends-who-really-really-really-really-really-love-you-201.webp?v=1787740362",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/the-100-girlfriends-who-really-really-really-really-really-love-you-779.webp?v=1789994602",
           "width": 2500,
           "height": 2500
         }
@@ -158875,12 +158895,12 @@
       ],
       "images": [
         {
-          "id": 86519570268424,
-          "created_at": "2026-08-26T12:31:47+02:00",
+          "id": 87088698065160,
+          "created_at": "2026-09-21T14:43:02+02:00",
           "position": 1,
           "product_id": 12205908525320,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-the-510.webp?v=1787740307",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-the-912.webp?v=1789994582",
           "width": 2500,
           "height": 2500
         }
