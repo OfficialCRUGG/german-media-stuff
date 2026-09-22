@@ -183596,7 +183596,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "9.90",
           "grams": 0,
           "compare_at_price": "9.90",
@@ -183853,7 +183853,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Ausverkauft"
+        "vorbestellbar"
       ],
       "variants": [
         {
@@ -183866,7 +183866,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "77.90",
           "grams": 0,
           "compare_at_price": "77.90",
@@ -183976,7 +183976,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Ausverkauft"
+        "vorbestellbar"
       ],
       "variants": [
         {
@@ -184409,7 +184409,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Ausverkauft"
+        "vorbestellbar"
       ],
       "variants": [
         {
@@ -184542,7 +184542,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Ausverkauft"
+        "vorbestellbar"
       ],
       "variants": [
         {
@@ -184675,7 +184675,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Ausverkauft"
+        "vorbestellbar"
       ],
       "variants": [
         {
@@ -184818,7 +184818,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Ausverkauft"
+        "vorbestellbar"
       ],
       "variants": [
         {
@@ -184960,7 +184960,9 @@
       "created_at": "2026-09-01T17:18:10+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "vorbestellbar"
+      ],
       "variants": [
         {
           "id": 58587193508104,
@@ -185061,7 +185063,9 @@
       "created_at": "2026-09-01T17:15:53+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "vorbestellbar"
+      ],
       "variants": [
         {
           "id": 58587180663048,
@@ -185163,7 +185167,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Ausverkauft"
+        "vorbestellbar"
       ],
       "variants": [
         {
@@ -185266,7 +185270,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Ausverkauft"
+        "vorbestellbar"
       ],
       "variants": [
         {
