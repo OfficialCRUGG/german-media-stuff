@@ -182299,9 +182299,7 @@
       "created_at": "2026-08-06T11:10:20+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [
-        "vorbestellbar"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 58378100506888,
@@ -182313,7 +182311,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "17.90",
           "grams": 0,
           "compare_at_price": "19.90",
