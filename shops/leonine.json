@@ -16095,6 +16095,136 @@
       ]
     },
     {
+      "id": 10306277474357,
+      "title": "Dutton Ranch - Staffel 1",
+      "handle": "dutton-ranch-staffel-1",
+      "published_at": "2026-09-23T10:23:20+02:00",
+      "created_at": "2026-09-23T10:19:11+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "DVD",
+      "tags": [
+        "Blu-Ray",
+        "Komödie & Drama",
+        "preorder"
+      ],
+      "variants": [
+        {
+          "id": 50500826103861,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00753",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "24.99",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 10306277474357,
+          "created_at": "2026-09-23T10:19:11+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38941876879413,
+          "created_at": "2026-09-23T10:19:33+02:00",
+          "position": 1,
+          "product_id": 10306277474357,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122976275501jpg-226956.jpg?v=1790151574",
+          "width": 1530,
+          "height": 2163
+        },
+        {
+          "id": 38941877076021,
+          "created_at": "2026-09-23T10:19:36+02:00",
+          "position": 2,
+          "product_id": 10306277474357,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122976275502jpg-227003.jpg?v=1790151577",
+          "width": 1174,
+          "height": 1879
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10306277441589,
+      "title": "Dutton Ranch - Staffel 1 Blu-ray",
+      "handle": "dutton-ranch-staffel-1-blu-ray",
+      "published_at": "2026-09-23T10:22:48+02:00",
+      "created_at": "2026-09-23T10:19:08+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "Blu-Ray",
+        "Komödie & Drama",
+        "preorder"
+      ],
+      "variants": [
+        {
+          "id": 50500826071093,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00752",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "29.99",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 10306277441589,
+          "created_at": "2026-09-23T10:19:08+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38941876617269,
+          "created_at": "2026-09-23T10:19:26+02:00",
+          "position": 1,
+          "product_id": 10306277441589,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122976276201jpg-226768.jpg?v=1790151567",
+          "width": 1500,
+          "height": 1915
+        },
+        {
+          "id": 38941876715573,
+          "created_at": "2026-09-23T10:19:29+02:00",
+          "position": 2,
+          "product_id": 10306277441589,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122976276202jpg-226815.jpg?v=1790151570",
+          "width": 1172,
+          "height": 1680
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 8149584904245,
       "title": "Eddington 4K UHD + Blu-ray Collector's Edition",
       "handle": "eddington-4k-uhd-blu-ray-collectors-edition",
@@ -19314,6 +19444,71 @@
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/0000AN72130_02.jpg?v=1770209346",
           "width": 1174,
           "height": 1879
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10306277507125,
+      "title": "Freitag, der 13. - 8 Movie Collection Blu-ray",
+      "handle": "freitag-der-13-8-movie-collection-blu-ray",
+      "published_at": "2026-09-23T10:52:58+02:00",
+      "created_at": "2026-09-23T10:19:13+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "Blu-Ray",
+        "Horror",
+        "preorder"
+      ],
+      "variants": [
+        {
+          "id": 50500826136629,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00754",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "59.99",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 10306277507125,
+          "created_at": "2026-09-23T10:19:13+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38941975052341,
+          "created_at": "2026-09-23T10:52:49+02:00",
+          "position": 1,
+          "product_id": 10306277507125,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229832267_01.jpg?v=1790153571",
+          "width": 1848,
+          "height": 2222
+        },
+        {
+          "id": 38941975085109,
+          "created_at": "2026-09-23T10:52:49+02:00",
+          "position": 2,
+          "product_id": 10306277507125,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229832267_02.png?v=1790153571",
+          "width": 1696,
+          "height": 2155
         }
       ],
       "options": [
