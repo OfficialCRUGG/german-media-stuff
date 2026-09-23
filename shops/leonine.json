@@ -33906,6 +33906,71 @@
       ]
     },
     {
+      "id": 10306204467253,
+      "title": "Primetime Blu-ray",
+      "handle": "primetime-blu-ray",
+      "published_at": "2026-09-23T09:46:52+02:00",
+      "created_at": "2026-09-23T08:35:20+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "Action & Thriller",
+        "Blu-Ray",
+        "preorder"
+      ],
+      "variants": [
+        {
+          "id": 50500323573813,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00751",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "17.99",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 10306204467253,
+          "created_at": "2026-09-23T08:35:20+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38941208510517,
+          "created_at": "2026-09-23T08:35:30+02:00",
+          "position": 1,
+          "product_id": 10306204467253,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122965861401jpg-226578.jpg?v=1790145332",
+          "width": 1500,
+          "height": 1915
+        },
+        {
+          "id": 38941208707125,
+          "created_at": "2026-09-23T08:35:35+02:00",
+          "position": 2,
+          "product_id": 10306204467253,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122965861402png-226623.png?v=1790145337",
+          "width": 1172,
+          "height": 1680
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 7794838667317,
       "title": "Prinzessin Mononoke Blu-ray (White Edition)",
       "handle": "prinzessin-mononoke-bd-white-edition",
