@@ -89609,6 +89609,536 @@
       ]
     },
     {
+      "id": 12293311299848,
+      "title": "Golden Time - Vol. 1 (Blu-ray)",
+      "handle": "24a326-golden-time-vol-1-bluray",
+      "published_at": "2026-09-24T18:48:12+02:00",
+      "created_at": "2026-09-23T16:50:53+02:00",
+      "vendor": "AniMoon",
+      "product_type": "",
+      "tags": [
+        "AniMoon"
+      ],
+      "variants": [
+        {
+          "id": 58846734516488,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "24a326",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "53.90",
+          "grams": 0,
+          "compare_at_price": "53.90",
+          "position": 1,
+          "product_id": 12293311299848,
+          "created_at": "2026-09-23T16:50:53+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87162935574792,
+          "created_at": "2026-09-24T10:45:53+02:00",
+          "position": 1,
+          "product_id": 12293311299848,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/golden-time-vol-1-blu-ray-standard-edition-611.webp?v=1790239553",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12293309989128,
+      "title": "Golden Time - Vol. 2 (Blu-ray)",
+      "handle": "24a327-golden-time-vol-2-bluray",
+      "published_at": "2026-09-24T18:48:14+02:00",
+      "created_at": "2026-09-23T16:50:26+02:00",
+      "vendor": "AniMoon",
+      "product_type": "",
+      "tags": [
+        "AniMoon"
+      ],
+      "variants": [
+        {
+          "id": 58846703223048,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "24a327",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "51.90",
+          "grams": 0,
+          "compare_at_price": "51.90",
+          "position": 1,
+          "product_id": 12293309989128,
+          "created_at": "2026-09-23T16:50:26+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87162565263624,
+          "created_at": "2026-09-24T10:21:50+02:00",
+          "position": 1,
+          "product_id": 12293309989128,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/golden-time-vol-2-blu-ray-standard-edition-213.webp?v=1790238110",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12293311136008,
+      "title": "Golden Time - Vol. 3 (Blu-ray)",
+      "handle": "24a328-golden-time-vol-3-bluray",
+      "published_at": "2026-09-24T18:48:12+02:00",
+      "created_at": "2026-09-23T16:50:40+02:00",
+      "vendor": "AniMoon",
+      "product_type": "",
+      "tags": [
+        "AniMoon"
+      ],
+      "variants": [
+        {
+          "id": 58846734287112,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "24a328",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "45.90",
+          "grams": 0,
+          "compare_at_price": "45.90",
+          "position": 1,
+          "product_id": 12293311136008,
+          "created_at": "2026-09-23T16:50:41+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87162575454472,
+          "created_at": "2026-09-24T10:22:10+02:00",
+          "position": 1,
+          "product_id": 12293311136008,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/golden-time-vol-3-blu-ray-standard-edition-718.webp?v=1790238130",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12293308973320,
+      "title": "Golden Time - Vol. 4 (Blu-ray)",
+      "handle": "24a329-golden-time-vol-4-bluray",
+      "published_at": "2026-09-24T18:48:14+02:00",
+      "created_at": "2026-09-23T16:49:59+02:00",
+      "vendor": "AniMoon",
+      "product_type": "",
+      "tags": [
+        "AniMoon"
+      ],
+      "variants": [
+        {
+          "id": 58846686609672,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "24a329",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "45.90",
+          "grams": 0,
+          "compare_at_price": "45.90",
+          "position": 1,
+          "product_id": 12293308973320,
+          "created_at": "2026-09-23T16:49:59+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87162562740488,
+          "created_at": "2026-09-24T10:21:29+02:00",
+          "position": 1,
+          "product_id": 12293308973320,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/golden-time-vol-4-blu-ray-standard-edition-437.webp?v=1790238089",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12293314609416,
+      "title": "Arifureta - Season 2 - Gesamtausgabe (Blu-ray)",
+      "handle": "24a331-arifureta-season-2-gesamtausgabe-bluray",
+      "published_at": "2026-09-24T18:48:10+02:00",
+      "created_at": "2026-09-23T16:51:38+02:00",
+      "vendor": "AniMoon",
+      "product_type": "",
+      "tags": [
+        "AniMoon"
+      ],
+      "variants": [
+        {
+          "id": 58846824366344,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "24a331",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "57.90",
+          "grams": 0,
+          "compare_at_price": "57.90",
+          "position": 1,
+          "product_id": 12293314609416,
+          "created_at": "2026-09-23T16:51:38+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87163143127304,
+          "created_at": "2026-09-24T10:57:31+02:00",
+          "position": 1,
+          "product_id": 12293314609416,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/arifureta-staffel-2-gesamtausgabe-blu-ray-gesamtausgabe-369.webp?v=1790240251",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12293314085128,
+      "title": "Date A Live - Season 5 - Vol. 1 (Blu-ray)",
+      "handle": "24a333-date-a-live-season-5-vol-1-bluray",
+      "published_at": "2026-09-24T18:48:11+02:00",
+      "created_at": "2026-09-23T16:51:29+02:00",
+      "vendor": "AniMoon",
+      "product_type": "",
+      "tags": [
+        "AniMoon"
+      ],
+      "variants": [
+        {
+          "id": 58846811291912,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "24a333",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "51.90",
+          "grams": 370,
+          "compare_at_price": "51.90",
+          "position": 1,
+          "product_id": 12293314085128,
+          "created_at": "2026-09-23T16:51:29+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87163148861704,
+          "created_at": "2026-09-24T10:57:51+02:00",
+          "position": 1,
+          "product_id": 12293314085128,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/date-a-live-season-5-vol-1-blu-ray-standard-edition-227.webp?v=1790240271",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12293313986824,
+      "title": "Date A Live - Season 5 - Vol. 2 (Blu-ray)",
+      "handle": "24a334-date-a-live-season-5-vol-2-bluray",
+      "published_at": "2026-09-24T18:48:11+02:00",
+      "created_at": "2026-09-23T16:51:24+02:00",
+      "vendor": "AniMoon",
+      "product_type": "",
+      "tags": [
+        "AniMoon"
+      ],
+      "variants": [
+        {
+          "id": 58846810046728,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "24a334",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "49.90",
+          "grams": 240,
+          "compare_at_price": "49.90",
+          "position": 1,
+          "product_id": 12293313986824,
+          "created_at": "2026-09-23T16:51:24+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87163561083144,
+          "created_at": "2026-09-24T11:09:28+02:00",
+          "position": 1,
+          "product_id": 12293313986824,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/date-a-live-season-5-vol-2-blu-ray-standard-edition-698.webp?v=1790240968",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12293311168776,
+      "title": "KonoSuba - Season 3 - Vol. 2 (Blu-ray)",
+      "handle": "24a336-konosuba-season-3-vol-2-bluray",
+      "published_at": "2026-09-24T18:48:13+02:00",
+      "created_at": "2026-09-23T16:50:48+02:00",
+      "vendor": "AniMoon",
+      "product_type": "",
+      "tags": [
+        "AniMoon"
+      ],
+      "variants": [
+        {
+          "id": 58846734319880,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "24a336",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "45.90",
+          "grams": 160,
+          "compare_at_price": "45.90",
+          "position": 1,
+          "product_id": 12293311168776,
+          "created_at": "2026-09-23T16:50:48+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87163626193160,
+          "created_at": "2026-09-24T11:12:07+02:00",
+          "position": 1,
+          "product_id": 12293311168776,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/konosuba-season-3-vol-2-blu-ray-standard-edition-728.webp?v=1790241127",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12293308940552,
+      "title": "KonoSuba - Season 1 - Gesamtausgabe (Blu-ray)",
+      "handle": "24a338-konosuba-season-1-gesamtausgabe-bluray",
+      "published_at": "2026-09-24T18:48:15+02:00",
+      "created_at": "2026-09-23T16:49:58+02:00",
+      "vendor": "AniMoon",
+      "product_type": "",
+      "tags": [
+        "AniMoon"
+      ],
+      "variants": [
+        {
+          "id": 58846686576904,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "24a338",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "69.90",
+          "grams": 0,
+          "compare_at_price": "69.90",
+          "position": 1,
+          "product_id": 12293308940552,
+          "created_at": "2026-09-23T16:49:58+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87162556449032,
+          "created_at": "2026-09-24T10:20:36+02:00",
+          "position": 1,
+          "product_id": 12293308940552,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/konosuba-staffel-1-gesamtausgabe-blu-ray-gesamtausgabe-922.webp?v=1790238036",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12293309268232,
+      "title": "KonoSuba - Season 2 - Gesamtausgabe (Blu-ray)",
+      "handle": "24a339-konosuba-season-2-gesamtausgabe-bluray",
+      "published_at": "2026-09-24T18:48:14+02:00",
+      "created_at": "2026-09-23T16:50:17+02:00",
+      "vendor": "AniMoon",
+      "product_type": "",
+      "tags": [
+        "AniMoon"
+      ],
+      "variants": [
+        {
+          "id": 58846689198344,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "24a339",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "57.90",
+          "grams": 0,
+          "compare_at_price": "57.90",
+          "position": 1,
+          "product_id": 12293309268232,
+          "created_at": "2026-09-23T16:50:17+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87162559463688,
+          "created_at": "2026-09-24T10:21:08+02:00",
+          "position": 1,
+          "product_id": 12293309268232,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/konosuba-staffel-2-gesamtausgabe-blu-ray-gesamtausgabe-620.webp?v=1790238068",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 10261489221896,
       "title": "Pokémon - Die TV-Serie: Sonne und Mond - Staffel 20 (DVD)",
       "handle": "24a340-pokemon-die-tv-serie-sonne-und-mond-staffel-20-dvd",
@@ -90420,6 +90950,59 @@
       ]
     },
     {
+      "id": 12293316870408,
+      "title": "Bofuri: I Don't Want to Get Hurt, So I'll Max Out My Defense. - Season 2 - Vol. 2 (Blu-ray)",
+      "handle": "24a354-bofuri-i-dont-want-to-get-hurt-so-ill-max-out-my-defense-season-2-vol-2-bluray",
+      "published_at": "2026-09-24T18:48:07+02:00",
+      "created_at": "2026-09-23T16:52:49+02:00",
+      "vendor": "AniMoon",
+      "product_type": "",
+      "tags": [
+        "AniMoon"
+      ],
+      "variants": [
+        {
+          "id": 58846878695688,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "24a354",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "39.90",
+          "grams": 151,
+          "compare_at_price": "39.90",
+          "position": 1,
+          "product_id": 12293316870408,
+          "created_at": "2026-09-23T16:52:49+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87163124809992,
+          "created_at": "2026-09-24T10:56:22+02:00",
+          "position": 1,
+          "product_id": 12293316870408,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/bofuri-i-dont-want-to-get-hurt-ill-max-out-my-defense-season-2-392.webp?v=1790240182",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 10261508129032,
       "title": "Air Gear - Volume 1 (Blu-ray)",
       "handle": "24a356-air-gear-volume-1-bluray",
@@ -90650,6 +91233,377 @@
           "product_id": 10261508587784,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/danmachi-is-it-wrong-to-try-to-pick-up-girls-a-dungeon-sword-582.webp?v=1769034117",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12293316641032,
+      "title": "Elainas Reise - Vol. 2 (Blu-ray)",
+      "handle": "24a361-elainas-reise-vol-2-bluray",
+      "published_at": "2026-09-24T18:48:08+02:00",
+      "created_at": "2026-09-23T16:52:36+02:00",
+      "vendor": "AniMoon",
+      "product_type": "",
+      "tags": [
+        "AniMoon"
+      ],
+      "variants": [
+        {
+          "id": 58846875123976,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "24a361",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "45.90",
+          "grams": 180,
+          "compare_at_price": "49.90",
+          "position": 1,
+          "product_id": 12293316641032,
+          "created_at": "2026-09-23T16:52:36+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87162962739464,
+          "created_at": "2026-09-24T10:47:43+02:00",
+          "position": 1,
+          "product_id": 12293316641032,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/elainas-reise-vol-2-blu-ray-standard-edition-631.webp?v=1790239663",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12293316739336,
+      "title": "Elainas Reise - Vol. 3 (Blu-ray)",
+      "handle": "24a362-elainas-reise-vol-3-bluray",
+      "published_at": "2026-09-24T18:48:07+02:00",
+      "created_at": "2026-09-23T16:52:41+02:00",
+      "vendor": "AniMoon",
+      "product_type": "",
+      "tags": [
+        "AniMoon"
+      ],
+      "variants": [
+        {
+          "id": 58846876860680,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "24a362",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "45.90",
+          "grams": 180,
+          "compare_at_price": "49.90",
+          "position": 1,
+          "product_id": 12293316739336,
+          "created_at": "2026-09-23T16:52:41+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87162976207112,
+          "created_at": "2026-09-24T10:48:33+02:00",
+          "position": 1,
+          "product_id": 12293316739336,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/elainas-reise-vol-3-blu-ray-standard-edition-923.webp?v=1790239713",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12293316542728,
+      "title": "Elainas Reise - Vol. 1 mit Sammelschuber (DVD)",
+      "handle": "24a363-elainas-reise-vol-1-mit-sammelschuber-dvd",
+      "published_at": "2026-09-24T18:48:08+02:00",
+      "created_at": "2026-09-23T16:52:31+02:00",
+      "vendor": "AniMoon",
+      "product_type": "",
+      "tags": [
+        "AniMoon"
+      ],
+      "variants": [
+        {
+          "id": 58846873878792,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "24a363",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "34.90",
+          "grams": 307,
+          "compare_at_price": "54.90",
+          "position": 1,
+          "product_id": 12293316542728,
+          "created_at": "2026-09-23T16:52:31+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87162971226376,
+          "created_at": "2026-09-24T10:48:11+02:00",
+          "position": 1,
+          "product_id": 12293316542728,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/elainas-reise-vol-1-sammelschuber-dvd-standard-edition-458.webp?v=1790239691",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12293316346120,
+      "title": "Harem in the Labyrinth of Another World - Vol. 1 mit Sammelschuber (Blu-ray)",
+      "handle": "24a366-harem-in-the-labyrinth-of-another-world-vol-1-mit-sammelschuber-bluray",
+      "published_at": "2026-09-24T18:48:08+02:00",
+      "created_at": "2026-09-23T16:52:18+02:00",
+      "vendor": "AniMoon",
+      "product_type": "",
+      "tags": [
+        "AniMoon"
+      ],
+      "variants": [
+        {
+          "id": 58846871355656,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "24a366",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "49.90",
+          "grams": 281,
+          "compare_at_price": "54.90",
+          "position": 1,
+          "product_id": 12293316346120,
+          "created_at": "2026-09-23T16:52:19+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87163025752328,
+          "created_at": "2026-09-24T10:51:22+02:00",
+          "position": 1,
+          "product_id": 12293316346120,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/harem-the-labyrinth-of-another-world-vol-1-sammelschuber-blu-ray-898.webp?v=1790239882",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12293316116744,
+      "title": "Harem in the Labyrinth of Another World - Vol. 2 (Blu-ray)",
+      "handle": "24a367-harem-in-the-labyrinth-of-another-world-vol-2-bluray",
+      "published_at": "2026-09-24T18:48:09+02:00",
+      "created_at": "2026-09-23T16:52:06+02:00",
+      "vendor": "AniMoon",
+      "product_type": "",
+      "tags": [
+        "AniMoon"
+      ],
+      "variants": [
+        {
+          "id": 58846866931976,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "24a367",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "45.90",
+          "grams": 155,
+          "compare_at_price": "49.90",
+          "position": 1,
+          "product_id": 12293316116744,
+          "created_at": "2026-09-23T16:52:07+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87163036434696,
+          "created_at": "2026-09-24T10:51:42+02:00",
+          "position": 1,
+          "product_id": 12293316116744,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/harem-the-labyrinth-of-another-world-vol-2-blu-ray-standard-edition-866.webp?v=1790239902",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12293314904328,
+      "title": "Harem in the Labyrinth of Another World - Vol. 3 (Blu-ray)",
+      "handle": "24a368-harem-in-the-labyrinth-of-another-world-vol-3-bluray",
+      "published_at": "2026-09-24T18:48:10+02:00",
+      "created_at": "2026-09-23T16:51:50+02:00",
+      "vendor": "AniMoon",
+      "product_type": "",
+      "tags": [
+        "AniMoon"
+      ],
+      "variants": [
+        {
+          "id": 58846827643144,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "24a368",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "45.90",
+          "grams": 156,
+          "compare_at_price": "49.90",
+          "position": 1,
+          "product_id": 12293314904328,
+          "created_at": "2026-09-23T16:51:50+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87163110686984,
+          "created_at": "2026-09-24T10:55:23+02:00",
+          "position": 1,
+          "product_id": 12293314904328,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/harem-the-labyrinth-of-another-world-vol-3-blu-ray-standard-edition-674.webp?v=1790240123",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12293315166472,
+      "title": "Harem in the Labyrinth of Another World - Vol. 1 mit Sammelschuber (DVD)",
+      "handle": "24a369-harem-in-the-labyrinth-of-another-world-vol-1-mit-sammelschuber-dvd",
+      "published_at": "2026-09-24T18:48:09+02:00",
+      "created_at": "2026-09-23T16:51:59+02:00",
+      "vendor": "AniMoon",
+      "product_type": "",
+      "tags": [
+        "AniMoon"
+      ],
+      "variants": [
+        {
+          "id": 58846831640840,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "24a369",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "49.90",
+          "grams": 280,
+          "compare_at_price": "54.90",
+          "position": 1,
+          "product_id": 12293315166472,
+          "created_at": "2026-09-23T16:51:59+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87163100430600,
+          "created_at": "2026-09-24T10:54:33+02:00",
+          "position": 1,
+          "product_id": 12293315166472,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/harem-the-labyrinth-of-another-world-vol-1-sammelschuber-dvd-593.webp?v=1790240073",
           "width": 2500,
           "height": 2500
         }
@@ -91661,6 +92615,59 @@
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/air-gear-vol-2-dvd-standard-edition-hardball-films-film-fernseh-562.webp?v=1771523196",
           "width": 2000,
           "height": 2000
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12293314117896,
+      "title": "Bofuri: I Don't Want to Get Hurt, So I'll Max Out My Defense. - Season 2 - Vol. 3 (Blu-ray)",
+      "handle": "24a389-bofuri-i-dont-want-to-get-hurt-so-ill-max-out-my-defense-season-2-vol-3-bluray",
+      "published_at": "2026-09-24T18:48:11+02:00",
+      "created_at": "2026-09-23T16:51:32+02:00",
+      "vendor": "AniMoon",
+      "product_type": "",
+      "tags": [
+        "AniMoon"
+      ],
+      "variants": [
+        {
+          "id": 58846811357448,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "24a389",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "39.90",
+          "grams": 151,
+          "compare_at_price": "39.90",
+          "position": 1,
+          "product_id": 12293314117896,
+          "created_at": "2026-09-23T16:51:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87163138113800,
+          "created_at": "2026-09-24T10:57:13+02:00",
+          "position": 1,
+          "product_id": 12293314117896,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/bofuri-i-dont-want-to-get-hurt-ill-max-out-my-defense-staffel-2-820.webp?v=1790240233",
+          "width": 2500,
+          "height": 2500
         }
       ],
       "options": [
@@ -168759,6 +169766,311 @@
           "product_id": 10785669611784,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/the-eminence-shadow-button-claire-matt-ansteckbuttons-264.webp?v=1773030192",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12297115402504,
+      "title": "Girls Band Cry - Acrylschlüsselanhänger - Nina (Holo-Effekt)",
+      "handle": "26m017-girls-band-cry-acrylschluesselanhaenger-nina-holo-effekt",
+      "published_at": "2026-09-24T18:48:06+02:00",
+      "created_at": "2026-09-24T15:24:49+02:00",
+      "vendor": "peppermint anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58863054160136,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26m017",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "9.90",
+          "grams": 20,
+          "compare_at_price": "9.90",
+          "position": 1,
+          "product_id": 12297115402504,
+          "created_at": "2026-09-24T15:24:49+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87168665321736,
+          "created_at": "2026-09-24T15:49:42+02:00",
+          "position": 1,
+          "product_id": 12297115402504,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/girls-band-cry-acrylschluesselanhaenger-nina-holo-effekt-551.webp?v=1790257782",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87168667910408,
+          "created_at": "2026-09-24T15:49:51+02:00",
+          "position": 2,
+          "product_id": 12297115402504,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/girls-band-cry-acrylschluesselanhaenger-nina-holo-effekt-148.webp?v=1790257792",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12297115468040,
+      "title": "Girls Band Cry - Acrylschlüsselanhänger - Momoka (Holo-Effekt)",
+      "handle": "26m018-girls-band-cry-acrylschluesselanhaenger-momoka-holo-effekt",
+      "published_at": "2026-09-24T18:48:06+02:00",
+      "created_at": "2026-09-24T15:24:49+02:00",
+      "vendor": "peppermint anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58863054225672,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26m018",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "9.90",
+          "grams": 20,
+          "compare_at_price": "9.90",
+          "position": 1,
+          "product_id": 12297115468040,
+          "created_at": "2026-09-24T15:24:49+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87168691142920,
+          "created_at": "2026-09-24T15:50:56+02:00",
+          "position": 1,
+          "product_id": 12297115468040,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/girls-band-cry-acrylschluesselanhaenger-momoka-holo-effekt-486.webp?v=1790257856",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87168693141768,
+          "created_at": "2026-09-24T15:51:07+02:00",
+          "position": 2,
+          "product_id": 12297115468040,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/girls-band-cry-acrylschluesselanhaenger-momoka-holo-effekt-222.webp?v=1790257867",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12297115336968,
+      "title": "Girls Band Cry - Acrylschlüsselanhänger - Subaru (Holo-Effekt)",
+      "handle": "26m019-girls-band-cry-acrylschluesselanhaenger-subaru-holo-effekt",
+      "published_at": "2026-09-24T18:48:07+02:00",
+      "created_at": "2026-09-24T15:24:48+02:00",
+      "vendor": "peppermint anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58863053963528,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26m019",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "9.90",
+          "grams": 20,
+          "compare_at_price": "9.90",
+          "position": 1,
+          "product_id": 12297115336968,
+          "created_at": "2026-09-24T15:24:48+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87168654442760,
+          "created_at": "2026-09-24T15:49:16+02:00",
+          "position": 1,
+          "product_id": 12297115336968,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/girls-band-cry-acrylschluesselanhaenger-subaru-holo-effekt-217.webp?v=1790257756",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87168659947784,
+          "created_at": "2026-09-24T15:49:26+02:00",
+          "position": 2,
+          "product_id": 12297115336968,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/girls-band-cry-acrylschluesselanhaenger-subaru-holo-effekt-899.webp?v=1790257766",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12297115369736,
+      "title": "Girls Band Cry - Acrylschlüsselanhänger - Tomo (Holo-Effekt)",
+      "handle": "26m020-girls-band-cry-acrylschluesselanhaenger-tomo-holo-effekt",
+      "published_at": "2026-09-24T18:48:06+02:00",
+      "created_at": "2026-09-24T15:24:48+02:00",
+      "vendor": "peppermint anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58863054127368,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26m020",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "9.90",
+          "grams": 20,
+          "compare_at_price": "9.90",
+          "position": 1,
+          "product_id": 12297115369736,
+          "created_at": "2026-09-24T15:24:49+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87168676364552,
+          "created_at": "2026-09-24T15:50:10+02:00",
+          "position": 1,
+          "product_id": 12297115369736,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/girls-band-cry-acrylschluesselanhaenger-tomo-holo-effekt-346.webp?v=1790257810",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87168680362248,
+          "created_at": "2026-09-24T15:50:21+02:00",
+          "position": 2,
+          "product_id": 12297115369736,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/girls-band-cry-acrylschluesselanhaenger-tomo-holo-effekt-170.webp?v=1790257821",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12297115435272,
+      "title": "Girls Band Cry - Acrylschlüsselanhänger - Rupa (Holo-Effekt)",
+      "handle": "26m021-girls-band-cry-acrylschluesselanhaenger-rupa-holo-effekt",
+      "published_at": "2026-09-24T18:48:06+02:00",
+      "created_at": "2026-09-24T15:24:49+02:00",
+      "vendor": "peppermint anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58863054192904,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26m021",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "9.90",
+          "grams": 20,
+          "compare_at_price": "9.90",
+          "position": 1,
+          "product_id": 12297115435272,
+          "created_at": "2026-09-24T15:24:49+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87168681378056,
+          "created_at": "2026-09-24T15:50:27+02:00",
+          "position": 1,
+          "product_id": 12297115435272,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/girls-band-cry-acrylschluesselanhaenger-rupa-holo-effekt-508.webp?v=1790257827",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87168686293256,
+          "created_at": "2026-09-24T15:50:39+02:00",
+          "position": 2,
+          "product_id": 12297115435272,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/girls-band-cry-acrylschluesselanhaenger-rupa-holo-effekt-178.webp?v=1790257839",
           "width": 2500,
           "height": 2500
         }
