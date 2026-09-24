@@ -2781,7 +2781,7 @@
           "available": true,
           "price": "29.99",
           "grams": 0,
-          "compare_at_price": "0.00",
+          "compare_at_price": null,
           "position": 1,
           "product_id": 8056576278581,
           "created_at": "2026-02-09T08:00:18+01:00"
@@ -3286,7 +3286,7 @@
           "available": true,
           "price": "29.99",
           "grams": 200,
-          "compare_at_price": "0.00",
+          "compare_at_price": null,
           "position": 1,
           "product_id": 8106048258101,
           "created_at": "2026-04-08T12:17:11+02:00"
@@ -3909,7 +3909,7 @@
           "available": true,
           "price": "29.99",
           "grams": 0,
-          "compare_at_price": "0.00",
+          "compare_at_price": null,
           "position": 1,
           "product_id": 7824762110005,
           "created_at": "2025-01-22T15:03:59+01:00"
@@ -12634,7 +12634,7 @@
           "available": true,
           "price": "29.99",
           "grams": 0,
-          "compare_at_price": "0.00",
+          "compare_at_price": null,
           "position": 1,
           "product_id": 8089706299445,
           "created_at": "2026-03-17T08:27:37+01:00"
@@ -19444,6 +19444,71 @@
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/0000AN72130_02.jpg?v=1770209346",
           "width": 1174,
           "height": 1879
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10307231809589,
+      "title": "Freitag, der 13. - 8 Movie Collection Blu-ray",
+      "handle": "freitag-der-13-8-movie-collection-blu-ray",
+      "published_at": "2026-09-24T16:19:41+02:00",
+      "created_at": "2026-09-24T16:16:39+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "Blu-Ray",
+        "Horror",
+        "preorder"
+      ],
+      "variants": [
+        {
+          "id": 50505275015221,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00754",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "59.99",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 10307231809589,
+          "created_at": "2026-09-24T16:16:39+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38954133618741,
+          "created_at": "2026-09-24T16:17:57+02:00",
+          "position": 1,
+          "product_id": 10307231809589,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122983226701jpg-227332.jpg?v=1790259478",
+          "width": 1848,
+          "height": 2222
+        },
+        {
+          "id": 38954134765621,
+          "created_at": "2026-09-24T16:18:02+02:00",
+          "position": 2,
+          "product_id": 10307231809589,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122983226702png-227379.png?v=1790259483",
+          "width": 1696,
+          "height": 2155
         }
       ],
       "options": [
@@ -34965,6 +35030,206 @@
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4011976347682_02.jpg?v=1768487300",
           "width": 1538,
           "height": 2366
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10307232170037,
+      "title": "Resident Evil (2026) 4K UHD + Blu-ray",
+      "handle": "resident-evil-2026-4k-uhd-blu-ray",
+      "published_at": "2026-09-24T16:45:00+02:00",
+      "created_at": "2026-09-24T16:16:45+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "4K",
+        "4K UHD",
+        "Action & Thriller",
+        "Blu-Ray",
+        "preorder"
+      ],
+      "variants": [
+        {
+          "id": 50505276620853,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00756",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "29.99",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 10307232170037,
+          "created_at": "2026-09-24T16:16:45+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38954141188149,
+          "created_at": "2026-09-24T16:18:17+02:00",
+          "position": 1,
+          "product_id": 10307232170037,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122973139301jpg-228822.jpg?v=1790259498",
+          "width": 1500,
+          "height": 1915
+        },
+        {
+          "id": 38954141810741,
+          "created_at": "2026-09-24T16:18:21+02:00",
+          "position": 2,
+          "product_id": 10307232170037,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122973139302png-228869.png?v=1790259502",
+          "width": 1172,
+          "height": 1680
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10307259236405,
+      "title": "Resident Evil (2026) 4K UHD + Blu-ray (Lim. Steelbook)",
+      "handle": "resident-evil-2026-4k-uhd-blu-ray-lim-steelbook",
+      "published_at": "2026-09-24T16:44:40+02:00",
+      "created_at": "2026-09-24T16:29:33+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "4K",
+        "4K UHD",
+        "Action & Thriller",
+        "Blu-Ray",
+        "preorder",
+        "Steelbooks"
+      ],
+      "variants": [
+        {
+          "id": 50505312272437,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00757",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "34.99",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 10307259236405,
+          "created_at": "2026-09-24T16:29:33+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38954480959541,
+          "created_at": "2026-09-24T16:44:26+02:00",
+          "position": 1,
+          "product_id": 10307259236405,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/KeineAbbildung_Plain_98920cc5-b62e-4070-af20-f2687eecf663.jpg?v=1790261067",
+          "width": 1172,
+          "height": 1680
+        },
+        {
+          "id": 38954296508469,
+          "created_at": "2026-09-24T16:29:38+02:00",
+          "position": 2,
+          "product_id": 10307259236405,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122973137901jpg-229010.jpg?v=1790260180",
+          "width": 1754,
+          "height": 985
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10307231973429,
+      "title": "Resident Evil (2026) Blu-ray",
+      "handle": "resident-evil-2026-blu-ray",
+      "published_at": "2026-09-24T16:45:24+02:00",
+      "created_at": "2026-09-24T16:16:41+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "Action & Thriller",
+        "Blu-Ray",
+        "preorder"
+      ],
+      "variants": [
+        {
+          "id": 50505275244597,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00755",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "17.99",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 10307231973429,
+          "created_at": "2026-09-24T16:16:41+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38954139123765,
+          "created_at": "2026-09-24T16:18:07+02:00",
+          "position": 1,
+          "product_id": 10307231973429,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122973131701jpg-228632.jpg?v=1790259489",
+          "width": 1500,
+          "height": 1915
+        },
+        {
+          "id": 38954140303413,
+          "created_at": "2026-09-24T16:18:12+02:00",
+          "position": 2,
+          "product_id": 10307231973429,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122973131702png-228677.png?v=1790259493",
+          "width": 1172,
+          "height": 1680
         }
       ],
       "options": [
