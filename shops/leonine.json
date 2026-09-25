@@ -35147,19 +35147,9 @@
       ],
       "images": [
         {
-          "id": 38954480959541,
-          "created_at": "2026-09-24T16:44:26+02:00",
-          "position": 1,
-          "product_id": 10307259236405,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/KeineAbbildung_Plain_98920cc5-b62e-4070-af20-f2687eecf663.jpg?v=1790261067",
-          "width": 1172,
-          "height": 1680
-        },
-        {
           "id": 38954296508469,
           "created_at": "2026-09-24T16:29:38+02:00",
-          "position": 2,
+          "position": 1,
           "product_id": 10307259236405,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122973137901jpg-229010.jpg?v=1790260180",
