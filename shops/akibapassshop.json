@@ -160992,12 +160992,32 @@
       ],
       "images": [
         {
-          "id": 86518323216648,
-          "created_at": "2026-08-26T11:00:47+02:00",
+          "id": 87190979510536,
+          "created_at": "2026-09-25T15:59:53+02:00",
           "position": 1,
           "product_id": 12205911736584,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pass-the-monster-meat-milady-gesamtausgabe-blu-ray-gesamtausgabe-934.webp?v=1787734847",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pass-the-monster-meat-milady-gesamtausgabe-blu-ray-gesamtausgabe-937.webp?v=1790344793",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87190979838216,
+          "created_at": "2026-09-25T16:00:03+02:00",
+          "position": 2,
+          "product_id": 12205911736584,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pass-the-monster-meat-milady-gesamtausgabe-blu-ray-gesamtausgabe-449.webp?v=1790344803",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87190980362504,
+          "created_at": "2026-09-25T16:00:14+02:00",
+          "position": 3,
+          "product_id": 12205911736584,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pass-the-monster-meat-milady-gesamtausgabe-blu-ray-gesamtausgabe-556.webp?v=1790344814",
           "width": 2500,
           "height": 2500
         }
