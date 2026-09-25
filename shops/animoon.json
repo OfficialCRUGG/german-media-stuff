@@ -17428,6 +17428,95 @@
       ]
     },
     {
+      "id": 15671702814985,
+      "title": "Gushing Over Magical Girls - Manga - Band 5",
+      "handle": "gushing-over-magical-girls-manga-band-5",
+      "published_at": "2026-09-26T00:26:10+02:00",
+      "created_at": "2026-09-10T10:35:00+02:00",
+      "vendor": "AniMoon Shop",
+      "product_type": "Manga",
+      "tags": [
+        "action",
+        "comedy",
+        "ecchi",
+        "gushing",
+        "magical girl",
+        "Manga",
+        "preorder",
+        "vorbestellung"
+      ],
+      "variants": [
+        {
+          "id": 57319692435721,
+          "title": "Band 5",
+          "option1": "Band 5",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "13.00",
+          "grams": 300,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15671702814985,
+          "created_at": "2026-09-10T10:35:00+02:00"
+        },
+        {
+          "id": 57319692468489,
+          "title": "Band 5 Limited Edition mit Acrylaufsteller",
+          "option1": "Band 5 Limited Edition mit Acrylaufsteller",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "20.00",
+          "grams": 300,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 15671702814985,
+          "created_at": "2026-09-10T10:35:00+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 81628844327177,
+          "created_at": "2026-09-26T00:18:28+02:00",
+          "position": 1,
+          "product_id": 15671702814985,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Gushing_Band_5_SE.png?v=1790374710",
+          "width": 1848,
+          "height": 1848
+        },
+        {
+          "id": 81628844359945,
+          "created_at": "2026-09-26T00:18:28+02:00",
+          "position": 2,
+          "product_id": 15671702814985,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Gushing_Band_5_2D_Cover.png?v=1790374711",
+          "width": 1674,
+          "height": 2497
+        }
+      ],
+      "options": [
+        {
+          "name": "Medium auswählen:",
+          "position": 1,
+          "values": [
+            "Band 5",
+            "Band 5 Limited Edition mit Acrylaufsteller"
+          ]
+        }
+      ]
+    },
+    {
       "id": 15560448049417,
       "title": "Gushing Over Magical Girls - Staffel 1 Bundle",
       "handle": "gushing-over-magical-girls-staffel-1-bundle",
@@ -43746,7 +43835,7 @@
               57267161858313
             ]
           },
-          "available": true,
+          "available": false,
           "price": "29.99",
           "grams": 300,
           "compare_at_price": null,
@@ -48504,6 +48593,110 @@
       ]
     },
     {
+      "id": 15624729297161,
+      "title": "Vermeil in Gold - Manga - Band 2",
+      "handle": "vermeil-in-gold-manga-band-2",
+      "published_at": "2026-09-26T00:56:53+02:00",
+      "created_at": "2026-07-13T16:34:05+02:00",
+      "vendor": "AniMoon Shop",
+      "product_type": "Manga",
+      "tags": [
+        "action",
+        "comedy",
+        "ecchi",
+        "fantasy",
+        "Manga",
+        "preorder",
+        "vermeil",
+        "vorbestellung"
+      ],
+      "variants": [
+        {
+          "id": 57195684167945,
+          "title": "Band 2",
+          "option1": "Band 2",
+          "option2": null,
+          "option3": null,
+          "sku": "978-3-69194-026-8",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 81628865233161,
+            "product_id": 15624729297161,
+            "position": 1,
+            "created_at": "2026-09-26T00:48:27+02:00",
+            "updated_at": "2026-09-26T00:48:30+02:00",
+            "alt": null,
+            "width": 1848,
+            "height": 1848,
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Vermeil-in-Gold_Band_2.png?v=1790376510",
+            "variant_ids": [
+              57195684167945
+            ]
+          },
+          "available": true,
+          "price": "13.00",
+          "grams": 300,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15624729297161,
+          "created_at": "2026-07-13T16:34:06+02:00"
+        },
+        {
+          "id": 57195684200713,
+          "title": "Band 2 Limited Edition",
+          "option1": "Band 2 Limited Edition",
+          "option2": null,
+          "option3": null,
+          "sku": "978-3-69194-027-5",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "20.00",
+          "grams": 300,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 15624729297161,
+          "created_at": "2026-07-13T16:34:06+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 81628865233161,
+          "created_at": "2026-09-26T00:48:27+02:00",
+          "position": 1,
+          "product_id": 15624729297161,
+          "variant_ids": [
+            57195684167945
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Vermeil-in-Gold_Band_2.png?v=1790376510",
+          "width": 1848,
+          "height": 1848
+        },
+        {
+          "id": 81628865265929,
+          "created_at": "2026-09-26T00:48:27+02:00",
+          "position": 2,
+          "product_id": 15624729297161,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Vermeil-in-Gold_Band_2_2D_Cover_d987fbd7-c5ad-43d8-8a7f-d5fd0791355a.png?v=1790376511",
+          "width": 1708,
+          "height": 2480
+        }
+      ],
+      "options": [
+        {
+          "name": "Medium auswählen:",
+          "position": 1,
+          "values": [
+            "Band 2",
+            "Band 2 Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
       "id": 8289938374921,
       "title": "Vermeil in Gold - Vol. 1",
       "handle": "vermeil-in-gold-vol-1-limited-mediabook-edition-mit-sammelschuber-und-vermeil-acrylfigur",
@@ -50680,6 +50873,114 @@
           "values": [
             "Band 4",
             "Band 4 Limited Edition mit Acrylaufsteller"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15685464588553,
+      "title": "Yandere Dark Elf - Manga - Band 5",
+      "handle": "yandere-dark-elf-manga-band-5",
+      "published_at": "2026-09-26T00:42:26+02:00",
+      "created_at": "2026-09-26T00:27:09+02:00",
+      "vendor": "AniMoon Shop",
+      "product_type": "Manga",
+      "tags": [
+        "action",
+        "comedy",
+        "Darkelf",
+        "ecchi",
+        "fantasy",
+        "harem",
+        "isekai",
+        "Manga",
+        "preorder",
+        "romance",
+        "SoL",
+        "vorbestellung"
+      ],
+      "variants": [
+        {
+          "id": 57359891202313,
+          "title": "Band 5",
+          "option1": "Band 5",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 81628857499913,
+            "product_id": 15685464588553,
+            "position": 1,
+            "created_at": "2026-09-26T00:32:45+02:00",
+            "updated_at": "2026-09-26T00:32:48+02:00",
+            "alt": null,
+            "width": 1848,
+            "height": 1848,
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Band_5.png?v=1790375568",
+            "variant_ids": [
+              57359891202313
+            ]
+          },
+          "available": true,
+          "price": "13.00",
+          "grams": 300,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15685464588553,
+          "created_at": "2026-09-26T00:27:09+02:00"
+        },
+        {
+          "id": 57359891235081,
+          "title": "Band 5 Limited Edition",
+          "option1": "Band 5 Limited Edition",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "23.00",
+          "grams": 300,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 15685464588553,
+          "created_at": "2026-09-26T00:27:09+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 81628857499913,
+          "created_at": "2026-09-26T00:32:45+02:00",
+          "position": 1,
+          "product_id": 15685464588553,
+          "variant_ids": [
+            57359891202313
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Band_5.png?v=1790375568",
+          "width": 1848,
+          "height": 1848
+        },
+        {
+          "id": 81628857532681,
+          "created_at": "2026-09-26T00:32:45+02:00",
+          "position": 2,
+          "product_id": 15685464588553,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Band_5_2D_Cover.png?v=1790375569",
+          "width": 1708,
+          "height": 2480
+        }
+      ],
+      "options": [
+        {
+          "name": "Medium auswählen:",
+          "position": 1,
+          "values": [
+            "Band 5",
+            "Band 5 Limited Edition"
           ]
         }
       ]
