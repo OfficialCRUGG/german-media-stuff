@@ -13960,6 +13960,96 @@
       ]
     },
     {
+      "id": 15624715010313,
+      "title": "From Overshadowed to Overpowered: Die zweite Wiedergeburt eines untalentierten Helden - Manga - Band 2",
+      "handle": "from-overshadowed-to-overpowered-die-zweite-wiedergeburt-eines-untalentierten-helden-manga-band-2",
+      "published_at": "2026-09-26T01:07:53+02:00",
+      "created_at": "2026-07-13T16:16:19+02:00",
+      "vendor": "AniMoon Shop",
+      "product_type": "Manga",
+      "tags": [
+        "action",
+        "comedy",
+        "ecchi",
+        "fantasy",
+        "Manga",
+        "overshadowed",
+        "preorder",
+        "reincarnated",
+        "vorbestellung"
+      ],
+      "variants": [
+        {
+          "id": 57195648581897,
+          "title": "Band 2",
+          "option1": "Band 2",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "13.00",
+          "grams": 300,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15624715010313,
+          "created_at": "2026-07-13T16:16:20+02:00"
+        },
+        {
+          "id": 57195648614665,
+          "title": "Band 2 Limited Edition",
+          "option1": "Band 2 Limited Edition",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "20.00",
+          "grams": 300,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 15624715010313,
+          "created_at": "2026-07-13T16:16:20+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 81628872966409,
+          "created_at": "2026-09-26T01:03:15+02:00",
+          "position": 1,
+          "product_id": 15624715010313,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/From-Overshadowed-to-Overpowered_Band_2_2c954a4b-0ad3-404e-b8f0-d1ff29573559.png?v=1790377398",
+          "width": 1848,
+          "height": 1848
+        },
+        {
+          "id": 81628873031945,
+          "created_at": "2026-09-26T01:03:16+02:00",
+          "position": 2,
+          "product_id": 15624715010313,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/From-Overshadowed-to-Overpowered_Band_2_2D_Cover_c7ad7dbd-c9ba-432f-8ee8-6aa02a248603.png?v=1790377400",
+          "width": 1708,
+          "height": 2480
+        }
+      ],
+      "options": [
+        {
+          "name": "Medium auswählen:",
+          "position": 1,
+          "values": [
+            "Band 2",
+            "Band 2 Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
       "id": 15479047389449,
       "title": "From Overshadowed to Overpowered: Die zweite Wiedergeburt eines untalentierten Helden - Manga - Band 1",
       "handle": "from-overshadowed-to-overpowered-manga-band-1",
@@ -48392,6 +48482,126 @@
           "values": [
             "Blu-ray",
             "DVD"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15671710056713,
+      "title": "Verliebt in seinen Bodyguard - Manga - Einzelband",
+      "handle": "verliebt-in-seinen-bodyguard-manga-einzelband",
+      "published_at": "2026-09-26T01:14:33+02:00",
+      "created_at": "2026-09-10T10:42:34+02:00",
+      "vendor": "AniMoon Shop",
+      "product_type": "Manga",
+      "tags": [
+        "BL",
+        "bodyguard",
+        "drama",
+        "ecchi",
+        "Manga",
+        "preorder",
+        "romance",
+        "vorbestellung"
+      ],
+      "variants": [
+        {
+          "id": 57319713210633,
+          "title": "Band 1",
+          "option1": "Band 1",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 81617475109129,
+            "product_id": 15671710056713,
+            "position": 1,
+            "created_at": "2026-09-24T12:57:44+02:00",
+            "updated_at": "2026-09-24T12:57:47+02:00",
+            "alt": null,
+            "width": 1848,
+            "height": 1848,
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Bodyguard_Band_1_SE-Vorab.png?v=1790247467",
+            "variant_ids": [
+              57319713210633,
+              57319713243401
+            ]
+          },
+          "available": true,
+          "price": "13.00",
+          "grams": 300,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15671710056713,
+          "created_at": "2026-09-10T10:42:34+02:00"
+        },
+        {
+          "id": 57319713243401,
+          "title": "Band 1 Limited Edition",
+          "option1": "Band 1 Limited Edition",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 81617475109129,
+            "product_id": 15671710056713,
+            "position": 1,
+            "created_at": "2026-09-24T12:57:44+02:00",
+            "updated_at": "2026-09-24T12:57:47+02:00",
+            "alt": null,
+            "width": 1848,
+            "height": 1848,
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Bodyguard_Band_1_SE-Vorab.png?v=1790247467",
+            "variant_ids": [
+              57319713210633,
+              57319713243401
+            ]
+          },
+          "available": true,
+          "price": "20.00",
+          "grams": 300,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 15671710056713,
+          "created_at": "2026-09-10T10:42:34+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 81617475109129,
+          "created_at": "2026-09-24T12:57:44+02:00",
+          "position": 1,
+          "product_id": 15671710056713,
+          "variant_ids": [
+            57319713210633,
+            57319713243401
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Bodyguard_Band_1_SE-Vorab.png?v=1790247467",
+          "width": 1848,
+          "height": 1848
+        },
+        {
+          "id": 81534236819721,
+          "created_at": "2026-09-15T14:06:05+02:00",
+          "position": 2,
+          "product_id": 15671710056713,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Bodyguard_Band1_2DCover.png?v=1789473969",
+          "width": 1708,
+          "height": 2480
+        }
+      ],
+      "options": [
+        {
+          "name": "Medium auswählen:",
+          "position": 1,
+          "values": [
+            "Band 1",
+            "Band 1 Limited Edition"
           ]
         }
       ]
