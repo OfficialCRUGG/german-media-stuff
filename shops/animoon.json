@@ -19364,7 +19364,6 @@
         "higurashi",
         "higurashi gou",
         "horror",
-        "released",
         "school",
         "Serie"
       ],
@@ -19393,7 +19392,7 @@
             ]
           },
           "available": true,
-          "price": "189.00",
+          "price": "99.00",
           "grams": 1600,
           "compare_at_price": "199.99",
           "position": 1,
@@ -19411,7 +19410,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "189.00",
+          "price": "99.00",
           "grams": 1500,
           "compare_at_price": "199.99",
           "position": 2,
