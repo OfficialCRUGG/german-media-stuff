@@ -55572,7 +55572,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "4.90",
           "grams": 160,
           "compare_at_price": "14.90",
