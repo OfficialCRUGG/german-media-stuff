@@ -91543,7 +91543,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "19.90",
           "grams": 156,
           "compare_at_price": "49.90",
@@ -98776,6 +98776,62 @@
           "product_id": 10261525463304,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/nier-automata-yorha-no-a2-figur-10cm-good-smile-548.webp?v=1769035483",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10261525496072,
+      "title": "Rascal Does Not Dream of Bunny Girl Senpai - Mai Sakurajima - Figur (25cm)",
+      "handle": "24am112-rascal-does-not-dream-of-bunny-girl-senpai-mai-sakurajima-figur-25cm",
+      "published_at": "2026-09-28T15:23:58+02:00",
+      "created_at": "2025-05-28T16:21:23+02:00",
+      "vendor": "Square Enix",
+      "product_type": "",
+      "tags": [
+        "Figur",
+        "hidden-product",
+        "Online",
+        "Square Enix"
+      ],
+      "variants": [
+        {
+          "id": 51542966206728,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "24am112",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "79.90",
+          "grams": 0,
+          "compare_at_price": "79.90",
+          "position": 1,
+          "product_id": 10261525496072,
+          "created_at": "2025-05-28T16:21:23+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 73954802041096,
+          "created_at": "2025-10-29T19:05:41+01:00",
+          "position": 1,
+          "product_id": 10261525496072,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/rascal-does-not-dream-of-bunny-girl-senpai-mai-sakurajima-figur-515.webp?v=1769035495",
           "width": 2500,
           "height": 2500
         }
@@ -124695,7 +124751,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "39.90",
           "grams": 183,
           "compare_at_price": "39.90",
@@ -131263,7 +131319,7 @@
     },
     {
       "id": 10431169626376,
-      "title": "One Piece - Cross Bones - Socken - Größe M",
+      "title": "One Piece - Cross Bones - Socken - Größe XL",
       "handle": "25her010-one-piece-croos-bones-socken",
       "published_at": "2025-07-25T17:52:23+02:00",
       "created_at": "2025-07-25T17:45:47+02:00",
@@ -131336,7 +131392,7 @@
     },
     {
       "id": 10431169757448,
-      "title": "One Piece - Skull Logo - Socken - Größe M",
+      "title": "One Piece - Skull Logo - Socken - Größe XL",
       "handle": "25her011-one-piece-skull-logo-socken",
       "published_at": "2025-07-25T17:52:24+02:00",
       "created_at": "2025-07-25T17:45:48+02:00",
@@ -131841,7 +131897,7 @@
     },
     {
       "id": 10431169921288,
-      "title": "Pokémon - Halftone Pikachu - Hoodie - Größe S",
+      "title": "Pokémon - Halftone Pikachu - Hoodie - Größe L",
       "handle": "25her015-pokemon-halftone-pikachu-hoodie",
       "published_at": "2025-07-25T17:52:26+02:00",
       "created_at": "2025-07-25T17:45:51+02:00",
@@ -155201,7 +155257,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "69.90",
           "grams": 186,
           "compare_at_price": "69.90",
@@ -160654,12 +160710,12 @@
       ],
       "images": [
         {
-          "id": 86519583113480,
-          "created_at": "2026-08-26T12:34:20+02:00",
+          "id": 87250409423112,
+          "created_at": "2026-09-28T15:41:52+02:00",
           "position": 1,
           "product_id": 12205898268936,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-season-1-gesamtausgabe-limited-edition-steelbook-blu-461.webp?v=1787740460",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017544469_JujutsuKaisen_S1_Steelbook_BD.png?v=1790602916",
           "width": 2500,
           "height": 2500
         }
@@ -161317,12 +161373,12 @@
       ],
       "images": [
         {
-          "id": 86518392029448,
-          "created_at": "2026-08-26T11:06:29+02:00",
+          "id": 87250395169032,
+          "created_at": "2026-09-28T15:40:14+02:00",
           "position": 1,
           "product_id": 12205916061960,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/the-apothecary-diaries-tagebuecher-apothekerin-season-2-vol-1-blu-313.webp?v=1787735189",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017542472_Apothekerin_S2_Vol1_BD.png?v=1790602817",
           "width": 2500,
           "height": 2500
         }
@@ -161370,12 +161426,12 @@
       ],
       "images": [
         {
-          "id": 86518446031112,
-          "created_at": "2026-08-26T11:09:24+02:00",
+          "id": 87250402279688,
+          "created_at": "2026-09-28T15:40:32+02:00",
           "position": 1,
           "product_id": 12205917110536,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/the-apothecary-diaries-tagebuecher-apothekerin-season-2-vol-1-dvd-116.webp?v=1787735364",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017542489_Apothekerin_S2_Vol1_DVD.png?v=1790602836",
           "width": 2500,
           "height": 2500
         }
