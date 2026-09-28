@@ -160710,12 +160710,12 @@
       ],
       "images": [
         {
-          "id": 87250409423112,
-          "created_at": "2026-09-28T15:41:52+02:00",
+          "id": 87253416476936,
+          "created_at": "2026-09-28T17:05:26+02:00",
           "position": 1,
           "product_id": 12205898268936,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017544469_JujutsuKaisen_S1_Steelbook_BD.png?v=1790602916",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-season-1-gesamtausgabe-limited-edition-steelbook-blu-590.webp?v=1790607926",
           "width": 2500,
           "height": 2500
         }
@@ -161373,12 +161373,12 @@
       ],
       "images": [
         {
-          "id": 87250395169032,
-          "created_at": "2026-09-28T15:40:14+02:00",
+          "id": 87253398028552,
+          "created_at": "2026-09-28T17:04:54+02:00",
           "position": 1,
           "product_id": 12205916061960,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017542472_Apothekerin_S2_Vol1_BD.png?v=1790602817",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/the-apothecary-diaries-tagebuecher-apothekerin-season-2-vol-1-blu-341.webp?v=1790607894",
           "width": 2500,
           "height": 2500
         }
@@ -161426,12 +161426,12 @@
       ],
       "images": [
         {
-          "id": 87250402279688,
-          "created_at": "2026-09-28T15:40:32+02:00",
+          "id": 87253405434120,
+          "created_at": "2026-09-28T17:05:04+02:00",
           "position": 1,
           "product_id": 12205917110536,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017542489_Apothekerin_S2_Vol1_DVD.png?v=1790602836",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/the-apothecary-diaries-tagebuecher-apothekerin-season-2-vol-1-dvd-353.webp?v=1790607904",
           "width": 2500,
           "height": 2500
         }
@@ -163354,7 +163354,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "79.90",
           "grams": 168,
           "compare_at_price": "79.90",
