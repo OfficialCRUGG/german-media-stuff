@@ -159891,14 +159891,34 @@
       ],
       "images": [
         {
-          "id": 86506115924232,
-          "created_at": "2026-08-25T20:31:32+02:00",
+          "id": 87265182974216,
+          "created_at": "2026-09-29T09:56:10+02:00",
           "position": 1,
           "product_id": 12205914226952,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dragonball-z-movies-box-vol-1-blu-ray-standard-edition-crunchyroll-244.webp?v=1787682692",
-          "width": 1024,
-          "height": 1024
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017545022_DragonBallZ_Movie1-4_BD.png?v=1790668573",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87265185235208,
+          "created_at": "2026-09-29T09:56:11+02:00",
+          "position": 2,
+          "product_id": 12205914226952,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017545022_DragonBallZ_Movie1-4_BD_Back.png?v=1790668575",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87265186283784,
+          "created_at": "2026-09-29T09:56:13+02:00",
+          "position": 3,
+          "product_id": 12205914226952,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017545022_DragonBallZ_Movie1-4_BD_Front.png?v=1790668576",
+          "width": 2500,
+          "height": 2500
         }
       ],
       "options": [
@@ -160066,12 +160086,42 @@
       ],
       "images": [
         {
-          "id": 87253416476936,
-          "created_at": "2026-09-28T17:05:26+02:00",
+          "id": 87265254048008,
+          "created_at": "2026-09-29T10:00:18+02:00",
           "position": 1,
           "product_id": 12205898268936,
           "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-season-1-gesamtausgabe-limited-edition-steelbook-blu-830.webp?v=1790668818",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87253416476936,
+          "created_at": "2026-09-28T17:05:26+02:00",
+          "position": 2,
+          "product_id": 12205898268936,
+          "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-season-1-gesamtausgabe-limited-edition-steelbook-blu-590.webp?v=1790607926",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87265256079624,
+          "created_at": "2026-09-29T10:00:30+02:00",
+          "position": 3,
+          "product_id": 12205898268936,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-season-1-gesamtausgabe-limited-edition-steelbook-blu-426.webp?v=1790668830",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87265257488648,
+          "created_at": "2026-09-29T10:00:41+02:00",
+          "position": 4,
+          "product_id": 12205898268936,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-season-1-gesamtausgabe-limited-edition-steelbook-blu-242.webp?v=1790668841",
           "width": 2500,
           "height": 2500
         }
@@ -160707,9 +160757,19 @@
       ],
       "images": [
         {
+          "id": 87265314013448,
+          "created_at": "2026-09-29T10:04:12+02:00",
+          "position": 1,
+          "product_id": 12205916061960,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/the-apothecary-diaries-tagebuecher-apothekerin-season-2-vol-1-blu-486.webp?v=1790669052",
+          "width": 2500,
+          "height": 2500
+        },
+        {
           "id": 87253398028552,
           "created_at": "2026-09-28T17:04:54+02:00",
-          "position": 1,
+          "position": 2,
           "product_id": 12205916061960,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/the-apothecary-diaries-tagebuecher-apothekerin-season-2-vol-1-blu-341.webp?v=1790607894",
@@ -160758,9 +160818,29 @@
       ],
       "images": [
         {
+          "id": 87265283211528,
+          "created_at": "2026-09-29T10:02:17+02:00",
+          "position": 1,
+          "product_id": 12205917110536,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/the-apothecary-diaries-tagebuecher-apothekerin-season-2-vol-1-dvd-310.webp?v=1790668937",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87265284358408,
+          "created_at": "2026-09-29T10:02:25+02:00",
+          "position": 2,
+          "product_id": 12205917110536,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/the-apothecary-diaries-tagebuecher-apothekerin-season-2-vol-1-dvd-452.webp?v=1790668945",
+          "width": 2500,
+          "height": 2500
+        },
+        {
           "id": 87253405434120,
           "created_at": "2026-09-28T17:05:04+02:00",
-          "position": 1,
+          "position": 3,
           "product_id": 12205917110536,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/the-apothecary-diaries-tagebuecher-apothekerin-season-2-vol-1-dvd-353.webp?v=1790607904",
@@ -178187,7 +178267,9 @@
       "created_at": "2026-09-02T18:14:14+02:00",
       "vendor": "polyband anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "vorbestellbar"
+      ],
       "variants": [
         {
           "id": 58595488170248,
@@ -178298,7 +178380,9 @@
       "created_at": "2026-09-02T18:15:23+02:00",
       "vendor": "polyband anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "vorbestellbar"
+      ],
       "variants": [
         {
           "id": 58595488891144,
@@ -192416,7 +192500,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.00",
           "grams": 50,
           "compare_at_price": "0.00",
