@@ -109392,7 +109392,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "39.90",
           "grams": 90,
           "compare_at_price": "39.90",
@@ -159891,32 +159891,32 @@
       ],
       "images": [
         {
-          "id": 87265182974216,
-          "created_at": "2026-09-29T09:56:10+02:00",
+          "id": 87265496137992,
+          "created_at": "2026-09-29T10:12:29+02:00",
           "position": 1,
           "product_id": 12205914226952,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017545022_DragonBallZ_Movie1-4_BD.png?v=1790668573",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dragonball-z-movies-box-vol-1-blu-ray-standard-edition-crunchyroll-265.webp?v=1790669549",
           "width": 2500,
           "height": 2500
         },
         {
-          "id": 87265185235208,
-          "created_at": "2026-09-29T09:56:11+02:00",
+          "id": 87265501217032,
+          "created_at": "2026-09-29T10:12:39+02:00",
           "position": 2,
           "product_id": 12205914226952,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017545022_DragonBallZ_Movie1-4_BD_Back.png?v=1790668575",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dragonball-z-movies-box-vol-1-blu-ray-standard-edition-crunchyroll-332.webp?v=1790669559",
           "width": 2500,
           "height": 2500
         },
         {
-          "id": 87265186283784,
-          "created_at": "2026-09-29T09:56:13+02:00",
+          "id": 87265502134536,
+          "created_at": "2026-09-29T10:12:48+02:00",
           "position": 3,
           "product_id": 12205914226952,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017545022_DragonBallZ_Movie1-4_BD_Front.png?v=1790668576",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dragonball-z-movies-box-vol-1-blu-ray-standard-edition-crunchyroll-194.webp?v=1790669568",
           "width": 2500,
           "height": 2500
         }
@@ -178267,9 +178267,7 @@
       "created_at": "2026-09-02T18:14:14+02:00",
       "vendor": "polyband anime",
       "product_type": "",
-      "tags": [
-        "vorbestellbar"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 58595488170248,
@@ -178380,9 +178378,7 @@
       "created_at": "2026-09-02T18:15:23+02:00",
       "vendor": "polyband anime",
       "product_type": "",
-      "tags": [
-        "vorbestellbar"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 58595488891144,
