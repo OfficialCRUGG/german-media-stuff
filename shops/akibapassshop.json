@@ -160070,19 +160070,9 @@
       ],
       "images": [
         {
-          "id": 87265254048008,
-          "created_at": "2026-09-29T10:00:18+02:00",
-          "position": 1,
-          "product_id": 12205898268936,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-season-1-gesamtausgabe-limited-edition-steelbook-blu-830.webp?v=1790668818",
-          "width": 2500,
-          "height": 2500
-        },
-        {
           "id": 87253416476936,
           "created_at": "2026-09-28T17:05:26+02:00",
-          "position": 2,
+          "position": 1,
           "product_id": 12205898268936,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-season-1-gesamtausgabe-limited-edition-steelbook-blu-590.webp?v=1790607926",
@@ -160092,10 +160082,20 @@
         {
           "id": 87265256079624,
           "created_at": "2026-09-29T10:00:30+02:00",
-          "position": 3,
+          "position": 2,
           "product_id": 12205898268936,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-season-1-gesamtausgabe-limited-edition-steelbook-blu-426.webp?v=1790668830",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87272604172552,
+          "created_at": "2026-09-29T15:30:17+02:00",
+          "position": 3,
+          "product_id": 12205898268936,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-season-1-gesamtausgabe-limited-edition-steelbook-blu-903.webp?v=1790688617",
           "width": 2500,
           "height": 2500
         },
@@ -160741,22 +160741,12 @@
       ],
       "images": [
         {
-          "id": 87265314013448,
-          "created_at": "2026-09-29T10:04:12+02:00",
+          "id": 87272568291592,
+          "created_at": "2026-09-29T15:28:26+02:00",
           "position": 1,
           "product_id": 12205916061960,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/the-apothecary-diaries-tagebuecher-apothekerin-season-2-vol-1-blu-486.webp?v=1790669052",
-          "width": 2500,
-          "height": 2500
-        },
-        {
-          "id": 87253398028552,
-          "created_at": "2026-09-28T17:04:54+02:00",
-          "position": 2,
-          "product_id": 12205916061960,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/the-apothecary-diaries-tagebuecher-apothekerin-season-2-vol-1-blu-341.webp?v=1790607894",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/the-apothecary-diaries-tagebuecher-apothekerin-season-2-vol-1-blu-471.webp?v=1790688506",
           "width": 2500,
           "height": 2500
         }
@@ -160802,12 +160792,12 @@
       ],
       "images": [
         {
-          "id": 87265283211528,
-          "created_at": "2026-09-29T10:02:17+02:00",
+          "id": 87272564982024,
+          "created_at": "2026-09-29T15:28:14+02:00",
           "position": 1,
           "product_id": 12205917110536,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/the-apothecary-diaries-tagebuecher-apothekerin-season-2-vol-1-dvd-310.webp?v=1790668937",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/the-apothecary-diaries-tagebuecher-apothekerin-season-2-vol-1-dvd-323.webp?v=1790688494",
           "width": 2500,
           "height": 2500
         },
@@ -160818,16 +160808,6 @@
           "product_id": 12205917110536,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/the-apothecary-diaries-tagebuecher-apothekerin-season-2-vol-1-dvd-452.webp?v=1790668945",
-          "width": 2500,
-          "height": 2500
-        },
-        {
-          "id": 87253405434120,
-          "created_at": "2026-09-28T17:05:04+02:00",
-          "position": 3,
-          "product_id": 12205917110536,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/the-apothecary-diaries-tagebuecher-apothekerin-season-2-vol-1-dvd-353.webp?v=1790607904",
           "width": 2500,
           "height": 2500
         }
