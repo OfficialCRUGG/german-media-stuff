@@ -8122,7 +8122,6 @@
         "4K UHD",
         "Action & Thriller",
         "Filme & Serien",
-        "Neuheiten",
         "Steelbook"
       ],
       "variants": [
@@ -9833,8 +9832,7 @@
       "product_type": "BluRay",
       "tags": [
         "Action & Thriller",
-        "Filme & Serien",
-        "Neuheiten"
+        "Filme & Serien"
       ],
       "variants": [
         {
@@ -11244,8 +11242,7 @@
         "blu-ray",
         "bluray",
         "Filme & Serien",
-        "Komödie & Drama",
-        "Neuheiten"
+        "Komödie & Drama"
       ],
       "variants": [
         {
@@ -12760,8 +12757,7 @@
         "blu-ray",
         "bluray",
         "Filme & Serien",
-        "Komödie & Drama",
-        "Neuheiten"
+        "Komödie & Drama"
       ],
       "variants": [
         {
@@ -12777,7 +12773,7 @@
           "available": true,
           "price": "17.99",
           "grams": 0,
-          "compare_at_price": "0.00",
+          "compare_at_price": null,
           "position": 1,
           "product_id": 8127803949109,
           "created_at": "2026-05-06T13:42:06+02:00"
@@ -24447,7 +24443,6 @@
         "4K UHD",
         "Action & Thriller",
         "Filme & Serien",
-        "Neuheiten",
         "Steelbooks"
       ],
       "variants": [
@@ -30273,8 +30268,7 @@
       "tags": [
         "Action & Thriller",
         "DVD",
-        "Filme & Serien",
-        "Neuheiten"
+        "Filme & Serien"
       ],
       "variants": [
         {
@@ -30547,8 +30541,7 @@
         "blu-ray",
         "bluray",
         "Family & Kids",
-        "Filme & Serien",
-        "Neuheiten"
+        "Filme & Serien"
       ],
       "variants": [
         {
@@ -30564,7 +30557,7 @@
           "available": true,
           "price": "24.99",
           "grams": 0,
-          "compare_at_price": "0.00",
+          "compare_at_price": null,
           "position": 1,
           "product_id": 8127805751349,
           "created_at": "2026-05-06T14:03:11+02:00"
@@ -30614,8 +30607,7 @@
         "blu-ray",
         "bluray",
         "Family & Kids",
-        "Filme & Serien",
-        "Neuheiten"
+        "Filme & Serien"
       ],
       "variants": [
         {
@@ -30816,8 +30808,7 @@
       "tags": [
         "4K UHD",
         "Action & Thriller",
-        "Filme & Serien",
-        "Neuheiten"
+        "Filme & Serien"
       ],
       "variants": [
         {
@@ -30882,8 +30873,7 @@
       "tags": [
         "Action & Thriller",
         "Blu-ray",
-        "Filme & Serien",
-        "Neuheiten"
+        "Filme & Serien"
       ],
       "variants": [
         {
@@ -31614,7 +31604,6 @@
         "4K UHD",
         "Filme & Serien",
         "Horror",
-        "Neuheiten",
         "Steelbooks"
       ],
       "variants": [
@@ -31821,8 +31810,7 @@
       "tags": [
         "Blu-ray",
         "Filme & Serien",
-        "Komödie & Drama",
-        "preorder"
+        "Komödie & Drama"
       ],
       "variants": [
         {
@@ -31838,7 +31826,7 @@
           "available": true,
           "price": "17.99",
           "grams": 0,
-          "compare_at_price": "0.00",
+          "compare_at_price": null,
           "position": 1,
           "product_id": 8099268919349,
           "created_at": "2026-03-24T10:59:14+01:00"
@@ -34920,7 +34908,6 @@
         "Blu-Ray",
         "Filme & Serien",
         "Horror",
-        "preorder",
         "Steelbooks"
       ],
       "variants": [
@@ -40478,7 +40465,6 @@
         "4K UHD",
         "Action & Thriller",
         "Filme & Serien",
-        "Neuheiten",
         "Steelbooks"
       ],
       "variants": [
@@ -41558,8 +41544,7 @@
       "product_type": "BluRay",
       "tags": [
         "Filme & Serien",
-        "Komödie & Drama",
-        "Neuheiten"
+        "Komödie & Drama"
       ],
       "variants": [
         {
@@ -45099,7 +45084,6 @@
         "4K UHD",
         "Action & Thriller",
         "Filme & Serien",
-        "Neuheiten",
         "Steelbook"
       ],
       "variants": [
