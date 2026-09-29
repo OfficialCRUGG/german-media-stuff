@@ -8046,6 +8046,71 @@
       ]
     },
     {
+      "id": 10310635257909,
+      "title": "Corpus Delicti Blu-ray",
+      "handle": "corpus-delicti-blu-ray",
+      "published_at": "2026-09-29T08:44:48+02:00",
+      "created_at": "2026-09-29T07:56:28+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "Action & Thriller",
+        "Blu-Ray",
+        "preorder"
+      ],
+      "variants": [
+        {
+          "id": 50521368592437,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00758",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "17.99",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 10310635257909,
+          "created_at": "2026-09-29T07:56:28+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38990150336565,
+          "created_at": "2026-09-29T08:09:02+02:00",
+          "position": 1,
+          "product_id": 10310635257909,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122953541001jpg-229431.jpg?v=1790662143",
+          "width": 1500,
+          "height": 1915
+        },
+        {
+          "id": 38990150467637,
+          "created_at": "2026-09-29T08:09:07+02:00",
+          "position": 2,
+          "product_id": 10310635257909,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122953541002png-229450.png?v=1790662148",
+          "width": 1172,
+          "height": 1680
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 8127769051189,
       "title": "Crawl 4K UHD + Blu-ray Lim. Steelbook",
       "handle": "crawl-4k-uhd-blu-ray-lim-steelbook",
