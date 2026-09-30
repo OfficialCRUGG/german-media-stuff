@@ -17077,6 +17077,139 @@
       ]
     },
     {
+      "id": 15397369315381,
+      "title": "Eiserne Wildnis - Heart of the Beast 4K UHD + Blu-ray",
+      "handle": "eiserne-wildnis-heart-of-the-beast-4k-uhd-blu-ray",
+      "published_at": "2026-09-30T11:55:24+02:00",
+      "created_at": "2026-09-30T11:50:50+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "4K",
+        "4K UHD",
+        "Action & Thriller",
+        "Blu-Ray",
+        "preorder",
+        "UHD"
+      ],
+      "variants": [
+        {
+          "id": 67594520330293,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00760",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "29.99",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15397369315381,
+          "created_at": "2026-09-30T11:50:50+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39000692850741,
+          "created_at": "2026-09-30T11:55:02+02:00",
+          "position": 1,
+          "product_id": 15397369315381,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229831598_01.jpg?v=1790762103",
+          "width": 1500,
+          "height": 1915
+        },
+        {
+          "id": 39000692883509,
+          "created_at": "2026-09-30T11:55:02+02:00",
+          "position": 2,
+          "product_id": 15397369315381,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229831598_02.jpg?v=1790762104",
+          "width": 1172,
+          "height": 1680
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15397368660021,
+      "title": "Eiserne Wildnis - Heart of the Beast Blu-ray",
+      "handle": "eiserne-wildnis-heart-of-the-beast-blu-ray",
+      "published_at": "2026-09-30T11:56:04+02:00",
+      "created_at": "2026-09-30T11:38:26+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "Action & Thriller",
+        "Blu-Ray",
+        "preorder"
+      ],
+      "variants": [
+        {
+          "id": 67594518298677,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00759",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "17.99",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15397368660021,
+          "created_at": "2026-09-30T11:38:26+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39000666112053,
+          "created_at": "2026-09-30T11:44:43+02:00",
+          "position": 1,
+          "product_id": 15397368660021,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122983151201jpg-229666.jpg?v=1790761484",
+          "width": 1500,
+          "height": 1915
+        },
+        {
+          "id": 39000666308661,
+          "created_at": "2026-09-30T11:44:48+02:00",
+          "position": 2,
+          "product_id": 15397368660021,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122983151202jpg-229713.jpg?v=1790761489",
+          "width": 1172,
+          "height": 1680
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 7829157642293,
       "title": "Elemental",
       "handle": "elemental",
