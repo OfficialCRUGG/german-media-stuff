@@ -160202,12 +160202,32 @@
       ],
       "images": [
         {
-          "id": 86518340452616,
-          "created_at": "2026-08-26T11:02:25+02:00",
+          "id": 87298487517448,
+          "created_at": "2026-09-30T10:02:54+02:00",
           "position": 1,
           "product_id": 12205903610120,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/lord-of-mysteries-season-1-gesamtausgabe-blu-ray-gesamtausgabe-924.webp?v=1787734945",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017544216_LordOfMysteries_BD.png?v=1790755377",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87298487681288,
+          "created_at": "2026-09-30T10:02:55+02:00",
+          "position": 2,
+          "product_id": 12205903610120,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017544216_LordOfMysteries_BD_Back.png?v=1790755379",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87298487845128,
+          "created_at": "2026-09-30T10:02:56+02:00",
+          "position": 3,
+          "product_id": 12205903610120,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017544216_LordOfMysteries_BD_Front.png?v=1790755380",
           "width": 2500,
           "height": 2500
         }
@@ -160253,12 +160273,42 @@
       ],
       "images": [
         {
-          "id": 86519578460424,
-          "created_at": "2026-08-26T12:33:03+02:00",
+          "id": 87298437873928,
+          "created_at": "2026-09-30T09:59:47+02:00",
           "position": 1,
           "product_id": 12205902528776,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/miss-kobayashis-dragon-maid-season-1-gesamtausgabe-limited-edition-920.webp?v=1787740383",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017544438_MissKobayashisDragonMaid_S1_Steelbook_BD.png?v=1790755190",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87298438529288,
+          "created_at": "2026-09-30T09:59:49+02:00",
+          "position": 2,
+          "product_id": 12205902528776,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017544438_MissKobayashisDragonMaid_S1_Steelbook_BD_Complete.png?v=1790755193",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87298439807240,
+          "created_at": "2026-09-30T09:59:51+02:00",
+          "position": 3,
+          "product_id": 12205902528776,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017544438_MissKobayashisDragonMaid_S1_Steelbook_BD_Back.png?v=1790755195",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87298440298760,
+          "created_at": "2026-09-30T09:59:54+02:00",
+          "position": 4,
+          "product_id": 12205902528776,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017544438_MissKobayashisDragonMaid_S1_Steelbook_BD_Front.png?v=1790755197",
           "width": 2500,
           "height": 2500
         }
@@ -160304,12 +160354,42 @@
       ],
       "images": [
         {
-          "id": 86519575445768,
-          "created_at": "2026-08-26T12:32:30+02:00",
+          "id": 87298423849224,
+          "created_at": "2026-09-30T09:58:09+02:00",
           "position": 1,
           "product_id": 12205906526472,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/miss-kobayashis-dragon-maid-s-season-2-gesamtausgabe-limited-edition-345.webp?v=1787740350",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017544445_MissKobayashisDragonMaid_S2_Steelbook_BD.png?v=1790755093",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87298424242440,
+          "created_at": "2026-09-30T09:58:13+02:00",
+          "position": 2,
+          "product_id": 12205906526472,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017544445_MissKobayashisDragonMaid_S2_Steelbook_BD_Complete.png?v=1790755096",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87298424537352,
+          "created_at": "2026-09-30T09:58:15+02:00",
+          "position": 3,
+          "product_id": 12205906526472,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017544445_MissKobayashisDragonMaid_S2_Steelbook_BD_Back.png?v=1790755098",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87298424897800,
+          "created_at": "2026-09-30T09:58:16+02:00",
+          "position": 4,
+          "product_id": 12205906526472,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017544445_MissKobayashisDragonMaid_S2_Steelbook_BD_Front.png?v=1790755099",
           "width": 2500,
           "height": 2500
         }
