@@ -6051,7 +6051,7 @@
               57246841438473
             ]
           },
-          "available": false,
+          "available": true,
           "price": "49.99",
           "grams": 400,
           "compare_at_price": "54.99",
@@ -44200,7 +44200,7 @@
               57320106590473
             ]
           },
-          "available": true,
+          "available": false,
           "price": "29.99",
           "grams": 300,
           "compare_at_price": "27.99",
