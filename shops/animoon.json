@@ -7921,6 +7921,7 @@
         "comedy",
         "dandadan",
         "polyband",
+        "released",
         "romance",
         "school",
         "sci-fi",
@@ -7951,7 +7952,7 @@
             ]
           },
           "available": true,
-          "price": "99.00",
+          "price": "139.00",
           "grams": 1000,
           "compare_at_price": "149.96",
           "position": 1,
