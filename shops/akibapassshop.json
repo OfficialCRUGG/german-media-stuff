@@ -175564,7 +175564,8 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen"
+        "Badge:Vorbestellen",
+        "vorbestellbar"
       ],
       "variants": [
         {
