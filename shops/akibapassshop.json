@@ -187348,8 +187348,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen",
-        "vorbestellbar"
+        "Badge:Vorbestellen"
       ],
       "variants": [
         {
@@ -187362,7 +187361,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "23.90",
           "grams": 0,
           "compare_at_price": "23.90",
