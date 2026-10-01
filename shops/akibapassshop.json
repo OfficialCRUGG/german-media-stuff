@@ -49858,7 +49858,7 @@
     },
     {
       "id": 10261351792904,
-      "title": "I've Somehow Gotten Stronger When I Improved My Farm-related Skillls (OmU) - Season 1 (DIGITAL)",
+      "title": "I've Somehow Gotten Stronger When I Improved My Farm-related Skills (OmU) - Season 1 (DIGITAL)",
       "handle": "22d039-i-ve-somehow-gotten-stronger-when-i-improved-my-farm-related-skillls-omu-season-1-digital",
       "published_at": "2025-05-28T16:30:14+02:00",
       "created_at": "2025-05-28T15:20:33+02:00",
@@ -69095,7 +69095,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "29.90",
           "grams": 100,
           "compare_at_price": "39.90",
@@ -166321,89 +166321,6 @@
       ]
     },
     {
-      "id": 10919653474568,
-      "title": "Violet Evergarden und das Band der Freundschaft - Special Edition (Blu-ray)",
-      "handle": "26la037-violet-evergarden-band-der-freundschaft-special-edition-bluray",
-      "published_at": "2026-03-25T15:34:57+01:00",
-      "created_at": "2026-03-16T12:27:48+01:00",
-      "vendor": "Leonine Anime",
-      "product_type": "",
-      "tags": [
-        "Online"
-      ],
-      "variants": [
-        {
-          "id": 53863439335688,
-          "title": "Default Title",
-          "option1": "Default Title",
-          "option2": null,
-          "option3": null,
-          "sku": "26la037",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": null,
-          "available": false,
-          "price": "34.90",
-          "grams": 250,
-          "compare_at_price": "34.90",
-          "position": 1,
-          "product_id": 10919653474568,
-          "created_at": "2026-03-16T12:27:48+01:00"
-        }
-      ],
-      "images": [
-        {
-          "id": 80256798589192,
-          "created_at": "2026-03-16T17:50:24+01:00",
-          "position": 1,
-          "product_id": 10919653474568,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/violet-evergarden-band-freundschaft-special-edition-blu-ray-383.webp?v=1773679824",
-          "width": 2500,
-          "height": 2500
-        },
-        {
-          "id": 80257097793800,
-          "created_at": "2026-03-16T17:50:36+01:00",
-          "position": 2,
-          "product_id": 10919653474568,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/violet-evergarden-band-freundschaft-special-edition-blu-ray-715.webp?v=1773679836",
-          "width": 2500,
-          "height": 2500
-        },
-        {
-          "id": 80257169064200,
-          "created_at": "2026-03-16T17:50:48+01:00",
-          "position": 3,
-          "product_id": 10919653474568,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/violet-evergarden-band-freundschaft-special-edition-blu-ray-578.webp?v=1773679848",
-          "width": 2500,
-          "height": 2500
-        },
-        {
-          "id": 80257171685640,
-          "created_at": "2026-03-16T17:51:00+01:00",
-          "position": 4,
-          "product_id": 10919653474568,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/violet-evergarden-band-freundschaft-special-edition-blu-ray-197.webp?v=1773679860",
-          "width": 2500,
-          "height": 2500
-        }
-      ],
-      "options": [
-        {
-          "name": "Title",
-          "position": 1,
-          "values": [
-            "Default Title"
-          ]
-        }
-      ]
-    },
-    {
       "id": 10919653507336,
       "title": "Violet Evergarden: Live in Concert 2021 - Special Edition (Blu-ray)",
       "handle": "26la038-violet-evergarden-live-concert-special-edition-bluray",
@@ -175647,7 +175564,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "vorbestellbar"
+        "Badge:Vorbestellen"
       ],
       "variants": [
         {
@@ -183743,7 +183660,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "vorbestellbar",
+        "Badge:Vorbestellen",
         "warenpost"
       ],
       "variants": [
@@ -183797,7 +183714,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "vorbestellbar",
+        "Badge:Vorbestellen",
         "warenpost"
       ],
       "variants": [
@@ -184557,7 +184474,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "vorbestellbar",
+        "Badge:Vorbestellen",
         "warenpost"
       ],
       "variants": [
@@ -184621,7 +184538,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "vorbestellbar",
+        "Badge:Vorbestellen",
         "warenpost"
       ],
       "variants": [
@@ -184812,7 +184729,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "vorbestellbar",
+        "Badge:Vorbestellen",
         "warenpost"
       ],
       "variants": [
@@ -184876,7 +184793,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "vorbestellbar",
+        "Badge:Vorbestellen",
         "warenpost"
       ],
       "variants": [
@@ -185021,7 +184938,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "vorbestellbar"
+        "Badge:Vorbestellen"
       ],
       "variants": [
         {
@@ -185144,7 +185061,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "vorbestellbar"
+        "Badge:Vorbestellen"
       ],
       "variants": [
         {
@@ -185571,7 +185488,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "vorbestellbar"
+        "Badge:Vorbestellen"
       ],
       "variants": [
         {
@@ -185704,7 +185621,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "vorbestellbar"
+        "Badge:Vorbestellen"
       ],
       "variants": [
         {
@@ -185837,7 +185754,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "vorbestellbar"
+        "Badge:Vorbestellen"
       ],
       "variants": [
         {
@@ -185980,7 +185897,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "vorbestellbar"
+        "Badge:Vorbestellen"
       ],
       "variants": [
         {
@@ -186123,7 +186040,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "vorbestellbar"
+        "Badge:Vorbestellen"
       ],
       "variants": [
         {
@@ -186226,7 +186143,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "vorbestellbar"
+        "Badge:Vorbestellen"
       ],
       "variants": [
         {
@@ -186329,7 +186246,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "vorbestellbar"
+        "Badge:Vorbestellen"
       ],
       "variants": [
         {
@@ -186432,7 +186349,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "vorbestellbar"
+        "Badge:Vorbestellen"
       ],
       "variants": [
         {
@@ -186900,7 +186817,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "vorbestellbar"
+        "Badge:Vorbestellen"
       ],
       "variants": [
         {
@@ -186953,7 +186870,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "vorbestellbar"
+        "Badge:Vorbestellen"
       ],
       "variants": [
         {
@@ -187006,7 +186923,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "vorbestellbar"
+        "Badge:Vorbestellen"
       ],
       "variants": [
         {
@@ -187059,7 +186976,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "vorbestellbar"
+        "Badge:Vorbestellen"
       ],
       "variants": [
         {
@@ -187112,7 +187029,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "vorbestellbar"
+        "Badge:Vorbestellen"
       ],
       "variants": [
         {
@@ -187165,7 +187082,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "vorbestellbar"
+        "Badge:Vorbestellen"
       ],
       "variants": [
         {
@@ -187218,7 +187135,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "vorbestellbar"
+        "Badge:Vorbestellen"
       ],
       "variants": [
         {
@@ -187271,7 +187188,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "vorbestellbar"
+        "Badge:Vorbestellen"
       ],
       "variants": [
         {
@@ -187324,7 +187241,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "vorbestellbar"
+        "Badge:Vorbestellen"
       ],
       "variants": [
         {
@@ -187377,7 +187294,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "vorbestellbar"
+        "Badge:Vorbestellen"
       ],
       "variants": [
         {
@@ -187430,6 +187347,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
         "vorbestellbar"
       ],
       "variants": [
