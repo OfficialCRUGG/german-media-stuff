@@ -149976,6 +149976,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ReleaseInfoOffen",
         "Online"
       ],
       "variants": [
@@ -152261,6 +152262,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ReleaseInfoOffen",
         "Online"
       ],
       "variants": [
@@ -183882,7 +183884,9 @@
       "created_at": "2026-08-06T11:10:20+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Badge:Vorbestellen"
+      ],
       "variants": [
         {
           "id": 58378100506888,
@@ -183894,7 +183898,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "17.90",
           "grams": 0,
           "compare_at_price": "19.90",
@@ -184156,6 +184160,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
         "vorbestellen",
         "warenpost"
       ],
@@ -184170,7 +184175,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "16.90",
           "grams": 0,
           "compare_at_price": "16.90",
@@ -184210,6 +184215,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
         "vorbestellen",
         "warenpost"
       ],
@@ -184224,7 +184230,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "16.90",
           "grams": 0,
           "compare_at_price": "16.90",
@@ -184264,6 +184270,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
         "warenpost"
       ],
       "variants": [
@@ -184277,7 +184284,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "16.90",
           "grams": 0,
           "compare_at_price": "16.90",
@@ -184435,6 +184442,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
         "warenpost"
       ],
       "variants": [
@@ -184448,7 +184456,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "19.90",
           "grams": 0,
           "compare_at_price": "19.90",
@@ -184562,6 +184570,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
         "warenpost"
       ],
       "variants": [
@@ -184575,7 +184584,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "19.90",
           "grams": 0,
           "compare_at_price": "19.90",
@@ -184625,6 +184634,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
         "warenpost"
       ],
       "variants": [
@@ -184638,7 +184648,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "19.90",
           "grams": 0,
           "compare_at_price": "19.90",
@@ -184688,6 +184698,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
         "warenpost"
       ],
       "variants": [
@@ -184701,7 +184712,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "19.90",
           "grams": 0,
           "compare_at_price": "19.90",
@@ -185323,6 +185334,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
         "warenpost"
       ],
       "variants": [
@@ -185336,7 +185348,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "9.90",
           "grams": 0,
           "compare_at_price": "9.90",
@@ -188017,7 +188029,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "23.90",
           "grams": 0,
           "compare_at_price": "23.90",
