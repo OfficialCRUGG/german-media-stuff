@@ -7847,13 +7847,13 @@
         "BD/DVD",
         "comedy",
         "dandadan",
+        "Neuheit",
         "polyband",
-        "preorder",
+        "released",
         "romance",
         "school",
         "sci-fi",
-        "Serie",
-        "vorbestellung"
+        "Serie"
       ],
       "variants": [
         {
@@ -8079,7 +8079,6 @@
         "BD/DVD",
         "comedy",
         "dandadan",
-        "Neuheit",
         "polyband",
         "released",
         "romance",
@@ -8142,7 +8141,6 @@
         "BD/DVD",
         "comedy",
         "dandadan",
-        "Neuheit",
         "polyband",
         "released",
         "romance",
@@ -8215,13 +8213,13 @@
         "BD/DVD",
         "comedy",
         "dandadan",
+        "Neuheit",
         "polyband",
-        "preorder",
+        "released",
         "romance",
         "school",
         "sci-fi",
-        "Serie",
-        "vorbestellung"
+        "Serie"
       ],
       "variants": [
         {
@@ -22637,7 +22635,6 @@
         "harem",
         "isekai",
         "millionlives",
-        "Neuheit",
         "reincarnated",
         "released",
         "romance",
@@ -33116,7 +33113,6 @@
         "harem",
         "isekai",
         "killsister",
-        "Neuheit",
         "reincarnated",
         "released",
         "romance",
@@ -37315,7 +37311,6 @@
         "fantasy",
         "harem",
         "isekai",
-        "Neuheit",
         "reincarnated",
         "released",
         "ReMonster",
@@ -38687,8 +38682,8 @@
       "variants": [
         {
           "id": 56697424445705,
-          "title": "Blu-ray (Vorbestellung)",
-          "option1": "Blu-ray (Vorbestellung)",
+          "title": "Blu-ray",
+          "option1": "Blu-ray",
           "option2": null,
           "option3": null,
           "sku": "4260497796664",
@@ -38718,8 +38713,8 @@
         },
         {
           "id": 56697431916809,
-          "title": "DVD (Vorbestellung)",
-          "option1": "DVD (Vorbestellung)",
+          "title": "DVD",
+          "option1": "DVD",
           "option2": null,
           "option3": null,
           "sku": "4260497796657",
@@ -38774,8 +38769,8 @@
           "name": "Medium auswählen:",
           "position": 1,
           "values": [
-            "Blu-ray (Vorbestellung)",
-            "DVD (Vorbestellung)"
+            "Blu-ray",
+            "DVD"
           ]
         }
       ]
