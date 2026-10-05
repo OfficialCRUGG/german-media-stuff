@@ -9762,6 +9762,75 @@
       ]
     },
     {
+      "id": 15401222307893,
+      "title": "Das Vermächtnis der Tempelritter 4K UHD + Blu-ray (Lim. Steelbook)",
+      "handle": "das-verm-chtnis-der-tempelritter-4k-uhd-blu-ray-lim-steelbook",
+      "published_at": "2026-10-05T12:16:37+02:00",
+      "created_at": "2026-10-05T11:50:23+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "4K",
+        "4K UHD",
+        "Action & Thriller",
+        "Blu-Ray",
+        "preorder",
+        "Steelbooks",
+        "UHD"
+      ],
+      "variants": [
+        {
+          "id": 67615904137269,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00762",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "34.99",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15401222307893,
+          "created_at": "2026-10-05T11:50:23+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39033401245749,
+          "created_at": "2026-10-05T12:00:19+02:00",
+          "position": 1,
+          "product_id": 15401222307893,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573317002jpg-230767.jpg?v=1791194421",
+          "width": 1743,
+          "height": 2152
+        },
+        {
+          "id": 39033401638965,
+          "created_at": "2026-10-05T12:00:24+02:00",
+          "position": 2,
+          "product_id": 15401222307893,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573317001jpg-230815.jpg?v=1791194425",
+          "width": 1106,
+          "height": 1389
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 7794187206709,
       "title": "Das wandelnde Schloss Blu-ray (White Edition)",
       "handle": "das-wandelnde-schloss-bd-white-edition",
@@ -39055,6 +39124,138 @@
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/star-trek-3-rckseitepng-225200.png?v=1789119666",
           "width": 1100,
           "height": 1375
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15401235873845,
+      "title": "Star Trek: Starfleet Academy - Staffel 1",
+      "handle": "star-trek-starfleet-academy-staffel-1",
+      "published_at": "2026-10-05T12:17:23+02:00",
+      "created_at": "2026-10-05T11:59:51+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "DVD",
+      "tags": [
+        "DVD",
+        "preorder",
+        "Science-Fiction",
+        "Serien"
+      ],
+      "variants": [
+        {
+          "id": 67615929040949,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00764",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "24.99",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15401235873845,
+          "created_at": "2026-10-05T11:59:51+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39033405898805,
+          "created_at": "2026-10-05T12:00:48+02:00",
+          "position": 1,
+          "product_id": 15401235873845,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122976265601jpg-231238.jpg?v=1791194450",
+          "width": 1530,
+          "height": 2163
+        },
+        {
+          "id": 39033404162101,
+          "created_at": "2026-10-05T12:00:39+02:00",
+          "position": 2,
+          "product_id": 15401235873845,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122976265602jpg-231191.jpg?v=1791194441",
+          "width": 1174,
+          "height": 1879
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15401235775541,
+      "title": "Star Trek: Starfleet Academy - Staffel 1 Blu-ray",
+      "handle": "star-trek-starfleet-academy-staffel-1-blu-ray",
+      "published_at": "2026-10-05T12:17:00+02:00",
+      "created_at": "2026-10-05T11:59:49+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "Blu-Ray",
+        "preorder",
+        "Science-Fiction",
+        "Serien"
+      ],
+      "variants": [
+        {
+          "id": 67615928942645,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00763",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "34.99",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15401235775541,
+          "created_at": "2026-10-05T11:59:49+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39033402458165,
+          "created_at": "2026-10-05T12:00:29+02:00",
+          "position": 1,
+          "product_id": 15401235775541,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122976266301jpg-231003.jpg?v=1791194431",
+          "width": 1500,
+          "height": 1915
+        },
+        {
+          "id": 39033403146293,
+          "created_at": "2026-10-05T12:00:34+02:00",
+          "position": 2,
+          "product_id": 15401235775541,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122976266302jpg-231050.jpg?v=1791194435",
+          "width": 1172,
+          "height": 1680
         }
       ],
       "options": [
