@@ -149976,7 +149976,6 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Flow:ReleaseInfoOffen",
         "Online"
       ],
       "variants": [
@@ -152262,7 +152261,6 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Flow:ReleaseInfoOffen",
         "Online"
       ],
       "variants": [
@@ -159037,9 +159035,7 @@
       "created_at": "2026-08-25T17:13:11+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [
-        "Flow:ReleaseInfoOffen"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 58536229961992,
@@ -159090,9 +159086,7 @@
       "created_at": "2026-08-25T17:13:43+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [
-        "Flow:ReleaseInfoOffen"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 58536232616200,
@@ -159935,9 +159929,7 @@
       "created_at": "2026-08-25T17:12:40+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [
-        "Flow:ReleaseInfoOffen"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 58536227045640,
@@ -160059,9 +160051,7 @@
       "created_at": "2026-08-25T17:14:12+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [
-        "Flow:ReleaseInfoOffen"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 58536236417288,
@@ -160142,9 +160132,7 @@
       "created_at": "2026-08-25T17:15:53+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [
-        "Flow:ReleaseInfoOffen"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 58536251261192,
@@ -194667,9 +194655,7 @@
       "created_at": "2026-08-06T10:37:40+02:00",
       "vendor": "Hardball Films",
       "product_type": "",
-      "tags": [
-        "Flow:ReleaseInfoOffen"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 58377446621448,
