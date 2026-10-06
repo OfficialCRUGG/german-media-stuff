@@ -49749,60 +49749,6 @@
       ]
     },
     {
-      "id": 10261351629064,
-      "title": "Spy Classroom (OmU) - Season 1.1 (DIGITAL - Kaufversion)",
-      "handle": "22d037-spy-classroom-omu-season-11-digital-kaufversion",
-      "published_at": "2025-05-28T16:30:15+02:00",
-      "created_at": "2025-05-28T15:20:29+02:00",
-      "vendor": "AKIBA PASS TV",
-      "product_type": "",
-      "tags": [
-        "Digital",
-        "Online"
-      ],
-      "variants": [
-        {
-          "id": 51542054174984,
-          "title": "Default Title",
-          "option1": "Default Title",
-          "option2": null,
-          "option3": null,
-          "sku": "22d037",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": null,
-          "available": true,
-          "price": "20.00",
-          "grams": 0,
-          "compare_at_price": "20.00",
-          "position": 1,
-          "product_id": 10261351629064,
-          "created_at": "2025-05-28T15:20:29+02:00"
-        }
-      ],
-      "images": [
-        {
-          "id": 83601180786952,
-          "created_at": "2026-04-22T15:16:33+02:00",
-          "position": 1,
-          "product_id": 10261351629064,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/spy-classroom-omu-season-1-1-digital-kaufversion-stream-digital-131.webp?v=1776863793",
-          "width": 2500,
-          "height": 2500
-        }
-      ],
-      "options": [
-        {
-          "name": "Title",
-          "position": 1,
-          "values": [
-            "Default Title"
-          ]
-        }
-      ]
-    },
-    {
       "id": 10261351727368,
       "title": "My Life as Inukai-san's Dog (OmU) - Season 1 (DIGITAL)",
       "handle": "22d038-my-life-as-inukai-san-s-dog-omu-season-1-digital",
@@ -63552,60 +63498,6 @@
       ]
     },
     {
-      "id": 10261400191240,
-      "title": "Spy Classroom (OmU) - Season 1.2 (DIGITAL - Kaufversion)",
-      "handle": "23d043-spy-classroom-omu-season-1-2-digital-kaufversion",
-      "published_at": "2025-05-28T16:29:16+02:00",
-      "created_at": "2025-05-28T15:42:51+02:00",
-      "vendor": "AKIBA PASS TV",
-      "product_type": "",
-      "tags": [
-        "Digital",
-        "Online"
-      ],
-      "variants": [
-        {
-          "id": 51542377595144,
-          "title": "Default Title",
-          "option1": "Default Title",
-          "option2": null,
-          "option3": null,
-          "sku": "23d043",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": null,
-          "available": true,
-          "price": "20.00",
-          "grams": 0,
-          "compare_at_price": "20.00",
-          "position": 1,
-          "product_id": 10261400191240,
-          "created_at": "2025-05-28T15:42:51+02:00"
-        }
-      ],
-      "images": [
-        {
-          "id": 83629740785928,
-          "created_at": "2026-04-23T11:32:15+02:00",
-          "position": 1,
-          "product_id": 10261400191240,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/spy-classroom-omu-season-1-2-digital-kaufversion-stream-digital-439.webp?v=1776936735",
-          "width": 2500,
-          "height": 2500
-        }
-      ],
-      "options": [
-        {
-          "name": "Title",
-          "position": 1,
-          "values": [
-            "Default Title"
-          ]
-        }
-      ]
-    },
-    {
       "id": 10261400224008,
       "title": "Simulcast - Sommer 2023 - Kombi (DIGITAL - Kaufversion)",
       "handle": "23d044-simulcast-sommer-2023-kombi-digital-kaufversion",
@@ -65707,59 +65599,6 @@
       ]
     },
     {
-      "id": 10261405434120,
-      "title": "Penguindrum (OmU) - Season 1.1 (DIGITAL - Kaufversion)",
-      "handle": "23d074-penguindrum-omu-season-1-1-digital-kaufversion",
-      "published_at": "2025-05-28T16:28:58+02:00",
-      "created_at": "2025-05-28T15:45:23+02:00",
-      "vendor": "AKIBA PASS TV",
-      "product_type": "",
-      "tags": [
-        "Online"
-      ],
-      "variants": [
-        {
-          "id": 51542404825352,
-          "title": "Default Title",
-          "option1": "Default Title",
-          "option2": null,
-          "option3": null,
-          "sku": "23d074",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": null,
-          "available": true,
-          "price": "20.00",
-          "grams": 0,
-          "compare_at_price": "20.00",
-          "position": 1,
-          "product_id": 10261405434120,
-          "created_at": "2025-05-28T15:45:23+02:00"
-        }
-      ],
-      "images": [
-        {
-          "id": 83599545073928,
-          "created_at": "2026-04-22T14:32:22+02:00",
-          "position": 1,
-          "product_id": 10261405434120,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/penguindrum-omu-season-1-1-digital-kaufversion-stream-digital-895.webp?v=1776861142",
-          "width": 2500,
-          "height": 2500
-        }
-      ],
-      "options": [
-        {
-          "name": "Title",
-          "position": 1,
-          "values": [
-            "Default Title"
-          ]
-        }
-      ]
-    },
-    {
       "id": 10261406646536,
       "title": "Encouragement of Climb (OmU) - Season 3 (DIGITAL)",
       "handle": "23d075-encouragement-of-climb-omu-season-3-digital",
@@ -65799,59 +65638,6 @@
           "product_id": 10261406646536,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/encouragement-of-climb-omu-season-3-digital-stream-digital-424.webp?v=1776861744",
-          "width": 2500,
-          "height": 2500
-        }
-      ],
-      "options": [
-        {
-          "name": "Title",
-          "position": 1,
-          "values": [
-            "Default Title"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 10261406744840,
-      "title": "Penguindrum (OmU) - Season 1.2 (DIGITAL - Kaufversion)",
-      "handle": "23d076-penguindrum-omu-season-12-digital-kaufversion",
-      "published_at": "2025-05-28T16:28:53+02:00",
-      "created_at": "2025-05-28T15:45:51+02:00",
-      "vendor": "AKIBA PASS TV",
-      "product_type": "",
-      "tags": [
-        "Online"
-      ],
-      "variants": [
-        {
-          "id": 51542408757512,
-          "title": "Default Title",
-          "option1": "Default Title",
-          "option2": null,
-          "option3": null,
-          "sku": "23d076",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": null,
-          "available": true,
-          "price": "20.00",
-          "grams": 0,
-          "compare_at_price": "20.00",
-          "position": 1,
-          "product_id": 10261406744840,
-          "created_at": "2025-05-28T15:45:51+02:00"
-        }
-      ],
-      "images": [
-        {
-          "id": 83599576072456,
-          "created_at": "2026-04-22T14:34:15+02:00",
-          "position": 1,
-          "product_id": 10261406744840,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/penguindrum-omu-season-1-2-digital-kaufversion-stream-digital-983.webp?v=1776861255",
           "width": 2500,
           "height": 2500
         }
@@ -101323,7 +101109,7 @@
           "option1": "Default Title",
           "option2": null,
           "option3": null,
-          "sku": "24d019",
+          "sku": "24d019-omu",
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
