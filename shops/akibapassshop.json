@@ -128711,6 +128711,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -128724,7 +128725,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "69.90",
           "grams": 173,
           "compare_at_price": "69.90",
@@ -168678,6 +168679,7 @@
       "vendor": "Leonine Anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -168691,7 +168693,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "29.90",
           "grams": 130,
           "compare_at_price": "29.90",
@@ -177463,7 +177465,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "31.90",
           "grams": 220,
           "compare_at_price": "31.90",
