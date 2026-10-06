@@ -83334,6 +83334,7 @@
         "Action",
         "Anime",
         "Crunchyroll",
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -83347,7 +83348,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "49.90",
           "grams": 193,
           "compare_at_price": "69.90",
@@ -117797,6 +117798,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -117810,7 +117812,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "19.90",
           "grams": 217,
           "compare_at_price": "39.90",
@@ -119183,6 +119185,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -119196,7 +119199,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "49.90",
           "grams": 599,
           "compare_at_price": "79.90",
