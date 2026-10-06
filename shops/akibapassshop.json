@@ -77326,6 +77326,7 @@
       "tags": [
         "Anime",
         "Crunchyroll",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "Romance"
       ],
@@ -77340,7 +77341,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "49.90",
           "grams": 223,
           "compare_at_price": "79.90",
@@ -80402,6 +80403,7 @@
         "Action",
         "Anime",
         "Crunchyroll",
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -80415,7 +80417,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "29.90",
           "grams": 490,
           "compare_at_price": "59.90",
@@ -91623,6 +91625,7 @@
       "tags": [
         "Anime",
         "Crunchyroll",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "Romance"
       ],
@@ -91637,7 +91640,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "49.90",
           "grams": 242,
           "compare_at_price": "69.90",
@@ -114570,6 +114573,7 @@
       "tags": [
         "Anime",
         "Crunchyroll",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "Romance"
       ],
@@ -114584,7 +114588,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "59.90",
           "grams": 185,
           "compare_at_price": "69.90",
@@ -123158,6 +123162,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -123171,7 +123176,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "19.90",
           "grams": 94,
           "compare_at_price": "19.90",
@@ -123231,6 +123236,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -123244,7 +123250,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "24.90",
           "grams": 180,
           "compare_at_price": "24.90",
@@ -154159,6 +154165,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -154172,7 +154179,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "44.90",
           "grams": 363,
           "compare_at_price": "44.90",
@@ -154792,6 +154799,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -154805,7 +154813,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "19.90",
           "grams": 162,
           "compare_at_price": "39.90",
@@ -155415,6 +155423,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -155428,7 +155437,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "39.90",
           "grams": 172,
           "compare_at_price": "39.90",
@@ -156628,6 +156637,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -156641,7 +156651,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "39.90",
           "grams": 134,
           "compare_at_price": "39.90",
@@ -165552,6 +165562,7 @@
       "vendor": "Leonine Anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -165565,7 +165576,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "24.90",
           "grams": 80,
           "compare_at_price": "24.90",
@@ -167419,6 +167430,7 @@
       "vendor": "Leonine Anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -167432,7 +167444,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "29.90",
           "grams": 70,
           "compare_at_price": "29.90",
@@ -167482,6 +167494,7 @@
       "vendor": "Leonine Anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -167495,7 +167508,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "29.90",
           "grams": 70,
           "compare_at_price": "29.90",
@@ -167545,6 +167558,7 @@
       "vendor": "Leonine Anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -167558,7 +167572,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "29.90",
           "grams": 160,
           "compare_at_price": "29.90",
@@ -167850,6 +167864,7 @@
       "vendor": "Leonine Anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -167863,7 +167878,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "29.90",
           "grams": 140,
           "compare_at_price": "29.90",
@@ -189540,7 +189555,9 @@
       "created_at": "2026-08-06T10:07:13+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:ArtikelstatusAktiv"
+      ],
       "variants": [
         {
           "id": 58377275801864,
@@ -189552,7 +189569,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "39.90",
           "grams": 198,
           "compare_at_price": "39.00",
