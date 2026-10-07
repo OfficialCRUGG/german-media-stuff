@@ -91635,7 +91635,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "39.90",
           "grams": 293,
           "compare_at_price": "49.90",
@@ -114326,7 +114326,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "69.90",
           "grams": 426,
           "compare_at_price": "69.90",
@@ -156234,7 +156234,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "69.90",
           "grams": 150,
           "compare_at_price": "69.90",
@@ -181998,7 +181998,6 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -182012,7 +182011,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "22.90",
           "grams": 590,
           "compare_at_price": "24.90",
@@ -182106,7 +182105,6 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -182120,7 +182118,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "19.90",
           "grams": 424,
           "compare_at_price": "22.90",
@@ -192835,9 +192833,7 @@
       "created_at": "2026-07-01T13:43:39+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [
-        "Flow:ArtikelstatusAktiv"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 58123793563912,
@@ -192849,7 +192845,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "11.90",
           "grams": 345,
           "compare_at_price": "0.00",
