@@ -158870,9 +158870,29 @@
       ],
       "images": [
         {
+          "id": 87429252481288,
+          "created_at": "2026-10-07T10:38:29+02:00",
+          "position": 1,
+          "product_id": 12205900202248,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/a-wild-last-boss-appeared-gesamtausgabe-blu-ray-gesamtausgabe-470.webp?v=1791362309",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87429253497096,
+          "created_at": "2026-10-07T10:38:39+02:00",
+          "position": 2,
+          "product_id": 12205900202248,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/a-wild-last-boss-appeared-gesamtausgabe-blu-ray-gesamtausgabe-743.webp?v=1791362319",
+          "width": 2500,
+          "height": 2500
+        },
+        {
           "id": 87418603864328,
           "created_at": "2026-10-06T17:58:27+02:00",
-          "position": 1,
+          "position": 3,
           "product_id": 12205900202248,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/a-wild-last-boss-appeared-gesamtausgabe-blu-ray-gesamtausgabe-828.webp?v=1791302307",
@@ -160383,9 +160403,39 @@
       ],
       "images": [
         {
+          "id": 87429251268872,
+          "created_at": "2026-10-07T10:38:13+02:00",
+          "position": 1,
+          "product_id": 12205915275528,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/suzume-the-movie-steelbook-limited-edition-4k-uhd-blu-ray-166.webp?v=1791362293",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87429251924232,
+          "created_at": "2026-10-07T10:38:24+02:00",
+          "position": 2,
+          "product_id": 12205915275528,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/suzume-the-movie-steelbook-limited-edition-4k-uhd-blu-ray-422.webp?v=1791362304",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87429253005576,
+          "created_at": "2026-10-07T10:38:34+02:00",
+          "position": 3,
+          "product_id": 12205915275528,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/suzume-the-movie-steelbook-limited-edition-4k-uhd-blu-ray-530.webp?v=1791362314",
+          "width": 2500,
+          "height": 2500
+        },
+        {
           "id": 87418836451592,
           "created_at": "2026-10-06T18:14:55+02:00",
-          "position": 1,
+          "position": 4,
           "product_id": 12205915275528,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/suzume-the-movie-steelbook-limited-edition-4k-uhd-blu-ray-774.webp?v=1791303295",
