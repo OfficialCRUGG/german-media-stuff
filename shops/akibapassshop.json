@@ -143802,6 +143802,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -143815,7 +143816,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "11.90",
           "grams": 0,
           "compare_at_price": "11.90",
@@ -181935,6 +181936,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -181950,7 +181952,7 @@
           "featured_image": null,
           "available": true,
           "price": "22.90",
-          "grams": 300,
+          "grams": 600,
           "compare_at_price": "24.90",
           "position": 1,
           "product_id": 11981942030600,
@@ -181988,6 +181990,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -182003,7 +182006,7 @@
           "featured_image": null,
           "available": true,
           "price": "22.90",
-          "grams": 300,
+          "grams": 590,
           "compare_at_price": "24.90",
           "position": 1,
           "product_id": 11981942063368,
@@ -182358,7 +182361,9 @@
       "created_at": "2026-06-17T11:13:40+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:ArtikelstatusAktiv"
+      ],
       "variants": [
         {
           "id": 58041934872840,
@@ -192712,7 +192717,9 @@
       "created_at": "2026-07-01T13:44:14+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:ArtikelstatusAktiv"
+      ],
       "variants": [
         {
           "id": 58123795136776,
@@ -192726,7 +192733,7 @@
           "featured_image": null,
           "available": true,
           "price": "11.90",
-          "grams": 336,
+          "grams": 351,
           "compare_at_price": "0.00",
           "position": 1,
           "product_id": 12062355423496,
@@ -192763,7 +192770,9 @@
       "created_at": "2026-07-01T13:44:39+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:ArtikelstatusAktiv"
+      ],
       "variants": [
         {
           "id": 58123796840712,
@@ -192777,7 +192786,7 @@
           "featured_image": null,
           "available": true,
           "price": "11.90",
-          "grams": 336,
+          "grams": 347,
           "compare_at_price": "0.00",
           "position": 1,
           "product_id": 12062357127432,
@@ -192814,7 +192823,9 @@
       "created_at": "2026-07-01T13:43:39+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:ArtikelstatusAktiv"
+      ],
       "variants": [
         {
           "id": 58123793563912,
@@ -192828,7 +192839,7 @@
           "featured_image": null,
           "available": true,
           "price": "11.90",
-          "grams": 336,
+          "grams": 345,
           "compare_at_price": "0.00",
           "position": 1,
           "product_id": 12062353883400,
@@ -216286,6 +216297,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "Schlüsselanhänger",
         "warenpost"
@@ -216301,9 +216313,9 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "8.90",
-          "grams": 0,
+          "grams": 20,
           "compare_at_price": "8.90",
           "position": 1,
           "product_id": 10261568913672,
