@@ -150968,6 +150968,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -150981,7 +150982,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "69.90",
           "grams": 0,
           "compare_at_price": "69.90",
@@ -152830,6 +152831,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -152843,7 +152845,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "119.90",
           "grams": 251,
           "compare_at_price": "119.90",
@@ -179373,7 +179375,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "10.90",
           "grams": 0,
           "compare_at_price": "10.90",
@@ -181780,6 +181782,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -181793,7 +181796,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "17.90",
           "grams": 190,
           "compare_at_price": "19.90",
@@ -197443,6 +197446,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Goodie",
         "OhneRabatt",
         "Online"
@@ -197458,7 +197462,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.00",
           "grams": 50,
           "compare_at_price": "0.00",
@@ -197498,6 +197502,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Goodie",
         "OhneRabatt",
         "Online"
@@ -197513,7 +197518,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.00",
           "grams": 50,
           "compare_at_price": "0.00",
@@ -197553,6 +197558,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Goodie",
         "OhneRabatt",
         "Online"
@@ -197568,7 +197574,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.00",
           "grams": 50,
           "compare_at_price": "0.00",
@@ -200393,6 +200399,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Frisch eingetroffen",
         "Goodie",
         "OhneRabatt",
@@ -200409,7 +200416,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.00",
           "grams": 20,
           "compare_at_price": "0.00",
@@ -201493,6 +201500,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Frisch eingetroffen",
         "Goodie",
         "OhneRabatt",
@@ -201509,7 +201517,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.00",
           "grams": 20,
           "compare_at_price": "0.00",
@@ -201549,6 +201557,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Frisch eingetroffen",
         "Goodie",
         "OhneRabatt",
@@ -201565,7 +201574,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.00",
           "grams": 20,
           "compare_at_price": "0.00",
@@ -208588,6 +208597,7 @@
       "product_type": "",
       "tags": [
         "Click&Collect",
+        "Flow:ArtikelstatusAktiv",
         "Frisch eingetroffen",
         "Goodie",
         "OhneRabatt",
@@ -208604,7 +208614,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.00",
           "grams": 20,
           "compare_at_price": "0.00",
@@ -208633,6 +208643,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Frisch eingetroffen",
         "Goodie",
         "OhneRabatt",
@@ -208649,7 +208660,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.00",
           "grams": 100,
           "compare_at_price": "0.00",
@@ -208690,6 +208701,7 @@
       "product_type": "",
       "tags": [
         "Click&Collect",
+        "Flow:ArtikelstatusAktiv",
         "Frisch eingetroffen",
         "Goodie",
         "OhneRabatt",
@@ -208706,7 +208718,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.00",
           "grams": 100,
           "compare_at_price": "0.00",
@@ -208780,6 +208792,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Frisch eingetroffen",
         "Goodie",
         "OhneRabatt",
@@ -208796,7 +208809,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.00",
           "grams": 100,
           "compare_at_price": "0.00",
@@ -215756,6 +215769,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "Wallscroll",
         "Wandbanner"
@@ -215771,7 +215785,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "19.90",
           "grams": 190,
           "compare_at_price": "19.90",
