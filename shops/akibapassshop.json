@@ -143923,7 +143923,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "26.90",
           "grams": 0,
           "compare_at_price": "26.90",
@@ -156440,7 +156440,6 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -156454,7 +156453,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "39.90",
           "grams": 134,
           "compare_at_price": "39.90",
