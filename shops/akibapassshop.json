@@ -49717,7 +49717,7 @@
           "option1": "Default Title",
           "option2": null,
           "option3": null,
-          "sku": "22d036",
+          "sku": "22d036-omu",
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
@@ -49771,7 +49771,7 @@
           "option1": "Default Title",
           "option2": null,
           "option3": null,
-          "sku": "22d038",
+          "sku": "22d038-omu",
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
@@ -49879,7 +49879,7 @@
           "option1": "Default Title",
           "option2": null,
           "option3": null,
-          "sku": "22d040",
+          "sku": "22d040-omu",
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
@@ -65985,7 +65985,7 @@
           "option1": "Default Title",
           "option2": null,
           "option3": null,
-          "sku": "23d083",
+          "sku": "23d083-omu",
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
@@ -100227,7 +100227,7 @@
           "option1": "Default Title",
           "option2": null,
           "option3": null,
-          "sku": "24d002",
+          "sku": "24d002-omu",
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
@@ -101096,7 +101096,7 @@
     },
     {
       "id": 10261458977032,
-      "title": "My Deer Friend Nokotan (OmU) - Season 1 (DIGITAL - Kaufversion)",
+      "title": "My Deer Friend Nokotan - Season 1 (DIGITAL - Kaufversion)",
       "handle": "24d019-my-deer-friend-nokotan-omu-season-1-digital-kaufversion",
       "published_at": "2025-05-28T16:27:32+02:00",
       "created_at": "2025-05-28T15:58:13+02:00",
@@ -101107,6 +101107,42 @@
         "Online"
       ],
       "variants": [
+        {
+          "id": 59031207641352,
+          "title": "Deutsche Fassung (DE)",
+          "option1": "Deutsche Fassung (DE)",
+          "option2": null,
+          "option3": null,
+          "sku": "24d019-de",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "20.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 10261458977032,
+          "created_at": "2026-10-08T16:29:28+02:00"
+        },
+        {
+          "id": 59031207674120,
+          "title": "Japanische & Deutsche Fassung (OmU & DE)",
+          "option1": "Japanische & Deutsche Fassung (OmU & DE)",
+          "option2": null,
+          "option3": null,
+          "sku": "24d019-omu-de",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "30.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 10261458977032,
+          "created_at": "2026-10-08T16:29:29+02:00"
+        },
         {
           "id": 51542514467080,
           "title": "Originalfassung mit deutschen Untertiteln (OmU)",
@@ -101121,7 +101157,7 @@
           "price": "20.00",
           "grams": 0,
           "compare_at_price": "20.00",
-          "position": 1,
+          "position": 3,
           "product_id": 10261458977032,
           "created_at": "2025-05-28T15:58:13+02:00"
         }
@@ -101143,6 +101179,8 @@
           "name": "Synchro-Fassung",
           "position": 1,
           "values": [
+            "Deutsche Fassung (DE)",
+            "Japanische & Deutsche Fassung (OmU & DE)",
             "Originalfassung mit deutschen Untertiteln (OmU)"
           ]
         }
@@ -161454,6 +161492,312 @@
       ]
     },
     {
+      "id": 12332157370632,
+      "title": "Kaiju No. 8 - Season 1 - Gesamtausgabe - Steelbook (Blu-ray)",
+      "handle": "26cr161-kaiju-no-8-season-1-gesamtausgabe-steelbook-bluray",
+      "published_at": "2026-10-08T16:47:45+02:00",
+      "created_at": "2026-10-08T14:30:06+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59030341419272,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr161",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "79.90",
+          "grams": 0,
+          "compare_at_price": "79.90",
+          "position": 1,
+          "product_id": 12332157370632,
+          "created_at": "2026-10-08T14:30:06+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87461168349448,
+          "created_at": "2026-10-08T15:36:47+02:00",
+          "position": 1,
+          "product_id": 12332157370632,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/kaiju-no-8-season-1-gesamtausgabe-steelbook-blu-ray-gesamtausgabe-568.webp?v=1791466607",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12332157403400,
+      "title": "The Rising of the Shield Hero - Season 4 - Vol. 2 (Blu-ray)",
+      "handle": "26cr162-rising-of-the-shield-hero-season-4-vol-2-bluray",
+      "published_at": "2026-10-08T16:47:46+02:00",
+      "created_at": "2026-10-08T14:30:06+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59030341550344,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr162",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "39.90",
+          "grams": 0,
+          "compare_at_price": "39.90",
+          "position": 1,
+          "product_id": 12332157403400,
+          "created_at": "2026-10-08T14:30:06+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87461161206024,
+          "created_at": "2026-10-08T15:36:23+02:00",
+          "position": 1,
+          "product_id": 12332157403400,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/the-rising-of-the-shield-hero-season-4-vol-2-blu-ray-standard-585.webp?v=1791466583",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12332157436168,
+      "title": "Dr. Stone: Science Future - Season 4 - Part 2 (Blu-ray)",
+      "handle": "26cr163-dr-stone-science-future-season-4-part-2-bluray",
+      "published_at": "2026-10-08T16:47:47+02:00",
+      "created_at": "2026-10-08T14:30:07+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59030341681416,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr163",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "64.90",
+          "grams": 0,
+          "compare_at_price": "64.90",
+          "position": 1,
+          "product_id": 12332157436168,
+          "created_at": "2026-10-08T14:30:07+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87461592367368,
+          "created_at": "2026-10-08T15:57:28+02:00",
+          "position": 1,
+          "product_id": 12332157436168,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dr-stone-science-future-season-4-part-2-blu-ray-standard-edition-229.webp?v=1791467848",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12332157665544,
+      "title": "Dragonball Z - Movies Box - Vol. 2 (Blu-ray)",
+      "handle": "26cr164-dragonball-z-movies-box-vol-2-bluray",
+      "published_at": "2026-10-08T16:47:49+02:00",
+      "created_at": "2026-10-08T14:30:13+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59030342107400,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr164",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "39.90",
+          "grams": 0,
+          "compare_at_price": "39.90",
+          "position": 1,
+          "product_id": 12332157665544,
+          "created_at": "2026-10-08T14:30:13+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87461337661704,
+          "created_at": "2026-10-08T15:44:34+02:00",
+          "position": 1,
+          "product_id": 12332157665544,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dragonball-z-movies-box-vol-2-blu-ray-standard-edition-175.webp?v=1791467074",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12332157862152,
+      "title": "Dragonball Z - Movies Box - Vol. 2 (DVD)",
+      "handle": "26cr165-dragonball-z-movies-box-vol-2-dvd",
+      "published_at": "2026-10-08T16:47:51+02:00",
+      "created_at": "2026-10-08T14:30:18+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59030342926600,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr165",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "34.90",
+          "grams": 0,
+          "compare_at_price": "34.90",
+          "position": 1,
+          "product_id": 12332157862152,
+          "created_at": "2026-10-08T14:30:18+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87461341430024,
+          "created_at": "2026-10-08T15:44:47+02:00",
+          "position": 1,
+          "product_id": 12332157862152,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dragonball-z-movies-box-vol-2-dvd-standard-edition-film-fernseh-351.webp?v=1791467087",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12332157796616,
+      "title": "Jujutsu Kaisen: Hidden Inventory / Premature Death - The Movie (Blu-ray)",
+      "handle": "26cr166-jujutsu-kaisen-hidden-inventory-premature-death-movie-bluray",
+      "published_at": "2026-10-08T16:47:50+02:00",
+      "created_at": "2026-10-08T14:30:16+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59030342861064,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr166",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "24.90",
+          "grams": 0,
+          "compare_at_price": "24.90",
+          "position": 1,
+          "product_id": 12332157796616,
+          "created_at": "2026-10-08T14:30:16+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87461260394760,
+          "created_at": "2026-10-08T15:40:30+02:00",
+          "position": 1,
+          "product_id": 12332157796616,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-hidden-inventory-premature-death-the-movie-blu-190.webp?v=1791466830",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 11211387535624,
       "title": "Solo Leveling - Tragetasche (Tote Bag)",
       "handle": "26crm001-solo-leveling-tote-bag",
@@ -161899,6 +162243,108 @@
           "product_id": 11929262948616,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/kanon-2006-gesamtausgabe-dvd-gesamtausgabe-film-confect-anime-449.webp?v=1776849871",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12332158124296,
+      "title": "Shakugan no Shana - Season 1 & 2 - Gesamtausgabe (Blu-ray)",
+      "handle": "26fc005-shakugan-no-shana-season-1-2-gesamtausgabe-bluray",
+      "published_at": "2026-10-08T16:47:55+02:00",
+      "created_at": "2026-10-08T14:30:22+02:00",
+      "vendor": "Film Confect",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59030343155976,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26fc005",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "69.90",
+          "grams": 0,
+          "compare_at_price": "69.90",
+          "position": 1,
+          "product_id": 12332158124296,
+          "created_at": "2026-10-08T14:30:22+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87462069207304,
+          "created_at": "2026-10-08T16:21:20+02:00",
+          "position": 1,
+          "product_id": 12332158124296,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/shakugan-no-shana-season-1-2-gesamtausgabe-blu-ray-gesamtausgabe-823.webp?v=1791469280",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12332158091528,
+      "title": "Shakugan no Shana - Season 1 & 2 - Gesamtausgabe (DVD)",
+      "handle": "26fc006-shakugan-no-shana-season-1-2-gesamtausgabe-dvd",
+      "published_at": "2026-10-08T16:47:55+02:00",
+      "created_at": "2026-10-08T14:30:22+02:00",
+      "vendor": "Film Confect",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59030343123208,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26fc006",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "49.90",
+          "grams": 0,
+          "compare_at_price": "49.90",
+          "position": 1,
+          "product_id": 12332158091528,
+          "created_at": "2026-10-08T14:30:22+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87462064193800,
+          "created_at": "2026-10-08T16:21:08+02:00",
+          "position": 1,
+          "product_id": 12332158091528,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/shakugan-no-shana-season-1-2-gesamtausgabe-dvd-gesamtausgabe-film-586.webp?v=1791469268",
           "width": 2500,
           "height": 2500
         }
@@ -162515,6 +162961,363 @@
           "product_id": 12229253071112,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/good-luck-girl-vol-2-limited-edition-steelcase-blu-ray-limited-309.webp?v=1788877574",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12332157272328,
+      "title": "Air Gear - Gesamtausgabe (Blu-ray)",
+      "handle": "26hf008-air-gear-gesamtausgabe-bluray",
+      "published_at": "2026-10-08T16:47:43+02:00",
+      "created_at": "2026-10-08T14:30:04+02:00",
+      "vendor": "Hardball Films",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59030341189896,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26hf008",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "69.90",
+          "grams": 0,
+          "compare_at_price": "69.90",
+          "position": 1,
+          "product_id": 12332157272328,
+          "created_at": "2026-10-08T14:30:04+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87461418631432,
+          "created_at": "2026-10-08T15:48:14+02:00",
+          "position": 1,
+          "product_id": 12332157272328,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/air-gear-gesamtausgabe-blu-ray-gesamtausgabe-642.webp?v=1791467294",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12332157305096,
+      "title": "Air Gear - Gesamtausgabe (DVD)",
+      "handle": "26hf009-air-gear-gesamtausgabe-dvd",
+      "published_at": "2026-10-08T16:47:44+02:00",
+      "created_at": "2026-10-08T14:30:05+02:00",
+      "vendor": "Hardball Films",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59030341222664,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26hf009",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "49.90",
+          "grams": 0,
+          "compare_at_price": "49.90",
+          "position": 1,
+          "product_id": 12332157305096,
+          "created_at": "2026-10-08T14:30:05+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87461571100936,
+          "created_at": "2026-10-08T15:56:22+02:00",
+          "position": 1,
+          "product_id": 12332157305096,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/air-gear-gesamtausgabe-dvd-gesamtausgabe-hardball-films-film-221.webp?v=1791467782",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12332157567240,
+      "title": "D.Gray-man - Gesamtausgabe (Blu-ray)",
+      "handle": "26hf010-d-gray-man-gesamtausgabe-bluray",
+      "published_at": "2026-10-08T16:47:48+02:00",
+      "created_at": "2026-10-08T14:30:11+02:00",
+      "vendor": "Hardball Films",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59030342009096,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26hf010",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "69.90",
+          "grams": 0,
+          "compare_at_price": "69.90",
+          "position": 1,
+          "product_id": 12332157567240,
+          "created_at": "2026-10-08T14:30:11+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87461689229576,
+          "created_at": "2026-10-08T16:00:26+02:00",
+          "position": 1,
+          "product_id": 12332157567240,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/d-gray-man-gesamtausgabe-blu-ray-gesamtausgabe-hardball-films-606.webp?v=1791468026",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12332157829384,
+      "title": "D.Gray-man - Gesamtausgabe (DVD)",
+      "handle": "26hf011-d-gray-man-gesamtausgabe-dvd",
+      "published_at": "2026-10-08T16:47:50+02:00",
+      "created_at": "2026-10-08T14:30:16+02:00",
+      "vendor": "Hardball Films",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59030342893832,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26hf011",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "49.90",
+          "grams": 0,
+          "compare_at_price": "49.90",
+          "position": 1,
+          "product_id": 12332157829384,
+          "created_at": "2026-10-08T14:30:16+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87461721211144,
+          "created_at": "2026-10-08T16:00:45+02:00",
+          "position": 1,
+          "product_id": 12332157829384,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/d-gray-man-gesamtausgabe-dvd-gesamtausgabe-hardball-films-film-465.webp?v=1791468045",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12332157960456,
+      "title": "Love Hina - Gesamtausgabe (Blu-ray)",
+      "handle": "26hf012-love-hina-gesamtausgabe-bluray",
+      "published_at": "2026-10-08T16:47:53+02:00",
+      "created_at": "2026-10-08T14:30:20+02:00",
+      "vendor": "Hardball Films",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59030343024904,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26hf012",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "69.90",
+          "grams": 0,
+          "compare_at_price": "69.90",
+          "position": 1,
+          "product_id": 12332157960456,
+          "created_at": "2026-10-08T14:30:20+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87462052593928,
+          "created_at": "2026-10-08T16:20:18+02:00",
+          "position": 1,
+          "product_id": 12332157960456,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/love-hina-gesamtausgabe-blu-ray-gesamtausgabe-hardball-films-877.webp?v=1791469218",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12332158025992,
+      "title": "Love Hina - Gesamtausgabe (DVD)",
+      "handle": "26hf013-love-hina-gesamtausgabe-dvd",
+      "published_at": "2026-10-08T16:47:54+02:00",
+      "created_at": "2026-10-08T14:30:21+02:00",
+      "vendor": "Hardball Films",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59030343057672,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26hf013",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "49.90",
+          "grams": 0,
+          "compare_at_price": "49.90",
+          "position": 1,
+          "product_id": 12332158025992,
+          "created_at": "2026-10-08T14:30:21+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87462035063048,
+          "created_at": "2026-10-08T16:17:28+02:00",
+          "position": 1,
+          "product_id": 12332158025992,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/love-hina-gesamtausgabe-dvd-gesamtausgabe-hardball-films-film-842.webp?v=1791469048",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12332157894920,
+      "title": "Ouran High School Host Club - Gesamtausgabe (Blu-ray)",
+      "handle": "26hf014-ouran-high-school-host-club-gesamtausgabe-bluray",
+      "published_at": "2026-10-08T16:47:52+02:00",
+      "created_at": "2026-10-08T14:30:19+02:00",
+      "vendor": "Hardball Films",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59030342959368,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26hf014",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "69.90",
+          "grams": 0,
+          "compare_at_price": "69.90",
+          "position": 1,
+          "product_id": 12332157894920,
+          "created_at": "2026-10-08T14:30:19+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87461734809864,
+          "created_at": "2026-10-08T16:01:27+02:00",
+          "position": 1,
+          "product_id": 12332157894920,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/ouran-high-school-host-club-gesamtausgabe-blu-ray-gesamtausgabe-235.webp?v=1791468087",
           "width": 2500,
           "height": 2500
         }
@@ -174565,6 +175368,108 @@
       ]
     },
     {
+      "id": 12332157239560,
+      "title": "Angeloid - Sora no Otoshimono - Season 1 & 2 - Gesamtausgabe (Blu-ray)",
+      "handle": "26na001-angeloid-sora-no-otoshimono-season-1-2-gesamtausgabe-bluray",
+      "published_at": "2026-10-08T16:47:42+02:00",
+      "created_at": "2026-10-08T14:30:03+02:00",
+      "vendor": "Nipponart",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59030341124360,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26na001",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "39.90",
+          "grams": 0,
+          "compare_at_price": "39.90",
+          "position": 1,
+          "product_id": 12332157239560,
+          "created_at": "2026-10-08T14:30:03+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87461333238024,
+          "created_at": "2026-10-08T15:44:16+02:00",
+          "position": 1,
+          "product_id": 12332157239560,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/angeloid-sora-no-otoshimono-season-1-2-gesamtausgabe-blu-ray-252.webp?v=1791467056",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12332157337864,
+      "title": "Angeloid - Sora no Otoshimono - Season 1 & 2 - Gesamtausgabe (DVD)",
+      "handle": "26na002-angeloid-sora-no-otoshimono-season-1-2-gesamtausgabe-dvd",
+      "published_at": "2026-10-08T16:47:45+02:00",
+      "created_at": "2026-10-08T14:30:05+02:00",
+      "vendor": "Nipponart",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59030341255432,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26na002",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "29.90",
+          "grams": 0,
+          "compare_at_price": "29.90",
+          "position": 1,
+          "product_id": 12332157337864,
+          "created_at": "2026-10-08T14:30:05+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87461517394184,
+          "created_at": "2026-10-08T15:53:24+02:00",
+          "position": 1,
+          "product_id": 12332157337864,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/angeloid-sora-no-otoshimono-season-1-2-gesamtausgabe-dvd-433.webp?v=1791467604",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 10426099958024,
       "title": "Eyeshield21 - Vol. 1 (Blu-ray)",
       "handle": "26p01-01-eyeshield21-bluray",
@@ -185446,9 +186351,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "77.90",
+          "price": "58.90",
           "grams": 0,
-          "compare_at_price": "77.90",
+          "compare_at_price": "71.40",
           "position": 1,
           "product_id": 12207751594248,
           "created_at": "2026-08-26T15:04:32+02:00"
@@ -185996,9 +186901,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "104.90",
+          "price": "98.90",
           "grams": 0,
-          "compare_at_price": "119.90",
+          "compare_at_price": "119.40",
           "position": 1,
           "product_id": 12215816618248,
           "created_at": "2026-09-01T17:16:41+02:00"
@@ -186262,9 +187167,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "94.90",
+          "price": "88.90",
           "grams": 0,
-          "compare_at_price": "107.90",
+          "compare_at_price": "107.40",
           "position": 1,
           "product_id": 12215817011464,
           "created_at": "2026-09-01T17:16:57+02:00"
@@ -186548,9 +187453,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "189.90",
+          "price": "176.90",
           "grams": 0,
-          "compare_at_price": "202.90",
+          "compare_at_price": "202.80",
           "position": 1,
           "product_id": 12215822680328,
           "created_at": "2026-09-01T17:18:10+02:00"
@@ -186754,9 +187659,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "104.90",
+          "price": "98.90",
           "grams": 0,
-          "compare_at_price": "119.90",
+          "compare_at_price": "119.40",
           "position": 1,
           "product_id": 12215819141384,
           "created_at": "2026-09-01T17:17:29+02:00"
@@ -187881,6 +188786,429 @@
           "product_id": 12251175747848,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/one-piece-plueschi-25cm-karoo-184.webp?v=1789573510",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12332439273736,
+      "title": "Lord of the Mysteries - Ming Hua Series - Figur (12cm) - Blindbox-Display (9 Stück)",
+      "handle": "26sam174-lord-of-the-mysteries-ming-hua-series-figur-blindbox-display",
+      "published_at": "2026-10-08T16:47:58+02:00",
+      "created_at": "2026-10-08T16:29:26+02:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59031206691080,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam174",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "198.90",
+          "grams": 0,
+          "compare_at_price": "224.10",
+          "position": 1,
+          "product_id": 12332439273736,
+          "created_at": "2026-10-08T16:29:26+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87462432932104,
+          "created_at": "2026-10-08T16:49:04+02:00",
+          "position": 1,
+          "product_id": 12332439273736,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/lord-of-the-mysteries-ming-hua-series-figur-12cm-blindbox-display-727.webp?v=1791470944",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 87462433128712,
+          "created_at": "2026-10-08T16:49:08+02:00",
+          "position": 2,
+          "product_id": 12332439273736,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/lord-of-the-mysteries-ming-hua-series-figur-12cm-blindbox-display-118.webp?v=1791470948",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 87462434930952,
+          "created_at": "2026-10-08T16:49:13+02:00",
+          "position": 3,
+          "product_id": 12332439273736,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/lord-of-the-mysteries-ming-hua-series-figur-12cm-blindbox-display-409.webp?v=1791470953",
+          "width": 900,
+          "height": 1200
+        },
+        {
+          "id": 87462435619080,
+          "created_at": "2026-10-08T16:49:17+02:00",
+          "position": 4,
+          "product_id": 12332439273736,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/lord-of-the-mysteries-ming-hua-series-figur-12cm-blindbox-display-642.webp?v=1791470957",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 87462436143368,
+          "created_at": "2026-10-08T16:49:20+02:00",
+          "position": 5,
+          "product_id": 12332439273736,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/lord-of-the-mysteries-ming-hua-series-figur-12cm-blindbox-display-758.webp?v=1791470960",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 87462437060872,
+          "created_at": "2026-10-08T16:49:24+02:00",
+          "position": 6,
+          "product_id": 12332439273736,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/lord-of-the-mysteries-ming-hua-series-figur-12cm-blindbox-display-103.webp?v=1791470964",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 87462437945608,
+          "created_at": "2026-10-08T16:49:28+02:00",
+          "position": 7,
+          "product_id": 12332439273736,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/lord-of-the-mysteries-ming-hua-series-figur-12cm-blindbox-display-758_8168cd7b-995f-4692-b887-cbe003f1f032.webp?v=1791470968",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 87462438240520,
+          "created_at": "2026-10-08T16:49:33+02:00",
+          "position": 8,
+          "product_id": 12332439273736,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/lord-of-the-mysteries-ming-hua-series-figur-12cm-blindbox-display-418.webp?v=1791470973",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 87462438764808,
+          "created_at": "2026-10-08T16:49:37+02:00",
+          "position": 9,
+          "product_id": 12332439273736,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/lord-of-the-mysteries-ming-hua-series-figur-12cm-blindbox-display-319.webp?v=1791470977",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 87462439846152,
+          "created_at": "2026-10-08T16:49:41+02:00",
+          "position": 10,
+          "product_id": 12332439273736,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/lord-of-the-mysteries-ming-hua-series-figur-12cm-blindbox-display-299.webp?v=1791470981",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 87462440763656,
+          "created_at": "2026-10-08T16:49:45+02:00",
+          "position": 11,
+          "product_id": 12332439273736,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/lord-of-the-mysteries-ming-hua-series-figur-12cm-blindbox-display-479.webp?v=1791470985",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 87462441124104,
+          "created_at": "2026-10-08T16:49:49+02:00",
+          "position": 12,
+          "product_id": 12332439273736,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/lord-of-the-mysteries-ming-hua-series-figur-12cm-blindbox-display-204.webp?v=1791470989",
+          "width": 900,
+          "height": 1200
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12332439240968,
+      "title": "Lord of the Mysteries - Ming Hua Series - Figur (12cm) - Blindbox (1 aus 9)",
+      "handle": "26sam175-lord-of-the-mysteries-ming-hua-series-figur-blindbox",
+      "published_at": "2026-10-08T16:47:57+02:00",
+      "created_at": "2026-10-08T16:29:26+02:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59031206658312,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam175",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "24.90",
+          "grams": 0,
+          "compare_at_price": "24.90",
+          "position": 1,
+          "product_id": 12332439240968,
+          "created_at": "2026-10-08T16:29:26+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87462431817992,
+          "created_at": "2026-10-08T16:48:51+02:00",
+          "position": 1,
+          "product_id": 12332439240968,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/lord-of-the-mysteries-ming-hua-series-figur-12cm-blindbox-1-9-618.webp?v=1791470931",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 87462432407816,
+          "created_at": "2026-10-08T16:48:56+02:00",
+          "position": 2,
+          "product_id": 12332439240968,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/lord-of-the-mysteries-ming-hua-series-figur-12cm-blindbox-1-9-713.webp?v=1791470936",
+          "width": 900,
+          "height": 1200
+        },
+        {
+          "id": 87462432571656,
+          "created_at": "2026-10-08T16:49:00+02:00",
+          "position": 3,
+          "product_id": 12332439240968,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/lord-of-the-mysteries-ming-hua-series-figur-12cm-blindbox-1-9-183.webp?v=1791470940",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 87462432866568,
+          "created_at": "2026-10-08T16:49:04+02:00",
+          "position": 4,
+          "product_id": 12332439240968,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/lord-of-the-mysteries-ming-hua-series-figur-12cm-blindbox-1-9-491.webp?v=1791470944",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 87462433095944,
+          "created_at": "2026-10-08T16:49:08+02:00",
+          "position": 5,
+          "product_id": 12332439240968,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/lord-of-the-mysteries-ming-hua-series-figur-12cm-blindbox-1-9-355.webp?v=1791470948",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 87462434898184,
+          "created_at": "2026-10-08T16:49:12+02:00",
+          "position": 6,
+          "product_id": 12332439240968,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/lord-of-the-mysteries-ming-hua-series-figur-12cm-blindbox-1-9-117.webp?v=1791470952",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 87462435520776,
+          "created_at": "2026-10-08T16:49:16+02:00",
+          "position": 7,
+          "product_id": 12332439240968,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/lord-of-the-mysteries-ming-hua-series-figur-12cm-blindbox-1-9-102.webp?v=1791470956",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 87462435848456,
+          "created_at": "2026-10-08T16:49:19+02:00",
+          "position": 8,
+          "product_id": 12332439240968,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/lord-of-the-mysteries-ming-hua-series-figur-12cm-blindbox-1-9-375.webp?v=1791470959",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 87462436602120,
+          "created_at": "2026-10-08T16:49:23+02:00",
+          "position": 9,
+          "product_id": 12332439240968,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/lord-of-the-mysteries-ming-hua-series-figur-12cm-blindbox-1-9-180.webp?v=1791470963",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 87462437814536,
+          "created_at": "2026-10-08T16:49:27+02:00",
+          "position": 10,
+          "product_id": 12332439240968,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/lord-of-the-mysteries-ming-hua-series-figur-12cm-blindbox-1-9-817.webp?v=1791470967",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 87462438174984,
+          "created_at": "2026-10-08T16:49:32+02:00",
+          "position": 11,
+          "product_id": 12332439240968,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/lord-of-the-mysteries-ming-hua-series-figur-12cm-blindbox-1-9-758.webp?v=1791470972",
+          "width": 900,
+          "height": 1200
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12332439208200,
+      "title": "Heaven Official's Blessing - Together at the Same Window, Sharing the Same View - Figur (11cm) - Blindbox (1 von 8 Stück)",
+      "handle": "26sam176-heavens-official-blessing-together-same-window-figur-blindbox",
+      "published_at": "2026-10-08T16:47:56+02:00",
+      "created_at": "2026-10-08T16:29:26+02:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59031206625544,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam176",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "17.90",
+          "grams": 0,
+          "compare_at_price": "19.90",
+          "position": 1,
+          "product_id": 12332439208200,
+          "created_at": "2026-10-08T16:29:26+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87462430966024,
+          "created_at": "2026-10-08T16:48:41+02:00",
+          "position": 1,
+          "product_id": 12332439208200,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/heaven-officials-blessing-together-at-the-same-window-sharing-the-458.webp?v=1791470921",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87462431785224,
+          "created_at": "2026-10-08T16:48:51+02:00",
+          "position": 2,
+          "product_id": 12332439208200,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/heaven-officials-blessing-together-at-the-same-window-sharing-the-930.webp?v=1791470931",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87462432801032,
+          "created_at": "2026-10-08T16:49:04+02:00",
+          "position": 3,
+          "product_id": 12332439208200,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/heaven-officials-blessing-together-at-the-same-window-sharing-the-646.webp?v=1791470944",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87462435455240,
+          "created_at": "2026-10-08T16:49:16+02:00",
+          "position": 4,
+          "product_id": 12332439208200,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/heaven-officials-blessing-together-at-the-same-window-sharing-the-269.webp?v=1791470956",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87462437749000,
+          "created_at": "2026-10-08T16:49:26+02:00",
+          "position": 5,
+          "product_id": 12332439208200,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/heaven-officials-blessing-together-at-the-same-window-sharing-the-349.webp?v=1791470966",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87462438797576,
+          "created_at": "2026-10-08T16:49:38+02:00",
+          "position": 6,
+          "product_id": 12332439208200,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/heaven-officials-blessing-together-at-the-same-window-sharing-the-464.webp?v=1791470978",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87462441353480,
+          "created_at": "2026-10-08T16:49:50+02:00",
+          "position": 7,
+          "product_id": 12332439208200,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/heaven-officials-blessing-together-at-the-same-window-sharing-the-820.webp?v=1791470990",
           "width": 2500,
           "height": 2500
         }
