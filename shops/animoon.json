@@ -969,7 +969,6 @@
         "angebot",
         "BD/DVD",
         "index",
-        "released",
         "school",
         "sci-fi",
         "Serie"
@@ -1612,7 +1611,6 @@
         "angebot",
         "BD/DVD",
         "index",
-        "released",
         "school",
         "sci-fi",
         "Serie"
@@ -1708,7 +1706,6 @@
         "bhm",
         "bundle",
         "index",
-        "released",
         "school",
         "sci-fi",
         "Serie"
@@ -3075,7 +3072,6 @@
         "bundle",
         "empfehlung",
         "railgun",
-        "released",
         "school",
         "sci-fi",
         "Serie"
@@ -4882,7 +4878,6 @@
         "fantasy",
         "harem",
         "isekai",
-        "released",
         "romance",
         "Serie"
       ],
@@ -4981,7 +4976,6 @@
         "fantasy",
         "harem",
         "isekai",
-        "released",
         "romance",
         "Serie"
       ],
@@ -6791,7 +6785,6 @@
         "bundle",
         "comedy",
         "fantasy",
-        "released",
         "rpg",
         "Serie"
       ],
@@ -6866,12 +6859,12 @@
       "product_type": "DVD & Blu-Ray",
       "tags": [
         "action",
+        "angebot",
         "BD/DVD",
         "bofuri",
         "bofuri2",
         "comedy",
         "fantasy",
-        "released",
         "rpg",
         "Serie"
       ],
@@ -7915,11 +7908,11 @@
       "product_type": "DVD & Blu-Ray",
       "tags": [
         "action",
+        "angebot",
         "BD/DVD",
         "comedy",
         "dandadan",
         "polyband",
-        "released",
         "romance",
         "school",
         "sci-fi",
@@ -9585,7 +9578,6 @@
         "ecchi",
         "fantasy",
         "harem",
-        "released",
         "romance",
         "school",
         "sci-fi",
@@ -10192,7 +10184,6 @@
         "ecchi",
         "fantasy",
         "harem",
-        "released",
         "romance",
         "school",
         "sci-fi",
@@ -10675,7 +10666,6 @@
         "ecchi",
         "fantasy",
         "harem",
-        "released",
         "romance",
         "school",
         "sci-fi",
@@ -10760,7 +10750,6 @@
         "ecchi",
         "fantasy",
         "harem",
-        "released",
         "romance",
         "school",
         "sci-fi",
@@ -10900,6 +10889,7 @@
       "product_type": "DVD & Blu-Ray",
       "tags": [
         "action",
+        "angebot",
         "BD/DVD",
         "complete edition",
         "dal",
@@ -11573,7 +11563,6 @@
         "deca",
         "drama",
         "mystery",
-        "released",
         "sci-fi",
         "Serie"
       ],
@@ -12174,7 +12163,6 @@
         "drama",
         "fantasy",
         "Halloween",
-        "released",
         "Serie"
       ],
       "variants": [
@@ -12731,11 +12719,11 @@
       "product_type": "DVD & Blu-Ray",
       "tags": [
         "action",
+        "angebot",
         "BD/DVD",
         "comedy",
         "Edens Zero",
         "fantasy",
-        "released",
         "sci-fi",
         "Serie"
       ],
@@ -13418,12 +13406,12 @@
       "product_type": "DVD & Blu-Ray",
       "tags": [
         "action",
+        "angebot",
         "BD/DVD",
         "comedy",
         "drama",
         "Elainas Reise",
         "fantasy",
-        "released",
         "romance",
         "school",
         "Serie"
@@ -14189,7 +14177,6 @@
         "ecchi",
         "fantasy",
         "full-dive",
-        "released",
         "rpg",
         "Serie"
       ],
@@ -15151,7 +15138,6 @@
         "goblin slayer",
         "goblin slayer 1",
         "horror",
-        "released",
         "Serie"
       ],
       "variants": [
@@ -15346,7 +15332,6 @@
         "goblin slayer",
         "goblin slayer 2",
         "horror",
-        "released",
         "Serie"
       ],
       "variants": [
@@ -16120,10 +16105,10 @@
       "vendor": "AniMoon Shop",
       "product_type": "",
       "tags": [
+        "angebot",
         "BD/DVD",
         "comedy",
         "golden time",
-        "released",
         "romance",
         "school"
       ],
@@ -17612,6 +17597,7 @@
       "product_type": "",
       "tags": [
         "action",
+        "angebot",
         "BD/DVD",
         "comedy",
         "ecchi",
@@ -17619,7 +17605,6 @@
         "gushing",
         "harem",
         "magical girl",
-        "released",
         "Serie"
       ],
       "variants": [
@@ -17868,6 +17853,7 @@
       "vendor": "AniMoon Shop",
       "product_type": "",
       "tags": [
+        "angebot",
         "BD/DVD",
         "comedy",
         "drama",
@@ -17875,7 +17861,6 @@
         "haganai",
         "haganai 2",
         "harem",
-        "released",
         "school",
         "Serie",
         "SoL"
@@ -18352,7 +18337,6 @@
         "haganai",
         "haganai 1",
         "harem",
-        "released",
         "school",
         "Serie",
         "SoL"
@@ -18834,6 +18818,7 @@
       "product_type": "DVD & Blu-Ray",
       "tags": [
         "action",
+        "angebot",
         "BD/DVD",
         "comedy",
         "dark fantasy",
@@ -19353,6 +19338,7 @@
       "vendor": "AniMoon Publishing",
       "product_type": "",
       "tags": [
+        "angebot",
         "BD/DVD",
         "bundle",
         "dark fantasy",
@@ -19361,7 +19347,6 @@
         "higurashi",
         "higurashi gou",
         "horror",
-        "released",
         "school",
         "Serie"
       ],
@@ -20106,7 +20091,6 @@
         "higurashi kai",
         "higurashi rei",
         "horror",
-        "released",
         "school",
         "Serie"
       ],
@@ -20203,7 +20187,6 @@
         "higurashi",
         "higurashi kai",
         "horror",
-        "released",
         "school",
         "Serie"
       ],
@@ -20919,7 +20902,6 @@
         "higurashi",
         "higurashi 1",
         "horror",
-        "released",
         "school",
         "Serie"
       ],
@@ -21138,6 +21120,7 @@
       "vendor": "AniMoon Publishing",
       "product_type": "",
       "tags": [
+        "angebot",
         "BD/DVD",
         "bundle",
         "dark fantasy",
@@ -23561,7 +23544,6 @@
         "comedy",
         "ecchi",
         "harem",
-        "released",
         "romance",
         "school",
         "Serie",
@@ -23660,7 +23642,6 @@
         "comedy",
         "ecchi",
         "harem",
-        "released",
         "romance",
         "school",
         "Serie",
@@ -24723,8 +24704,7 @@
         "angebot",
         "beutel",
         "higurashi",
-        "merch",
-        "released"
+        "merch"
       ],
       "variants": [
         {
@@ -24790,7 +24770,6 @@
         "angebot",
         "beutel",
         "merch",
-        "released",
         "toradora"
       ],
       "variants": [
@@ -25778,7 +25757,6 @@
         "isekai",
         "konosuba",
         "konosuba 2",
-        "released",
         "Serie"
       ],
       "variants": [
@@ -26128,6 +26106,7 @@
       "product_type": "",
       "tags": [
         "action",
+        "angebot",
         "BD/DVD",
         "ecchi",
         "fantasy",
@@ -26135,7 +26114,6 @@
         "isekai",
         "konosuba",
         "konosuba 3",
-        "released",
         "Serie"
       ],
       "variants": [
@@ -26256,7 +26234,6 @@
         "fantasy",
         "konosuba",
         "konosuba explosion",
-        "released",
         "Serie"
       ],
       "variants": [
@@ -27033,7 +27010,6 @@
         "isekai",
         "konosuba",
         "konosuba 1",
-        "released",
         "Serie"
       ],
       "variants": [
@@ -29280,7 +29256,6 @@
         "comedy",
         "Kurokos",
         "kurokos 1",
-        "released",
         "school",
         "Serie",
         "sport",
@@ -29378,7 +29353,6 @@
         "comedy",
         "Kurokos",
         "kurokos 2",
-        "released",
         "school",
         "Serie",
         "sport"
@@ -29475,7 +29449,6 @@
         "comedy",
         "Kurokos",
         "kurokos 3",
-        "released",
         "school",
         "Serie",
         "sport"
@@ -30719,7 +30692,6 @@
         "bundle",
         "comedy",
         "lucky",
-        "released",
         "Serie",
         "SoL"
       ],
@@ -31674,7 +31646,6 @@
         "ecchi",
         "harem",
         "mother",
-        "released",
         "romance",
         "Serie"
       ],
@@ -33670,7 +33641,6 @@
         "bundle",
         "comedy",
         "drama",
-        "released",
         "romance",
         "school",
         "Serie",
@@ -33754,7 +33724,6 @@
         "bundle",
         "comedy",
         "drama",
-        "released",
         "romance",
         "school",
         "Serie",
@@ -33851,7 +33820,6 @@
         "bundle",
         "comedy",
         "drama",
-        "released",
         "romance",
         "school",
         "Serie",
@@ -34729,11 +34697,11 @@
       "vendor": "AniMoon Shop",
       "product_type": "",
       "tags": [
+        "angebot",
         "BD/DVD",
         "comedy",
         "ecchi",
         "mgx",
-        "released",
         "romance",
         "school",
         "Serie",
@@ -35544,7 +35512,6 @@
         "drama",
         "ecchi",
         "pet girl",
-        "released",
         "romance",
         "school",
         "Serie",
@@ -36151,7 +36118,6 @@
         "harem",
         "peter",
         "peter 1",
-        "released",
         "Serie"
       ],
       "variants": [
@@ -36249,7 +36215,6 @@
         "harem",
         "peter",
         "peter 1",
-        "released",
         "Serie"
       ],
       "variants": [
@@ -38162,7 +38127,6 @@
         "empfehlung",
         "harem",
         "redo",
-        "released",
         "Serie"
       ],
       "variants": [
@@ -39227,7 +39191,6 @@
         "drama",
         "Halloween",
         "horror",
-        "released",
         "romance",
         "school",
         "school days",
@@ -40291,7 +40254,6 @@
         "comedy",
         "ecchi",
         "fantasy",
-        "released",
         "school",
         "sci-fi",
         "Serie",
@@ -44358,7 +44320,6 @@
         "fantasy",
         "harem",
         "isekai",
-        "released",
         "romance",
         "Serie"
       ],
@@ -45644,7 +45605,6 @@
         "bundle",
         "familiar",
         "familiar 1",
-        "released",
         "Serie"
       ],
       "variants": [
@@ -45741,7 +45701,6 @@
         "familiar",
         "familiar 3",
         "fantasy",
-        "released",
         "Serie"
       ],
       "variants": [
@@ -45838,7 +45797,6 @@
         "familiar",
         "familiar 4",
         "fantasy",
-        "released",
         "Serie"
       ],
       "variants": [
@@ -46636,7 +46594,6 @@
         "BD/DVD",
         "bundle",
         "drama",
-        "released",
         "romance",
         "school",
         "toradora"
@@ -46843,7 +46800,6 @@
         "angebot",
         "BD/DVD",
         "drama",
-        "released",
         "romance",
         "school",
         "Serie",
@@ -47082,7 +47038,6 @@
         "angebot",
         "BD/DVD",
         "drama",
-        "released",
         "romance",
         "school",
         "SoL",
@@ -47320,7 +47275,6 @@
         "angebot",
         "BD/DVD",
         "drama",
-        "released",
         "romance",
         "school",
         "SoL",
@@ -47558,7 +47512,6 @@
         "angebot",
         "BD/DVD",
         "drama",
-        "released",
         "romance",
         "school",
         "SoL",
@@ -47787,7 +47740,6 @@
         "angebot",
         "BD/DVD",
         "drama",
-        "released",
         "romance",
         "school",
         "SoL",
@@ -47898,7 +47850,6 @@
         "BD/DVD",
         "bundle",
         "drama",
-        "released",
         "Serie",
         "SoL",
         "usagi"
@@ -47991,7 +47942,6 @@
         "angebot",
         "BD/DVD",
         "drama",
-        "released",
         "SoL",
         "usagi"
       ],
@@ -48108,7 +48058,6 @@
         "angebot",
         "BD/DVD",
         "drama",
-        "released",
         "Serie",
         "SoL",
         "usagi"
@@ -48236,7 +48185,6 @@
         "angebot",
         "BD/DVD",
         "drama",
-        "released",
         "SoL",
         "usagi"
       ],
@@ -48363,7 +48311,6 @@
         "angebot",
         "BD/DVD",
         "drama",
-        "released",
         "SoL",
         "usagi"
       ],
@@ -49569,7 +49516,6 @@
         "comedy",
         "drama",
         "nhk",
-        "released",
         "romance",
         "Serie",
         "SoL"
@@ -51373,7 +51319,6 @@
         "drama",
         "ecchi",
         "harem",
-        "released",
         "romance",
         "school",
         "Serie",
