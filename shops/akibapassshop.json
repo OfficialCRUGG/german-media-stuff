@@ -15364,7 +15364,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "15.90",
           "grams": 120,
           "compare_at_price": "15.90",
@@ -182827,7 +182827,6 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -182841,7 +182840,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "17.90",
           "grams": 190,
           "compare_at_price": "19.90",
