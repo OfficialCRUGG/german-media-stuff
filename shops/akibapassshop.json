@@ -10679,7 +10679,6 @@
       "tags": [
         "Anime",
         "Dauersale",
-        "Flow:ArtikelstatusAktiv",
         "Online",
         "peppermint anime",
         "Sport"
@@ -10695,7 +10694,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "1.90",
           "grams": 98,
           "compare_at_price": "4.90",
@@ -80139,7 +80138,6 @@
         "Anime",
         "Crunchyroll",
         "Dauersale",
-        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -80153,7 +80151,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "29.90",
           "grams": 574,
           "compare_at_price": "69.90",
