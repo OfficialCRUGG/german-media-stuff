@@ -162942,9 +162942,7 @@
       "created_at": "2026-09-08T15:38:20+02:00",
       "vendor": "Hardball Films",
       "product_type": "",
-      "tags": [
-        "Flow:ReleaseInfoOffen"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 58653476389128,
@@ -162995,9 +162993,7 @@
       "created_at": "2026-09-08T13:21:28+02:00",
       "vendor": "Hardball Films",
       "product_type": "",
-      "tags": [
-        "Flow:ReleaseInfoOffen"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 58649536594184,
@@ -194932,6 +194928,7 @@
         "exclude_rebuy",
         "exclude_recommendations",
         "exclude_review",
+        "Flow:ArtikelstatusAktiv",
         "hidden",
         "Hidden recommendation",
         "Hide",
@@ -194956,7 +194953,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.00",
           "grams": 40,
           "compare_at_price": "0.00",
@@ -214337,7 +214334,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "14.90",
           "grams": 80,
           "compare_at_price": "14.90",
