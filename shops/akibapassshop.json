@@ -118757,7 +118757,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "89.90",
           "grams": 803,
           "compare_at_price": "139.90",
@@ -124450,6 +124450,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -124465,7 +124466,7 @@
           "featured_image": null,
           "available": true,
           "price": "62.90",
-          "grams": 0,
+          "grams": 246,
           "compare_at_price": "62.90",
           "position": 1,
           "product_id": 10270982439176,
@@ -127702,7 +127703,6 @@
       "product_type": "",
       "tags": [
         "Dauersale",
-        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -127716,7 +127716,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "49.90",
           "grams": 526,
           "compare_at_price": "69.90",
