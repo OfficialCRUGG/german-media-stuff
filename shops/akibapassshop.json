@@ -49699,7 +49699,7 @@
     },
     {
       "id": 10261351596296,
-      "title": "ONIMAI - Ab Sofort Schwester! (OmU) - Season 1 (DIGITAL)",
+      "title": "ONIMAI - Ab Sofort Schwester! - Season 1 (DIGITAL - Kaufversion)",
       "handle": "22d036-onimai-ab-sofort-schwester-omu-season-1-digital",
       "published_at": "2025-05-28T16:30:15+02:00",
       "created_at": "2025-05-28T15:20:27+02:00",
@@ -49710,6 +49710,24 @@
         "Online"
       ],
       "variants": [
+        {
+          "id": 59088840458504,
+          "title": "Japanische & Deutsche Fassung (OmU & DE)",
+          "option1": "Japanische & Deutsche Fassung (OmU & DE)",
+          "option2": null,
+          "option3": null,
+          "sku": "22d036-omu-de",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "30.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 10261351596296,
+          "created_at": "2026-10-13T16:40:35+02:00"
+        },
         {
           "id": 51542053978376,
           "title": "Originalfassung mit deutschen Untertiteln (OmU)",
@@ -49724,9 +49742,27 @@
           "price": "20.00",
           "grams": 0,
           "compare_at_price": "20.00",
-          "position": 1,
+          "position": 2,
           "product_id": 10261351596296,
           "created_at": "2025-05-28T15:20:27+02:00"
+        },
+        {
+          "id": 59088844390664,
+          "title": "Deutsche Fassung (DE)",
+          "option1": "Deutsche Fassung (DE)",
+          "option2": null,
+          "option3": null,
+          "sku": "22d036-de",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "20.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 10261351596296,
+          "created_at": "2026-10-13T16:40:40+02:00"
         }
       ],
       "images": [
@@ -49746,14 +49782,16 @@
           "name": "Synchro-Fassung",
           "position": 1,
           "values": [
-            "Originalfassung mit deutschen Untertiteln (OmU)"
+            "Japanische & Deutsche Fassung (OmU & DE)",
+            "Originalfassung mit deutschen Untertiteln (OmU)",
+            "Deutsche Fassung (DE)"
           ]
         }
       ]
     },
     {
       "id": 10261351727368,
-      "title": "My Life as Inukai-san's Dog (OmU) - Season 1 (DIGITAL)",
+      "title": "My Life as Inukai-san's Dog - Season 1 (DIGITAL - Kaufversion)",
       "handle": "22d038-my-life-as-inukai-san-s-dog-omu-season-1-digital",
       "published_at": "2025-05-28T16:30:14+02:00",
       "created_at": "2025-05-28T15:20:30+02:00",
@@ -49764,6 +49802,24 @@
         "Online"
       ],
       "variants": [
+        {
+          "id": 59088844357896,
+          "title": "Japanische & Deutsche Fassung (OmU & DE)",
+          "option1": "Japanische & Deutsche Fassung (OmU & DE)",
+          "option2": null,
+          "option3": null,
+          "sku": "22d038-omu-de",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "15.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 10261351727368,
+          "created_at": "2026-10-13T16:40:38+02:00"
+        },
         {
           "id": 51542054240520,
           "title": "Originalfassung mit deutschen Untertiteln (OmU)",
@@ -49778,9 +49834,27 @@
           "price": "10.00",
           "grams": 0,
           "compare_at_price": "10.00",
-          "position": 1,
+          "position": 2,
           "product_id": 10261351727368,
           "created_at": "2025-05-28T15:20:31+02:00"
+        },
+        {
+          "id": 59088848126216,
+          "title": "Deutsche Fassung (DE)",
+          "option1": "Deutsche Fassung (DE)",
+          "option2": null,
+          "option3": null,
+          "sku": "22d038-de",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "20.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 10261351727368,
+          "created_at": "2026-10-13T16:40:44+02:00"
         }
       ],
       "images": [
@@ -49800,7 +49874,9 @@
           "name": "Synchro-Fassung",
           "position": 1,
           "values": [
-            "Originalfassung mit deutschen Untertiteln (OmU)"
+            "Japanische & Deutsche Fassung (OmU & DE)",
+            "Originalfassung mit deutschen Untertiteln (OmU)",
+            "Deutsche Fassung (DE)"
           ]
         }
       ]
@@ -49861,7 +49937,7 @@
     },
     {
       "id": 10261351858440,
-      "title": "Reincarnated as a Sword (OmU) - Season 1 (DIGITAL)",
+      "title": "Reincarnated as a Sword - Season 1 (DIGITAL - Kaufversion)",
       "handle": "22d040-reincarnated-as-a-sword-omu-season-1-digital",
       "published_at": "2025-05-28T16:30:14+02:00",
       "created_at": "2025-05-28T15:20:35+02:00",
@@ -49872,6 +49948,24 @@
         "Online"
       ],
       "variants": [
+        {
+          "id": 59088842490120,
+          "title": "Japanische & Deutsche Fassung (OmU & DE)",
+          "option1": "Japanische & Deutsche Fassung (OmU & DE)",
+          "option2": null,
+          "option3": null,
+          "sku": "22d040-omu-de",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "30.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 10261351858440,
+          "created_at": "2026-10-13T16:40:38+02:00"
+        },
         {
           "id": 51542054306056,
           "title": "Originalfassung mit deutschen Untertiteln (OmU)",
@@ -49886,9 +49980,27 @@
           "price": "20.00",
           "grams": 0,
           "compare_at_price": "20.00",
-          "position": 1,
+          "position": 2,
           "product_id": 10261351858440,
           "created_at": "2025-05-28T15:20:35+02:00"
+        },
+        {
+          "id": 59088848093448,
+          "title": "Deutsche Fassung (DE)",
+          "option1": "Deutsche Fassung (DE)",
+          "option2": null,
+          "option3": null,
+          "sku": "22d040-de",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "20.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 10261351858440,
+          "created_at": "2026-10-13T16:40:44+02:00"
         }
       ],
       "images": [
@@ -49908,7 +50020,9 @@
           "name": "Synchro-Fassung",
           "position": 1,
           "values": [
-            "Originalfassung mit deutschen Untertiteln (OmU)"
+            "Japanische & Deutsche Fassung (OmU & DE)",
+            "Originalfassung mit deutschen Untertiteln (OmU)",
+            "Deutsche Fassung (DE)"
           ]
         }
       ]
@@ -65967,7 +66081,7 @@
     },
     {
       "id": 10261410939144,
-      "title": "The Dangers in My Heart (OmU) - Season 2 (DIGITAL - Kaufversion)",
+      "title": "The Dangers in My Heart - Season 2 (DIGITAL - Kaufversion)",
       "handle": "23d083-the-dangers-in-my-heart-omu-season-2-digital-kaufversion",
       "published_at": "2025-05-28T16:28:42+02:00",
       "created_at": "2025-05-28T15:47:01+02:00",
@@ -65978,6 +66092,24 @@
         "Online"
       ],
       "variants": [
+        {
+          "id": 59088842457352,
+          "title": "Japanische & Deutsche Fassung (OmU & DE)",
+          "option1": "Japanische & Deutsche Fassung (OmU & DE)",
+          "option2": null,
+          "option3": null,
+          "sku": "23d083-omu-de",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "30.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 10261410939144,
+          "created_at": "2026-10-13T16:40:37+02:00"
+        },
         {
           "id": 51542418587912,
           "title": "Originalfassung mit deutschen Untertiteln (OmU)",
@@ -65992,9 +66124,27 @@
           "price": "20.00",
           "grams": 0,
           "compare_at_price": "20.00",
-          "position": 1,
+          "position": 2,
           "product_id": 10261410939144,
           "created_at": "2025-05-28T15:47:01+02:00"
+        },
+        {
+          "id": 59088848158984,
+          "title": "Deutsche Fassung (DE)",
+          "option1": "Deutsche Fassung (DE)",
+          "option2": null,
+          "option3": null,
+          "sku": "23d083-de",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "20.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 10261410939144,
+          "created_at": "2026-10-13T16:40:45+02:00"
         }
       ],
       "images": [
@@ -66014,7 +66164,9 @@
           "name": "Synchro-Fassung",
           "position": 1,
           "values": [
-            "Originalfassung mit deutschen Untertiteln (OmU)"
+            "Japanische & Deutsche Fassung (OmU & DE)",
+            "Originalfassung mit deutschen Untertiteln (OmU)",
+            "Deutsche Fassung (DE)"
           ]
         }
       ]
@@ -100206,7 +100358,7 @@
     },
     {
       "id": 10261415231752,
-      "title": "Demon Slave - The Chained Soldier (OmU) - Season 1 (DIGITAL - Kaufversion)",
+      "title": "Demon Slave - The Chained Soldier - Season 1 (DIGITAL - Kaufversion)",
       "handle": "24d002-demon-slave-the-chained-soldier-omu-season-1-digital-kaufversion",
       "published_at": "2025-05-28T16:28:41+02:00",
       "created_at": "2025-05-28T15:48:44+02:00",
@@ -100217,6 +100369,24 @@
         "Online"
       ],
       "variants": [
+        {
+          "id": 59088840524040,
+          "title": "Japanische & Deutsche Fassung (OmU & DE)",
+          "option1": "Japanische & Deutsche Fassung (OmU & DE)",
+          "option2": null,
+          "option3": null,
+          "sku": "24d002-omu-de",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "30.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 10261415231752,
+          "created_at": "2026-10-13T16:40:36+02:00"
+        },
         {
           "id": 51542434218248,
           "title": "Originalfassung mit deutschen Untertiteln (OmU)",
@@ -100231,9 +100401,27 @@
           "price": "20.00",
           "grams": 0,
           "compare_at_price": "20.00",
-          "position": 1,
+          "position": 2,
           "product_id": 10261415231752,
           "created_at": "2025-05-28T15:48:44+02:00"
+        },
+        {
+          "id": 59088844456200,
+          "title": "Deutsche Fassung (DE)",
+          "option1": "Deutsche Fassung (DE)",
+          "option2": null,
+          "option3": null,
+          "sku": "24d002-de",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "20.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 10261415231752,
+          "created_at": "2026-10-13T16:40:40+02:00"
         }
       ],
       "images": [
@@ -100253,7 +100441,9 @@
           "name": "Synchro-Fassung",
           "position": 1,
           "values": [
-            "Originalfassung mit deutschen Untertiteln (OmU)"
+            "Japanische & Deutsche Fassung (OmU & DE)",
+            "Originalfassung mit deutschen Untertiteln (OmU)",
+            "Deutsche Fassung (DE)"
           ]
         }
       ]
@@ -128781,7 +128971,7 @@
     },
     {
       "id": 10261572681992,
-      "title": "Rascal Does Not Dream of a Sister Venturing Out - OmU - (DIGITAL - Kaufversion)",
+      "title": "Rascal Does Not Dream of a Sister Venturing Out (DIGITAL - Kaufversion)",
       "handle": "25d003-omurascal-does-not-dream-of-a-sister-venturing-out-omu-digital-kaufversion",
       "published_at": "2025-05-28T16:38:39+02:00",
       "created_at": "2025-05-28T16:37:15+02:00",
@@ -128793,6 +128983,24 @@
         "Online"
       ],
       "variants": [
+        {
+          "id": 59088803660040,
+          "title": "Japanische & Deutsche Fassung (OmU & DE)",
+          "option1": "Japanische & Deutsche Fassung (OmU & DE)",
+          "option2": null,
+          "option3": null,
+          "sku": "25d003-omu-de",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "12.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 10261572681992,
+          "created_at": "2026-10-13T16:39:48+02:00"
+        },
         {
           "id": 51543343268104,
           "title": "Originalfassung mit deutschen Untertiteln (OmU)",
@@ -128807,9 +129015,27 @@
           "price": "8.00",
           "grams": 0,
           "compare_at_price": "8.00",
-          "position": 1,
+          "position": 2,
           "product_id": 10261572681992,
           "created_at": "2025-05-28T16:37:15+02:00"
+        },
+        {
+          "id": 59088802054408,
+          "title": "Deutsche Fassung (DE)",
+          "option1": "Deutsche Fassung (DE)",
+          "option2": null,
+          "option3": null,
+          "sku": "25d003-de",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "8.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 10261572681992,
+          "created_at": "2026-10-13T16:39:45+02:00"
         }
       ],
       "images": [
@@ -128829,14 +129055,16 @@
           "name": "Synchro-Fassung",
           "position": 1,
           "values": [
-            "Originalfassung mit deutschen Untertiteln (OmU)"
+            "Japanische & Deutsche Fassung (OmU & DE)",
+            "Originalfassung mit deutschen Untertiteln (OmU)",
+            "Deutsche Fassung (DE)"
           ]
         }
       ]
     },
     {
       "id": 10261572747528,
-      "title": "Rascal Does Not Dream of Knapsack Kid - OmU - (DIGITAL - Kaufversion)",
+      "title": "Rascal Does Not Dream of a Knapsack Kid (DIGITAL - Kaufversion)",
       "handle": "25d004-omurascal-does-not-dream-of-knapsack-kid-omu-digital-kaufversion",
       "published_at": "2025-05-28T16:38:38+02:00",
       "created_at": "2025-05-28T16:37:17+02:00",
@@ -128847,6 +129075,24 @@
         "Online"
       ],
       "variants": [
+        {
+          "id": 59088808870152,
+          "title": "Japanische & Deutsche Fassung (OmU & DE)",
+          "option1": "Japanische & Deutsche Fassung (OmU & DE)",
+          "option2": null,
+          "option3": null,
+          "sku": "25d004-omu-de",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "12.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 10261572747528,
+          "created_at": "2026-10-13T16:39:53+02:00"
+        },
         {
           "id": 51543343333640,
           "title": "Originalfassung mit deutschen Untertiteln (OmU)",
@@ -128861,9 +129107,27 @@
           "price": "8.00",
           "grams": 0,
           "compare_at_price": "8.00",
-          "position": 1,
+          "position": 2,
           "product_id": 10261572747528,
           "created_at": "2025-05-28T16:37:17+02:00"
+        },
+        {
+          "id": 59088800383240,
+          "title": "Deutsche Fassung (DE)",
+          "option1": "Deutsche Fassung (DE)",
+          "option2": null,
+          "option3": null,
+          "sku": "25d004-de",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "8.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 10261572747528,
+          "created_at": "2026-10-13T16:39:43+02:00"
         }
       ],
       "images": [
@@ -128883,14 +129147,16 @@
           "name": "Synchro-Fassung",
           "position": 1,
           "values": [
-            "Originalfassung mit deutschen Untertiteln (OmU)"
+            "Japanische & Deutsche Fassung (OmU & DE)",
+            "Originalfassung mit deutschen Untertiteln (OmU)",
+            "Deutsche Fassung (DE)"
           ]
         }
       ]
     },
     {
       "id": 10261572845832,
-      "title": "Rascal Does Not Dream (OmU) - Movie-Paket (DIGITAL - Kaufversion)",
+      "title": "Rascal Does Not Dream - Movie-Paket (DIGITAL - Kaufversion)",
       "handle": "25d005-omurascal-does-not-dream-omumovie-paket-digital-kaufversion",
       "published_at": "2025-05-28T16:38:38+02:00",
       "created_at": "2025-05-28T16:37:18+02:00",
@@ -128902,6 +129168,24 @@
         "Online"
       ],
       "variants": [
+        {
+          "id": 59088818307336,
+          "title": "Japanische & Deutsche Fassung (OmU & DE)",
+          "option1": "Japanische & Deutsche Fassung (OmU & DE)",
+          "option2": null,
+          "option3": null,
+          "sku": "25d005-omu-de",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "18.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 10261572845832,
+          "created_at": "2026-10-13T16:40:05+02:00"
+        },
         {
           "id": 51543343399176,
           "title": "Originalfassung mit deutschen Untertiteln (OmU)",
@@ -128916,9 +129200,27 @@
           "price": "12.00",
           "grams": 0,
           "compare_at_price": "12.00",
-          "position": 1,
+          "position": 2,
           "product_id": 10261572845832,
           "created_at": "2025-05-28T16:37:18+02:00"
+        },
+        {
+          "id": 59088802021640,
+          "title": "Deutsche Fassung (DE)",
+          "option1": "Deutsche Fassung (DE)",
+          "option2": null,
+          "option3": null,
+          "sku": "25d005-de",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "12.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 10261572845832,
+          "created_at": "2026-10-13T16:39:45+02:00"
         }
       ],
       "images": [
@@ -128938,7 +129240,9 @@
           "name": "Synchro-Fassung",
           "position": 1,
           "values": [
-            "Originalfassung mit deutschen Untertiteln (OmU)"
+            "Japanische & Deutsche Fassung (OmU & DE)",
+            "Originalfassung mit deutschen Untertiteln (OmU)",
+            "Deutsche Fassung (DE)"
           ]
         }
       ]
