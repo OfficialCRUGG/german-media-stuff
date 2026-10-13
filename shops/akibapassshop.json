@@ -49712,8 +49712,8 @@
       "variants": [
         {
           "id": 51542053978376,
-          "title": "Default Title",
-          "option1": "Default Title",
+          "title": "Originalfassung mit deutschen Untertiteln (OmU)",
+          "option1": "Originalfassung mit deutschen Untertiteln (OmU)",
           "option2": null,
           "option3": null,
           "sku": "22d036-omu",
@@ -49743,10 +49743,10 @@
       ],
       "options": [
         {
-          "name": "Title",
+          "name": "Synchro-Fassung",
           "position": 1,
           "values": [
-            "Default Title"
+            "Originalfassung mit deutschen Untertiteln (OmU)"
           ]
         }
       ]
@@ -49766,8 +49766,8 @@
       "variants": [
         {
           "id": 51542054240520,
-          "title": "Default Title",
-          "option1": "Default Title",
+          "title": "Originalfassung mit deutschen Untertiteln (OmU)",
+          "option1": "Originalfassung mit deutschen Untertiteln (OmU)",
           "option2": null,
           "option3": null,
           "sku": "22d038-omu",
@@ -49797,10 +49797,10 @@
       ],
       "options": [
         {
-          "name": "Title",
+          "name": "Synchro-Fassung",
           "position": 1,
           "values": [
-            "Default Title"
+            "Originalfassung mit deutschen Untertiteln (OmU)"
           ]
         }
       ]
@@ -49874,8 +49874,8 @@
       "variants": [
         {
           "id": 51542054306056,
-          "title": "Default Title",
-          "option1": "Default Title",
+          "title": "Originalfassung mit deutschen Untertiteln (OmU)",
+          "option1": "Originalfassung mit deutschen Untertiteln (OmU)",
           "option2": null,
           "option3": null,
           "sku": "22d040-omu",
@@ -49905,10 +49905,10 @@
       ],
       "options": [
         {
-          "name": "Title",
+          "name": "Synchro-Fassung",
           "position": 1,
           "values": [
-            "Default Title"
+            "Originalfassung mit deutschen Untertiteln (OmU)"
           ]
         }
       ]
@@ -65980,8 +65980,8 @@
       "variants": [
         {
           "id": 51542418587912,
-          "title": "Default Title",
-          "option1": "Default Title",
+          "title": "Originalfassung mit deutschen Untertiteln (OmU)",
+          "option1": "Originalfassung mit deutschen Untertiteln (OmU)",
           "option2": null,
           "option3": null,
           "sku": "23d083-omu",
@@ -66011,10 +66011,10 @@
       ],
       "options": [
         {
-          "name": "Title",
+          "name": "Synchro-Fassung",
           "position": 1,
           "values": [
-            "Default Title"
+            "Originalfassung mit deutschen Untertiteln (OmU)"
           ]
         }
       ]
@@ -100219,8 +100219,8 @@
       "variants": [
         {
           "id": 51542434218248,
-          "title": "Default Title",
-          "option1": "Default Title",
+          "title": "Originalfassung mit deutschen Untertiteln (OmU)",
+          "option1": "Originalfassung mit deutschen Untertiteln (OmU)",
           "option2": null,
           "option3": null,
           "sku": "24d002-omu",
@@ -100250,10 +100250,10 @@
       ],
       "options": [
         {
-          "name": "Title",
+          "name": "Synchro-Fassung",
           "position": 1,
           "values": [
-            "Default Title"
+            "Originalfassung mit deutschen Untertiteln (OmU)"
           ]
         }
       ]
@@ -101116,7 +101116,7 @@
           "available": true,
           "price": "20.00",
           "grams": 0,
-          "compare_at_price": null,
+          "compare_at_price": "0.00",
           "position": 1,
           "product_id": 10261458977032,
           "created_at": "2026-10-08T16:29:28+02:00"
@@ -101134,7 +101134,7 @@
           "available": true,
           "price": "30.00",
           "grams": 0,
-          "compare_at_price": null,
+          "compare_at_price": "0.00",
           "position": 2,
           "product_id": 10261458977032,
           "created_at": "2026-10-08T16:29:29+02:00"
@@ -158208,7 +158208,9 @@
       "created_at": "2026-08-06T11:40:49+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:ArtikelstatusAktiv"
+      ],
       "variants": [
         {
           "id": 58378577608968,
@@ -158222,7 +158224,7 @@
           "featured_image": null,
           "available": true,
           "price": "39.90",
-          "grams": 0,
+          "grams": 250,
           "compare_at_price": "39.00",
           "position": 1,
           "product_id": 12155591131400,
