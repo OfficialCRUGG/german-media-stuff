@@ -128795,8 +128795,8 @@
       "variants": [
         {
           "id": 51543343268104,
-          "title": "Default Title",
-          "option1": "Default Title",
+          "title": "Originalfassung mit deutschen Untertiteln (OmU)",
+          "option1": "Originalfassung mit deutschen Untertiteln (OmU)",
           "option2": null,
           "option3": null,
           "sku": "25d003-omu",
@@ -128826,10 +128826,10 @@
       ],
       "options": [
         {
-          "name": "Title",
+          "name": "Synchro-Fassung",
           "position": 1,
           "values": [
-            "Default Title"
+            "Originalfassung mit deutschen Untertiteln (OmU)"
           ]
         }
       ]
@@ -128849,8 +128849,8 @@
       "variants": [
         {
           "id": 51543343333640,
-          "title": "Default Title",
-          "option1": "Default Title",
+          "title": "Originalfassung mit deutschen Untertiteln (OmU)",
+          "option1": "Originalfassung mit deutschen Untertiteln (OmU)",
           "option2": null,
           "option3": null,
           "sku": "25d004-omu",
@@ -128880,10 +128880,10 @@
       ],
       "options": [
         {
-          "name": "Title",
+          "name": "Synchro-Fassung",
           "position": 1,
           "values": [
-            "Default Title"
+            "Originalfassung mit deutschen Untertiteln (OmU)"
           ]
         }
       ]
@@ -128904,8 +128904,8 @@
       "variants": [
         {
           "id": 51543343399176,
-          "title": "Default Title",
-          "option1": "Default Title",
+          "title": "Originalfassung mit deutschen Untertiteln (OmU)",
+          "option1": "Originalfassung mit deutschen Untertiteln (OmU)",
           "option2": null,
           "option3": null,
           "sku": "25d005-omu",
@@ -128935,10 +128935,10 @@
       ],
       "options": [
         {
-          "name": "Title",
+          "name": "Synchro-Fassung",
           "position": 1,
           "values": [
-            "Default Title"
+            "Originalfassung mit deutschen Untertiteln (OmU)"
           ]
         }
       ]
