@@ -159452,12 +159452,42 @@
       ],
       "images": [
         {
-          "id": 86519566762248,
-          "created_at": "2026-08-26T12:30:58+02:00",
+          "id": 87686892421384,
+          "created_at": "2026-10-13T10:10:25+02:00",
           "position": 1,
           "product_id": 12205911998728,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/detektiv-conan-tv-serie-box-1-30th-anniversary-edition-blu-ray-251.webp?v=1787740258",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017545978_DetectiveConan_Box1_BD.png?v=1791879030",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87686893011208,
+          "created_at": "2026-10-13T10:10:29+02:00",
+          "position": 2,
+          "product_id": 12205911998728,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017545978_DetectiveConan_Box1_BD_Complete.png?v=1791879035",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87686893338888,
+          "created_at": "2026-10-13T10:10:31+02:00",
+          "position": 3,
+          "product_id": 12205911998728,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017545978_DetectiveConan_Box1_BD_Back.png?v=1791879037",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87686893994248,
+          "created_at": "2026-10-13T10:10:33+02:00",
+          "position": 4,
+          "product_id": 12205911998728,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017545978_DetectiveConan_Box1_BD_Front.png?v=1791879038",
           "width": 2500,
           "height": 2500
         }
@@ -159503,12 +159533,42 @@
       ],
       "images": [
         {
-          "id": 86519518200072,
-          "created_at": "2026-08-26T12:26:40+02:00",
+          "id": 87686884720904,
+          "created_at": "2026-10-13T10:09:38+02:00",
           "position": 1,
           "product_id": 12205914521864,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/detektiv-conan-tv-serie-box-1-30th-anniversary-edition-dvd-standard-538.webp?v=1787740000",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017546005_DetectiveConan_Box1_DVD.png?v=1791878983",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87686884983048,
+          "created_at": "2026-10-13T10:09:40+02:00",
+          "position": 2,
+          "product_id": 12205914521864,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017546005_DetectiveConan_Box1_DVD_Complete.png?v=1791878986",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87686885114120,
+          "created_at": "2026-10-13T10:09:45+02:00",
+          "position": 3,
+          "product_id": 12205914521864,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017546005_DetectiveConan_Box1_DVD_Back.png?v=1791878990",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87686885081352,
+          "created_at": "2026-10-13T10:09:43+02:00",
+          "position": 4,
+          "product_id": 12205914521864,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017546005_DetectiveConan_Box1_DVD_Front.png?v=1791878988",
           "width": 2500,
           "height": 2500
         }
