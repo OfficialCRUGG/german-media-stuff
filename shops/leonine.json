@@ -10014,29 +10014,9 @@
       ],
       "images": [
         {
-          "id": 37991522336821,
-          "created_at": "2026-04-17T11:10:24+02:00",
-          "position": 1,
-          "product_id": 8112801775669,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229453516_01.jpg?v=1776417026",
-          "width": 1500,
-          "height": 1915
-        },
-        {
-          "id": 37991522828341,
-          "created_at": "2026-04-17T11:10:31+02:00",
-          "position": 2,
-          "product_id": 8112801775669,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229453516_02.jpg?v=1776417033",
-          "width": 1172,
-          "height": 1680
-        },
-        {
           "id": 38600720613429,
           "created_at": "2026-08-07T10:13:15+02:00",
-          "position": 3,
+          "position": 1,
           "product_id": 8112801775669,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/deadfwinterbd2dpackshotrgbjpg-215525.jpg?v=1786090396",
@@ -10046,7 +10026,7 @@
         {
           "id": 38600720744501,
           "created_at": "2026-08-07T10:13:19+02:00",
-          "position": 4,
+          "position": 2,
           "product_id": 8112801775669,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/deadfwinterbd3dpackshotrgbjpg-215563.jpg?v=1786090401",
@@ -17099,29 +17079,9 @@
       ],
       "images": [
         {
-          "id": 38096505536565,
-          "created_at": "2026-05-11T13:25:27+02:00",
-          "position": 1,
-          "product_id": 8114591760437,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229462105_01.jpg?v=1778498729",
-          "width": 1536,
-          "height": 2162
-        },
-        {
-          "id": 38096505569333,
-          "created_at": "2026-05-11T13:25:27+02:00",
-          "position": 2,
-          "product_id": 8114591760437,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229462105_02.jpg?v=1778498728",
-          "width": 1200,
-          "height": 1879
-        },
-        {
           "id": 38600765538357,
           "created_at": "2026-08-07T10:31:05+02:00",
-          "position": 3,
+          "position": 1,
           "product_id": 8114591760437,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/einmuenchnerimhimmeldvd2d-packshotjpg-215614.jpg?v=1786091467",
@@ -17131,7 +17091,7 @@
         {
           "id": 38600765702197,
           "created_at": "2026-08-07T10:31:10+02:00",
-          "position": 4,
+          "position": 2,
           "product_id": 8114591760437,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/einmuenchnerimhimmeldvd3d-packshotjpg-215653.jpg?v=1786091471",
@@ -17184,29 +17144,9 @@
       ],
       "images": [
         {
-          "id": 38096516808757,
-          "created_at": "2026-05-11T13:33:04+02:00",
-          "position": 1,
-          "product_id": 8114591793205,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229462112_01.jpg?v=1778499186",
-          "width": 1500,
-          "height": 1915
-        },
-        {
-          "id": 38096516841525,
-          "created_at": "2026-05-11T13:33:04+02:00",
-          "position": 2,
-          "product_id": 8114591793205,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229462112_02.jpg?v=1778499186",
-          "width": 1172,
-          "height": 1680
-        },
-        {
           "id": 38600765931573,
           "created_at": "2026-08-07T10:31:15+02:00",
-          "position": 3,
+          "position": 1,
           "product_id": 8114591793205,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/einmuenchnerimhimmelbd2dpackshotjpg-215702.jpg?v=1786091477",
@@ -17216,7 +17156,7 @@
         {
           "id": 38600766160949,
           "created_at": "2026-08-07T10:31:20+02:00",
-          "position": 4,
+          "position": 2,
           "product_id": 8114591793205,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/einmuenchnerimhimmelbd3dpackshotjpg-215741.jpg?v=1786091482",
@@ -30033,29 +29973,9 @@
       ],
       "images": [
         {
-          "id": 38139759755317,
-          "created_at": "2026-05-19T07:17:28+02:00",
-          "position": 1,
-          "product_id": 8114583896117,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229558310_01.jpg?v=1779167849",
-          "width": 1500,
-          "height": 1915
-        },
-        {
-          "id": 38139759722549,
-          "created_at": "2026-05-19T07:17:28+02:00",
-          "position": 2,
-          "product_id": 8114583896117,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229558310_02.jpg?v=1779167849",
-          "width": 1172,
-          "height": 1680
-        },
-        {
           "id": 38600765210677,
           "created_at": "2026-08-07T10:30:56+02:00",
-          "position": 3,
+          "position": 1,
           "product_id": 8114583896117,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/mothermarybd2ddiginiujpg-215790.jpg?v=1786091458",
@@ -30065,7 +29985,7 @@
         {
           "id": 38600765374517,
           "created_at": "2026-08-07T10:31:00+02:00",
-          "position": 4,
+          "position": 2,
           "product_id": 8114583896117,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/mothermarybd3ddiginiujpg-215829.jpg?v=1786091461",
@@ -42251,29 +42171,9 @@
       ],
       "images": [
         {
-          "id": 37991527776309,
-          "created_at": "2026-04-17T11:11:24+02:00",
-          "position": 1,
-          "product_id": 8112803610677,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229558419_01.jpg?v=1776417086",
-          "width": 1500,
-          "height": 1915
-        },
-        {
-          "id": 37991528431669,
-          "created_at": "2026-04-17T11:11:32+02:00",
-          "position": 2,
-          "product_id": 8112803610677,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229558419_02.jpg?v=1776417094",
-          "width": 1172,
-          "height": 1680
-        },
-        {
           "id": 38600720842805,
           "created_at": "2026-08-07T10:13:24+02:00",
-          "position": 3,
+          "position": 1,
           "product_id": 8112803610677,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/dramanochmalaufanfangdasbd2ddiginiujpg-215431.jpg?v=1786090405",
@@ -42283,7 +42183,7 @@
         {
           "id": 38600720973877,
           "created_at": "2026-08-07T10:13:27+02:00",
-          "position": 4,
+          "position": 2,
           "product_id": 8112803610677,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/dramanochmalaufanfangdasbd3ddiginiujpg-215481.jpg?v=1786090409",
