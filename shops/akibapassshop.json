@@ -145378,59 +145378,6 @@
       ]
     },
     {
-      "id": 10538651943176,
-      "title": "Lord of the Mysteries - Mousepad (30x70cm)",
-      "handle": "25sam105-lord-of-the-mysteries-mousepad",
-      "published_at": "2025-10-01T10:10:45+02:00",
-      "created_at": "2025-10-01T09:10:50+02:00",
-      "vendor": "Sakami Merchandise",
-      "product_type": "",
-      "tags": [
-        "Online"
-      ],
-      "variants": [
-        {
-          "id": 52539627831560,
-          "title": "Default Title",
-          "option1": "Default Title",
-          "option2": null,
-          "option3": null,
-          "sku": "25sam105",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": null,
-          "available": false,
-          "price": "24.90",
-          "grams": 0,
-          "compare_at_price": "24.90",
-          "position": 1,
-          "product_id": 10538651943176,
-          "created_at": "2025-10-01T09:10:50+02:00"
-        }
-      ],
-      "images": [
-        {
-          "id": 73480479572232,
-          "created_at": "2025-10-16T12:39:35+02:00",
-          "position": 1,
-          "product_id": 10538651943176,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/lord-of-the-mysteries-mousepad-30x70cm-sakami-merchandise-mousepads-104.webp?v=1769047100",
-          "width": 2500,
-          "height": 2500
-        }
-      ],
-      "options": [
-        {
-          "name": "Title",
-          "position": 1,
-          "values": [
-            "Default Title"
-          ]
-        }
-      ]
-    },
-    {
       "id": 10538651975944,
       "title": "Dan Da Dan  - Ghosts, Aliens & Homework - Wallscroll (60x90cm)",
       "handle": "25sam106-dandadan-ghosts-aliens-homework-wallscroll",
