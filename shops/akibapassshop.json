@@ -162171,12 +162171,12 @@
       ],
       "images": [
         {
-          "id": 87461337661704,
-          "created_at": "2026-10-08T15:44:34+02:00",
+          "id": 87709556998408,
+          "created_at": "2026-10-14T11:59:11+02:00",
           "position": 1,
           "product_id": 12332157665544,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dragonball-z-movies-box-vol-2-blu-ray-standard-edition-175.webp?v=1791467074",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017545039_DragonBallZ_Moviebox2_BD_v1.png?v=1791971955",
           "width": 2500,
           "height": 2500
         },
@@ -162187,6 +162187,16 @@
           "product_id": 12332157665544,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dragonball-z-movies-box-vol-2-blu-ray-standard-edition-crunchyroll-241.webp?v=1791537556",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87461337661704,
+          "created_at": "2026-10-08T15:44:34+02:00",
+          "position": 3,
+          "product_id": 12332157665544,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dragonball-z-movies-box-vol-2-blu-ray-standard-edition-175.webp?v=1791467074",
           "width": 2500,
           "height": 2500
         }
@@ -162232,12 +162242,12 @@
       ],
       "images": [
         {
-          "id": 87461341430024,
-          "created_at": "2026-10-08T15:44:47+02:00",
+          "id": 87709558309128,
+          "created_at": "2026-10-14T11:59:28+02:00",
           "position": 1,
           "product_id": 12332157862152,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dragonball-z-movies-box-vol-2-dvd-standard-edition-film-fernseh-351.webp?v=1791467087",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/7630017545060_DragonBallZ_Moviebox2_DVD_v1.png?v=1791971973",
           "width": 2500,
           "height": 2500
         },
@@ -162248,6 +162258,16 @@
           "product_id": 12332157862152,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dragonball-z-movies-box-vol-2-dvd-standard-edition-crunchyroll-947.webp?v=1791537508",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 87461341430024,
+          "created_at": "2026-10-08T15:44:47+02:00",
+          "position": 3,
+          "product_id": 12332157862152,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dragonball-z-movies-box-vol-2-dvd-standard-edition-film-fernseh-351.webp?v=1791467087",
           "width": 2500,
           "height": 2500
         }
