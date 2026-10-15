@@ -158569,6 +158569,7 @@
       "product_type": "",
       "tags": [
         "Flow:ArtikelstatusAktiv",
+        "Flow:Nachlieferung",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -197868,7 +197869,6 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen",
         "Flow:Nachlieferung",
         "Flow:Releaseplan-Anime"
       ],
@@ -208436,6 +208436,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Flow:Nachlieferung",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
