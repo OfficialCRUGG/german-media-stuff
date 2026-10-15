@@ -119579,60 +119579,6 @@
       ]
     },
     {
-      "id": 10270976672008,
-      "title": "Gods' Games We Play - Gesamtausgabe (Blu-ray)",
-      "handle": "25cr154-gods-games-we-play-gesamtausgabe-bluray",
-      "published_at": "2025-05-30T19:06:49+02:00",
-      "created_at": "2025-05-30T18:20:19+02:00",
-      "vendor": "Crunchyroll",
-      "product_type": "",
-      "tags": [
-        "Flow:Releaseplan-Anime",
-        "Online"
-      ],
-      "variants": [
-        {
-          "id": 51568968728840,
-          "title": "Default Title",
-          "option1": "Default Title",
-          "option2": null,
-          "option3": null,
-          "sku": "25cr154",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": null,
-          "available": false,
-          "price": "69.90",
-          "grams": 0,
-          "compare_at_price": "69.90",
-          "position": 1,
-          "product_id": 10270976672008,
-          "created_at": "2025-05-30T18:20:20+02:00"
-        }
-      ],
-      "images": [
-        {
-          "id": 73958508724488,
-          "created_at": "2025-10-29T20:17:06+01:00",
-          "position": 1,
-          "product_id": 10270976672008,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/gods-games-we-play-gesamtausgabe-blu-ray-gesamtausgabe-crunchyroll-288.webp?v=1769041182",
-          "width": 2500,
-          "height": 2500
-        }
-      ],
-      "options": [
-        {
-          "name": "Title",
-          "position": 1,
-          "values": [
-            "Default Title"
-          ]
-        }
-      ]
-    },
-    {
       "id": 10270976770312,
       "title": "Mushoku Tensei: Jobless Reincarnation - Staffel 2 - Vol. 4 (Blu-ray)",
       "handle": "25cr155-mushoku-tensei-jobless-reincarnation-staffel-2-vol-4-bluray",
