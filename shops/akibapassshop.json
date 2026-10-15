@@ -197480,9 +197480,7 @@
       "created_at": "2026-08-06T10:27:43+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [
-        "Flow:ArtikelstatusAktiv"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 58377382789384,
@@ -197494,7 +197492,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "69.90",
           "grams": 348,
           "compare_at_price": "69.00",
