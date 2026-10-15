@@ -82593,6 +82593,7 @@
       "tags": [
         "Anime",
         "Crunchyroll",
+        "Flow:Releaseplan-Anime",
         "Online",
         "Shounen"
       ],
@@ -82677,6 +82678,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Anime",
         "Online"
       ],
       "variants": [
@@ -119585,6 +119587,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Anime",
         "Online"
       ],
       "variants": [
@@ -122175,6 +122178,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Anime",
         "Online"
       ],
       "variants": [
@@ -124558,6 +124562,7 @@
       "product_type": "",
       "tags": [
         "Flow:ArtikelstatusAktiv",
+        "Flow:Releaseplan-Anime",
         "Online"
       ],
       "variants": [
@@ -124642,6 +124647,7 @@
       "product_type": "",
       "tags": [
         "Flow:ArtikelstatusAktiv",
+        "Flow:Releaseplan-Anime",
         "Online"
       ],
       "variants": [
@@ -125863,6 +125869,7 @@
         "Action",
         "Anime",
         "Crunchyroll",
+        "Flow:Releaseplan-Anime",
         "Online"
       ],
       "variants": [
@@ -126323,6 +126330,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Anime",
         "Online"
       ],
       "variants": [
@@ -126396,6 +126404,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Anime",
         "Online"
       ],
       "variants": [
@@ -135359,6 +135368,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Anime",
         "Online"
       ],
       "variants": [
@@ -144816,6 +144826,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Merch",
         "Online"
       ],
       "variants": [
@@ -146710,6 +146721,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Merch",
         "Online"
       ],
       "variants": [
@@ -150072,6 +150084,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Merch",
         "Online"
       ],
       "variants": [
@@ -152358,6 +152371,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Merch",
         "Online"
       ],
       "variants": [
@@ -153626,6 +153640,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Anime",
         "Online"
       ],
       "variants": [
@@ -157587,7 +157602,9 @@
       "created_at": "2026-07-07T11:36:52+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58173151117576,
@@ -157638,7 +157655,9 @@
       "created_at": "2026-07-07T12:59:01+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58174840733960,
@@ -157690,6 +157709,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Anime",
         "Highlight"
       ],
       "variants": [
@@ -157874,7 +157894,9 @@
       "created_at": "2026-07-07T12:14:54+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58173633691912,
@@ -158028,7 +158050,9 @@
       "created_at": "2026-07-07T12:55:24+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58174701633800,
@@ -158079,7 +158103,9 @@
       "created_at": "2026-07-07T12:55:09+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58174697308424,
@@ -158130,7 +158156,9 @@
       "created_at": "2026-07-07T12:54:38+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58174677287176,
@@ -158181,7 +158209,9 @@
       "created_at": "2026-07-07T12:54:28+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58174669521160,
@@ -158304,7 +158334,8 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv"
+        "Flow:ArtikelstatusAktiv",
+        "Flow:Releaseplan-Anime"
       ],
       "variants": [
         {
@@ -158356,7 +158387,9 @@
       "created_at": "2026-08-06T11:30:08+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58378519904520,
@@ -158408,7 +158441,8 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv"
+        "Flow:ArtikelstatusAktiv",
+        "Flow:Releaseplan-Anime"
       ],
       "variants": [
         {
@@ -158461,7 +158495,8 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv"
+        "Flow:ArtikelstatusAktiv",
+        "Flow:Releaseplan-Anime"
       ],
       "variants": [
         {
@@ -158513,7 +158548,9 @@
       "created_at": "2026-08-06T11:47:43+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58378632167688,
@@ -158585,7 +158622,8 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv"
+        "Flow:ArtikelstatusAktiv",
+        "Flow:Releaseplan-Anime"
       ],
       "variants": [
         {
@@ -158637,7 +158675,9 @@
       "created_at": "2026-08-06T11:58:46+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58378733093128,
@@ -158709,7 +158749,8 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv"
+        "Flow:ArtikelstatusAktiv",
+        "Flow:Releaseplan-Anime"
       ],
       "variants": [
         {
@@ -158761,7 +158802,9 @@
       "created_at": "2026-08-06T12:12:27+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58378837983496,
@@ -158812,7 +158855,9 @@
       "created_at": "2026-08-06T12:15:12+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58378840801544,
@@ -158863,7 +158908,9 @@
       "created_at": "2026-08-06T12:16:43+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58378843521288,
@@ -158914,7 +158961,9 @@
       "created_at": "2026-08-25T17:14:56+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58536244412680,
@@ -158995,7 +159044,9 @@
       "created_at": "2026-08-25T17:15:10+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58536245821704,
@@ -159066,7 +159117,9 @@
       "created_at": "2026-08-25T17:13:25+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58536231076104,
@@ -159147,7 +159200,9 @@
       "created_at": "2026-08-25T17:13:11+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58536229961992,
@@ -159218,7 +159273,9 @@
       "created_at": "2026-08-25T17:13:43+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58536232616200,
@@ -159269,7 +159326,9 @@
       "created_at": "2026-08-25T17:16:56+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58536254112008,
@@ -159340,7 +159399,9 @@
       "created_at": "2026-08-25T17:17:17+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58536255947016,
@@ -159411,7 +159472,9 @@
       "created_at": "2026-08-25T17:16:46+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58536253260040,
@@ -159482,7 +159545,9 @@
       "created_at": "2026-08-25T17:14:14+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58536236613896,
@@ -159533,7 +159598,9 @@
       "created_at": "2026-08-25T17:17:39+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58536258371848,
@@ -159604,7 +159671,9 @@
       "created_at": "2026-08-25T17:17:48+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58536259879176,
@@ -159685,7 +159754,9 @@
       "created_at": "2026-08-25T17:18:40+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58536262598920,
@@ -159766,7 +159837,9 @@
       "created_at": "2026-08-25T17:19:58+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58536270266632,
@@ -159847,7 +159920,9 @@
       "created_at": "2026-08-25T17:19:50+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58536269971720,
@@ -159918,7 +159993,9 @@
       "created_at": "2026-08-25T17:12:41+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58536227078408,
@@ -159969,7 +160046,9 @@
       "created_at": "2026-08-25T17:11:55+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58536217018632,
@@ -160040,7 +160119,9 @@
       "created_at": "2026-08-25T17:12:09+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58536219705608,
@@ -160121,7 +160202,9 @@
       "created_at": "2026-08-25T17:12:40+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58536227045640,
@@ -160172,7 +160255,9 @@
       "created_at": "2026-08-25T17:14:39+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58536242774280,
@@ -160243,7 +160328,9 @@
       "created_at": "2026-08-25T17:14:12+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58536236417288,
@@ -160324,7 +160411,9 @@
       "created_at": "2026-08-25T17:15:53+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58536251261192,
@@ -160405,7 +160494,9 @@
       "created_at": "2026-08-25T17:15:58+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58536251490568,
@@ -160476,7 +160567,9 @@
       "created_at": "2026-08-25T17:18:32+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58536262336776,
@@ -160547,7 +160640,9 @@
       "created_at": "2026-08-25T17:19:25+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58536268890376,
@@ -160618,7 +160713,9 @@
       "created_at": "2026-08-25T18:06:24+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58536559575304,
@@ -160689,7 +160786,9 @@
       "created_at": "2026-08-25T17:19:40+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58536269611272,
@@ -160760,7 +160859,9 @@
       "created_at": "2026-08-25T17:20:20+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58536271413512,
@@ -160841,7 +160942,9 @@
       "created_at": "2026-08-25T17:20:47+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58536273969416,
@@ -160892,7 +160995,9 @@
       "created_at": "2026-08-25T17:21:14+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58536279539976,
@@ -160953,7 +161058,9 @@
       "created_at": "2026-08-25T17:20:47+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58536274166024,
@@ -161034,7 +161141,9 @@
       "created_at": "2026-09-22T10:08:27+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58829076627720,
@@ -161105,7 +161214,9 @@
       "created_at": "2026-09-29T12:28:53+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58916163649800,
@@ -161176,7 +161287,9 @@
       "created_at": "2026-09-29T12:28:52+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58916163617032,
@@ -161247,7 +161360,9 @@
       "created_at": "2026-10-02T15:48:54+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58956051349768,
@@ -161328,7 +161443,9 @@
       "created_at": "2026-10-02T15:48:52+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58956051120392,
@@ -161409,7 +161526,9 @@
       "created_at": "2026-10-02T16:07:46+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58956256051464,
@@ -161490,7 +161609,9 @@
       "created_at": "2026-10-02T16:07:46+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58956256084232,
@@ -161571,7 +161692,9 @@
       "created_at": "2026-10-02T16:07:44+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58956255953160,
@@ -161652,7 +161775,9 @@
       "created_at": "2026-10-02T16:07:46+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58956256149768,
@@ -161733,7 +161858,9 @@
       "created_at": "2026-10-02T16:07:44+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58956255920392,
@@ -161814,7 +161941,9 @@
       "created_at": "2026-10-02T16:07:45+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58956256018696,
@@ -161895,7 +162024,9 @@
       "created_at": "2026-10-08T14:30:06+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59030341419272,
@@ -161966,7 +162097,9 @@
       "created_at": "2026-10-08T14:30:06+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59030341550344,
@@ -162047,7 +162180,9 @@
       "created_at": "2026-10-08T14:30:07+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59030341681416,
@@ -162098,7 +162233,9 @@
       "created_at": "2026-10-08T14:30:13+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59030342107400,
@@ -162169,7 +162306,9 @@
       "created_at": "2026-10-08T14:30:18+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59030342926600,
@@ -162240,7 +162379,9 @@
       "created_at": "2026-10-08T14:30:16+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59030342861064,
@@ -162771,7 +162912,9 @@
       "created_at": "2026-10-08T14:30:22+02:00",
       "vendor": "Film Confect",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59030343155976,
@@ -162822,7 +162965,9 @@
       "created_at": "2026-10-08T14:30:22+02:00",
       "vendor": "Film Confect",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59030343123208,
@@ -163388,7 +163533,9 @@
       "created_at": "2026-09-08T15:38:20+02:00",
       "vendor": "Hardball Films",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58653476389128,
@@ -163439,7 +163586,9 @@
       "created_at": "2026-09-08T13:21:28+02:00",
       "vendor": "Hardball Films",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58649536594184,
@@ -163490,7 +163639,9 @@
       "created_at": "2026-10-08T14:30:04+02:00",
       "vendor": "Hardball Films",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59030341189896,
@@ -163541,7 +163692,9 @@
       "created_at": "2026-10-08T14:30:05+02:00",
       "vendor": "Hardball Films",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59030341222664,
@@ -163592,7 +163745,9 @@
       "created_at": "2026-10-08T14:30:11+02:00",
       "vendor": "Hardball Films",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59030342009096,
@@ -163643,7 +163798,9 @@
       "created_at": "2026-10-08T14:30:16+02:00",
       "vendor": "Hardball Films",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59030342893832,
@@ -163694,7 +163851,9 @@
       "created_at": "2026-10-08T14:30:20+02:00",
       "vendor": "Hardball Films",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59030343024904,
@@ -163745,7 +163904,9 @@
       "created_at": "2026-10-08T14:30:21+02:00",
       "vendor": "Hardball Films",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59030343057672,
@@ -163796,7 +163957,9 @@
       "created_at": "2026-10-08T14:30:19+02:00",
       "vendor": "Hardball Films",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59030342959368,
@@ -163954,6 +164117,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Anime",
         "Online"
       ],
       "variants": [
@@ -164166,6 +164330,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Anime",
         "Online"
       ],
       "variants": [
@@ -164219,6 +164384,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Anime",
         "Online"
       ],
       "variants": [
@@ -164694,6 +164860,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Anime",
         "Online"
       ],
       "variants": [
@@ -164747,6 +164914,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Anime",
         "Online"
       ],
       "variants": [
@@ -165041,7 +165209,9 @@
       "created_at": "2026-08-24T16:45:40+02:00",
       "vendor": "KSM Anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58524974219528,
@@ -165092,7 +165262,9 @@
       "created_at": "2026-08-24T16:44:00+02:00",
       "vendor": "KSM Anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58524957114632,
@@ -165143,7 +165315,9 @@
       "created_at": "2026-08-24T16:43:12+02:00",
       "vendor": "KSM Anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58524955934984,
@@ -165194,7 +165368,9 @@
       "created_at": "2026-08-24T16:41:32+02:00",
       "vendor": "KSM Anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58524923855112,
@@ -165245,7 +165421,9 @@
       "created_at": "2026-08-24T16:40:37+02:00",
       "vendor": "KSM Anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58524898361608,
@@ -165296,7 +165474,9 @@
       "created_at": "2026-08-24T16:40:22+02:00",
       "vendor": "KSM Anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58524898132232,
@@ -165347,7 +165527,9 @@
       "created_at": "2026-08-24T16:39:49+02:00",
       "vendor": "KSM Anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58524897378568,
@@ -165398,7 +165580,9 @@
       "created_at": "2026-08-24T17:26:47+02:00",
       "vendor": "KSM Anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58525251535112,
@@ -165449,7 +165633,9 @@
       "created_at": "2026-08-24T16:38:09+02:00",
       "vendor": "KSM Anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58524885909768,
@@ -165500,7 +165686,9 @@
       "created_at": "2026-08-24T16:36:27+02:00",
       "vendor": "KSM Anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58524879454472,
@@ -165551,7 +165739,9 @@
       "created_at": "2026-09-18T18:15:57+02:00",
       "vendor": "KSM Anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58786754003208,
@@ -165612,7 +165802,9 @@
       "created_at": "2026-09-18T18:51:37+02:00",
       "vendor": "KSM Anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58786861646088,
@@ -165673,7 +165865,9 @@
       "created_at": "2026-09-18T17:51:43+02:00",
       "vendor": "KSM Anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58786710520072,
@@ -165734,7 +165928,9 @@
       "created_at": "2026-09-18T18:37:07+02:00",
       "vendor": "KSM Anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58786839724296,
@@ -165795,7 +165991,9 @@
       "created_at": "2026-09-21T15:12:16+02:00",
       "vendor": "KSM Anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58820547838216,
@@ -170149,7 +170347,9 @@
       "created_at": "2026-09-03T15:42:07+02:00",
       "vendor": "Leonine Anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58600554430728,
@@ -171215,7 +171415,9 @@
       "created_at": "2026-09-24T15:24:49+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58863054160136,
@@ -171276,7 +171478,9 @@
       "created_at": "2026-09-24T15:24:49+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58863054225672,
@@ -171337,7 +171541,9 @@
       "created_at": "2026-09-24T15:24:48+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58863053963528,
@@ -171398,7 +171604,9 @@
       "created_at": "2026-09-24T15:24:48+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58863054127368,
@@ -171459,7 +171667,9 @@
       "created_at": "2026-09-24T15:24:49+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58863054192904,
@@ -174114,7 +174324,9 @@
       "created_at": "2026-09-21T09:28:56+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58817401585928,
@@ -175814,7 +176026,9 @@
       "created_at": "2026-09-30T15:24:24+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58936383176968,
@@ -175865,7 +176079,9 @@
       "created_at": "2026-09-30T15:24:59+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58936383504648,
@@ -175916,7 +176132,9 @@
       "created_at": "2026-10-08T14:30:03+02:00",
       "vendor": "Nipponart",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59030341124360,
@@ -175967,7 +176185,9 @@
       "created_at": "2026-10-08T14:30:05+02:00",
       "vendor": "Nipponart",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59030341255432,
@@ -176076,6 +176296,7 @@
       "tags": [
         "AnimagiC2025",
         "Dauersale",
+        "Flow:Releaseplan-Anime",
         "Online"
       ],
       "variants": [
@@ -176130,6 +176351,7 @@
       "product_type": "",
       "tags": [
         "AnimagiC2025",
+        "Flow:Releaseplan-Anime",
         "Online"
       ],
       "variants": [
@@ -176184,6 +176406,7 @@
       "product_type": "",
       "tags": [
         "AnimagiC2025",
+        "Flow:Releaseplan-Anime",
         "Online"
       ],
       "variants": [
@@ -176296,6 +176519,7 @@
         "AnimagiC2025",
         "Click&Collect",
         "Flow:ArtikelstatusAktiv",
+        "Flow:Releaseplan-Anime",
         "Online"
       ],
       "variants": [
@@ -176486,6 +176710,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Anime",
         "Online"
       ],
       "variants": [
@@ -176539,6 +176764,7 @@
       "vendor": "Fuji",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Anime",
         "Online"
       ],
       "variants": [
@@ -176834,6 +177060,7 @@
       "product_type": "",
       "tags": [
         "Click&Collect",
+        "Flow:Releaseplan-Anime",
         "Online"
       ],
       "variants": [
@@ -176888,6 +177115,7 @@
       "product_type": "",
       "tags": [
         "Click&Collect",
+        "Flow:Releaseplan-Anime",
         "Online"
       ],
       "variants": [
@@ -177275,6 +177503,7 @@
       "tags": [
         "Click&Collect",
         "Flow:ArtikelstatusAktiv",
+        "Flow:Releaseplan-Anime",
         "Online"
       ],
       "variants": [
@@ -177329,6 +177558,7 @@
       "product_type": "",
       "tags": [
         "Click&Collect",
+        "Flow:Releaseplan-Anime",
         "Online"
       ],
       "variants": [
@@ -177496,7 +177726,8 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen"
+        "Badge:Vorbestellen",
+        "Flow:Releaseplan-Anime"
       ],
       "variants": [
         {
@@ -177558,7 +177789,9 @@
       "created_at": "2026-08-06T12:29:39+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58378963714312,
@@ -177609,7 +177842,9 @@
       "created_at": "2026-08-06T12:26:28+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58378903421192,
@@ -178298,7 +178533,9 @@
       "created_at": "2026-10-08T17:11:57+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59031503962376,
@@ -178359,7 +178596,9 @@
       "created_at": "2026-10-08T17:41:56+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59031652532488,
@@ -180455,7 +180694,9 @@
       "created_at": "2026-09-02T18:14:47+02:00",
       "vendor": "polyband anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58595488629000,
@@ -180506,7 +180747,9 @@
       "created_at": "2026-09-02T18:14:42+02:00",
       "vendor": "polyband anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58595488563464,
@@ -180557,7 +180800,9 @@
       "created_at": "2026-09-02T18:14:14+02:00",
       "vendor": "polyband anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58595488170248,
@@ -180668,7 +180913,9 @@
       "created_at": "2026-09-02T18:15:23+02:00",
       "vendor": "polyband anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58595488891144,
@@ -180759,7 +181006,9 @@
       "created_at": "2026-09-29T12:28:54+02:00",
       "vendor": "polyband anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58916165484808,
@@ -180810,7 +181059,9 @@
       "created_at": "2026-09-29T12:28:53+02:00",
       "vendor": "polyband anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58916163682568,
@@ -180861,7 +181112,9 @@
       "created_at": "2026-10-09T11:44:47+02:00",
       "vendor": "polyband anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59048499151112,
@@ -183308,6 +183561,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Merch",
         "Online"
       ],
       "variants": [
@@ -183362,6 +183616,7 @@
       "product_type": "",
       "tags": [
         "Flow:ArtikelstatusAktiv",
+        "Flow:Releaseplan-Merch",
         "Online"
       ],
       "variants": [
@@ -183416,6 +183671,7 @@
       "product_type": "",
       "tags": [
         "Flow:ArtikelstatusAktiv",
+        "Flow:Releaseplan-Merch",
         "Online"
       ],
       "variants": [
@@ -183469,6 +183725,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Merch",
         "Online"
       ],
       "variants": [
@@ -183523,6 +183780,7 @@
       "product_type": "",
       "tags": [
         "Flow:ArtikelstatusAktiv",
+        "Flow:Releaseplan-Merch",
         "Online"
       ],
       "variants": [
@@ -183577,6 +183835,7 @@
       "product_type": "",
       "tags": [
         "Flow:ArtikelstatusAktiv",
+        "Flow:Releaseplan-Merch",
         "Online"
       ],
       "variants": [
@@ -183630,6 +183889,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Merch",
         "Online"
       ],
       "variants": [
@@ -183684,6 +183944,7 @@
       "product_type": "",
       "tags": [
         "Flow:ArtikelstatusAktiv",
+        "Flow:Releaseplan-Merch",
         "Online"
       ],
       "variants": [
@@ -183737,6 +183998,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Merch",
         "Online"
       ],
       "variants": [
@@ -183790,6 +184052,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Merch",
         "Online"
       ],
       "variants": [
@@ -183843,6 +184106,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Merch",
         "Online"
       ],
       "variants": [
@@ -183896,6 +184160,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Merch",
         "Online"
       ],
       "variants": [
@@ -183949,6 +184214,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Merch",
         "Online"
       ],
       "variants": [
@@ -184002,7 +184268,8 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv"
+        "Flow:ArtikelstatusAktiv",
+        "Flow:Releaseplan-Merch"
       ],
       "variants": [
         {
@@ -184054,7 +184321,9 @@
       "created_at": "2026-06-17T11:19:07+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58041944441096,
@@ -184105,7 +184374,9 @@
       "created_at": "2026-06-23T09:31:19+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58077247865096,
@@ -184236,7 +184507,9 @@
       "created_at": "2026-06-23T09:37:09+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58077268017416,
@@ -184357,7 +184630,9 @@
       "created_at": "2026-06-23T09:42:44+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58077289349384,
@@ -184428,7 +184703,9 @@
       "created_at": "2026-06-23T09:42:46+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58077289939208,
@@ -184539,7 +184816,9 @@
       "created_at": "2026-06-23T09:42:47+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58077290529032,
@@ -184660,7 +184939,9 @@
       "created_at": "2026-06-23T09:54:04+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58077812687112,
@@ -184791,7 +185072,9 @@
       "created_at": "2026-06-23T09:59:47+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58077921411336,
@@ -184912,7 +185195,9 @@
       "created_at": "2026-06-23T09:59:48+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58077921476872,
@@ -185135,7 +185420,9 @@
       "created_at": "2026-07-27T15:59:07+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58312300462344,
@@ -185206,7 +185493,9 @@
       "created_at": "2026-07-27T16:07:20+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58312355578120,
@@ -185277,7 +185566,9 @@
       "created_at": "2026-07-27T15:58:01+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58312298135816,
@@ -185348,7 +185639,9 @@
       "created_at": "2026-08-06T11:10:20+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58378100506888,
@@ -185479,7 +185772,9 @@
       "created_at": "2026-08-06T14:20:09+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58380065702152,
@@ -185623,6 +185918,7 @@
       "product_type": "",
       "tags": [
         "Badge:Vorbestellen",
+        "Flow:Releaseplan-Merch",
         "warenpost"
       ],
       "variants": [
@@ -185677,6 +185973,7 @@
       "product_type": "",
       "tags": [
         "Badge:Vorbestellen",
+        "Flow:Releaseplan-Merch",
         "warenpost"
       ],
       "variants": [
@@ -185730,6 +186027,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Merch",
         "warenpost"
       ],
       "variants": [
@@ -185784,6 +186082,7 @@
       "product_type": "",
       "tags": [
         "Badge:Vorbestellen",
+        "Flow:Releaseplan-Merch",
         "warenpost"
       ],
       "variants": [
@@ -185838,6 +186137,7 @@
       "product_type": "",
       "tags": [
         "Badge:Vorbestellen",
+        "Flow:Releaseplan-Merch",
         "warenpost"
       ],
       "variants": [
@@ -185902,6 +186202,7 @@
       "product_type": "",
       "tags": [
         "Badge:Vorbestellen",
+        "Flow:Releaseplan-Merch",
         "warenpost"
       ],
       "variants": [
@@ -185965,6 +186266,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Merch",
         "warenpost"
       ],
       "variants": [
@@ -186029,6 +186331,7 @@
       "product_type": "",
       "tags": [
         "Badge:Vorbestellen",
+        "Flow:Releaseplan-Merch",
         "warenpost"
       ],
       "variants": [
@@ -186093,6 +186396,7 @@
       "product_type": "",
       "tags": [
         "Badge:Vorbestellen",
+        "Flow:Releaseplan-Merch",
         "warenpost"
       ],
       "variants": [
@@ -186157,6 +186461,7 @@
       "product_type": "",
       "tags": [
         "Badge:Vorbestellen",
+        "Flow:Releaseplan-Merch",
         "warenpost"
       ],
       "variants": [
@@ -186220,6 +186525,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Merch",
         "warenpost"
       ],
       "variants": [
@@ -186283,6 +186589,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Merch",
         "warenpost"
       ],
       "variants": [
@@ -186346,6 +186653,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Merch",
         "warenpost"
       ],
       "variants": [
@@ -186409,6 +186717,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Merch",
         "warenpost"
       ],
       "variants": [
@@ -186472,6 +186781,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Merch",
         "warenpost"
       ],
       "variants": [
@@ -186535,6 +186845,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Merch",
         "warenpost"
       ],
       "variants": [
@@ -186599,6 +186910,7 @@
       "product_type": "",
       "tags": [
         "Badge:Vorbestellen",
+        "Flow:Releaseplan-Merch",
         "warenpost"
       ],
       "variants": [
@@ -186663,6 +186975,7 @@
       "product_type": "",
       "tags": [
         "Badge:Vorbestellen",
+        "Flow:Releaseplan-Merch",
         "warenpost"
       ],
       "variants": [
@@ -186726,6 +187039,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Merch",
         "warenpost"
       ],
       "variants": [
@@ -186790,6 +187104,7 @@
       "product_type": "",
       "tags": [
         "Badge:Vorbestellen",
+        "Flow:Releaseplan-Merch",
         "warenpost"
       ],
       "variants": [
@@ -186854,6 +187169,7 @@
       "product_type": "",
       "tags": [
         "Badge:Vorbestellen",
+        "Flow:Releaseplan-Merch",
         "warenpost"
       ],
       "variants": [
@@ -186918,6 +187234,7 @@
       "product_type": "",
       "tags": [
         "Badge:Vorbestellen",
+        "Flow:Releaseplan-Merch",
         "warenpost"
       ],
       "variants": [
@@ -186980,7 +187297,9 @@
       "created_at": "2026-08-26T15:03:48+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58549967126792,
@@ -187062,7 +187381,8 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen"
+        "Badge:Vorbestellen",
+        "Flow:Releaseplan-Merch"
       ],
       "variants": [
         {
@@ -187185,7 +187505,8 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen"
+        "Badge:Vorbestellen",
+        "Flow:Releaseplan-Merch"
       ],
       "variants": [
         {
@@ -187297,7 +187618,9 @@
       "created_at": "2026-08-26T15:03:57+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58549967716616,
@@ -187348,7 +187671,9 @@
       "created_at": "2026-08-26T15:04:54+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58549972992264,
@@ -187490,7 +187815,9 @@
       "created_at": "2026-08-26T15:05:52+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58549977678088,
@@ -187612,7 +187939,8 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen"
+        "Badge:Vorbestellen",
+        "Flow:Releaseplan-Merch"
       ],
       "variants": [
         {
@@ -187745,7 +188073,8 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen"
+        "Badge:Vorbestellen",
+        "Flow:Releaseplan-Merch"
       ],
       "variants": [
         {
@@ -187878,7 +188207,8 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen"
+        "Badge:Vorbestellen",
+        "Flow:Releaseplan-Merch"
       ],
       "variants": [
         {
@@ -188021,7 +188351,8 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen"
+        "Badge:Vorbestellen",
+        "Flow:Releaseplan-Merch"
       ],
       "variants": [
         {
@@ -188164,7 +188495,8 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen"
+        "Badge:Vorbestellen",
+        "Flow:Releaseplan-Merch"
       ],
       "variants": [
         {
@@ -188267,7 +188599,8 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen"
+        "Badge:Vorbestellen",
+        "Flow:Releaseplan-Merch"
       ],
       "variants": [
         {
@@ -188370,7 +188703,8 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen"
+        "Badge:Vorbestellen",
+        "Flow:Releaseplan-Merch"
       ],
       "variants": [
         {
@@ -188473,7 +188807,8 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen"
+        "Badge:Vorbestellen",
+        "Flow:Releaseplan-Merch"
       ],
       "variants": [
         {
@@ -188575,7 +188910,9 @@
       "created_at": "2026-09-15T15:56:39+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58746723664136,
@@ -188626,7 +188963,9 @@
       "created_at": "2026-09-15T15:56:56+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58746725040392,
@@ -188677,7 +189016,9 @@
       "created_at": "2026-09-15T15:58:14+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58746731888904,
@@ -188758,7 +189099,9 @@
       "created_at": "2026-09-15T15:57:34+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58746726744328,
@@ -188819,7 +189162,9 @@
       "created_at": "2026-09-15T15:58:53+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58746738147592,
@@ -188941,7 +189286,8 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen"
+        "Badge:Vorbestellen",
+        "Flow:Releaseplan-Merch"
       ],
       "variants": [
         {
@@ -188994,7 +189340,8 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen"
+        "Badge:Vorbestellen",
+        "Flow:Releaseplan-Merch"
       ],
       "variants": [
         {
@@ -189047,7 +189394,8 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen"
+        "Badge:Vorbestellen",
+        "Flow:Releaseplan-Merch"
       ],
       "variants": [
         {
@@ -189100,7 +189448,8 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen"
+        "Badge:Vorbestellen",
+        "Flow:Releaseplan-Merch"
       ],
       "variants": [
         {
@@ -189153,7 +189502,8 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen"
+        "Badge:Vorbestellen",
+        "Flow:Releaseplan-Merch"
       ],
       "variants": [
         {
@@ -189206,7 +189556,8 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen"
+        "Badge:Vorbestellen",
+        "Flow:Releaseplan-Merch"
       ],
       "variants": [
         {
@@ -189259,7 +189610,8 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen"
+        "Badge:Vorbestellen",
+        "Flow:Releaseplan-Merch"
       ],
       "variants": [
         {
@@ -189312,7 +189664,8 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen"
+        "Badge:Vorbestellen",
+        "Flow:Releaseplan-Merch"
       ],
       "variants": [
         {
@@ -189365,7 +189718,8 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen"
+        "Badge:Vorbestellen",
+        "Flow:Releaseplan-Merch"
       ],
       "variants": [
         {
@@ -189418,7 +189772,8 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen"
+        "Badge:Vorbestellen",
+        "Flow:Releaseplan-Merch"
       ],
       "variants": [
         {
@@ -189471,7 +189826,8 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen"
+        "Badge:Vorbestellen",
+        "Flow:Releaseplan-Merch"
       ],
       "variants": [
         {
@@ -189533,7 +189889,9 @@
       "created_at": "2026-10-08T16:29:26+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 59031206691080,
@@ -189694,7 +190052,9 @@
       "created_at": "2026-10-08T16:29:26+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 59031206658312,
@@ -189956,7 +190316,9 @@
       "created_at": "2026-10-14T14:16:25+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 59098868547848,
@@ -190087,7 +190449,9 @@
       "created_at": "2026-10-14T14:16:40+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 59098868809992,
@@ -190218,7 +190582,9 @@
       "created_at": "2026-10-14T14:16:41+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 59098868842760,
@@ -190389,7 +190755,9 @@
       "created_at": "2026-10-14T14:15:59+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 59098865369352,
@@ -190560,7 +190928,9 @@
       "created_at": "2026-10-14T14:16:01+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 59098865697032,
@@ -190611,7 +190981,9 @@
       "created_at": "2026-10-14T14:16:00+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 59098865631496,
@@ -190662,7 +191034,9 @@
       "created_at": "2026-10-14T14:15:59+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 59098865500424,
@@ -190713,7 +191087,9 @@
       "created_at": "2026-10-14T14:16:01+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 59098865795336,
@@ -190764,7 +191140,9 @@
       "created_at": "2026-10-14T14:16:00+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 59098865565960,
@@ -190815,7 +191193,9 @@
       "created_at": "2026-10-14T14:15:59+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 59098865402120,
@@ -190866,7 +191246,9 @@
       "created_at": "2026-10-14T14:15:59+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 59098865533192,
@@ -190947,7 +191329,9 @@
       "created_at": "2026-10-14T14:16:00+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 59098865598728,
@@ -190998,7 +191382,9 @@
       "created_at": "2026-10-14T14:16:01+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 59098865828104,
@@ -191049,7 +191435,9 @@
       "created_at": "2026-10-14T14:16:00+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 59098865664264,
@@ -191100,7 +191488,9 @@
       "created_at": "2026-10-14T14:16:26+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 59098868580616,
@@ -191151,7 +191541,9 @@
       "created_at": "2026-10-14T14:15:59+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 59098865467656,
@@ -191202,7 +191594,9 @@
       "created_at": "2026-10-14T14:16:40+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 59098868744456,
@@ -191283,7 +191677,9 @@
       "created_at": "2026-10-14T14:16:40+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 59098868777224,
@@ -191334,7 +191730,9 @@
       "created_at": "2026-10-14T14:16:40+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 59098868711688,
@@ -191385,7 +191783,9 @@
       "created_at": "2026-10-14T14:16:44+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 59098869104904,
@@ -191436,7 +191836,9 @@
       "created_at": "2026-10-14T14:16:44+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 59098869137672,
@@ -191487,7 +191889,9 @@
       "created_at": "2026-10-14T14:16:41+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 59098868875528,
@@ -192687,7 +193091,9 @@
       "created_at": "2026-08-06T09:58:22+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58377193455880,
@@ -192769,7 +193175,8 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv"
+        "Flow:ArtikelstatusAktiv",
+        "Flow:Releaseplan-Anime"
       ],
       "variants": [
         {
@@ -192851,7 +193258,9 @@
       "created_at": "2026-08-06T09:28:06+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58376921612552,
@@ -192902,7 +193311,9 @@
       "created_at": "2026-08-06T09:26:41+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58376910962952,
@@ -192953,7 +193364,9 @@
       "created_at": "2026-08-06T09:30:51+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58376931574024,
@@ -193061,7 +193474,8 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv"
+        "Flow:ArtikelstatusAktiv",
+        "Flow:Releaseplan-Anime"
       ],
       "variants": [
         {
@@ -193133,7 +193547,9 @@
       "created_at": "2026-08-06T10:11:42+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58377304178952,
@@ -194441,7 +194857,9 @@
       "created_at": "2026-08-06T10:18:24+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58377324462344,
@@ -194492,7 +194910,9 @@
       "created_at": "2026-08-06T10:22:08+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58377343467784,
@@ -194909,7 +195329,9 @@
       "created_at": "2026-08-07T10:32:26+02:00",
       "vendor": "polyband anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58387301335304,
@@ -194970,7 +195392,9 @@
       "created_at": "2026-08-07T10:29:11+02:00",
       "vendor": "polyband anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58387286032648,
@@ -195995,7 +196419,9 @@
       "created_at": "2026-08-06T10:52:42+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58377750774024,
@@ -196047,7 +196473,8 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv"
+        "Flow:ArtikelstatusAktiv",
+        "Flow:Releaseplan-Merch"
       ],
       "variants": [
         {
@@ -196099,7 +196526,9 @@
       "created_at": "2026-07-01T13:43:15+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58123792384264,
@@ -196150,7 +196579,9 @@
       "created_at": "2026-08-06T09:35:34+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58376949006600,
@@ -196201,7 +196632,9 @@
       "created_at": "2026-07-01T13:44:59+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58123800215816,
@@ -196252,7 +196685,9 @@
       "created_at": "2026-07-01T13:46:33+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58123807916296,
@@ -196303,7 +196738,9 @@
       "created_at": "2026-08-06T09:39:16+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58376977744136,
@@ -196365,7 +196802,8 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv"
+        "Flow:ArtikelstatusAktiv",
+        "Flow:Releaseplan-Merch"
       ],
       "variants": [
         {
@@ -196418,7 +196856,8 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv"
+        "Flow:ArtikelstatusAktiv",
+        "Flow:Releaseplan-Merch"
       ],
       "variants": [
         {
@@ -196470,7 +196909,9 @@
       "created_at": "2026-07-01T13:43:39+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58123793563912,
@@ -197480,7 +197921,9 @@
       "created_at": "2026-08-06T10:27:43+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58377382789384,
@@ -198186,7 +198629,9 @@
       "created_at": "2026-08-06T10:37:40+02:00",
       "vendor": "Hardball Films",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58377446621448,
@@ -206200,7 +206645,9 @@
       "created_at": "2026-07-01T13:43:35+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58123793334536,
@@ -206251,7 +206698,9 @@
       "created_at": "2026-07-01T13:41:22+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58123786944776,
@@ -206302,7 +206751,9 @@
       "created_at": "2026-07-27T16:20:21+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58312494743816,
@@ -206353,7 +206804,9 @@
       "created_at": "2026-07-01T13:42:10+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58123789304072,
@@ -206404,7 +206857,9 @@
       "created_at": "2026-07-01T13:41:32+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58123787370760,
@@ -206455,7 +206910,9 @@
       "created_at": "2026-07-01T13:42:09+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
       "variants": [
         {
           "id": 58123789173000,
@@ -206506,7 +206963,9 @@
       "created_at": "2026-07-29T15:30:38+02:00",
       "vendor": "polyband anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58323615449352,
@@ -208028,7 +208487,9 @@
       "created_at": "2026-08-06T10:49:10+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58377641230600,
@@ -208412,7 +208873,9 @@
       "created_at": "2026-08-01T20:18:40+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58343140917512,
@@ -208463,7 +208926,9 @@
       "created_at": "2026-08-01T14:56:29+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58342072680712,
@@ -208514,7 +208979,9 @@
       "created_at": "2026-08-01T14:56:54+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58342074056968,
@@ -208565,7 +209032,9 @@
       "created_at": "2026-08-01T14:56:01+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58342067798280,
@@ -208616,7 +209085,9 @@
       "created_at": "2026-08-01T14:56:00+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58342067765512,
@@ -220676,7 +221147,9 @@
       "created_at": "2026-07-01T16:38:04+02:00",
       "vendor": "KSM Anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58124927336712,
@@ -221564,7 +222037,9 @@
       "created_at": "2026-08-07T09:21:51+02:00",
       "vendor": "polyband anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58387074810120,
@@ -223336,7 +223811,9 @@
       "created_at": "2026-07-30T17:17:48+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58330252214536,
@@ -223677,7 +224154,9 @@
       "created_at": "2026-07-30T16:41:28+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58330196181256,
@@ -223728,7 +224207,9 @@
       "created_at": "2026-07-30T16:42:01+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58330198278408,
@@ -223779,7 +224260,9 @@
       "created_at": "2026-07-30T16:42:05+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58330198376712,
@@ -223830,7 +224313,9 @@
       "created_at": "2026-07-30T16:41:08+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 58330195394824,
