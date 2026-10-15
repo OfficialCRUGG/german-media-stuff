@@ -124557,6 +124557,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -158583,7 +158584,9 @@
       "created_at": "2026-08-06T11:54:25+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:ArtikelstatusAktiv"
+      ],
       "variants": [
         {
           "id": 58378674110728,
@@ -165358,7 +165361,7 @@
           "featured_image": null,
           "available": true,
           "price": "59.90",
-          "grams": 0,
+          "grams": 430,
           "compare_at_price": "59.90",
           "position": 1,
           "product_id": 12203477401864,
@@ -197477,7 +197480,9 @@
       "created_at": "2026-08-06T10:27:43+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:ArtikelstatusAktiv"
+      ],
       "variants": [
         {
           "id": 58377382789384,
@@ -197489,7 +197494,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "69.90",
           "grams": 348,
           "compare_at_price": "69.00",
