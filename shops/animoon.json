@@ -14513,6 +14513,94 @@
       ]
     },
     {
+      "id": 15704673452297,
+      "title": "Goblin Slayer 2 | XXL Acrylaufsteller »Goblin Slayer«",
+      "handle": "goblin-slayer-2-xxl-acrylaufsteller-goblin-slayer",
+      "published_at": "2026-10-16T10:41:16+02:00",
+      "created_at": "2026-10-16T10:31:20+02:00",
+      "vendor": "AniMoon Shop",
+      "product_type": "Acrylaufsteller",
+      "tags": [
+        "acrylaufsteller_merch",
+        "goblin slayer",
+        "goblin slayer 1",
+        "goblin slayer 2",
+        "merch",
+        "merch-highlight"
+      ],
+      "variants": [
+        {
+          "id": 57453543883017,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "29.99",
+          "grams": 100,
+          "compare_at_price": "34.99",
+          "position": 1,
+          "product_id": 15704673452297,
+          "created_at": "2026-10-16T10:31:20+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 81873487134985,
+          "created_at": "2026-10-16T10:33:15+02:00",
+          "position": 1,
+          "product_id": 15704673452297,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/GS2-Aufsteller-Standing.png?v=1792139598",
+          "width": 1848,
+          "height": 1848
+        },
+        {
+          "id": 81873487069449,
+          "created_at": "2026-10-16T10:33:15+02:00",
+          "position": 2,
+          "product_id": 15704673452297,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/GS2-Aufsteller-Front.png?v=1792139598",
+          "width": 1848,
+          "height": 1848
+        },
+        {
+          "id": 81873487167753,
+          "created_at": "2026-10-16T10:33:15+02:00",
+          "position": 3,
+          "product_id": 15704673452297,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/GS2-Aufsteller-Back.png?v=1792139599",
+          "width": 1848,
+          "height": 1848
+        },
+        {
+          "id": 81873487102217,
+          "created_at": "2026-10-16T10:33:15+02:00",
+          "position": 4,
+          "product_id": 15704673452297,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/GS2-Aufsteller-Standing2.png?v=1792139598",
+          "width": 1848,
+          "height": 1848
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 15383688544521,
       "title": "Goblin Slayer - Acrylic Chibi Collection",
       "handle": "goblin-slayer-acrylic-chibi-collection",

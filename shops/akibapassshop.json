@@ -208291,6 +208291,57 @@
       ]
     },
     {
+      "id": 12347106132232,
+      "title": "MAGICAL GIRL RAISING PROJECT restart - Season 1 (DIGITAL - Kaufversion)",
+      "handle": "magical-girl-raising-project-restart-season-1-digital-kaufversion",
+      "published_at": "2026-10-16T10:53:18+02:00",
+      "created_at": "2026-10-13T16:39:39+02:00",
+      "vendor": "AKIBA PASS TV",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59088796188936,
+          "title": "Originalfassung mit deutschen Untertiteln (OmU)",
+          "option1": "Originalfassung mit deutschen Untertiteln (OmU)",
+          "option2": null,
+          "option3": null,
+          "sku": "26d015-omu",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "20.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 12347106132232,
+          "created_at": "2026-10-13T16:39:39+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87692386468104,
+          "created_at": "2026-10-13T18:07:10+02:00",
+          "position": 1,
+          "product_id": 12347106132232,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/magical-girl-raising-project-restart-season-1-digital-kaufversion-637.webp?v=1791907630",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Synchro-Fassung",
+          "position": 1,
+          "values": [
+            "Originalfassung mit deutschen Untertiteln (OmU)"
+          ]
+        }
+      ]
+    },
+    {
       "id": 10353426104584,
       "title": "Mary und die Blume der Hexen (Blu-ray)",
       "handle": "mary-und-die-blume-der-hexen-bd",
