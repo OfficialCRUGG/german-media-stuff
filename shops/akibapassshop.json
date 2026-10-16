@@ -177007,6 +177007,7 @@
       "product_type": "",
       "tags": [
         "Click&Collect",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime",
         "Online"
       ],
@@ -208487,7 +208488,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
-        "Flow:Nachlieferung",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
