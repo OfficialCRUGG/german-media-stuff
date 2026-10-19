@@ -166020,14 +166020,14 @@
       ],
       "images": [
         {
-          "id": 87828166967560,
-          "created_at": "2026-10-19T12:58:31+02:00",
+          "id": 87829787312392,
+          "created_at": "2026-10-19T15:32:30+02:00",
           "position": 1,
           "product_id": 12360125448456,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/letzte-bluete-blu-ray-standard-edition-ksm-anime-583.webp?v=1792407511",
-          "width": 643,
-          "height": 643
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/letzte-bluete-blu-ray-standard-edition-ksm-anime-331.webp?v=1792416750",
+          "width": 2500,
+          "height": 2500
         }
       ],
       "options": [
@@ -166071,14 +166071,14 @@
       ],
       "images": [
         {
-          "id": 87828165230856,
-          "created_at": "2026-10-19T12:58:11+02:00",
+          "id": 87829764800776,
+          "created_at": "2026-10-19T15:30:49+02:00",
           "position": 1,
           "product_id": 12360125481224,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/eureka-seven-original-serie-blu-ray-gesamtausgabe-ksm-anime-338.webp?v=1792407491",
-          "width": 2008,
-          "height": 2008
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/eureka-seven-original-serie-blu-ray-gesamtausgabe-ksm-anime-504.webp?v=1792416649",
+          "width": 2500,
+          "height": 2500
         }
       ],
       "options": [
@@ -166122,14 +166122,14 @@
       ],
       "images": [
         {
-          "id": 87828152287496,
-          "created_at": "2026-10-19T12:54:19+02:00",
+          "id": 87829786525960,
+          "created_at": "2026-10-19T15:32:26+02:00",
           "position": 1,
           "product_id": 12360125841672,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/isekai-onsen-paradise-komplette-serie-blu-ray-gesamtausgabe-ksm-966.webp?v=1792407259",
-          "width": 2008,
-          "height": 2008
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/isekai-onsen-paradise-komplette-serie-blu-ray-gesamtausgabe-ksm-748.webp?v=1792416746",
+          "width": 2500,
+          "height": 2500
         }
       ],
       "options": [
@@ -166173,14 +166173,14 @@
       ],
       "images": [
         {
-          "id": 87828152451336,
-          "created_at": "2026-10-19T12:54:30+02:00",
+          "id": 87829785149704,
+          "created_at": "2026-10-19T15:32:12+02:00",
           "position": 1,
           "product_id": 12360125710600,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/lady-oscar-komplette-serie-blu-ray-gesamtausgabe-ksm-anime-981.webp?v=1792407270",
-          "width": 482,
-          "height": 482
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/lady-oscar-komplette-serie-blu-ray-gesamtausgabe-ksm-anime-738.webp?v=1792416732",
+          "width": 2500,
+          "height": 2500
         }
       ],
       "options": [
@@ -198083,7 +198083,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "69.90",
           "grams": 348,
           "compare_at_price": "69.00",
