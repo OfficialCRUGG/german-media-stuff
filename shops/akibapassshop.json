@@ -184469,6 +184469,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Merch"
       ],
       "variants": [
@@ -187122,7 +187123,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Merch",
         "warenpost"
       ],
@@ -187317,7 +187318,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Merch",
         "warenpost"
       ],
@@ -187382,7 +187383,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Merch",
         "warenpost"
       ],
