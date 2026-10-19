@@ -165990,6 +165990,210 @@
       ]
     },
     {
+      "id": 12360125448456,
+      "title": "Die letzte Blüte (Blu-ray)",
+      "handle": "26ksm043-letzte-bluete-bluray",
+      "published_at": "2026-10-19T12:39:36+02:00",
+      "created_at": "2026-10-19T11:34:58+02:00",
+      "vendor": "KSM Anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59159323541768,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26ksm043",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "24.90",
+          "grams": 0,
+          "compare_at_price": "24.90",
+          "position": 1,
+          "product_id": 12360125448456,
+          "created_at": "2026-10-19T11:34:58+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87828166967560,
+          "created_at": "2026-10-19T12:58:31+02:00",
+          "position": 1,
+          "product_id": 12360125448456,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/letzte-bluete-blu-ray-standard-edition-ksm-anime-583.webp?v=1792407511",
+          "width": 643,
+          "height": 643
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12360125481224,
+      "title": "Eureka Seven - Die Original-Serie (Blu-ray)",
+      "handle": "26ksm044-eureka-seven-die-original-serie-bluray",
+      "published_at": "2026-10-19T12:39:37+02:00",
+      "created_at": "2026-10-19T11:34:58+02:00",
+      "vendor": "KSM Anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59159323607304,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26ksm044",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "59.90",
+          "grams": 0,
+          "compare_at_price": "59.90",
+          "position": 1,
+          "product_id": 12360125481224,
+          "created_at": "2026-10-19T11:34:58+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87828165230856,
+          "created_at": "2026-10-19T12:58:11+02:00",
+          "position": 1,
+          "product_id": 12360125481224,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/eureka-seven-original-serie-blu-ray-gesamtausgabe-ksm-anime-338.webp?v=1792407491",
+          "width": 2008,
+          "height": 2008
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12360125841672,
+      "title": "Isekai Onsen Paradise - Die komplette Serie (Blu-ray)",
+      "handle": "26ksm045-isekai-onsen-paradise-die-komplette-serie-bluray",
+      "published_at": "2026-10-19T12:39:39+02:00",
+      "created_at": "2026-10-19T11:34:59+02:00",
+      "vendor": "KSM Anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59159324098824,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26ksm045",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "24.90",
+          "grams": 0,
+          "compare_at_price": "24.90",
+          "position": 1,
+          "product_id": 12360125841672,
+          "created_at": "2026-10-19T11:34:59+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87828152287496,
+          "created_at": "2026-10-19T12:54:19+02:00",
+          "position": 1,
+          "product_id": 12360125841672,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/isekai-onsen-paradise-komplette-serie-blu-ray-gesamtausgabe-ksm-966.webp?v=1792407259",
+          "width": 2008,
+          "height": 2008
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12360125710600,
+      "title": "Lady Oscar - Die komplette Serie (Blu-ray)",
+      "handle": "26ksm046-lady-oscar-die-komplette-serie-bluray",
+      "published_at": "2026-10-19T12:39:38+02:00",
+      "created_at": "2026-10-19T11:34:59+02:00",
+      "vendor": "KSM Anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59159324000520,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26ksm046",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "49.90",
+          "grams": 0,
+          "compare_at_price": "49.90",
+          "position": 1,
+          "product_id": 12360125710600,
+          "created_at": "2026-10-19T11:34:59+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87828152451336,
+          "created_at": "2026-10-19T12:54:30+02:00",
+          "position": 1,
+          "product_id": 12360125710600,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/lady-oscar-komplette-serie-blu-ray-gesamtausgabe-ksm-anime-981.webp?v=1792407270",
+          "width": 482,
+          "height": 482
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 10919651705096,
       "title": "The Garden of Words (Blu-ray)",
       "handle": "26la001-garden-of-words-shinkkai-bluray",
