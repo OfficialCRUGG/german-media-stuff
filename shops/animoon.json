@@ -32862,18 +32862,17 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": {
-            "id": 76898668970249,
+            "id": 81892618961161,
             "product_id": 15271140819209,
             "position": 1,
-            "created_at": "2025-08-21T20:47:10+02:00",
-            "updated_at": "2025-08-21T20:47:20+02:00",
+            "created_at": "2026-10-20T13:28:01+02:00",
+            "updated_at": "2026-10-20T13:28:04+02:00",
             "alt": null,
             "width": 1848,
             "height": 1848,
-            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Vol.1_Vorabcover.png?v=1755802040",
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Yamada_Vol.1_BD.png?v=1792495684",
             "variant_ids": [
-              56047605809417,
-              57337961480457
+              56047605809417
             ]
           },
           "available": true,
@@ -32893,21 +32892,7 @@
           "sku": "4260497796947",
           "requires_shipping": true,
           "taxable": true,
-          "featured_image": {
-            "id": 76898668970249,
-            "product_id": 15271140819209,
-            "position": 1,
-            "created_at": "2025-08-21T20:47:10+02:00",
-            "updated_at": "2025-08-21T20:47:20+02:00",
-            "alt": null,
-            "width": 1848,
-            "height": 1848,
-            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Vol.1_Vorabcover.png?v=1755802040",
-            "variant_ids": [
-              56047605809417,
-              57337961480457
-            ]
-          },
+          "featured_image": null,
           "available": true,
           "price": "39.99",
           "grams": 400,
@@ -32919,16 +32904,25 @@
       ],
       "images": [
         {
-          "id": 76898668970249,
-          "created_at": "2025-08-21T20:47:10+02:00",
+          "id": 81892618961161,
+          "created_at": "2026-10-20T13:28:01+02:00",
           "position": 1,
           "product_id": 15271140819209,
           "variant_ids": [
-            56047605809417,
-            57337961480457
+            56047605809417
           ],
-          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Vol.1_Vorabcover.png?v=1755802040",
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Yamada_Vol.1_BD.png?v=1792495684",
           "width": 1848,
+          "height": 1848
+        },
+        {
+          "id": 81892618928393,
+          "created_at": "2026-10-20T13:28:01+02:00",
+          "position": 2,
+          "product_id": 15271140819209,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Yamada_Vol.1_Mediabook_Extra_Clean.png?v=1792495685",
+          "width": 2200,
           "height": 1848
         }
       ],
@@ -32975,18 +32969,17 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": {
-            "id": 76898799190281,
+            "id": 81892625056009,
             "product_id": 15271152222473,
             "position": 1,
-            "created_at": "2025-08-21T21:06:27+02:00",
-            "updated_at": "2025-08-21T21:06:45+02:00",
+            "created_at": "2026-10-20T13:28:37+02:00",
+            "updated_at": "2026-10-20T13:28:40+02:00",
             "alt": null,
             "width": 1848,
             "height": 1848,
-            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Vol.2_Vorabcover_3c727529-93af-427f-8a48-1128da62491c.png?v=1755803205",
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Yamada_Vol.2_BD.png?v=1792495720",
             "variant_ids": [
-              56047634710793,
-              57337970262281
+              56047634710793
             ]
           },
           "available": true,
@@ -33006,21 +32999,7 @@
           "sku": "4260497796954",
           "requires_shipping": true,
           "taxable": true,
-          "featured_image": {
-            "id": 76898799190281,
-            "product_id": 15271152222473,
-            "position": 1,
-            "created_at": "2025-08-21T21:06:27+02:00",
-            "updated_at": "2025-08-21T21:06:45+02:00",
-            "alt": null,
-            "width": 1848,
-            "height": 1848,
-            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Vol.2_Vorabcover_3c727529-93af-427f-8a48-1128da62491c.png?v=1755803205",
-            "variant_ids": [
-              56047634710793,
-              57337970262281
-            ]
-          },
+          "featured_image": null,
           "available": true,
           "price": "37.99",
           "grams": 400,
@@ -33032,15 +33011,24 @@
       ],
       "images": [
         {
-          "id": 76898799190281,
-          "created_at": "2025-08-21T21:06:27+02:00",
+          "id": 81892625056009,
+          "created_at": "2026-10-20T13:28:37+02:00",
           "position": 1,
           "product_id": 15271152222473,
           "variant_ids": [
-            56047634710793,
-            57337970262281
+            56047634710793
           ],
-          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Vol.2_Vorabcover_3c727529-93af-427f-8a48-1128da62491c.png?v=1755803205",
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Yamada_Vol.2_BD.png?v=1792495720",
+          "width": 1848,
+          "height": 1848
+        },
+        {
+          "id": 81892625154313,
+          "created_at": "2026-10-20T13:28:37+02:00",
+          "position": 2,
+          "product_id": 15271152222473,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Yamada_Vol.2_Extra_Clean.png?v=1792495721",
           "width": 1848,
           "height": 1848
         }
@@ -33088,18 +33076,17 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": {
-            "id": 76898804269321,
+            "id": 81892645634313,
             "product_id": 15271152845065,
             "position": 1,
-            "created_at": "2025-08-21T21:07:05+02:00",
-            "updated_at": "2025-08-21T21:07:12+02:00",
+            "created_at": "2026-10-20T13:29:14+02:00",
+            "updated_at": "2026-10-20T13:29:17+02:00",
             "alt": null,
             "width": 1848,
             "height": 1848,
-            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Vol.3_Vorabcover_1bb2976d-d423-4cf3-85ae-2b0caa6cbfee.png?v=1755803232",
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Yamada_Vol.3_BD.png?v=1792495757",
             "variant_ids": [
-              56047640379657,
-              57337973997833
+              56047640379657
             ]
           },
           "available": true,
@@ -33119,21 +33106,7 @@
           "sku": "4260497796961",
           "requires_shipping": true,
           "taxable": true,
-          "featured_image": {
-            "id": 76898804269321,
-            "product_id": 15271152845065,
-            "position": 1,
-            "created_at": "2025-08-21T21:07:05+02:00",
-            "updated_at": "2025-08-21T21:07:12+02:00",
-            "alt": null,
-            "width": 1848,
-            "height": 1848,
-            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Vol.3_Vorabcover_1bb2976d-d423-4cf3-85ae-2b0caa6cbfee.png?v=1755803232",
-            "variant_ids": [
-              56047640379657,
-              57337973997833
-            ]
-          },
+          "featured_image": null,
           "available": true,
           "price": "37.99",
           "grams": 400,
@@ -33145,15 +33118,24 @@
       ],
       "images": [
         {
-          "id": 76898804269321,
-          "created_at": "2025-08-21T21:07:05+02:00",
+          "id": 81892645634313,
+          "created_at": "2026-10-20T13:29:14+02:00",
           "position": 1,
           "product_id": 15271152845065,
           "variant_ids": [
-            56047640379657,
-            57337973997833
+            56047640379657
           ],
-          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Vol.3_Vorabcover_1bb2976d-d423-4cf3-85ae-2b0caa6cbfee.png?v=1755803232",
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Yamada_Vol.3_BD.png?v=1792495757",
+          "width": 1848,
+          "height": 1848
+        },
+        {
+          "id": 81892645372169,
+          "created_at": "2026-10-20T13:29:14+02:00",
+          "position": 2,
+          "product_id": 15271152845065,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Yamada_Vol.3_Extra_Clean.png?v=1792495758",
           "width": 1848,
           "height": 1848
         }
@@ -35300,15 +35282,15 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": {
-            "id": 80192457769225,
+            "id": 81893126635785,
             "product_id": 15264011976969,
             "position": 1,
-            "created_at": "2026-03-26T17:08:12+01:00",
-            "updated_at": "2026-03-26T17:08:43+01:00",
+            "created_at": "2026-10-20T13:59:53+02:00",
+            "updated_at": "2026-10-20T13:59:56+02:00",
             "alt": null,
             "width": 1848,
             "height": 1848,
-            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Vol.1_Schuber_NEU_UNCUT.png?v=1774541323",
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Nukitashi_Vol.1_BD.png?v=1792497596",
             "variant_ids": [
               55997503734025
             ]
@@ -35330,20 +35312,7 @@
           "sku": "4260497796763",
           "requires_shipping": true,
           "taxable": true,
-          "featured_image": {
-            "id": 80192457736457,
-            "product_id": 15264011976969,
-            "position": 2,
-            "created_at": "2026-03-26T17:08:12+01:00",
-            "updated_at": "2026-03-26T17:08:43+01:00",
-            "alt": null,
-            "width": 1848,
-            "height": 1848,
-            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Vol.1_Schuber_NEU_UNCUT_DVD.png?v=1774541323",
-            "variant_ids": [
-              56919636148489
-            ]
-          },
+          "featured_image": null,
           "available": false,
           "price": "39.99",
           "grams": 400,
@@ -35355,27 +35324,25 @@
       ],
       "images": [
         {
-          "id": 80192457769225,
-          "created_at": "2026-03-26T17:08:12+01:00",
+          "id": 81893126635785,
+          "created_at": "2026-10-20T13:59:53+02:00",
           "position": 1,
           "product_id": 15264011976969,
           "variant_ids": [
             55997503734025
           ],
-          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Vol.1_Schuber_NEU_UNCUT.png?v=1774541323",
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Nukitashi_Vol.1_BD.png?v=1792497596",
           "width": 1848,
           "height": 1848
         },
         {
-          "id": 80192457736457,
-          "created_at": "2026-03-26T17:08:12+01:00",
+          "id": 81893126668553,
+          "created_at": "2026-10-20T13:59:53+02:00",
           "position": 2,
           "product_id": 15264011976969,
-          "variant_ids": [
-            56919636148489
-          ],
-          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Vol.1_Schuber_NEU_UNCUT_DVD.png?v=1774541323",
-          "width": 1848,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Nukitashi_Vol.1_Mediabook_Extra_Clean.png?v=1792497597",
+          "width": 2200,
           "height": 1848
         }
       ],
@@ -35423,18 +35390,17 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": {
-            "id": 80193835172105,
+            "id": 81893127749897,
             "product_id": 15264123814153,
             "position": 1,
-            "created_at": "2026-03-26T17:37:16+01:00",
-            "updated_at": "2026-03-26T17:38:30+01:00",
+            "created_at": "2026-10-20T14:00:02+02:00",
+            "updated_at": "2026-10-20T14:00:05+02:00",
             "alt": null,
             "width": 1848,
             "height": 1848,
-            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Vol.2_NEU_UNCUT_VORAB.png?v=1774543110",
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Nukitashi_Vol.2_BD.png?v=1792497605",
             "variant_ids": [
-              55997773086985,
-              56919727440137
+              55997773086985
             ]
           },
           "available": true,
@@ -35454,21 +35420,7 @@
           "sku": "4260497796770",
           "requires_shipping": true,
           "taxable": true,
-          "featured_image": {
-            "id": 80193835172105,
-            "product_id": 15264123814153,
-            "position": 1,
-            "created_at": "2026-03-26T17:37:16+01:00",
-            "updated_at": "2026-03-26T17:38:30+01:00",
-            "alt": null,
-            "width": 1848,
-            "height": 1848,
-            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Vol.2_NEU_UNCUT_VORAB.png?v=1774543110",
-            "variant_ids": [
-              55997773086985,
-              56919727440137
-            ]
-          },
+          "featured_image": null,
           "available": false,
           "price": "37.99",
           "grams": 300,
@@ -35480,15 +35432,24 @@
       ],
       "images": [
         {
-          "id": 80193835172105,
-          "created_at": "2026-03-26T17:37:16+01:00",
+          "id": 81893127749897,
+          "created_at": "2026-10-20T14:00:02+02:00",
           "position": 1,
           "product_id": 15264123814153,
           "variant_ids": [
-            55997773086985,
-            56919727440137
+            55997773086985
           ],
-          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Vol.2_NEU_UNCUT_VORAB.png?v=1774543110",
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Nukitashi_Vol.2_BD.png?v=1792497605",
+          "width": 1848,
+          "height": 1848
+        },
+        {
+          "id": 81893127979273,
+          "created_at": "2026-10-20T14:00:03+02:00",
+          "position": 2,
+          "product_id": 15264123814153,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Nukitashi_Vol.2_Extra_Clean.png?v=1792497607",
           "width": 1848,
           "height": 1848
         }
@@ -35537,15 +35498,15 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": {
-            "id": 80193925611785,
+            "id": 81893130895625,
             "product_id": 15264126861577,
             "position": 1,
-            "created_at": "2026-03-26T17:39:26+01:00",
-            "updated_at": "2026-03-26T17:39:35+01:00",
+            "created_at": "2026-10-20T14:00:22+02:00",
+            "updated_at": "2026-10-20T14:00:25+02:00",
             "alt": null,
             "width": 1848,
             "height": 1848,
-            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Vol.3_NEU_UNCUT_VORAB.png?v=1774543175",
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Nukitashi_Vol.3_BD.png?v=1792497625",
             "variant_ids": [
               55997784228105
             ]
@@ -35579,14 +35540,24 @@
       ],
       "images": [
         {
-          "id": 80193925611785,
-          "created_at": "2026-03-26T17:39:26+01:00",
+          "id": 81893130895625,
+          "created_at": "2026-10-20T14:00:22+02:00",
           "position": 1,
           "product_id": 15264126861577,
           "variant_ids": [
             55997784228105
           ],
-          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Vol.3_NEU_UNCUT_VORAB.png?v=1774543175",
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Nukitashi_Vol.3_BD.png?v=1792497625",
+          "width": 1848,
+          "height": 1848
+        },
+        {
+          "id": 81893131092233,
+          "created_at": "2026-10-20T14:00:22+02:00",
+          "position": 2,
+          "product_id": 15264126861577,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Nukitashi_Vol.3_Extra_Clean.png?v=1792497626",
           "width": 1848,
           "height": 1848
         }
@@ -39925,15 +39896,15 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": {
-            "id": 80984827592969,
+            "id": 81892894376201,
             "product_id": 15271154712841,
             "position": 1,
-            "created_at": "2026-06-17T12:48:57+02:00",
-            "updated_at": "2026-06-17T12:49:01+02:00",
+            "created_at": "2026-10-20T13:42:37+02:00",
+            "updated_at": "2026-10-20T13:42:41+02:00",
             "alt": null,
             "width": 1848,
             "height": 1848,
-            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/S_W_Vol.1_Vorabschuber.png?v=1781693341",
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/S_W_Vol.1_BD.png?v=1792496561",
             "variant_ids": [
               56047647031561
             ]
@@ -39949,25 +39920,35 @@
       ],
       "images": [
         {
-          "id": 80984827592969,
-          "created_at": "2026-06-17T12:48:57+02:00",
+          "id": 81892894376201,
+          "created_at": "2026-10-20T13:42:37+02:00",
           "position": 1,
           "product_id": 15271154712841,
           "variant_ids": [
             56047647031561
           ],
-          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/S_W_Vol.1_Vorabschuber.png?v=1781693341",
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/S_W_Vol.1_BD.png?v=1792496561",
           "width": 1848,
           "height": 1848
         },
         {
-          "id": 80984827560201,
-          "created_at": "2026-06-17T12:48:57+02:00",
+          "id": 81892894408969,
+          "created_at": "2026-10-20T13:42:37+02:00",
           "position": 2,
           "product_id": 15271154712841,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/S_W_Vol.1_Vorabschuber_Normal.png?v=1781693342",
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/S_W_Vol.1_Clean.png?v=1792496561",
           "width": 1848,
+          "height": 1848
+        },
+        {
+          "id": 81892894638345,
+          "created_at": "2026-10-20T13:42:37+02:00",
+          "position": 3,
+          "product_id": 15271154712841,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/S_W_Vol.1_Mediabook_Extra_Clean.png?v=1792496561",
+          "width": 2200,
           "height": 1848
         }
       ],
@@ -40013,15 +39994,15 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": {
-            "id": 80984830214409,
+            "id": 81892900634889,
             "product_id": 15271176634633,
             "position": 1,
-            "created_at": "2026-06-17T12:49:32+02:00",
-            "updated_at": "2026-06-17T12:49:35+02:00",
+            "created_at": "2026-10-20T13:43:21+02:00",
+            "updated_at": "2026-10-20T13:43:25+02:00",
             "alt": null,
             "width": 1848,
             "height": 1848,
-            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/S_W_Vol.2_Vorab-Mediabook.png?v=1781693375",
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/S_W_Vol.2_BD.png?v=1792496605",
             "variant_ids": [
               56047718564105
             ]
@@ -40037,14 +40018,14 @@
       ],
       "images": [
         {
-          "id": 80984830214409,
-          "created_at": "2026-06-17T12:49:32+02:00",
+          "id": 81892900634889,
+          "created_at": "2026-10-20T13:43:21+02:00",
           "position": 1,
           "product_id": 15271176634633,
           "variant_ids": [
             56047718564105
           ],
-          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/S_W_Vol.2_Vorab-Mediabook.png?v=1781693375",
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/S_W_Vol.2_BD.png?v=1792496605",
           "width": 1848,
           "height": 1848
         }
@@ -40090,20 +40071,7 @@
           "sku": "4260497796268",
           "requires_shipping": true,
           "taxable": true,
-          "featured_image": {
-            "id": 80984835883273,
-            "product_id": 15271177584905,
-            "position": 1,
-            "created_at": "2026-06-17T12:49:41+02:00",
-            "updated_at": "2026-06-17T12:49:46+02:00",
-            "alt": null,
-            "width": 1848,
-            "height": 1848,
-            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/S_W_Vol.3_Vorab-Mediabook.png?v=1781693386",
-            "variant_ids": [
-              56047730524425
-            ]
-          },
+          "featured_image": null,
           "available": true,
           "price": "32.99",
           "grams": 400,
@@ -40115,14 +40083,12 @@
       ],
       "images": [
         {
-          "id": 80984835883273,
-          "created_at": "2026-06-17T12:49:41+02:00",
+          "id": 81892916658441,
+          "created_at": "2026-10-20T13:43:51+02:00",
           "position": 1,
           "product_id": 15271177584905,
-          "variant_ids": [
-            56047730524425
-          ],
-          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/S_W_Vol.3_Vorab-Mediabook.png?v=1781693386",
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/S_W_Vol.3_BD.png?v=1792496635",
           "width": 1848,
           "height": 1848
         }
@@ -40169,15 +40135,15 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": {
-            "id": 80984838963465,
+            "id": 81892942971145,
             "product_id": 15272101904649,
             "position": 1,
-            "created_at": "2026-06-17T12:49:45+02:00",
-            "updated_at": "2026-06-17T12:49:48+02:00",
+            "created_at": "2026-10-20T13:44:56+02:00",
+            "updated_at": "2026-10-20T13:45:00+02:00",
             "alt": null,
             "width": 1848,
             "height": 1848,
-            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/S_W_Vol.4_Vorab-Mediabook.png?v=1781693388",
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/S_W_Vol.4_BD.png?v=1792496700",
             "variant_ids": [
               56053308686601
             ]
@@ -40193,14 +40159,14 @@
       ],
       "images": [
         {
-          "id": 80984838963465,
-          "created_at": "2026-06-17T12:49:45+02:00",
+          "id": 81892942971145,
+          "created_at": "2026-10-20T13:44:56+02:00",
           "position": 1,
           "product_id": 15272101904649,
           "variant_ids": [
             56053308686601
           ],
-          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/S_W_Vol.4_Vorab-Mediabook.png?v=1781693388",
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/S_W_Vol.4_BD.png?v=1792496700",
           "width": 1848,
           "height": 1848
         }
