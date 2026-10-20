@@ -4383,7 +4383,7 @@
       "tags": [
         "Filme & Serien",
         "Komödie & Drama",
-        "peorder",
+        "preorder",
         "Serien"
       ],
       "variants": [
@@ -11117,6 +11117,16 @@
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/871741855592408jpg.jpg?v=1739952012",
           "width": 2560,
           "height": 1440
+        },
+        {
+          "id": 39208781381685,
+          "created_at": "2026-10-20T11:46:08+02:00",
+          "position": 9,
+          "product_id": 7855591489589,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/871741855592404jpg-62900.png?v=1792489570",
+          "width": 1600,
+          "height": 843
         }
       ],
       "options": [
@@ -27078,6 +27088,16 @@
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229557665_08.jpg?v=1753716373",
           "width": 1829,
           "height": 1086
+        },
+        {
+          "id": 39208783020085,
+          "created_at": "2026-10-20T11:46:14+02:00",
+          "position": 9,
+          "product_id": 7941223120949,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122955767208jpg-105619.png?v=1792489576",
+          "width": 1600,
+          "height": 1066
         }
       ],
       "options": [
@@ -27207,6 +27227,16 @@
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229557672_07.jpg?v=1753716171",
           "width": 2048,
           "height": 858
+        },
+        {
+          "id": 39208783020085,
+          "created_at": "2026-10-20T11:46:14+02:00",
+          "position": 9,
+          "product_id": 7941191172149,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122955767208jpg-105619.png?v=1792489576",
+          "width": 1600,
+          "height": 1066
         }
       ],
       "options": [
@@ -27333,6 +27363,16 @@
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122955767205jpg-105622.png?v=1785935930",
           "width": 1599,
+          "height": 1066
+        },
+        {
+          "id": 39208783020085,
+          "created_at": "2026-10-20T11:46:14+02:00",
+          "position": 9,
+          "product_id": 7941223088181,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122955767208jpg-105619.png?v=1792489576",
+          "width": 1600,
           "height": 1066
         }
       ],
@@ -41262,6 +41302,16 @@
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573459702jpg-235582.jpg?v=1792406800",
           "width": 1743,
           "height": 2152
+        },
+        {
+          "id": 39208660598837,
+          "created_at": "2026-10-20T11:40:14+02:00",
+          "position": 3,
+          "product_id": 15420624142389,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4013575734597_03_1.jpg?v=1792489215",
+          "width": 3324,
+          "height": 2062
         }
       ],
       "options": [
@@ -41331,6 +41381,16 @@
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573449802jpg-235876.jpg?v=1792406811",
           "width": 1743,
           "height": 2152
+        },
+        {
+          "id": 39208791244853,
+          "created_at": "2026-10-20T11:46:34+02:00",
+          "position": 3,
+          "product_id": 15420624404533,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573449803jpg-236818.png?v=1792489596",
+          "width": 1600,
+          "height": 992
         }
       ],
       "options": [
@@ -41400,6 +41460,16 @@
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4013575734696_02.jpg?v=1792407985",
           "width": 1743,
           "height": 2152
+        },
+        {
+          "id": 39208525922357,
+          "created_at": "2026-10-20T11:34:04+02:00",
+          "position": 3,
+          "product_id": 15420623781941,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4013575734696_03_3.jpg?v=1792488846",
+          "width": 3324,
+          "height": 2062
         }
       ],
       "options": [

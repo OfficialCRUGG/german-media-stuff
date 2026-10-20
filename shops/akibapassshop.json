@@ -165311,6 +165311,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -165326,7 +165327,7 @@
           "featured_image": null,
           "available": true,
           "price": "27.90",
-          "grams": 0,
+          "grams": 120,
           "compare_at_price": "27.90",
           "position": 1,
           "product_id": 12203482448136,
@@ -165364,6 +165365,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -165379,7 +165381,7 @@
           "featured_image": null,
           "available": true,
           "price": "59.90",
-          "grams": 0,
+          "grams": 500,
           "compare_at_price": "59.90",
           "position": 1,
           "product_id": 12203477860616,
@@ -165417,6 +165419,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -165432,7 +165435,7 @@
           "featured_image": null,
           "available": true,
           "price": "59.90",
-          "grams": 0,
+          "grams": 500,
           "compare_at_price": "59.90",
           "position": 1,
           "product_id": 12203477795080,
@@ -165524,6 +165527,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -165539,7 +165543,7 @@
           "featured_image": null,
           "available": true,
           "price": "79.90",
-          "grams": 0,
+          "grams": 280,
           "compare_at_price": "79.90",
           "position": 1,
           "product_id": 12203566825736,
@@ -165577,6 +165581,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -165592,7 +165597,7 @@
           "featured_image": null,
           "available": true,
           "price": "59.90",
-          "grams": 0,
+          "grams": 430,
           "compare_at_price": "59.90",
           "position": 1,
           "product_id": 12203472519432,
@@ -183763,7 +183768,6 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Merch",
         "Online"
       ],
@@ -183778,7 +183782,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "17.90",
           "grams": 190,
           "compare_at_price": "19.90",
