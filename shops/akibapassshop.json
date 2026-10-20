@@ -184402,7 +184402,6 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Merch",
         "Online"
       ],
@@ -184417,7 +184416,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "9.90",
           "grams": 123,
           "compare_at_price": "10.90",
