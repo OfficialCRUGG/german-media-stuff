@@ -180848,6 +180848,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
+        "Flow:ReleaseInfoOffen",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -180872,14 +180873,14 @@
       ],
       "images": [
         {
-          "id": 86629438423304,
-          "created_at": "2026-09-02T19:13:19+02:00",
+          "id": 87857083121928,
+          "created_at": "2026-10-20T19:00:16+02:00",
           "position": 1,
           "product_id": 12217377685768,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pokemon-tv-serie-anfaenge-season-1-2-dvd-standard-edition-920.webp?v=1788369199",
-          "width": 1024,
-          "height": 1024
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pokemon-season-1-2-anfaenge-dvd-standard-edition-polyband-anime-315.webp?v=1792515616",
+          "width": 2500,
+          "height": 2500
         }
       ],
       "options": [
@@ -180901,6 +180902,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
+        "Flow:ReleaseInfoOffen",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -180915,9 +180917,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "74.90",
+          "price": "84.90",
           "grams": 0,
-          "compare_at_price": "74.90",
+          "compare_at_price": "84.90",
           "position": 1,
           "product_id": 12217377653000,
           "created_at": "2026-09-02T18:14:42+02:00"
@@ -180925,14 +180927,14 @@
       ],
       "images": [
         {
-          "id": 86629436686600,
-          "created_at": "2026-09-02T19:13:05+02:00",
+          "id": 87857069785352,
+          "created_at": "2026-10-20T18:58:22+02:00",
           "position": 1,
           "product_id": 12217377653000,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pokemon-tv-serie-schwarz-weiss-season-14-16-dvd-standard-edition-860.webp?v=1788369185",
-          "width": 1024,
-          "height": 1024
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pokemon-season-14-16-schwarz-weiss-dvd-standard-edition-polyband-704.webp?v=1792515502",
+          "width": 2500,
+          "height": 2500
         }
       ],
       "options": [
@@ -181296,6 +181298,312 @@
           "product_id": 12339282051336,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/shin-chan-serie-vol-16-dvd-standard-edition-polyband-anime-film-613.webp?v=1791540072",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12364556042504,
+      "title": "Pokémon - Season 3-5: Gold & Silber (DVD)",
+      "handle": "26pol049-pokemon-die-tv-serie-gold-und-silber-season-3-5-dvd",
+      "published_at": "2026-10-20T18:50:35+02:00",
+      "created_at": "2026-10-20T18:31:56+02:00",
+      "vendor": "polyband anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59172402594056,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26pol049",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "84.90",
+          "grams": 0,
+          "compare_at_price": "84.90",
+          "position": 1,
+          "product_id": 12364556042504,
+          "created_at": "2026-10-20T18:31:56+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87856955588872,
+          "created_at": "2026-10-20T18:49:27+02:00",
+          "position": 1,
+          "product_id": 12364556042504,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pokemon-season-3-5-gold-silber-dvd-standard-edition-polyband-149.webp?v=1792514967",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12364556009736,
+      "title": "Pokémon - Season 6-9: Rubin & Saphir (DVD)",
+      "handle": "26pol050-pokemon-die-tv-serie-rubin-und-saphir-season-6-9-dvd",
+      "published_at": "2026-10-20T18:50:34+02:00",
+      "created_at": "2026-10-20T18:31:56+02:00",
+      "vendor": "polyband anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59172402561288,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26pol050",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "84.90",
+          "grams": 0,
+          "compare_at_price": "84.90",
+          "position": 1,
+          "product_id": 12364556009736,
+          "created_at": "2026-10-20T18:31:56+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87856954343688,
+          "created_at": "2026-10-20T18:49:18+02:00",
+          "position": 1,
+          "product_id": 12364556009736,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pokemon-season-6-9-rubin-saphir-dvd-standard-edition-polyband-261.webp?v=1792514958",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12364556108040,
+      "title": "Pokémon - Season 10-13: Diamant & Perl (DVD)",
+      "handle": "26pol051-pokemon-die-tv-serie-diamant-und-perl-season-10-13-dvd",
+      "published_at": "2026-10-20T18:50:36+02:00",
+      "created_at": "2026-10-20T18:31:57+02:00",
+      "vendor": "polyband anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59172402659592,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26pol051",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "84.90",
+          "grams": 0,
+          "compare_at_price": "84.90",
+          "position": 1,
+          "product_id": 12364556108040,
+          "created_at": "2026-10-20T18:31:57+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87856956342536,
+          "created_at": "2026-10-20T18:49:34+02:00",
+          "position": 1,
+          "product_id": 12364556108040,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pokemon-season-10-13-diamant-perl-dvd-standard-edition-polyband-738.webp?v=1792514974",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12364555944200,
+      "title": "Pokémon - Season 17-19: XY (DVD)",
+      "handle": "26pol052-pokemon-die-tv-serie-xy-season-17-19-dvd",
+      "published_at": "2026-10-20T18:50:33+02:00",
+      "created_at": "2026-10-20T18:31:55+02:00",
+      "vendor": "polyband anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59172402495752,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26pol052",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "84.90",
+          "grams": 0,
+          "compare_at_price": "84.90",
+          "position": 1,
+          "product_id": 12364555944200,
+          "created_at": "2026-10-20T18:31:55+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87856953622792,
+          "created_at": "2026-10-20T18:49:06+02:00",
+          "position": 1,
+          "product_id": 12364555944200,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pokemon-season-17-19-xy-dvd-standard-edition-polyband-anime-film-955.webp?v=1792514946",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12364555845896,
+      "title": "Pokémon - Season 20-22: Sonne & Mond (DVD)",
+      "handle": "26pol053-pokemon-die-tv-serie-sonne-und-mond-season-20-22-dvd",
+      "published_at": "2026-10-20T18:50:31+02:00",
+      "created_at": "2026-10-20T18:31:55+02:00",
+      "vendor": "polyband anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59172402397448,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26pol053",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "84.90",
+          "grams": 0,
+          "compare_at_price": "84.90",
+          "position": 1,
+          "product_id": 12364555845896,
+          "created_at": "2026-10-20T18:31:55+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87856952082696,
+          "created_at": "2026-10-20T18:48:50+02:00",
+          "position": 1,
+          "product_id": 12364555845896,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pokemon-season-20-22-sonne-mond-dvd-standard-edition-polyband-473.webp?v=1792514930",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12364555878664,
+      "title": "Pokémon - Season 23-25: Reisen (DVD)",
+      "handle": "26pol054-pokemon-die-tv-serie-reisen-season-23-25-dvd",
+      "published_at": "2026-10-20T18:50:32+02:00",
+      "created_at": "2026-10-20T18:31:55+02:00",
+      "vendor": "polyband anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59172402430216,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26pol054",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "84.90",
+          "grams": 0,
+          "compare_at_price": "84.90",
+          "position": 1,
+          "product_id": 12364555878664,
+          "created_at": "2026-10-20T18:31:55+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87856937369864,
+          "created_at": "2026-10-20T18:48:25+02:00",
+          "position": 1,
+          "product_id": 12364555878664,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pokemon-season-23-25-reisen-dvd-standard-edition-polyband-anime-338.webp?v=1792514905",
           "width": 2500,
           "height": 2500
         }
