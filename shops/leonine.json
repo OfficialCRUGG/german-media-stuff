@@ -43119,6 +43119,148 @@
       ]
     },
     {
+      "id": 15429424971829,
+      "title": "The Expendables 4 4K UHD + Blu-ray (Lim. Steelbook)",
+      "handle": "the-expendables-4-4k-uhd-blu-ray-lim-steelbook",
+      "published_at": "2026-10-21T14:24:00+02:00",
+      "created_at": "2026-10-21T11:42:48+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "4k",
+        "4k UHD",
+        "Action & Thriller",
+        "Blu-Ray",
+        "BluRay",
+        "Filme",
+        "FSK 18",
+        "Special Edition",
+        "Steelbook",
+        "UHD"
+      ],
+      "variants": [
+        {
+          "id": 67755928617013,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00067",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "14.99",
+          "grams": 0,
+          "compare_at_price": "34.99",
+          "position": 1,
+          "product_id": 15429424971829,
+          "created_at": "2026-10-21T11:42:48+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39231226675253,
+          "created_at": "2026-10-21T11:45:15+02:00",
+          "position": 1,
+          "product_id": 15429424971829,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/theexpendables4uhdbdlimsteelbookuhd4k40612291479962d72dpijpg-52012.jpg?v=1792575917",
+          "width": 1607,
+          "height": 2023
+        },
+        {
+          "id": 39231226871861,
+          "created_at": "2026-10-21T11:45:19+02:00",
+          "position": 2,
+          "product_id": 15429424971829,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/theexpendables4uhdbdlimsteelbookuhd4k40612291479963d72dpijpg-52029.jpg?v=1792575920",
+          "width": 1169,
+          "height": 1627
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15429424873525,
+      "title": "The Expendables 4 Blu-ray (Lim. Steelbook)",
+      "handle": "the-expendables-4-blu-ray-lim-steelbook",
+      "published_at": "2026-10-21T14:23:28+02:00",
+      "created_at": "2026-10-21T11:42:45+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "Action & Thriller",
+        "Aktionen",
+        "Blu-Ray",
+        "BluRay",
+        "Filme",
+        "FSK 18",
+        "Special Edition",
+        "Steelbook"
+      ],
+      "variants": [
+        {
+          "id": 67755927863349,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00066",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "12.99",
+          "grams": 0,
+          "compare_at_price": "24.99",
+          "position": 1,
+          "product_id": 15429424873525,
+          "created_at": "2026-10-21T11:42:45+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39231225430069,
+          "created_at": "2026-10-21T11:45:07+02:00",
+          "position": 1,
+          "product_id": 15429424873525,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/theexpendables4bdlimsteelbookbluray40612291479412d72dpijpg-51978.jpg?v=1792575908",
+          "width": 1607,
+          "height": 2023
+        },
+        {
+          "id": 39231226183733,
+          "created_at": "2026-10-21T11:45:10+02:00",
+          "position": 2,
+          "product_id": 15429424873525,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/theexpendables4bdlimsteelbookbluray40612291479413d72dpijpg-51995.jpg?v=1792575912",
+          "width": 1169,
+          "height": 1627
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 7964597223477,
       "title": "The Fantastic Four: First Steps 4K UHD + Blu-ray",
       "handle": "the-fantastic-four-first-steps-4k-uhd-blu-ray",
@@ -44294,7 +44436,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "59.99",
           "grams": 1000,
           "compare_at_price": null,

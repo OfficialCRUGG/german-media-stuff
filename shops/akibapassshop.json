@@ -142533,6 +142533,7 @@
       "vendor": "Polyband",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -142546,7 +142547,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "15.90",
           "grams": 90,
           "compare_at_price": "15.90",
@@ -142694,6 +142695,7 @@
       "vendor": "Polyband",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Frisch eingetroffen",
         "Online"
       ],
@@ -142708,7 +142710,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "49.90",
           "grams": 170,
           "compare_at_price": "49.90",
