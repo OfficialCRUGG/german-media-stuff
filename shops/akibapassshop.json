@@ -141825,6 +141825,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -141838,7 +141839,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "15.90",
           "grams": 90,
           "compare_at_price": "15.90",
@@ -177879,7 +177880,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -177895,7 +177896,7 @@
           "featured_image": null,
           "available": true,
           "price": "49.90",
-          "grams": 0,
+          "grams": 242,
           "compare_at_price": "49.90",
           "position": 1,
           "product_id": 12242055135496,
@@ -180848,7 +180849,6 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Flow:ReleaseInfoOffen",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -197425,6 +197425,7 @@
       "product_type": "Gift",
       "tags": [
         "Click&Collect",
+        "Flow:ArtikelstatusAktiv",
         "Goodie",
         "Online"
       ],
@@ -197439,7 +197440,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.00",
           "grams": 10,
           "compare_at_price": "0.00",
@@ -200087,7 +200088,8 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Click&Collect"
+        "Click&Collect",
+        "Flow:ArtikelstatusAktiv"
       ],
       "variants": [
         {
@@ -200100,7 +200102,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.00",
           "grams": 10,
           "compare_at_price": "0.00",
