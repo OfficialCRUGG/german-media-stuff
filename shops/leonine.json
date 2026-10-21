@@ -12250,6 +12250,140 @@
       ]
     },
     {
+      "id": 15428239884341,
+      "title": "Der perfekte Urlaub",
+      "handle": "der-perfekte-urlaub",
+      "published_at": "2026-10-21T09:38:43+02:00",
+      "created_at": "2026-10-21T08:33:47+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "DVD",
+      "tags": [
+        "DVD",
+        "Filme & Serien",
+        "Komödie & Drama",
+        "preorder",
+        "Serien"
+      ],
+      "variants": [
+        {
+          "id": 67753419571253,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00780",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "14.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15428239884341,
+          "created_at": "2026-10-21T08:33:47+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39223957553205,
+          "created_at": "2026-10-21T08:42:23+02:00",
+          "position": 1,
+          "product_id": 15428239884341,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122973140901jpg-237877.jpg?v=1792564945",
+          "width": 1536,
+          "height": 2162
+        },
+        {
+          "id": 39223938547765,
+          "created_at": "2026-10-21T08:42:18+02:00",
+          "position": 2,
+          "product_id": 15428239884341,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122973140902jpg-237828.jpg?v=1792564940",
+          "width": 1174,
+          "height": 1879
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15428239851573,
+      "title": "Der perfekte Urlaub Blu-ray",
+      "handle": "der-perfekte-urlaub-blu-ray",
+      "published_at": "2026-10-21T09:37:34+02:00",
+      "created_at": "2026-10-21T08:33:46+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "Blu-ray",
+        "Filme & Serien",
+        "Komödie & Drama",
+        "preorder",
+        "Serien"
+      ],
+      "variants": [
+        {
+          "id": 67753419505717,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00779",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "17.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15428239851573,
+          "created_at": "2026-10-21T08:33:46+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39225025888309,
+          "created_at": "2026-10-21T09:01:05+02:00",
+          "position": 1,
+          "product_id": 15428239851573,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122973141601jpg-237632.jpg?v=1792566067",
+          "width": 1500,
+          "height": 1915
+        },
+        {
+          "id": 39225026281525,
+          "created_at": "2026-10-21T09:01:10+02:00",
+          "position": 2,
+          "product_id": 15428239851573,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122973141602jpg-237681.jpg?v=1792566072",
+          "width": 1172,
+          "height": 1680
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 7842960015413,
       "title": "Der Rausch Blu-ray (Lim. Mediabook)",
       "handle": "der-rausch-bd-mediabook-ltd-editon",
