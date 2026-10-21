@@ -6079,6 +6079,75 @@
       ]
     },
     {
+      "id": 15428066738229,
+      "title": "Borderlands 4K UHD + Blu-ray (Lim. Steelbook)",
+      "handle": "borderlands-4k-uhd-blu-ray-lim-steelbook",
+      "published_at": "2026-10-21T08:22:50+02:00",
+      "created_at": "2026-10-21T08:18:12+02:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "4K UHD",
+      "tags": [
+        "4K",
+        "4K UHD",
+        "Action & Thriller",
+        "Aktionen",
+        "Blu-ray",
+        "Serien",
+        "Steelbooks"
+      ],
+      "variants": [
+        {
+          "id": 67753160835125,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00778",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "14.99",
+          "grams": 0,
+          "compare_at_price": "34.99",
+          "position": 1,
+          "product_id": 15428066738229,
+          "created_at": "2026-10-21T08:18:12+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39222607052853,
+          "created_at": "2026-10-21T08:18:30+02:00",
+          "position": 1,
+          "product_id": 15428066738229,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122928609101jpg-237387.jpg?v=1792563511",
+          "width": 1607,
+          "height": 2023
+        },
+        {
+          "id": 39222607249461,
+          "created_at": "2026-10-21T08:18:34+02:00",
+          "position": 2,
+          "product_id": 15428066738229,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122928609102jpg-237436.jpg?v=1792563515",
+          "width": 1169,
+          "height": 1627
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 7855582117941,
       "title": "Borderlands 4K UHD + Blu-ray",
       "handle": "borderlands-uhd-bd",
