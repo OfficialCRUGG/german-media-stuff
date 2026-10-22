@@ -158622,6 +158622,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -158635,7 +158636,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "39.90",
           "grams": 120,
           "compare_at_price": "39.90",
