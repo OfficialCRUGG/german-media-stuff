@@ -125812,7 +125812,6 @@
         "Action",
         "Anime",
         "Crunchyroll",
-        "Flow:Releaseplan-Anime",
         "Online"
       ],
       "variants": [
@@ -126273,7 +126272,6 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
-        "Flow:Releaseplan-Anime",
         "Online"
       ],
       "variants": [
@@ -126347,7 +126345,6 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
-        "Flow:Releaseplan-Anime",
         "Online"
       ],
       "variants": [
@@ -157548,9 +157545,7 @@
       "created_at": "2026-07-07T11:36:52+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [
-        "Flow:Releaseplan-Anime"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 58173151117576,
@@ -157601,9 +157596,7 @@
       "created_at": "2026-07-07T12:59:01+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [
-        "Flow:Releaseplan-Anime"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 58174840733960,
@@ -157655,7 +157648,6 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
-        "Flow:Releaseplan-Anime",
         "Highlight"
       ],
       "variants": [
@@ -157840,9 +157832,7 @@
       "created_at": "2026-07-07T12:14:54+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [
-        "Flow:Releaseplan-Anime"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 58173633691912,
@@ -157996,9 +157986,7 @@
       "created_at": "2026-07-07T12:55:24+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [
-        "Flow:Releaseplan-Anime"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 58174701633800,
@@ -158049,9 +158037,7 @@
       "created_at": "2026-07-07T12:55:09+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [
-        "Flow:Releaseplan-Anime"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 58174697308424,
@@ -158102,9 +158088,7 @@
       "created_at": "2026-07-07T12:54:38+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [
-        "Flow:Releaseplan-Anime"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 58174677287176,
@@ -158155,9 +158139,7 @@
       "created_at": "2026-07-07T12:54:28+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [
-        "Flow:Releaseplan-Anime"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 58174669521160,
@@ -164331,7 +164313,6 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
-        "Flow:Releaseplan-Anime",
         "Online"
       ],
       "variants": [
@@ -164807,7 +164788,6 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
-        "Flow:Releaseplan-Anime",
         "Online"
       ],
       "variants": [
@@ -164861,7 +164841,6 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
-        "Flow:Releaseplan-Anime",
         "Online"
       ],
       "variants": [
@@ -166006,7 +165985,9 @@
       "created_at": "2026-10-19T11:34:58+02:00",
       "vendor": "KSM Anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59159323541768,
@@ -166057,7 +166038,9 @@
       "created_at": "2026-10-19T11:34:58+02:00",
       "vendor": "KSM Anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59159323607304,
@@ -166108,7 +166091,9 @@
       "created_at": "2026-10-19T11:34:59+02:00",
       "vendor": "KSM Anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59159324098824,
@@ -166159,7 +166144,9 @@
       "created_at": "2026-10-19T11:34:59+02:00",
       "vendor": "KSM Anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59159324000520,
@@ -171571,9 +171558,7 @@
       "created_at": "2026-09-24T15:24:49+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [
-        "Flow:Releaseplan-Merch"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 58863054160136,
@@ -171634,9 +171619,7 @@
       "created_at": "2026-09-24T15:24:49+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [
-        "Flow:Releaseplan-Merch"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 58863054225672,
@@ -171697,9 +171680,7 @@
       "created_at": "2026-09-24T15:24:48+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [
-        "Flow:Releaseplan-Merch"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 58863053963528,
@@ -171760,9 +171741,7 @@
       "created_at": "2026-09-24T15:24:48+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [
-        "Flow:Releaseplan-Merch"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 58863054127368,
@@ -171823,9 +171802,7 @@
       "created_at": "2026-09-24T15:24:49+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [
-        "Flow:Releaseplan-Merch"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 58863054192904,
@@ -181322,7 +181299,9 @@
       "created_at": "2026-10-20T18:31:56+02:00",
       "vendor": "polyband anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59172402594056,
@@ -181373,7 +181352,9 @@
       "created_at": "2026-10-20T18:31:56+02:00",
       "vendor": "polyband anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59172402561288,
@@ -181424,7 +181405,9 @@
       "created_at": "2026-10-20T18:31:57+02:00",
       "vendor": "polyband anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59172402659592,
@@ -181475,7 +181458,9 @@
       "created_at": "2026-10-20T18:31:55+02:00",
       "vendor": "polyband anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59172402495752,
@@ -181526,7 +181511,9 @@
       "created_at": "2026-10-20T18:31:55+02:00",
       "vendor": "polyband anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59172402397448,
@@ -181577,7 +181564,9 @@
       "created_at": "2026-10-20T18:31:55+02:00",
       "vendor": "polyband anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59172402430216,
@@ -221754,9 +221743,7 @@
       "created_at": "2026-07-01T16:38:04+02:00",
       "vendor": "KSM Anime",
       "product_type": "",
-      "tags": [
-        "Flow:Releaseplan-Anime"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 58124927336712,
