@@ -20323,7 +20323,7 @@
         "Avatar",
         "Blu-ray",
         "Disney",
-        "preorder"
+        "Neuheiten"
       ],
       "variants": [
         {
@@ -22808,7 +22808,7 @@
       "tags": [
         "Blu-ray",
         "Filme & Serien",
-        "preorder",
+        "Neuheiten",
         "Serien"
       ],
       "variants": [
@@ -44085,7 +44085,7 @@
         "Blu-ray",
         "Filme & Serien",
         "Komödie & Drama",
-        "preorder",
+        "Neuheiten",
         "Steelbooks"
       ],
       "variants": [
@@ -47897,8 +47897,8 @@
       "tags": [
         "Blu-ray",
         "Disney",
-        "Pixar",
-        "preorder"
+        "Neuheiten",
+        "Pixar"
       ],
       "variants": [
         {
@@ -47963,8 +47963,8 @@
       "tags": [
         "Blu-ray",
         "Disney",
-        "Pixar",
-        "preorder"
+        "Neuheiten",
+        "Pixar"
       ],
       "variants": [
         {
@@ -48028,8 +48028,8 @@
       "product_type": "BluRay",
       "tags": [
         "Disney",
+        "Neuheiten",
         "Pixar",
-        "preorder",
         "Steelbook"
       ],
       "variants": [
@@ -48085,72 +48085,6 @@
       ]
     },
     {
-      "id": 8230719914037,
-      "title": "Toy Story 5-Movie-Collection",
-      "handle": "toy-story-5-movie-collection",
-      "published_at": "2026-09-03T15:35:06+02:00",
-      "created_at": "2026-09-03T14:47:56+02:00",
-      "vendor": "LEONINE Distribution GmbH",
-      "product_type": "BluRay",
-      "tags": [
-        "Disney",
-        "DVD Box",
-        "Pixar",
-        "preorder"
-      ],
-      "variants": [
-        {
-          "id": 45968361685045,
-          "title": "Default Title",
-          "option1": "Default Title",
-          "option2": null,
-          "option3": null,
-          "sku": "LEO-00730",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": null,
-          "available": true,
-          "price": "29.99",
-          "grams": 200,
-          "compare_at_price": null,
-          "position": 1,
-          "product_id": 8230719914037,
-          "created_at": "2026-09-03T14:47:56+02:00"
-        }
-      ],
-      "images": [
-        {
-          "id": 38777062817845,
-          "created_at": "2026-09-03T15:33:22+02:00",
-          "position": 1,
-          "product_id": 8230719914037,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969285401jpg-219583.jpg?v=1788442403",
-          "width": 1527,
-          "height": 2156
-        },
-        {
-          "id": 38777062850613,
-          "created_at": "2026-09-03T15:33:25+02:00",
-          "position": 2,
-          "product_id": 8230719914037,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969285402jpg-219628.jpg?v=1788442407",
-          "width": 1616,
-          "height": 2335
-        }
-      ],
-      "options": [
-        {
-          "name": "Title",
-          "position": 1,
-          "values": [
-            "Default Title"
-          ]
-        }
-      ]
-    },
-    {
       "id": 8230719881269,
       "title": "Toy Story 5-Movie-Collection Blu-ray",
       "handle": "toy-story-5-movie-collection-blu-ray",
@@ -48161,8 +48095,8 @@
       "tags": [
         "Blu-ray Box",
         "Disney",
-        "Pixar",
-        "preorder"
+        "Neuheiten",
+        "Pixar"
       ],
       "variants": [
         {
