@@ -42947,24 +42947,34 @@
       ],
       "images": [
         {
-          "id": 38691399139381,
-          "created_at": "2026-08-25T14:19:06+02:00",
+          "id": 39256567185461,
+          "created_at": "2026-10-23T10:59:13+02:00",
           "position": 1,
           "product_id": 8221443915829,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573419101jpg-218708.jpg?v=1787660347",
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/crowtacosbuhdbdpackshotfrontcmykjpg-237896.jpg?v=1792745955",
           "width": 1604,
           "height": 2024
         },
         {
-          "id": 38691399303221,
-          "created_at": "2026-08-25T14:19:10+02:00",
+          "id": 39256568954933,
+          "created_at": "2026-10-23T10:59:19+02:00",
           "position": 2,
           "product_id": 8221443915829,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573419102jpg-218752.jpg?v=1787660352",
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/crowtacosbuhdbdpackshot3drgbpng-237967.png?v=1792745962",
           "width": 1604,
           "height": 2024
+        },
+        {
+          "id": 39256571412533,
+          "created_at": "2026-10-23T10:59:27+02:00",
+          "position": 3,
+          "product_id": 8221443915829,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/crowsbuhdbdpackshotbeautypng-238020.png?v=1792745969",
+          "width": 5000,
+          "height": 3152
         }
       ],
       "options": [
