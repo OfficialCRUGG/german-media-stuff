@@ -94581,6 +94581,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Handtuch",
         "Online",
         "Strandtuch"
@@ -94596,7 +94597,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "29.90",
           "grams": 0,
           "compare_at_price": "29.90",
@@ -94636,6 +94637,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Handtuch",
         "Online",
         "Strandtuch"
@@ -94651,7 +94653,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "29.90",
           "grams": 0,
           "compare_at_price": "29.90",
@@ -94684,13 +94686,14 @@
     },
     {
       "id": 10261502689544,
-      "title": "My Dress-Up Darling - Marin - Strandtuch (150x75cm)",
+      "title": "My Dress-Up Darling - Strandtuch (150x75cm) - Marin",
       "handle": "24am011-my-dress-up-darling-marin-strandtuch-150x75cm",
       "published_at": "2025-05-28T16:26:26+02:00",
       "created_at": "2025-05-28T16:14:18+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Frisch eingetroffen",
         "Handtuch",
         "Online",
@@ -94707,7 +94710,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "29.90",
           "grams": 470,
           "compare_at_price": "29.90",
@@ -95118,7 +95121,7 @@
     },
     {
       "id": 10261503344904,
-      "title": "Fairy Tail - Lucy - Manga Style - Tasse",
+      "title": "Fairy Tail - Manga Style - Tasse - Lucy",
       "handle": "24am019-fairy-tail-lucy-mangastyle-tasse",
       "published_at": "2025-05-28T16:26:24+02:00",
       "created_at": "2025-05-28T16:14:32+02:00",
@@ -95172,7 +95175,7 @@
     },
     {
       "id": 10261503410440,
-      "title": "Fairy Tail - Natsu - Manga Style - Tasse",
+      "title": "Fairy Tail - Manga Style - Tasse - Natsu",
       "handle": "24am020-fairy-tail-natsu-mangastyle-tasse",
       "published_at": "2025-05-28T16:26:24+02:00",
       "created_at": "2025-05-28T16:14:34+02:00",
@@ -143591,7 +143594,7 @@
     },
     {
       "id": 10538650534152,
-      "title": "Tokyo Revengers - Tokyo Manji Gang - Strandtuch  (150x75cm)",
+      "title": "Tokyo Revengers - Strandtuch (150x75cm) - Tokyo Manji Gang",
       "handle": "25sam075_tokyo_revengers_strandtuch",
       "published_at": "2025-10-01T10:10:50+02:00",
       "created_at": "2025-10-01T09:10:00+02:00",
@@ -143644,7 +143647,7 @@
     },
     {
       "id": 10538650599688,
-      "title": "Tokyo Revengers - Chifuyu - Acrylschlüsselanhänger",
+      "title": "Tokyo Revengers - Acrylschlüsselanhänger - Chifuyu",
       "handle": "25sam076_tokyo_revengers_schluesselanhaenger",
       "published_at": "2025-10-01T10:10:49+02:00",
       "created_at": "2025-10-01T09:10:02+02:00",
@@ -143752,7 +143755,7 @@
     },
     {
       "id": 10538650665224,
-      "title": "Card Captor Sakura: Clear Card - Sakura Kinomoto - Acrylschlüsselanhänger",
+      "title": "Cardcaptor Sakura: Clear Card - Acrylschlüsselanhänger - Sakura Kinomoto",
       "handle": "25sam078_card_captor_sakura_schluesselanhaenger",
       "published_at": "2025-10-01T10:10:49+02:00",
       "created_at": "2025-10-01T09:10:05+02:00",
@@ -143913,7 +143916,7 @@
     },
     {
       "id": 10538650796296,
-      "title": "Blue Lock - Nagi, Isagi, Bachira & Chigiri - Tasse",
+      "title": "Blue Lock - Tasse - Nagi, Isagi, Bachira & Chigiri",
       "handle": "25sam081_blue_lock_tasse",
       "published_at": "2025-10-01T10:10:49+02:00",
       "created_at": "2025-10-01T09:10:10+02:00",
@@ -144201,7 +144204,7 @@
     },
     {
       "id": 10538651058440,
-      "title": "Meine Wiedergeburt als Schleim in einer anderen Welt - Portemonaie",
+      "title": "Meine Wiedergeburt als Schleim in einer anderen Welt - Portemonnaie",
       "handle": "25sam086_meine_wiedergeburt_als_schleim_in_einer_anderen_welt_portemonaie",
       "published_at": "2025-10-01T10:10:48+02:00",
       "created_at": "2025-10-01T09:10:19+02:00",
@@ -144709,6 +144712,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -144722,7 +144726,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "12.90",
           "grams": 0,
           "compare_at_price": "12.90",
@@ -145178,7 +145182,7 @@
     },
     {
       "id": 10538651812104,
-      "title": "Card Captor Sakura: Clear Card (Handfächer)",
+      "title": "Cardcaptor Sakura: Clear Card - Handfächer",
       "handle": "25sam102-cardcaptor-sakura-handfaecher",
       "published_at": "2025-10-01T10:10:46+02:00",
       "created_at": "2025-10-01T09:10:45+02:00",
@@ -145443,7 +145447,7 @@
     },
     {
       "id": 10538652008712,
-      "title": "NIKKE: Goddess of Victory - Sugar, Helm, Julia & Modernia - Wallscroll (60x90cm)",
+      "title": "Goddess of Victory: NIKKE - Wallscroll (60x90cm) - Sugar, Helm, Julia & Modernia",
       "handle": "25sam107-nikke-sugar-helm-julia-modernia-wallscroll",
       "published_at": "2025-10-01T10:10:45+02:00",
       "created_at": "2025-10-01T09:10:54+02:00",
@@ -145549,7 +145553,7 @@
     },
     {
       "id": 10538652107016,
-      "title": "NIKKE: Goddess of Victory - Rapi, Anis, Neon & Commander - Wallscroll (60x90cm)",
+      "title": "Goddess of Victory: NIKKE - Wallscroll (60x90cm) - Rapi, Anis, Neon & Commander",
       "handle": "25sam109-nikke-rapi-anis-neon-commander-wallscroll",
       "published_at": "2025-10-01T10:10:44+02:00",
       "created_at": "2025-10-01T09:10:57+02:00",
@@ -145602,7 +145606,7 @@
     },
     {
       "id": 10538652139784,
-      "title": "NIKKE: Goddess of Victory - Naga & Tia - Wallscroll (60x90cm)",
+      "title": "Goddess of Victory: NIKKE - Wallscroll (60x90cm) - Naga & Tia",
       "handle": "25sam110-nikke-naga-tia-wallscroll",
       "published_at": "2025-10-01T10:10:45+02:00",
       "created_at": "2025-10-01T09:10:59+02:00",
@@ -145655,7 +145659,7 @@
     },
     {
       "id": 10538652205320,
-      "title": "NIKKE: Goddess of Victory - Rosanna & Sakura - Wallscroll (60x90cm)",
+      "title": "Goddess of Victory: NIKKE - Wallscroll (60x90cm) - Rosanna & Sakura",
       "handle": "25sam111-nikke-rosanna-sakura-wallscroll",
       "published_at": "2025-10-01T10:10:44+02:00",
       "created_at": "2025-10-01T09:11:01+02:00",
@@ -145761,7 +145765,7 @@
     },
     {
       "id": 10538652303624,
-      "title": "NIKKE: Goddess of Victory - Red Hood, Snow White, Scarlet, Dorothy & Rapunzel - Wallscroll (60x90cm)",
+      "title": "Goddess of Victory: NIKKE - Wallscroll (60x90cm) - Red Hood, Snow White, Scarlet, Dorothy & Rapunzel",
       "handle": "25sam113-nikke-wallscroll",
       "published_at": "2025-10-01T10:10:44+02:00",
       "created_at": "2025-10-01T09:11:04+02:00",
@@ -145921,7 +145925,7 @@
     },
     {
       "id": 10538652401928,
-      "title": "Attack on Titan - Colossal Titan - Wallscroll (60x90cm)",
+      "title": "Attack on Titan - Wallscroll (60x90cm) - Colossal Titan",
       "handle": "25sam116-attack-on-titan-colossal-titan-wallscroll",
       "published_at": "2025-10-01T10:10:44+02:00",
       "created_at": "2025-10-01T09:11:10+02:00",
@@ -146047,7 +146051,7 @@
     },
     {
       "id": 10538652500232,
-      "title": "NieR: Automata Ver1.1a - Notizbuch (DIN A5)",
+      "title": "NieR:Automata Ver1.1a - Notizbuch (DIN A5)",
       "handle": "25sam118-nier-automata-notizbuch",
       "published_at": "2025-10-01T10:10:43+02:00",
       "created_at": "2025-10-01T09:11:13+02:00",
@@ -146269,7 +146273,7 @@
     },
     {
       "id": 10538652664072,
-      "title": "Attack on Titan - Mikasa - Acrylschlüsselanhänger (Holo-Effekt)",
+      "title": "Attack on Titan - Acrylschlüsselanhänger (8cm, Holo-Effekt) - Mikasa",
       "handle": "25sam122-attack-on-titan-mikasa-schluesselanhaenger",
       "published_at": "2025-10-01T10:10:42+02:00",
       "created_at": "2025-10-01T09:11:20+02:00",
@@ -146322,7 +146326,7 @@
     },
     {
       "id": 10538652762376,
-      "title": "Attack on Titan - Eren - Acrylschlüsselanhänger (Holo-Effekt)",
+      "title": "Attack on Titan - Acrylschlüsselanhänger (8cm, Holo-Effekt) - Eren",
       "handle": "25sam123-attack-on-titan-eren-schluesselanhaenger",
       "published_at": "2025-10-01T10:10:42+02:00",
       "created_at": "2025-10-01T09:11:22+02:00",
@@ -146640,7 +146644,7 @@
     },
     {
       "id": 10538653024520,
-      "title": "NieR: Automata Ver. 1.1a - Machine Lifeform - 3D Kissen",
+      "title": "NieR:Automata Ver1.1a - 3D Kissen - Machine Lifeform",
       "handle": "25sam129-nier-automata-kissen",
       "published_at": "2025-10-01T10:10:41+02:00",
       "created_at": "2025-10-01T09:11:33+02:00",
@@ -146957,7 +146961,7 @@
     },
     {
       "id": 10538653253896,
-      "title": "NIKKE: Goddess of Victory - Scarlet & Modernia  - Dakimakura Kissenbezug (150x50cm)",
+      "title": "Goddess of Victory: NIKKE - Dakimakura Kissenbezug (150x50cm) - Scarlet & Modernia",
       "handle": "25sam134-nikke-scarlet-modernia-kissenbezug",
       "published_at": "2026-06-24T11:03:58+02:00",
       "created_at": "2025-10-01T09:11:42+02:00",
@@ -147011,7 +147015,7 @@
     },
     {
       "id": 10538653319432,
-      "title": "NIKKE: Goddess of Victory - Rapi & Helm - Dakimakura Kissenbezug (150x50cm)",
+      "title": "Goddess of Victory: NIKKE - Dakimakura Kissenbezug (150x50cm) - Rapi & Helm",
       "handle": "25sam135-nikke-rapi-helm-kissenbezug",
       "published_at": "2025-10-01T10:10:40+02:00",
       "created_at": "2025-10-01T09:11:43+02:00",
@@ -147065,7 +147069,7 @@
     },
     {
       "id": 10538653352200,
-      "title": "Card Captor Sakura: Clear Card - Sakura - Kuscheldecke (160x120cm)",
+      "title": "Cardcaptor Sakura: Clear Card - Kuscheldecke (160x120cm) - Sakura",
       "handle": "25sam136-cardcaptor-sakura-decke",
       "published_at": "2025-10-01T10:10:40+02:00",
       "created_at": "2025-10-01T09:11:45+02:00",
@@ -147384,7 +147388,7 @@
     },
     {
       "id": 10538653614344,
-      "title": "Hello Kitty & Friends - Portemonaie",
+      "title": "Hello Kitty & Friends - Portemonnaie",
       "handle": "25sam142-hello-kitty-portemonaie",
       "published_at": "2025-10-01T10:10:39+02:00",
       "created_at": "2025-10-01T09:11:55+02:00",
@@ -147574,7 +147578,7 @@
     },
     {
       "id": 10538653778184,
-      "title": "Attack on Titan - Levi - Tasse",
+      "title": "Attack on Titan - Tasse - Levi",
       "handle": "25sam146-attack-on-titan-levi-tasse",
       "published_at": "2025-10-01T10:10:39+02:00",
       "created_at": "2025-10-01T09:12:01+02:00",
@@ -147628,7 +147632,7 @@
     },
     {
       "id": 10538653843720,
-      "title": "Attack on Titan - Hange - Tasse",
+      "title": "Attack on Titan - Tasse - Hange",
       "handle": "25sam147-attack-on-titan-hange-tasse",
       "published_at": "2025-10-01T10:10:39+02:00",
       "created_at": "2025-10-01T09:12:03+02:00",
@@ -147789,13 +147793,14 @@
     },
     {
       "id": 10538654040328,
-      "title": "Lord of the Mysteries - Klein - Acryldiorama (20cm)",
+      "title": "Lord of the Mysteries - Acryldiorama (20cm) - Klein",
       "handle": "25sam151-lord-of-the-mysteries-klein-acryldiorama",
       "published_at": "2025-10-01T10:10:38+02:00",
       "created_at": "2025-10-01T09:12:08+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -147809,7 +147814,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "24.90",
           "grams": 220,
           "compare_at_price": "24.90",
@@ -147842,7 +147847,7 @@
     },
     {
       "id": 10538654105864,
-      "title": "To Be Hero X - HERO SHOW Series - Queen - Acrylaufsteller (17cm)",
+      "title": "To Be Hero X - HERO SHOW Series - Acrylaufsteller (17cm) - Queen",
       "handle": "25sam152-to-be-hero-x-queen-acrylaufsteller",
       "published_at": "2025-10-01T10:10:38+02:00",
       "created_at": "2025-10-01T09:12:10+02:00",
@@ -147905,7 +147910,7 @@
     },
     {
       "id": 10538654171400,
-      "title": "To Be Hero X - HERO SHOW Series - Nice  - Acrylaufsteller (17cm)",
+      "title": "To Be Hero X - HERO SHOW Series - Acrylaufsteller (17cm) - Nice",
       "handle": "25sam153-to-be-hero-x-nice-acrylaufsteller",
       "published_at": "2025-10-01T10:10:38+02:00",
       "created_at": "2025-10-01T09:12:12+02:00",
@@ -148031,7 +148036,7 @@
     },
     {
       "id": 10538654269704,
-      "title": "To Be Hero X - HERO SHOW Series  - Lucky Cyan - Acrylaufsteller (17cm)",
+      "title": "To Be Hero X - HERO SHOW Series - Acrylaufsteller (17cm) - Lucky Cyan",
       "handle": "25sam155-to-be-hero-x-lucky-cyan-acrylaufsteller",
       "published_at": "2025-10-01T10:10:37+02:00",
       "created_at": "2025-10-01T09:12:15+02:00",
@@ -148157,7 +148162,7 @@
     },
     {
       "id": 10538654368008,
-      "title": "Lord of the Mysteries - Amon - Doppselseitiges Acryldiorama (18cm)",
+      "title": "Lord of the Mysteries - Doppelseitiges Acryldiorama (18cm) - Amon",
       "handle": "25sam157-lord-of-the-mysteries-amon-acrylaufsteller",
       "published_at": "2025-10-01T10:10:37+02:00",
       "created_at": "2025-10-01T09:12:19+02:00",
@@ -148273,7 +148278,7 @@
     },
     {
       "id": 10538654433544,
-      "title": "Lord of the Mysteries - Merlin Hermes - Floating Shadows Series - Acrylaufsteller (15cm)",
+      "title": "Lord of the Mysteries - Floating Shadows Series - Acrylaufsteller (15cm) - Merlin Hermes",
       "handle": "25sam159-lord-of-the-mysteries-merlin-acrylaufsteller",
       "published_at": "2025-10-01T10:10:37+02:00",
       "created_at": "2025-10-01T09:12:22+02:00",
@@ -148336,7 +148341,7 @@
     },
     {
       "id": 10538654499080,
-      "title": "Lord of the Mysteries - Sherlock - Floating Shadows Series - Acrylaufsteller (15cm)",
+      "title": "Lord of the Mysteries - Floating Shadows Series - Acrylaufsteller (15cm) - Sherlock",
       "handle": "25sam160-lord-of-the-mysteries-sherlock-acrylaufsteller",
       "published_at": "2025-10-01T10:10:37+02:00",
       "created_at": "2025-10-01T09:12:24+02:00",
@@ -148399,13 +148404,14 @@
     },
     {
       "id": 10538654531848,
-      "title": "Lord of the Mysteries - Gehrman - Floating Shadows Series - Acrylaufsteller (15cm)",
+      "title": "Lord of the Mysteries - Floating Shadows Series - Acrylaufsteller (15cm) - Gehrman",
       "handle": "25sam161-lord-of-the-mysteries-gehrman-acrylaufsteller",
       "published_at": "2025-10-01T10:10:37+02:00",
       "created_at": "2025-10-01T09:12:27+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -148419,7 +148425,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "21.90",
           "grams": 0,
           "compare_at_price": "21.90",
@@ -148532,6 +148538,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -148545,7 +148552,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "24.90",
           "grams": 210,
           "compare_at_price": "24.90",
@@ -148588,13 +148595,14 @@
     },
     {
       "id": 10538654695688,
-      "title": "Lord of the Mysteries - The Fool - Backlund's Night Series - Acryldiorama (18cm)",
+      "title": "Lord of the Mysteries - Backlund's Night Series - Acryldiorama (18cm) - The Fool",
       "handle": "25sam164-lord-of-the-mysteries-thefool-acrylaufsteller",
       "published_at": "2025-10-01T10:10:36+02:00",
       "created_at": "2025-10-01T09:12:33+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -148608,7 +148616,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "24.90",
           "grams": 170,
           "compare_at_price": "24.90",
@@ -148705,7 +148713,7 @@
     },
     {
       "id": 10538654793992,
-      "title": "Assassination Classroom - Koro Sensei - Regenschirm",
+      "title": "Assassination Classroom - Regenschirm - Koro-sensei",
       "handle": "25sam166-assassination-classroom-regenschirm",
       "published_at": "2025-10-01T10:10:36+02:00",
       "created_at": "2025-10-01T09:12:36+02:00",
@@ -148813,7 +148821,7 @@
     },
     {
       "id": 10538654892296,
-      "title": "NIKKE: Goddess of Victory - Red Hood - Mousepad (80x40cm)",
+      "title": "Goddess of Victory: NIKKE - Mousepad (80x40cm) - Red Hood",
       "handle": "25sam168-nikke-red-hood-mousepad",
       "published_at": "2025-10-01T10:10:35+02:00",
       "created_at": "2025-10-01T09:12:40+02:00",
@@ -148866,7 +148874,7 @@
     },
     {
       "id": 10538654957832,
-      "title": "Kuromi - My Dream - Acrylaufsteller (Holo-Effekt) (6 cm)",
+      "title": "Kuromi - My Dream - Acrylaufsteller (6cm, Holo-Effekt)",
       "handle": "25sam169-kuromi-mydream-acrylaufsteller",
       "published_at": "2025-10-01T10:10:35+02:00",
       "created_at": "2025-10-01T09:12:42+02:00",
@@ -148919,7 +148927,7 @@
     },
     {
       "id": 10538654990600,
-      "title": "Kuromi & My Melody - Acrylaufsteller (Holo-Effekt) (8x6 cm)",
+      "title": "Kuromi & My Melody - Acrylaufsteller (8x6cm, Holo-Effekt)",
       "handle": "25sam170-kuromi-my-melody-acrylaufsteller",
       "published_at": "2025-10-01T10:10:35+02:00",
       "created_at": "2025-10-01T09:12:43+02:00",
@@ -148972,7 +148980,7 @@
     },
     {
       "id": 10538655023368,
-      "title": "Cinnamoroll - Acrylaufsteller (Holo-Effekt) (9x4 cm)",
+      "title": "Cinnamoroll - Acrylaufsteller (9x4cm, Holo-Effekt)",
       "handle": "25sam171-cinnamonroll-acrylaufsteller",
       "published_at": "2025-10-01T10:10:35+02:00",
       "created_at": "2025-10-01T09:12:45+02:00",
@@ -149396,7 +149404,7 @@
     },
     {
       "id": 10538655416584,
-      "title": "My Melody - Pink Black Party Series - Acrylschlüsselanhänger (Holo-Effekt) (7cm)",
+      "title": "My Melody - Pink Black Party Series - Acrylschlüsselanhänger (7cm, Holo-Effekt)",
       "handle": "25sam179-my-melody-pink-black-party-schluesselanhaenger",
       "published_at": "2025-10-01T10:10:33+02:00",
       "created_at": "2025-10-01T09:13:01+02:00",
@@ -149595,7 +149603,7 @@
     },
     {
       "id": 10538655514888,
-      "title": "Spy x Family - Anya & Family - Tragetasche",
+      "title": "Spy x Family - Tragetasche - Anya & Family",
       "handle": "25sam182-spyxfamily-tragetasche",
       "published_at": "2025-10-01T10:10:33+02:00",
       "created_at": "2025-10-01T09:13:06+02:00",
@@ -149649,7 +149657,7 @@
     },
     {
       "id": 10567811727624,
-      "title": "Heaven Official's Blessing - Ming Yue Lou Lan Series - Chibi Plüsch - Hua Cheng (15cm)",
+      "title": "Heaven Official's Blessing - Ming Yue Lou Lan Series - Chibi Plüsch (15cm) - Hua Cheng",
       "handle": "25sam183-heavens-offical-blessing-chibi_plueschi-huacheng",
       "published_at": "2025-10-24T17:11:38+02:00",
       "created_at": "2025-10-24T16:54:08+02:00",
@@ -149755,7 +149763,7 @@
     },
     {
       "id": 10567811793160,
-      "title": "Heaven Official's Blessing - Ming Yue Lou Lan Series - Plüsch-Schlüsselanhänger - Tibetan Robe Xie Lian Version  (12cm)",
+      "title": "Heaven Official's Blessing - Ming Yue Lou Lan Series - Plüschschlüsselanhänger (12cm) - Xie Lian (Tibetan Robe Version)",
       "handle": "25sam185-heavens-offical-blessing-schluessselanhaenger-xielian",
       "published_at": "2025-10-24T17:11:38+02:00",
       "created_at": "2025-10-24T16:54:11+02:00",
@@ -149808,7 +149816,7 @@
     },
     {
       "id": 10567811858696,
-      "title": "Heaven Official's Blessing - Ming Yue Lou Lan Series - Plüsch-Schlüsselanhänger - Xie Lian (12cm)",
+      "title": "Heaven Official's Blessing - Ming Yue Lou Lan Series - Plüschschlüsselanhänger (12cm) - Xie Lian",
       "handle": "25sam186-heavens-offical-blessing-schluessselanhaenger-xielian",
       "published_at": "2025-10-24T17:11:38+02:00",
       "created_at": "2025-10-24T16:54:13+02:00",
@@ -149861,7 +149869,7 @@
     },
     {
       "id": 10567811924232,
-      "title": "Heaven Official's Blessing - Gummischlüsselanhänger - Hua Cheng  (6cm)",
+      "title": "Heaven Official's Blessing - Gummischlüsselanhänger (6cm) - Hua Cheng",
       "handle": "25sam187-heavens-offical-blessing-schluessselanhaenger-huacheng",
       "published_at": "2025-10-24T17:11:37+02:00",
       "created_at": "2025-10-24T16:54:15+02:00",
@@ -150026,7 +150034,7 @@
     },
     {
       "id": 10567812153608,
-      "title": "Black Butler: Public School Arc - Decke - Ciel (160x120cm)",
+      "title": "Black Butler: Public School Arc - Decke (160x120cm) - Ciel",
       "handle": "25sam190-black-butler-decke-ciel",
       "published_at": "2026-10-26T15:42:48+01:00",
       "created_at": "2025-10-24T16:54:20+02:00",
@@ -150079,7 +150087,7 @@
     },
     {
       "id": 10567812186376,
-      "title": "Black Butler: Public School Arc - Acrylschlüsselanhänger  - Sebastian (7,5cm)",
+      "title": "Black Butler: Public School Arc - Acrylschlüsselanhänger (7,5cm) - Sebastian",
       "handle": "25sam191-black-butler-schluessselanhaenger-sebastian",
       "published_at": "2025-10-24T17:11:36+02:00",
       "created_at": "2025-10-24T16:54:22+02:00",
@@ -150133,7 +150141,7 @@
     },
     {
       "id": 10567812219144,
-      "title": "Black Butler: Public School Arc - Decke - Sebastian (160x120cm)",
+      "title": "Black Butler: Public School Arc - Decke (160x120cm) - Sebastian",
       "handle": "25sam192-black-butler-decke-sebastian",
       "published_at": "2025-10-24T17:11:36+02:00",
       "created_at": "2025-10-24T16:54:23+02:00",
@@ -150627,7 +150635,7 @@
     },
     {
       "id": 10567812808968,
-      "title": "Fairy Tail - Tenugui (Wallscroll) - Manga Style (33 x120 cm)",
+      "title": "Fairy Tail - Manga Style - Tenugui (33x120cm)",
       "handle": "25sam201-fairy-tail-wallscroll-tenugui-mangastyle",
       "published_at": "2025-10-24T17:11:34+02:00",
       "created_at": "2025-10-24T16:54:38+02:00",
@@ -150899,7 +150907,7 @@
     },
     {
       "id": 10704917332232,
-      "title": "My Melody - Portemonaie - Japanese",
+      "title": "My Melody - Japanese - Portemonnaie",
       "handle": "25sam205-my-melody-portenmonaie-japanese",
       "published_at": "2026-01-13T18:33:36+01:00",
       "created_at": "2026-01-13T16:46:45+01:00",
@@ -150982,7 +150990,7 @@
     },
     {
       "id": 10704917365000,
-      "title": "My Melody - Stockregenschirm - Floral Garden (transparent)",
+      "title": "My Melody - Floral Garden - Stockregenschirm (transparent)",
       "handle": "25sam206-my-melody-stockregenschirm-floral-garden",
       "published_at": "2026-01-13T18:33:36+01:00",
       "created_at": "2026-01-13T16:46:47+01:00",
@@ -151108,7 +151116,7 @@
     },
     {
       "id": 10704917463304,
-      "title": "Black Butler - Acrylaufsteller - Ciel (14cm)",
+      "title": "Black Butler - Acrylaufsteller (14cm) - Ciel",
       "handle": "25sam208-black-butler-acrylaufsteller-ciel",
       "published_at": "2026-01-13T18:33:36+01:00",
       "created_at": "2026-01-13T16:46:51+01:00",
@@ -151267,7 +151275,7 @@
     },
     {
       "id": 10704917594376,
-      "title": "Black Butler - Dakimakura Kissenbezug - Sebastian & Ciel (50x150cm)",
+      "title": "Black Butler - Dakimakura Kissenbezug (50x150cm) - Sebastian & Ciel",
       "handle": "25sam211-black-butler-kissenbezug-sebastian-ciel",
       "published_at": "2026-01-13T18:33:35+01:00",
       "created_at": "2026-01-13T16:46:57+01:00",
@@ -151603,7 +151611,7 @@
     },
     {
       "id": 10704917823752,
-      "title": "Hello Kitty - Softcover-Notizbuch (mit Holo-Effekt) - Kimono - (DIN A5)",
+      "title": "Hello Kitty - Kimono - Softcover-Notizbuch (DIN A5, Holo-Effekt)",
       "handle": "25sam216-hello-kitty-notizbuch-kimono",
       "published_at": "2026-01-13T18:33:33+01:00",
       "created_at": "2026-01-13T16:47:06+01:00",
@@ -151676,7 +151684,7 @@
     },
     {
       "id": 10704917856520,
-      "title": "Hello Kitty & Friends - Softcover-Notizbuch (mit Holo-Effekt) - Sakura Series - A5 - (DIN A5)",
+      "title": "Hello Kitty & Friends - Sakura Series - Softcover-Notizbuch (DIN A5, Holo-Effekt)",
       "handle": "25sam217-hello-kitty-notizbuch-sakura",
       "published_at": "2026-01-13T18:33:33+01:00",
       "created_at": "2026-01-13T16:47:08+01:00",
@@ -151895,7 +151903,7 @@
     },
     {
       "id": 10704917954824,
-      "title": "My Melody & Kuromi - Vinyl-Plüschschlüsselanhänger - Angel Garden - Display (15 cm, 6 Motive)",
+      "title": "My Melody & Kuromi - Angel Garden - Vinyl-Plüschschlüsselanhänger - Blindbox-Display (6 Stück)",
       "handle": "25sam220-my-melody-kuromi-vinyl-plueschschluesselanhaenger-angel-garden-display",
       "published_at": "2026-01-13T18:33:32+01:00",
       "created_at": "2026-01-13T16:47:13+01:00",
@@ -152420,7 +152428,7 @@
     },
     {
       "id": 10704918184200,
-      "title": "My Dress-Up Darling - Acrylwanduhr - Marin Kitagawa - (24x20cm, Holo-Effekt)",
+      "title": "My Dress-Up Darling - Acrylwanduhr (24x20cm, Holo-Effekt) - Marin Kitagawa",
       "handle": "25sam226-my-dress-up-darling-acrylwanduhr-marin",
       "published_at": "2026-01-13T18:33:32+01:00",
       "created_at": "2026-01-13T16:47:23+01:00",
@@ -152662,7 +152670,7 @@
     },
     {
       "id": 10484307624200,
-      "title": "HAIKYU!! 10th Anniversary - Acrylschlüsselanhänger Hinata",
+      "title": "HAIKYU!! - 10th Anniversary - Acrylschlüsselanhänger (5x7cm) - Hinata",
       "handle": "25toh002-haikyu-anniversary-acryl-hinata",
       "published_at": "2025-08-29T10:02:56+02:00",
       "created_at": "2025-08-29T09:49:03+02:00",
@@ -152717,7 +152725,7 @@
     },
     {
       "id": 10484307656968,
-      "title": "HAIKYU!! 10th Anniversary - Handfächer",
+      "title": "HAIKYU!! - 10th Anniversary - Handfächer",
       "handle": "25toh003-haikyu-anniversary-faecher",
       "published_at": "2025-08-29T10:02:56+02:00",
       "created_at": "2025-08-29T09:49:04+02:00",
@@ -152770,7 +152778,7 @@
     },
     {
       "id": 10484307755272,
-      "title": "HAIKYU!! 10th Anniversary - Handtuch",
+      "title": "HAIKYU!! - 10th Anniversary - Handtuch (35x70cm)",
       "handle": "25toh004-haikyu-anniversary-handtuch",
       "published_at": "2025-08-29T10:02:56+02:00",
       "created_at": "2025-08-29T09:49:06+02:00",
@@ -152824,7 +152832,7 @@
     },
     {
       "id": 10484295336200,
-      "title": "HAIKYU!! 10th Anniversary - Clearfile Set (DIN A4)",
+      "title": "HAIKYU!! - 10th Anniversary - Clearfile Set (DIN A4)",
       "handle": "25toh005-haikyu-anniversary-clearfiles",
       "published_at": "2025-08-29T10:02:57+02:00",
       "created_at": "2025-08-29T09:43:08+02:00",
@@ -182294,7 +182302,7 @@
     },
     {
       "id": 10758749290760,
-      "title": "CuteBee - Miniatur Haus - Kirishima Cha-an",
+      "title": "CuteBee - Miniaturhaus - Kirishima Cha-an",
       "handle": "26sam007-cutebee-minature-house-variant-3",
       "published_at": "2026-02-17T11:24:44+01:00",
       "created_at": "2026-02-17T11:05:56+01:00",
@@ -182427,7 +182435,7 @@
     },
     {
       "id": 10758749323528,
-      "title": "CuteBee - Miniatur Haus - Morita-Ya",
+      "title": "CuteBee - Miniaturhaus - Morita-Ya",
       "handle": "26sam008-cutebee-minature-house-variant-4",
       "published_at": "2026-02-17T11:24:43+01:00",
       "created_at": "2026-02-17T11:05:58+01:00",
@@ -182560,7 +182568,7 @@
     },
     {
       "id": 10758751650056,
-      "title": "CuteBee - Miniatur Haus - Beika-cho Convenience Store",
+      "title": "CuteBee - Miniaturhaus - Beika-cho Convenience Store",
       "handle": "26sam009-cutebee-minature-house-variant-5",
       "published_at": "2026-02-17T11:24:43+01:00",
       "created_at": "2026-02-17T11:11:37+01:00",
@@ -182693,7 +182701,7 @@
     },
     {
       "id": 10758751682824,
-      "title": "CuteBee - Miniatur Haus - Oishii Kyoto",
+      "title": "CuteBee - Miniaturhaus - Oishii Kyoto",
       "handle": "26sam010-cutebee-minature-house-variant-6",
       "published_at": "2026-02-17T11:24:43+01:00",
       "created_at": "2026-02-17T11:11:38+01:00",
@@ -182826,7 +182834,7 @@
     },
     {
       "id": 10758755025160,
-      "title": "CuteBee - Miniatur Haus - Sakura Kimono Shop",
+      "title": "CuteBee - Miniaturhaus - Sakura Kimono Shop",
       "handle": "26sam011-cutebee-minature-house-variant-7",
       "published_at": "2026-02-17T11:24:43+01:00",
       "created_at": "2026-02-17T11:17:06+01:00",
@@ -183182,7 +183190,7 @@
     },
     {
       "id": 10758800998664,
-      "title": "Assassination Classroom - Koro-sensei - 3D Kissen",
+      "title": "Assassination Classroom - 3D Kissen (35x35cm) - Koro-sensei",
       "handle": "26sam019-assasination-classroom-koro-sensei-3d-kissen",
       "published_at": "2026-04-15T16:53:00+02:00",
       "created_at": "2026-02-17T11:55:17+01:00",
@@ -183540,7 +183548,7 @@
     },
     {
       "id": 10787420766472,
-      "title": "Meine Widergeburt als Schleim - Wallscroll  (60x90cm) - Rimuru Tempest",
+      "title": "Meine Wiedergeburt als Schleim in einer anderen Welt - Wallscroll (60x90cm) - Rimuru Tempest",
       "handle": "26sam030-meine-wiedergeburt-als-schleim-wallscroll-rimuru",
       "published_at": "2026-04-15T17:19:13+02:00",
       "created_at": "2026-03-06T15:38:36+01:00",
@@ -183593,7 +183601,7 @@
     },
     {
       "id": 10787420897544,
-      "title": "My Dress-Up Darling - Marin - Wallscroll (60x90cm) - Shizuku Cosplay",
+      "title": "My Dress-Up Darling - Wallscroll (60x90cm) - Marin (Shizuku Cosplay)",
       "handle": "26sam031-my-dress-up-darling-wallscroll-cosplay",
       "published_at": "2026-04-15T17:19:13+02:00",
       "created_at": "2026-03-06T15:38:39+01:00",
@@ -183752,7 +183760,7 @@
     },
     {
       "id": 10787421356296,
-      "title": "Genshin Impact: Slime Series Plüschi (15cm) - Geo-Slime",
+      "title": "Genshin Impact - Slime Series - Plüschi (15cm) - Geo-Slime",
       "handle": "26sam040-genshin-impact-slime-series-geo",
       "published_at": "2026-04-20T12:35:33+02:00",
       "created_at": "2026-03-06T15:38:56+01:00",
@@ -183805,7 +183813,7 @@
     },
     {
       "id": 10787421389064,
-      "title": "Genshin Impact: Slime Series Plüschi (15cm) - Dendro-Slime",
+      "title": "Genshin Impact - Slime Series - Plüschi (15cm) - Dendro-Slime",
       "handle": "26sam041-genshin-impact-slime-series-dendro",
       "published_at": "2026-04-20T12:35:33+02:00",
       "created_at": "2026-03-06T15:38:58+01:00",
@@ -183911,7 +183919,7 @@
     },
     {
       "id": 10787421585672,
-      "title": "Genshin Impact: Slime Series Plüschi (15cm) - Pyro-Slime",
+      "title": "Genshin Impact - Slime Series - Plüschi (15cm) - Pyro-Slime",
       "handle": "26sam046-genshin-impact-slime-series-pyro",
       "published_at": "2026-06-11T10:47:11+02:00",
       "created_at": "2026-03-06T15:39:08+01:00",
@@ -183969,6 +183977,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -183982,7 +183991,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "19.90",
           "grams": 460,
           "compare_at_price": "19.90",
@@ -184068,7 +184077,7 @@
     },
     {
       "id": 10787421749512,
-      "title": "Assassination Classroom - Handtuch (150x75cm) - Koro-Sensei",
+      "title": "Assassination Classroom - Handtuch (150x75cm) - Koro-sensei",
       "handle": "26sam051-assasination-classroom-handtuch",
       "published_at": "2026-04-15T17:19:13+02:00",
       "created_at": "2026-03-06T15:39:16+01:00",
@@ -184935,7 +184944,7 @@
     },
     {
       "id": 12046344618248,
-      "title": "CuteBee - Miniatur Haus - Antique Bookery of Kyoto",
+      "title": "CuteBee - Miniaturhaus - Antique Bookery of Kyoto",
       "handle": "26sam069-cute-bee-miniatur-haus-antique-bookery-of-kyoto",
       "published_at": "2026-06-23T10:30:02+02:00",
       "created_at": "2026-06-23T09:31:19+02:00",
@@ -185377,7 +185386,7 @@
     },
     {
       "id": 12046367785224,
-      "title": "CuteBee - Miniatur Haus - Osaka Takoyaki",
+      "title": "CuteBee - Miniaturhaus - Osaka Takoyaki",
       "handle": "26sam073-cute-bee-miniatur-haus-osaka-takoyaki",
       "published_at": "2026-06-23T10:30:02+02:00",
       "created_at": "2026-06-23T09:42:47+02:00",
@@ -185756,7 +185765,7 @@
     },
     {
       "id": 12046432469256,
-      "title": "CuteBee - Book Nook - Twilight  Sakura Path",
+      "title": "CuteBee - Book Nook - Twilight Sakura Path",
       "handle": "26sam076-cute-bee-book-nook-twilight-sakura-path",
       "published_at": "2026-06-23T10:30:01+02:00",
       "created_at": "2026-06-23T09:59:48+02:00",
@@ -185930,7 +185939,7 @@
     },
     {
       "id": 12088553439496,
-      "title": "Kaiju No.8 - Spielkarten",
+      "title": "Kaiju No. 8 - Spielkarten",
       "handle": "26sam090-kaiju-no-8-spielkarten",
       "published_at": "2026-07-07T14:19:40+02:00",
       "created_at": "2026-07-07T13:10:49+02:00",
@@ -186386,7 +186395,7 @@
     },
     {
       "id": 12156131508488,
-      "title": "Frieren - Minifigur - Blind Box (1 aus 7 Motiven)",
+      "title": "Frieren - Minifigur - Blindbox (1 aus 7)",
       "handle": "26sam118-frieren-minifigur-blindbox",
       "published_at": "2026-08-06T16:28:39+02:00",
       "created_at": "2026-08-06T14:39:20+02:00",
@@ -197599,7 +197608,6 @@
         "exclude_rebuy",
         "exclude_recommendations",
         "exclude_review",
-        "Flow:ArtikelstatusAktiv",
         "hidden",
         "Hidden recommendation",
         "Hide",
@@ -199452,7 +199460,7 @@
     },
     {
       "id": 10787421487368,
-      "title": "Genshin Impact: Slime Series Plüschi (15cm) - Hydro-Slime",
+      "title": "Genshin Impact - Slime Series - Plüschi (15cm) - Hydro-Slime",
       "handle": "genshin-impact-slime-series-pluschi-15cm-hydro-slime",
       "published_at": "2026-06-11T10:47:11+02:00",
       "created_at": "2026-03-06T15:39:05+01:00",
@@ -207568,7 +207576,7 @@
     },
     {
       "id": 12062349689096,
-      "title": "Hatsune Miku - Wallscroll 9: Take My Hand (60x90cm)",
+      "title": "Hatsune Miku - Wallscroll 9 (60x90cm) - Take My Hand",
       "handle": "hatsune-miku-wallscroll-9-take-my-hand-60x90cm",
       "published_at": "2026-07-01T14:08:01+02:00",
       "created_at": "2026-07-01T13:42:09+02:00",
@@ -218103,7 +218111,7 @@
     },
     {
       "id": 10261565276424,
-      "title": "My Dress-Up Darling - Marin - Shizuku Cosplay - Mousepad (80x40cm)",
+      "title": "My Dress-Up Darling - Mousepad (80x40cm) - Marin (Shizuku Cosplay)",
       "handle": "p-25sam014_dressupdarling_mousepad",
       "published_at": "2025-05-28T16:39:06+02:00",
       "created_at": "2025-05-28T16:33:00+02:00",
@@ -218158,7 +218166,7 @@
     },
     {
       "id": 10261565341960,
-      "title": "My Dress-Up Darling - Marin - Polaroids - Mousepad (80x40cm)",
+      "title": "My Dress-Up Darling - Polaroids - Mousepad (80x40cm) - Marin",
       "handle": "p-25sam015-dressupdarling-mousepad",
       "published_at": "2025-05-28T16:39:05+02:00",
       "created_at": "2025-05-28T16:33:01+02:00",
@@ -218212,7 +218220,7 @@
     },
     {
       "id": 10261565374728,
-      "title": "Highschool DXD - Kimono - Mousepad (80x40cm)",
+      "title": "High School DxD - Mousepad (80x40cm) - Kimono",
       "handle": "p-25sam016_highschooldxd_mousepad",
       "published_at": "2025-05-28T16:39:05+02:00",
       "created_at": "2025-05-28T16:33:03+02:00",
@@ -218266,13 +218274,14 @@
     },
     {
       "id": 10261565407496,
-      "title": "Highschool DXD - Rias - Mousepad (80x40cm)",
+      "title": "High School DxD - Mousepad (80x40cm) - Rias",
       "handle": "p-25sam017_highschooldxd_mousepad",
       "published_at": "2025-05-28T16:39:05+02:00",
       "created_at": "2025-05-28T16:33:05+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Mousepad",
         "Online"
       ],
@@ -218287,7 +218296,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "19.90",
           "grams": 0,
           "compare_at_price": "19.90",
@@ -218374,7 +218383,7 @@
     },
     {
       "id": 10261565473032,
-      "title": "Tokyo Revengers - Takemichi Hanagaki - Mousepad (80x40cm)",
+      "title": "Tokyo Revengers - Mousepad (80x40cm) - Takemichi Hanagaki",
       "handle": "p-25sam019_tokyorevengers_mousepad",
       "published_at": "2025-05-28T16:39:04+02:00",
       "created_at": "2025-05-28T16:33:08+02:00",
@@ -218482,7 +218491,7 @@
     },
     {
       "id": 10261565636872,
-      "title": "Highschool DXD - Rias - Silikon-Mousepad (27x 21x 5cm)",
+      "title": "High School DxD - Silikon-Mousepad (27x21x5cm) - Rias",
       "handle": "p-25sam021_highschooldxd_mousepad",
       "published_at": "2025-05-28T16:39:03+02:00",
       "created_at": "2025-05-28T16:33:12+02:00",
@@ -218536,13 +218545,14 @@
     },
     {
       "id": 10261565669640,
-      "title": "Highschool DXD - Akeno - Silikon-Mousepad (27x 21x 5cm)",
+      "title": "High School DxD - Silikon-Mousepad (27x21x5cm) - Akeno",
       "handle": "p-25sam022_highschooldxd_mousepad",
       "published_at": "2025-05-28T16:39:02+02:00",
       "created_at": "2025-05-28T16:33:14+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Mousepad",
         "Online"
       ],
@@ -218557,7 +218567,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "19.90",
           "grams": 0,
           "compare_at_price": "19.90",
@@ -218644,7 +218654,7 @@
     },
     {
       "id": 10261565767944,
-      "title": "Attack On Titan - Mousepad (80x40cm)",
+      "title": "Attack on Titan - Mousepad (80x40cm)",
       "handle": "p-25sam024_attackontitan_mousepad",
       "published_at": "2025-05-28T16:39:01+02:00",
       "created_at": "2025-05-28T16:33:17+02:00",
@@ -218698,7 +218708,7 @@
     },
     {
       "id": 10261565866248,
-      "title": "Goddess of Victory: Nikke - Blanc & Noir - Mousepad (80x40cm)",
+      "title": "Goddess of Victory: NIKKE - Mousepad (80x40cm) - Blanc & Noir",
       "handle": "p-25sam025_nikke_mousepad",
       "published_at": "2025-05-28T16:39:01+02:00",
       "created_at": "2025-05-28T16:33:19+02:00",
@@ -218806,7 +218816,7 @@
     },
     {
       "id": 10261566030088,
-      "title": "Goddess of Victory: Nikke - Inherit Squad - Mousepad (80x40cm)",
+      "title": "Goddess of Victory: NIKKE - Mousepad (80x40cm) - Inherit Squad",
       "handle": "p-25sam027_nikke_mousepad",
       "published_at": "2025-05-28T16:39:00+02:00",
       "created_at": "2025-05-28T16:33:23+02:00",
@@ -218860,7 +218870,7 @@
     },
     {
       "id": 10261566095624,
-      "title": "Goddess of Victory: Nikke - Rapi, Anis & Neon - Version 01 - Mousepad (80x40cm)",
+      "title": "Goddess of Victory: NIKKE - Mousepad (80x40cm) - Rapi, Anis & Neon (Version 1)",
       "handle": "p-25sam028_nikke_mousepad",
       "published_at": "2025-05-28T16:39:00+02:00",
       "created_at": "2025-05-28T16:33:24+02:00",
@@ -219257,7 +219267,7 @@
     },
     {
       "id": 10261566456072,
-      "title": "Card Captor Sakura: Clear Card - Notizbuch (DIN A5)",
+      "title": "Cardcaptor Sakura: Clear Card - Notizbuch (DIN A5)",
       "handle": "p-25sam035-cardcaptor-notizbuch",
       "published_at": "2025-05-28T16:38:57+02:00",
       "created_at": "2025-05-28T16:33:35+02:00",
@@ -219510,6 +219520,7 @@
       "product_type": "",
       "tags": [
         "Clearfiles",
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -219523,7 +219534,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "12.90",
           "grams": 90,
           "compare_at_price": "12.90",
@@ -219566,7 +219577,7 @@
     },
     {
       "id": 10261566783752,
-      "title": "My Dress-Up Darling  - Set 02 - Clearfile Set (DIN A4)",
+      "title": "My Dress-Up Darling - Set 02 - Clearfile Set (DIN A4)",
       "handle": "p-25sam040_dressupdarling_clearfiles",
       "published_at": "2025-05-28T16:38:56+02:00",
       "created_at": "2025-05-28T16:33:44+02:00",
@@ -219574,6 +219585,7 @@
       "product_type": "",
       "tags": [
         "Clearfiles",
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -219587,7 +219599,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "12.90",
           "grams": 90,
           "compare_at_price": "12.90",
@@ -219630,7 +219642,7 @@
     },
     {
       "id": 10261566849288,
-      "title": "Highschool DXD - Clearfile Set (DIN A4)",
+      "title": "High School DxD - Clearfile Set (DIN A4)",
       "handle": "p-25sam041_highschooldxd_clearfiles",
       "published_at": "2025-05-28T16:38:56+02:00",
       "created_at": "2025-05-28T16:33:45+02:00",
@@ -219822,7 +219834,7 @@
     },
     {
       "id": 10261567013128,
-      "title": "Miku Hatsune - Clearfile Set (DIN A4)",
+      "title": "Hatsune Miku - Clearfile Set (DIN A4)",
       "handle": "p-25sam044_hatsunemiku_clearfiles",
       "published_at": "2025-05-28T16:38:55+02:00",
       "created_at": "2025-05-28T16:33:51+02:00",
@@ -219930,7 +219942,7 @@
     },
     {
       "id": 10261567209736,
-      "title": "That Time I Got Reincarnated as a Slime - Rimuru - Plüsch (Version B)",
+      "title": "Meine Wiedergeburt als Schleim in einer anderen Welt - Plüsch - Rimuru (Version B)",
       "handle": "p-25sam046_reincarnatedslime_plush",
       "published_at": "2025-05-28T16:38:54+02:00",
       "created_at": "2025-05-28T16:33:54+02:00",
@@ -219983,7 +219995,7 @@
     },
     {
       "id": 10261567275272,
-      "title": "Miku Hatsune - Spielkarten",
+      "title": "Hatsune Miku - Spielkarten",
       "handle": "p-25sam047_hatsunemiku_spielkarten",
       "published_at": "2025-05-28T16:38:54+02:00",
       "created_at": "2025-05-28T16:33:56+02:00",
@@ -220200,7 +220212,7 @@
     },
     {
       "id": 10261567602952,
-      "title": "NieR: Automata Ver1.1a - Adam & Eve - Wallscroll (60x90cm)",
+      "title": "NieR:Automata Ver1.1a - Wallscroll (60x90cm) - Adam & Eve",
       "handle": "p-25sam052_nierautomata_wallscroll",
       "published_at": "2025-05-28T16:38:53+02:00",
       "created_at": "2025-05-28T16:34:04+02:00",
@@ -220255,7 +220267,7 @@
     },
     {
       "id": 10261567701256,
-      "title": "NieR: Automata Ver1.1a - A2 - Wallscroll (60x90cm)",
+      "title": "NieR:Automata Ver1.1a - Wallscroll (60x90cm) - A2",
       "handle": "p-25sam053_nierautomata_wallscroll",
       "published_at": "2025-05-28T16:38:52+02:00",
       "created_at": "2025-05-28T16:34:06+02:00",
@@ -220310,7 +220322,7 @@
     },
     {
       "id": 10261567799560,
-      "title": "NieR: Automata Ver1.1a - 9S - Wallscroll (60x90cm)",
+      "title": "NieR:Automata Ver1.1a - Wallscroll (60x90cm) - 9S",
       "handle": "p-25sam054_nierautomata_wallscroll",
       "published_at": "2025-05-28T16:38:52+02:00",
       "created_at": "2025-05-28T16:34:08+02:00",
@@ -220366,7 +220378,7 @@
     },
     {
       "id": 10261567897864,
-      "title": "NieR: Automata Ver1.1a - 2B - Wallscroll (60x90cm)",
+      "title": "NieR:Automata Ver1.1a - Wallscroll (60x90cm) - 2B",
       "handle": "p-25sam055_nierautomata_wallscroll",
       "published_at": "2025-05-28T16:38:52+02:00",
       "created_at": "2025-05-28T16:34:09+02:00",
@@ -220535,7 +220547,7 @@
     },
     {
       "id": 10261568061704,
-      "title": "My Dress-Up Darling - Marin & Wakana - Wallscroll",
+      "title": "My Dress-Up Darling - Wallscroll - Marin & Wakana",
       "handle": "p-25sam058_dressupdarling_wallscroll",
       "published_at": "2025-05-28T16:38:51+02:00",
       "created_at": "2025-05-28T16:34:14+02:00",
@@ -220756,7 +220768,7 @@
     },
     {
       "id": 10261568356616,
-      "title": "Miku Hatsune Wallscroll 5 - Kimono - Wallscroll",
+      "title": "Hatsune Miku - Wallscroll 5 (60x90cm) - Kimono",
       "handle": "p-25sam063_hatsunemiku_wallscroll",
       "published_at": "2025-05-28T16:38:49+02:00",
       "created_at": "2025-05-28T16:34:23+02:00",
@@ -220867,7 +220879,7 @@
     },
     {
       "id": 10261568553224,
-      "title": "Highschool DXD - Rias on Bed - Wallscroll (60x86cm)",
+      "title": "High School DxD - Wallscroll (60x86cm) - Rias on Bed",
       "handle": "p-25sam066_highschooldxd_wallscroll",
       "published_at": "2025-05-28T16:38:48+02:00",
       "created_at": "2025-05-28T16:34:27+02:00",
@@ -221032,7 +221044,7 @@
     },
     {
       "id": 10261568782600,
-      "title": "My Dress-Up Darling - Marin - Shizuku Cosplay - Chibi Style - Acrylschlüsselanhänger (8cm)",
+      "title": "My Dress-Up Darling - Chibi Style - Acrylschlüsselanhänger (8cm) - Marin (Shizuku Cosplay)",
       "handle": "p-25sam069_dressupdarling_acryl",
       "published_at": "2025-05-28T16:38:48+02:00",
       "created_at": "2025-05-28T16:34:33+02:00",
@@ -221087,7 +221099,7 @@
     },
     {
       "id": 10261568815368,
-      "title": "My Dress-Up Darling - Sajuna - Chibi Style - Acrylschlüsselanhänger (8cm)",
+      "title": "My Dress-Up Darling - Chibi Style - Acrylschlüsselanhänger (8cm) - Sajuna",
       "handle": "p-25sam070_dressupdarling_acryl",
       "published_at": "2025-05-28T16:38:47+02:00",
       "created_at": "2025-05-28T16:34:34+02:00",
@@ -223785,7 +223797,7 @@
     },
     {
       "id": 10787420963080,
-      "title": "That Time I Got Reincarnated As A Slime - Wallscroll (60x90cm) - Rimuru & Diablo",
+      "title": "Meine Wiedergeburt als Schleim in einer anderen Welt - Wallscroll (60x90cm) - Rimuru & Diablo",
       "handle": "that-time-i-got-reincarnated-as-a-slime-wallscroll-60x90cm-rimuru-diablo",
       "published_at": "2026-04-15T17:19:13+02:00",
       "created_at": "2026-03-06T15:38:40+01:00",
