@@ -195782,6 +195782,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -206083,7 +206084,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.00",
           "grams": 100,
           "compare_at_price": "0.00",
@@ -207507,6 +207508,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
