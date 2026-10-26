@@ -73180,7 +73180,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "49.90",
           "grams": 97,
           "compare_at_price": "69.90",
@@ -73664,7 +73664,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "39.90",
           "grams": 110,
           "compare_at_price": "39.90",
@@ -96275,6 +96275,7 @@
       "tags": [
         "Bandai",
         "Figur",
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -96288,7 +96289,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "41.90",
           "grams": 0,
           "compare_at_price": "41.90",
@@ -96715,6 +96716,7 @@
       "tags": [
         "Bandai",
         "Figur",
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -96728,7 +96730,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "41.90",
           "grams": 0,
           "compare_at_price": "41.90",
@@ -120782,7 +120784,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "39.90",
           "grams": 150,
           "compare_at_price": "39.90",
@@ -135533,7 +135535,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "29.90",
           "grams": 120,
           "compare_at_price": "29.90",
@@ -188175,7 +188177,9 @@
       "created_at": "2026-08-26T15:06:08+02:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:ArtikelstatusAktiv"
+      ],
       "variants": [
         {
           "id": 58549978038536,
@@ -188187,7 +188191,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "19.90",
           "grams": 0,
           "compare_at_price": "19.90",
@@ -197479,7 +197483,6 @@
         "exclude_rebuy",
         "exclude_recommendations",
         "exclude_review",
-        "Flow:ArtikelstatusAktiv",
         "hidden",
         "Hidden recommendation",
         "Hide",
