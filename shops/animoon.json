@@ -14004,7 +14004,20 @@
           "sku": null,
           "requires_shipping": true,
           "taxable": true,
-          "featured_image": null,
+          "featured_image": {
+            "id": 81628872966409,
+            "product_id": 15624715010313,
+            "position": 1,
+            "created_at": "2026-09-26T01:03:15+02:00",
+            "updated_at": "2026-09-26T01:03:18+02:00",
+            "alt": null,
+            "width": 1848,
+            "height": 1848,
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/From-Overshadowed-to-Overpowered_Band_2_2c954a4b-0ad3-404e-b8f0-d1ff29573559.png?v=1790377398",
+            "variant_ids": [
+              57195648581897
+            ]
+          },
           "available": true,
           "price": "13.00",
           "grams": 300,
@@ -14022,7 +14035,20 @@
           "sku": null,
           "requires_shipping": true,
           "taxable": true,
-          "featured_image": null,
+          "featured_image": {
+            "id": 81947378254089,
+            "product_id": 15624715010313,
+            "position": 2,
+            "created_at": "2026-10-26T19:43:00+01:00",
+            "updated_at": "2026-10-26T19:43:04+01:00",
+            "alt": null,
+            "width": 1848,
+            "height": 1848,
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Overshadowed_Band_2_LE_79368559-307e-4b05-95de-4996490b02b7.png?v=1793040184",
+            "variant_ids": [
+              57195648614665
+            ]
+          },
           "available": true,
           "price": "20.00",
           "grams": 300,
@@ -14038,15 +14064,29 @@
           "created_at": "2026-09-26T01:03:15+02:00",
           "position": 1,
           "product_id": 15624715010313,
-          "variant_ids": [],
+          "variant_ids": [
+            57195648581897
+          ],
           "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/From-Overshadowed-to-Overpowered_Band_2_2c954a4b-0ad3-404e-b8f0-d1ff29573559.png?v=1790377398",
+          "width": 1848,
+          "height": 1848
+        },
+        {
+          "id": 81947378254089,
+          "created_at": "2026-10-26T19:43:00+01:00",
+          "position": 2,
+          "product_id": 15624715010313,
+          "variant_ids": [
+            57195648614665
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Overshadowed_Band_2_LE_79368559-307e-4b05-95de-4996490b02b7.png?v=1793040184",
           "width": 1848,
           "height": 1848
         },
         {
           "id": 81628873031945,
           "created_at": "2026-09-26T01:03:16+02:00",
-          "position": 2,
+          "position": 3,
           "product_id": 15624715010313,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/From-Overshadowed-to-Overpowered_Band_2_2D_Cover_c7ad7dbd-c9ba-432f-8ee8-6aa02a248603.png?v=1790377400",
@@ -17646,7 +17686,20 @@
           "sku": null,
           "requires_shipping": true,
           "taxable": true,
-          "featured_image": null,
+          "featured_image": {
+            "id": 81628844327177,
+            "product_id": 15671702814985,
+            "position": 1,
+            "created_at": "2026-09-26T00:18:28+02:00",
+            "updated_at": "2026-09-26T00:18:30+02:00",
+            "alt": null,
+            "width": 1848,
+            "height": 1848,
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Gushing_Band_5_SE.png?v=1790374710",
+            "variant_ids": [
+              57319692435721
+            ]
+          },
           "available": true,
           "price": "13.00",
           "grams": 300,
@@ -17664,7 +17717,20 @@
           "sku": null,
           "requires_shipping": true,
           "taxable": true,
-          "featured_image": null,
+          "featured_image": {
+            "id": 81947366326537,
+            "product_id": 15671702814985,
+            "position": 2,
+            "created_at": "2026-10-26T19:41:29+01:00",
+            "updated_at": "2026-10-26T19:41:32+01:00",
+            "alt": null,
+            "width": 1848,
+            "height": 1848,
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Gushing_Band_5_LE.png?v=1793040092",
+            "variant_ids": [
+              57319692468489
+            ]
+          },
           "available": true,
           "price": "20.00",
           "grams": 300,
@@ -17680,15 +17746,29 @@
           "created_at": "2026-09-26T00:18:28+02:00",
           "position": 1,
           "product_id": 15671702814985,
-          "variant_ids": [],
+          "variant_ids": [
+            57319692435721
+          ],
           "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Gushing_Band_5_SE.png?v=1790374710",
+          "width": 1848,
+          "height": 1848
+        },
+        {
+          "id": 81947366326537,
+          "created_at": "2026-10-26T19:41:29+01:00",
+          "position": 2,
+          "product_id": 15671702814985,
+          "variant_ids": [
+            57319692468489
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Gushing_Band_5_LE.png?v=1793040092",
           "width": 1848,
           "height": 1848
         },
         {
           "id": 81628844359945,
           "created_at": "2026-09-26T00:18:28+02:00",
-          "position": 2,
+          "position": 3,
           "product_id": 15671702814985,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Gushing_Band_5_2D_Cover.png?v=1790374711",
@@ -48537,8 +48617,7 @@
             "height": 1848,
             "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Bodyguard_Band_1_SE-Vorab.png?v=1790247467",
             "variant_ids": [
-              57319713210633,
-              57319713243401
+              57319713210633
             ]
           },
           "available": true,
@@ -48559,17 +48638,16 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": {
-            "id": 81617475109129,
+            "id": 81947390968073,
             "product_id": 15671710056713,
-            "position": 1,
-            "created_at": "2026-09-24T12:57:44+02:00",
-            "updated_at": "2026-09-24T12:57:47+02:00",
+            "position": 2,
+            "created_at": "2026-10-26T19:44:31+01:00",
+            "updated_at": "2026-10-26T19:44:36+01:00",
             "alt": null,
-            "width": 1848,
-            "height": 1848,
-            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Bodyguard_Band_1_SE-Vorab.png?v=1790247467",
+            "width": 2101,
+            "height": 1668,
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Bodyguard_Band_1_LE.png?v=1793040276",
             "variant_ids": [
-              57319713210633,
               57319713243401
             ]
           },
@@ -48589,17 +48667,28 @@
           "position": 1,
           "product_id": 15671710056713,
           "variant_ids": [
-            57319713210633,
-            57319713243401
+            57319713210633
           ],
           "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Bodyguard_Band_1_SE-Vorab.png?v=1790247467",
           "width": 1848,
           "height": 1848
         },
         {
+          "id": 81947390968073,
+          "created_at": "2026-10-26T19:44:31+01:00",
+          "position": 2,
+          "product_id": 15671710056713,
+          "variant_ids": [
+            57319713243401
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Bodyguard_Band_1_LE.png?v=1793040276",
+          "width": 2101,
+          "height": 1668
+        },
+        {
           "id": 81534236819721,
           "created_at": "2026-09-15T14:06:05+02:00",
-          "position": 2,
+          "position": 3,
           "product_id": 15671710056713,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Bodyguard_Band1_2DCover.png?v=1789473969",
