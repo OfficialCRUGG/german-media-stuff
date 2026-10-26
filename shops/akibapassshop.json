@@ -144847,6 +144847,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -144860,7 +144861,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "9.90",
           "grams": 120,
           "compare_at_price": "9.90",
@@ -145616,6 +145617,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -145629,7 +145631,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "9.90",
           "grams": 0,
           "compare_at_price": "9.90",
@@ -146199,6 +146201,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -146212,7 +146215,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "29.90",
           "grams": 190,
           "compare_at_price": "29.90",
@@ -146305,6 +146308,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -146318,7 +146322,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "29.90",
           "grams": 190,
           "compare_at_price": "29.90",
@@ -146358,6 +146362,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -146371,7 +146376,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "29.90",
           "grams": 190,
           "compare_at_price": "29.90",
@@ -148818,6 +148823,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -148831,7 +148837,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "21.90",
           "grams": 0,
           "compare_at_price": "21.90",
@@ -148881,6 +148887,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -148894,7 +148901,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "21.90",
           "grams": 0,
           "compare_at_price": "21.90",
@@ -149199,6 +149206,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Frisch eingetroffen",
         "Online"
       ],
@@ -149213,7 +149221,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "19.90",
           "grams": 0,
           "compare_at_price": "19.90",
@@ -151175,6 +151183,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -151188,7 +151197,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "19.90",
           "grams": 0,
           "compare_at_price": "19.90",
@@ -182575,6 +182584,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -182588,7 +182598,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "39.90",
           "grams": 0,
           "compare_at_price": "39.90",
@@ -183823,6 +183833,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -183836,7 +183847,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "8.90",
           "grams": 20,
           "compare_at_price": "8.90",
@@ -183929,6 +183940,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -183942,7 +183954,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "19.90",
           "grams": 0,
           "compare_at_price": "19.90",
@@ -184141,6 +184153,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -184154,7 +184167,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "19.90",
           "grams": 160,
           "compare_at_price": "19.90",
@@ -184670,6 +184683,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Merch",
         "Online"
       ],
@@ -184684,7 +184698,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "17.90",
           "grams": 190,
           "compare_at_price": "19.90",
@@ -184833,6 +184847,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Merch",
         "Online"
       ],
@@ -184847,7 +184862,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "17.90",
           "grams": 189,
           "compare_at_price": "19.90",
@@ -185106,6 +185121,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Merch",
         "Online"
       ],
@@ -185120,7 +185136,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "19.90",
           "grams": 424,
           "compare_at_price": "22.90",
@@ -187026,7 +187042,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Merch",
         "warenpost"
       ],
@@ -218114,6 +218130,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Frisch eingetroffen",
         "Fächer",
         "Online"
@@ -218129,7 +218146,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "14.90",
           "grams": 80,
           "compare_at_price": "14.90",
@@ -219685,6 +219702,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Frisch eingetroffen",
         "Notizbuch",
         "Online"
@@ -219700,7 +219718,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "9.90",
           "grams": 0,
           "compare_at_price": "9.90",
@@ -219740,6 +219758,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Frisch eingetroffen",
         "Notizbuch",
         "Online"
@@ -219755,7 +219774,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "9.90",
           "grams": 0,
           "compare_at_price": "9.90",
@@ -220191,6 +220210,7 @@
       "product_type": "",
       "tags": [
         "Clearfiles",
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -220204,7 +220224,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "12.90",
           "grams": 0,
           "compare_at_price": "12.90",
@@ -220320,6 +220340,7 @@
       "product_type": "",
       "tags": [
         "Clearfiles",
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -220333,7 +220354,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "12.90",
           "grams": 0,
           "compare_at_price": "12.90",
@@ -221428,6 +221449,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "Wallscroll",
         "Wandbanner"
@@ -221443,7 +221465,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "19.90",
           "grams": 0,
           "compare_at_price": "19.90",
