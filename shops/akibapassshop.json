@@ -95767,6 +95767,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "Tasse"
       ],
@@ -95781,7 +95782,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "14.90",
           "grams": 350,
           "compare_at_price": "14.90",
@@ -144744,6 +144745,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -144757,7 +144759,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "26.90",
           "grams": 0,
           "compare_at_price": "26.90",
@@ -156096,7 +156098,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "89.90",
           "grams": 794,
           "compare_at_price": "89.90",
@@ -183740,6 +183742,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -183753,7 +183756,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "26.90",
           "grams": 1090,
           "compare_at_price": "26.90",
@@ -209965,6 +209968,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -209978,7 +209982,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "24.90",
           "grams": 570,
           "compare_at_price": "24.90",
@@ -218349,6 +218353,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Handtuch",
         "Online",
         "Strandtuch"
@@ -218364,7 +218369,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "22.90",
           "grams": 0,
           "compare_at_price": "22.90",
