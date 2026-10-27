@@ -13718,6 +13718,82 @@
       ]
     },
     {
+      "id": 15446673817653,
+      "title": "Die Chroniken von Narnia - Der König von Narnia UHD+BD (Lim. Steelbook)",
+      "handle": "die-chroniken-von-narnia-der-k-nig-von-narnia-uhd-bd-lim-steelbook",
+      "published_at": "2026-10-27T08:58:12+01:00",
+      "created_at": "2026-10-26T16:32:53+01:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "Disney",
+        "Filme",
+        "preorder",
+        "Steelbooks"
+      ],
+      "variants": [
+        {
+          "id": 67807980126261,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00781",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "34.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15446673817653,
+          "created_at": "2026-10-26T16:32:53+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39300052320309,
+          "created_at": "2026-10-26T16:32:59+01:00",
+          "position": 1,
+          "product_id": 15446673817653,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4013575734399-die-chroniken-von-narnia-der-knig-von-narnia-uhdbd-lim-steelbook01jpg-241873.jpg?v=1793028781",
+          "width": 1106,
+          "height": 1389
+        },
+        {
+          "id": 39300052516917,
+          "created_at": "2026-10-26T16:33:04+01:00",
+          "position": 2,
+          "product_id": 15446673817653,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4013575734399-die-chroniken-von-narnia-der-knig-von-narnia-uhdbd-lim-steelbook02jpg-241922.jpg?v=1793028786",
+          "width": 1743,
+          "height": 2152
+        },
+        {
+          "id": 39310245134389,
+          "created_at": "2026-10-27T08:53:46+01:00",
+          "position": 3,
+          "product_id": 15446673817653,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/chronikenjpg-242020.jpg?v=1793087627",
+          "width": 3324,
+          "height": 2062
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 8037667110965,
       "title": "Die Drei Musketiere - Blu-ray Box",
       "handle": "die-drei-musketiere-blu-ray-box",
