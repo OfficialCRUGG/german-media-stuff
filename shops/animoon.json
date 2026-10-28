@@ -32923,19 +32923,19 @@
         "bday",
         "comedy",
         "drama",
-        "preorder",
+        "Neuheit",
+        "released",
         "romance",
         "school",
         "Serie",
         "SoL",
-        "vorbestellung",
         "yamada"
       ],
       "variants": [
         {
           "id": 56047605809417,
-          "title": "Blu-ray (Vorbestellung)",
-          "option1": "Blu-ray (Vorbestellung)",
+          "title": "Blu-ray",
+          "option1": "Blu-ray",
           "option2": null,
           "option3": null,
           "sku": "4260497796213",
@@ -32965,8 +32965,8 @@
         },
         {
           "id": 57337961480457,
-          "title": "DVD (Vorbestellung)",
-          "option1": "DVD (Vorbestellung)",
+          "title": "DVD",
+          "option1": "DVD",
           "option2": null,
           "option3": null,
           "sku": "4260497796947",
@@ -33011,8 +33011,8 @@
           "name": "Medium auswählen:",
           "position": 1,
           "values": [
-            "Blu-ray (Vorbestellung)",
-            "DVD (Vorbestellung)"
+            "Blu-ray",
+            "DVD"
           ]
         }
       ]
@@ -39958,18 +39958,18 @@
         "comedy",
         "drama",
         "fantasy",
-        "preorder",
+        "Neuheit",
+        "released",
         "romance",
         "Serie",
         "SoL",
-        "spice&wolf",
-        "vorbestellung"
+        "spice&wolf"
       ],
       "variants": [
         {
           "id": 56047647031561,
-          "title": "Blu-ray (Vorbestellung)",
-          "option1": "Blu-ray (Vorbestellung)",
+          "title": "Blu-ray",
+          "option1": "Blu-ray",
           "option2": null,
           "option3": null,
           "sku": "4260497796244",
@@ -40037,7 +40037,7 @@
           "name": "Medium auswählen:",
           "position": 1,
           "values": [
-            "Blu-ray (Vorbestellung)"
+            "Blu-ray"
           ]
         }
       ]
