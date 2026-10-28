@@ -47076,6 +47076,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Flow:ArtikelstatusAktiv",
         "KSM Anime",
         "Online"
       ],
@@ -47090,7 +47091,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "54.90",
           "grams": 300,
           "compare_at_price": "54.90",
@@ -79500,6 +79501,7 @@
       "tags": [
         "Adventure",
         "Anime",
+        "Flow:ArtikelstatusAktiv",
         "KSM Anime",
         "Online"
       ],
@@ -79514,7 +79516,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "24.90",
           "grams": 200,
           "compare_at_price": "24.90",
@@ -79894,6 +79896,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Flow:ArtikelstatusAktiv",
         "KSM Anime",
         "Online",
         "Romance"
@@ -79909,7 +79912,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "79.90",
           "grams": 250,
           "compare_at_price": "79.90",
@@ -79951,6 +79954,7 @@
       "tags": [
         "Anime",
         "Drama",
+        "Flow:ArtikelstatusAktiv",
         "KSM Anime",
         "Online"
       ],
@@ -79965,7 +79969,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "69.90",
           "grams": 190,
           "compare_at_price": "49.90",
@@ -134055,6 +134059,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Flow:ArtikelstatusAktiv",
         "KSM Anime",
         "Online",
         "Slice-of-Life"
@@ -134070,7 +134075,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "69.90",
           "grams": 150,
           "compare_at_price": "69.90",
@@ -165085,7 +165090,9 @@
       "created_at": "2026-03-03T14:46:49+01:00",
       "vendor": "KSM Anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:ArtikelstatusAktiv"
+      ],
       "variants": [
         {
           "id": 53420789727496,
@@ -165097,7 +165104,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "54.90",
           "grams": 124,
           "compare_at_price": "54.90",
@@ -198106,6 +198113,7 @@
       "product_type": "Gift",
       "tags": [
         "Click&Collect",
+        "Flow:ArtikelstatusAktiv",
         "Goodie",
         "Online"
       ],
@@ -198120,7 +198128,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.00",
           "grams": 10,
           "compare_at_price": "0.00",
@@ -200768,7 +200776,8 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Click&Collect"
+        "Click&Collect",
+        "Flow:ArtikelstatusAktiv"
       ],
       "variants": [
         {
@@ -200781,7 +200790,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.00",
           "grams": 10,
           "compare_at_price": "0.00",
@@ -214389,6 +214398,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -214402,7 +214412,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "22.90",
           "grams": 70,
           "compare_at_price": "22.90",
