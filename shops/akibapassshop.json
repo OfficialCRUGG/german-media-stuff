@@ -135905,6 +135905,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Flow:ReleaseInfoOffen",
         "Flow:Releaseplan-Anime",
         "Online"
       ],
@@ -153038,6 +153039,8 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
+        "Flow:ReleaseInfoOffen",
         "Flow:Releaseplan-Merch",
         "Online"
       ],
@@ -153052,7 +153055,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "22.90",
           "grams": 0,
           "compare_at_price": "22.90",
@@ -164772,6 +164775,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Flow:ReleaseInfoOffen",
         "Flow:Releaseplan-Anime",
         "Online"
       ],
@@ -164985,6 +164989,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Flow:ReleaseInfoOffen",
         "Flow:Releaseplan-Anime",
         "Online"
       ],
@@ -187519,6 +187524,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
         "Flow:Releaseplan-Merch",
         "warenpost"
       ],
@@ -208251,7 +208257,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
