@@ -11125,7 +11125,8 @@
         "Dauersale",
         "Frisch eingetroffen",
         "Online",
-        "peppermint anime"
+        "peppermint anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -11139,9 +11140,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "0.90",
           "grams": 130,
-          "compare_at_price": "26.90",
+          "compare_at_price": "4.90",
           "position": 1,
           "product_id": 10261206794504,
           "created_at": "2025-05-28T14:25:09+02:00"
@@ -11355,7 +11356,8 @@
         "Comedy",
         "Dauersale",
         "Online",
-        "peppermint anime"
+        "peppermint anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -11369,9 +11371,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "2.90",
           "grams": 100,
-          "compare_at_price": "29.90",
+          "compare_at_price": "9.90",
           "position": 1,
           "product_id": 10261206892808,
           "created_at": "2025-05-28T14:25:11+02:00"
@@ -14042,6 +14044,7 @@
         "Anime",
         "Online",
         "polyband anime",
+        "sale-oktober-2026",
         "Sammelschuber"
       ],
       "variants": [
@@ -14056,7 +14059,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "49.90",
+          "price": "33.90",
           "grams": 330,
           "compare_at_price": "49.90",
           "position": 1,
@@ -15004,7 +15007,8 @@
       "product_type": "",
       "tags": [
         "Online",
-        "polyband anime"
+        "polyband anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -15018,7 +15022,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "22.90",
+          "price": "4.90",
           "grams": 120,
           "compare_at_price": "22.90",
           "position": 1,
@@ -15068,7 +15072,8 @@
       "product_type": "",
       "tags": [
         "Online",
-        "polyband anime"
+        "polyband anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -15082,7 +15087,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "23.90",
+          "price": "14.90",
           "grams": 120,
           "compare_at_price": "23.90",
           "position": 1,
@@ -15132,7 +15137,8 @@
       "product_type": "",
       "tags": [
         "Online",
-        "polyband anime"
+        "polyband anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -15146,7 +15152,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "32.90",
+          "price": "19.90",
           "grams": 260,
           "compare_at_price": "32.90",
           "position": 1,
@@ -15403,7 +15409,8 @@
       "product_type": "",
       "tags": [
         "Online",
-        "polyband anime"
+        "polyband anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -15417,7 +15424,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "42.90",
+          "price": "19.90",
           "grams": 260,
           "compare_at_price": "42.90",
           "position": 1,
@@ -15958,7 +15965,8 @@
         "Anime",
         "Online",
         "Pokémon",
-        "polyband anime"
+        "polyband anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -15972,7 +15980,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "32.90",
+          "price": "19.90",
           "grams": 0,
           "compare_at_price": "32.90",
           "position": 1,
@@ -16349,7 +16357,8 @@
       "tags": [
         "Frisch eingetroffen",
         "Online",
-        "Puzzle"
+        "Puzzle",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -16363,7 +16372,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "19.90",
+          "price": "4.90",
           "grams": 800,
           "compare_at_price": "19.90",
           "position": 1,
@@ -18737,7 +18746,8 @@
       "product_type": "",
       "tags": [
         "Online",
-        "Puzzle"
+        "Puzzle",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -18751,7 +18761,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "19.90",
+          "price": "4.90",
           "grams": 800,
           "compare_at_price": "19.90",
           "position": 1,
@@ -19435,7 +19445,8 @@
       "tags": [
         "Auf Lager",
         "Online",
-        "Puzzle"
+        "Puzzle",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -19449,7 +19460,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "19.90",
+          "price": "4.90",
           "grams": 800,
           "compare_at_price": "19.90",
           "position": 1,
@@ -20643,7 +20654,8 @@
       "product_type": "",
       "tags": [
         "Button",
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -20657,7 +20669,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "1.90",
           "grams": 10,
           "compare_at_price": "4.90",
           "position": 1,
@@ -20707,7 +20719,8 @@
       "product_type": "",
       "tags": [
         "Button",
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -20721,7 +20734,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "1.90",
           "grams": 10,
           "compare_at_price": "4.90",
           "position": 1,
@@ -20771,7 +20784,8 @@
       "product_type": "",
       "tags": [
         "Button",
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -20785,7 +20799,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "1.90",
           "grams": 10,
           "compare_at_price": "4.90",
           "position": 1,
@@ -20835,7 +20849,8 @@
       "product_type": "",
       "tags": [
         "Button",
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -20849,7 +20864,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "1.90",
           "grams": 10,
           "compare_at_price": "4.90",
           "position": 1,
@@ -20899,7 +20914,8 @@
       "product_type": "",
       "tags": [
         "Button",
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -20913,7 +20929,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "1.90",
           "grams": 10,
           "compare_at_price": "4.90",
           "position": 1,
@@ -20963,7 +20979,8 @@
       "product_type": "",
       "tags": [
         "Button",
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -20977,7 +20994,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "1.90",
           "grams": 10,
           "compare_at_price": "4.90",
           "position": 1,
@@ -21027,7 +21044,8 @@
       "product_type": "",
       "tags": [
         "Button",
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -21041,7 +21059,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "1.90",
           "grams": 10,
           "compare_at_price": "4.90",
           "position": 1,
@@ -21091,7 +21109,8 @@
       "product_type": "",
       "tags": [
         "Button",
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -21105,7 +21124,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "1.90",
           "grams": 10,
           "compare_at_price": "4.90",
           "position": 1,
@@ -21773,6 +21792,7 @@
       "tags": [
         "Button",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -21787,7 +21807,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "1.90",
           "grams": 10,
           "compare_at_price": "4.90",
           "position": 1,
@@ -21828,6 +21848,7 @@
       "tags": [
         "Button",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -21842,7 +21863,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "1.90",
           "grams": 10,
           "compare_at_price": "4.90",
           "position": 1,
@@ -21893,6 +21914,7 @@
       "tags": [
         "Button",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -21907,7 +21929,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "1.90",
           "grams": 10,
           "compare_at_price": "4.90",
           "position": 1,
@@ -21958,6 +21980,7 @@
       "tags": [
         "Button",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -21972,7 +21995,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "1.90",
           "grams": 10,
           "compare_at_price": "4.90",
           "position": 1,
@@ -22023,6 +22046,7 @@
       "tags": [
         "Button",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -22037,7 +22061,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "1.90",
           "grams": 10,
           "compare_at_price": "4.90",
           "position": 1,
@@ -22088,6 +22112,7 @@
       "tags": [
         "Button",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -22102,7 +22127,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "1.90",
           "grams": 10,
           "compare_at_price": "4.90",
           "position": 1,
@@ -24339,7 +24364,8 @@
       "tags": [
         "Frisch eingetroffen",
         "Online",
-        "Puzzle"
+        "Puzzle",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -24353,7 +24379,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "19.90",
+          "price": "4.90",
           "grams": 800,
           "compare_at_price": "19.90",
           "position": 1,
@@ -24630,7 +24656,8 @@
       "product_type": "",
       "tags": [
         "Online",
-        "Puzzle"
+        "Puzzle",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -24644,7 +24671,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "24.90",
+          "price": "4.90",
           "grams": 800,
           "compare_at_price": "24.90",
           "position": 1,
@@ -25556,6 +25583,7 @@
       "product_type": "",
       "tags": [
         "Online",
+        "sale-oktober-2026",
         "Tasse"
       ],
       "variants": [
@@ -25570,7 +25598,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "14.90",
+          "price": "5.90",
           "grams": 370,
           "compare_at_price": "14.90",
           "position": 1,
@@ -26443,6 +26471,7 @@
       "tags": [
         "Acrylaufsteller",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -26457,7 +26486,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "4.90",
           "grams": 30,
           "compare_at_price": "9.90",
           "position": 1,
@@ -26508,6 +26537,7 @@
       "tags": [
         "Acrylaufsteller",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -26522,7 +26552,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "4.90",
           "grams": 30,
           "compare_at_price": "9.90",
           "position": 1,
@@ -26573,6 +26603,7 @@
       "tags": [
         "Acrylaufsteller",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -26587,7 +26618,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "4.90",
           "grams": 20,
           "compare_at_price": "9.90",
           "position": 1,
@@ -26693,6 +26724,7 @@
       "tags": [
         "Acrylaufsteller",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -26707,7 +26739,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "4.90",
           "grams": 30,
           "compare_at_price": "9.90",
           "position": 1,
@@ -26748,6 +26780,7 @@
       "tags": [
         "Acrylaufsteller",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -26762,7 +26795,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "4.90",
           "grams": 30,
           "compare_at_price": "9.90",
           "position": 1,
@@ -28351,6 +28384,7 @@
       "tags": [
         "Frühstücksbrettchen",
         "Online",
+        "sale-oktober-2026",
         "Schneidebrett",
         "warenpost"
       ],
@@ -28366,7 +28400,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "12.90",
+          "price": "4.90",
           "grams": 110,
           "compare_at_price": "12.90",
           "position": 1,
@@ -31327,7 +31361,8 @@
         "Anime",
         "Dauersale",
         "Online",
-        "peppermint anime"
+        "peppermint anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -31341,9 +31376,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "1.90",
           "grams": 98,
-          "compare_at_price": "39.90",
+          "compare_at_price": "9.90",
           "position": 1,
           "product_id": 10261270823176,
           "created_at": "2025-05-28T14:51:19+02:00"
@@ -31461,7 +31496,8 @@
         "Anime",
         "Dauersale",
         "Online",
-        "peppermint anime"
+        "peppermint anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -31475,9 +31511,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "1.90",
           "grams": 100,
-          "compare_at_price": "39.90",
+          "compare_at_price": "9.90",
           "position": 1,
           "product_id": 10261272396040,
           "created_at": "2025-05-28T14:51:50+02:00"
@@ -31528,7 +31564,8 @@
         "Anime",
         "Dauersale",
         "Online",
-        "peppermint anime"
+        "peppermint anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -31542,9 +31579,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "0.90",
           "grams": 130,
-          "compare_at_price": "36.90",
+          "compare_at_price": "4.90",
           "position": 1,
           "product_id": 10261272428808,
           "created_at": "2025-05-28T14:51:52+02:00"
@@ -31595,7 +31632,8 @@
         "Anime",
         "Dauersale",
         "Online",
-        "peppermint anime"
+        "peppermint anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -31609,9 +31647,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "1.90",
           "grams": 96,
-          "compare_at_price": "39.90",
+          "compare_at_price": "9.90",
           "position": 1,
           "product_id": 10261272494344,
           "created_at": "2025-05-28T14:51:54+02:00"
@@ -31662,7 +31700,8 @@
         "Anime",
         "Dauersale",
         "Online",
-        "peppermint anime"
+        "peppermint anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -31676,9 +31715,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "0.90",
           "grams": 0,
-          "compare_at_price": "36.90",
+          "compare_at_price": "4.90",
           "position": 1,
           "product_id": 10261272527112,
           "created_at": "2025-05-28T14:51:56+02:00"
@@ -36101,7 +36140,8 @@
         "Anime",
         "Mystery",
         "Online",
-        "peppermint anime"
+        "peppermint anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -36115,7 +36155,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "39.90",
+          "price": "4.90",
           "grams": 100,
           "compare_at_price": "39.90",
           "position": 1,
@@ -36164,7 +36204,8 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -36178,7 +36219,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "36.90",
+          "price": "2.90",
           "grams": 190,
           "compare_at_price": "36.90",
           "position": 1,
@@ -37426,7 +37467,8 @@
         "Action",
         "Anime",
         "Online",
-        "peppermint anime"
+        "peppermint anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -37440,9 +37482,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "4.90",
           "grams": 98,
-          "compare_at_price": "39.90",
+          "compare_at_price": "9.90",
           "position": 1,
           "product_id": 10261285699848,
           "created_at": "2025-05-28T14:56:42+02:00"
@@ -37559,7 +37601,8 @@
         "Anime",
         "Flow:ArtikelstatusAktiv",
         "Online",
-        "peppermint anime"
+        "peppermint anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -37573,7 +37616,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "39.90",
+          "price": "4.90",
           "grams": 100,
           "compare_at_price": "39.90",
           "position": 1,
@@ -37655,7 +37698,8 @@
         "Action",
         "Anime",
         "Online",
-        "peppermint anime"
+        "peppermint anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -37669,7 +37713,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "36.90",
+          "price": "2.90",
           "grams": 160,
           "compare_at_price": "36.90",
           "position": 1,
@@ -37751,7 +37795,8 @@
         "Action",
         "Anime",
         "Online",
-        "peppermint anime"
+        "peppermint anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -37765,7 +37810,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "39.90",
+          "price": "4.90",
           "grams": 100,
           "compare_at_price": "39.90",
           "position": 1,
@@ -37817,7 +37862,8 @@
         "Action",
         "Anime",
         "Online",
-        "peppermint anime"
+        "peppermint anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -37831,9 +37877,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "2.90",
           "grams": 155,
-          "compare_at_price": "36.90",
+          "compare_at_price": "9.90",
           "position": 1,
           "product_id": 10261286158600,
           "created_at": "2025-05-28T14:56:52+02:00"
@@ -37883,7 +37929,8 @@
         "Action",
         "Anime",
         "Online",
-        "peppermint anime"
+        "peppermint anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -37897,9 +37944,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "4.90",
           "grams": 99,
-          "compare_at_price": "39.90",
+          "compare_at_price": "9.90",
           "position": 1,
           "product_id": 10261286191368,
           "created_at": "2025-05-28T14:56:54+02:00"
@@ -37949,7 +37996,8 @@
         "Action",
         "Anime",
         "Online",
-        "peppermint anime"
+        "peppermint anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -37963,9 +38011,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "2.90",
           "grams": 155,
-          "compare_at_price": "36.90",
+          "compare_at_price": "9.90",
           "position": 1,
           "product_id": 10261286256904,
           "created_at": "2025-05-28T14:56:55+02:00"
@@ -38856,6 +38904,7 @@
         "Dauersale",
         "Online",
         "peppermint anime",
+        "sale-oktober-2026",
         "Sport"
       ],
       "variants": [
@@ -38883,9 +38932,9 @@
             ]
           },
           "available": true,
-          "price": "6.90",
+          "price": "0.90",
           "grams": 100,
-          "compare_at_price": "39.90",
+          "compare_at_price": "6.90",
           "position": 1,
           "product_id": 10261297594632,
           "created_at": "2025-05-28T15:01:32+02:00"
@@ -38935,7 +38984,8 @@
       "product_type": "",
       "tags": [
         "Dauersale",
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -38949,9 +38999,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "0.90",
           "grams": 130,
-          "compare_at_price": "36.90",
+          "compare_at_price": "4.90",
           "position": 1,
           "product_id": 10261297692936,
           "created_at": "2025-05-28T15:01:33+02:00"
@@ -41622,7 +41672,8 @@
         "Action",
         "Anime",
         "Online",
-        "peppermint anime"
+        "peppermint anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -41636,9 +41687,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "4.00",
           "grams": 110,
-          "compare_at_price": "39.90",
+          "compare_at_price": "9.90",
           "position": 1,
           "product_id": 10261316534536,
           "created_at": "2025-05-28T15:09:42+02:00"
@@ -41688,7 +41739,8 @@
         "Action",
         "Anime",
         "Online",
-        "peppermint anime"
+        "peppermint anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -41702,9 +41754,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "7.90",
+          "price": "2.90",
           "grams": 160,
-          "compare_at_price": "36.90",
+          "compare_at_price": "7.90",
           "position": 1,
           "product_id": 10261316665608,
           "created_at": "2025-05-28T15:09:44+02:00"
@@ -41754,7 +41806,8 @@
         "Action",
         "Anime",
         "Online",
-        "peppermint anime"
+        "peppermint anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -41768,9 +41821,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "4.90",
           "grams": 103,
-          "compare_at_price": "39.90",
+          "compare_at_price": "9.90",
           "position": 1,
           "product_id": 10261316698376,
           "created_at": "2025-05-28T15:09:46+02:00"
@@ -41820,7 +41873,8 @@
         "Action",
         "Anime",
         "Online",
-        "peppermint anime"
+        "peppermint anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -41834,9 +41888,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "7.90",
+          "price": "2.90",
           "grams": 160,
-          "compare_at_price": "36.90",
+          "compare_at_price": "7.90",
           "position": 1,
           "product_id": 10261316763912,
           "created_at": "2025-05-28T15:09:48+02:00"
@@ -41886,7 +41940,8 @@
         "Action",
         "Anime",
         "Online",
-        "peppermint anime"
+        "peppermint anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -41900,9 +41955,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "4.90",
           "grams": 103,
-          "compare_at_price": "39.90",
+          "compare_at_price": "9.90",
           "position": 1,
           "product_id": 10261317812488,
           "created_at": "2025-05-28T15:10:12+02:00"
@@ -42042,7 +42097,8 @@
         "Action",
         "Anime",
         "Online",
-        "peppermint anime"
+        "peppermint anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -42056,9 +42112,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "7.90",
+          "price": "2.90",
           "grams": 164,
-          "compare_at_price": "36.90",
+          "compare_at_price": "7.90",
           "position": 1,
           "product_id": 10261317910792,
           "created_at": "2025-05-28T15:10:13+02:00"
@@ -42138,7 +42194,8 @@
         "Action",
         "Anime",
         "Online",
-        "peppermint anime"
+        "peppermint anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -42152,9 +42209,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "4.90",
           "grams": 102,
-          "compare_at_price": "39.90",
+          "compare_at_price": "9.90",
           "position": 1,
           "product_id": 10261318009096,
           "created_at": "2025-05-28T15:10:15+02:00"
@@ -42234,7 +42291,8 @@
         "Action",
         "Anime",
         "Online",
-        "peppermint anime"
+        "peppermint anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -42248,9 +42306,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "7.90",
+          "price": "2.90",
           "grams": 158,
-          "compare_at_price": "36.90",
+          "compare_at_price": "7.90",
           "position": 1,
           "product_id": 10261318140168,
           "created_at": "2025-05-28T15:10:17+02:00"
@@ -43998,7 +44056,8 @@
         "Anime",
         "Dauersale",
         "Online",
-        "peppermint anime"
+        "peppermint anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -44012,9 +44071,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "29.90",
+          "price": "14.90",
           "grams": 410,
-          "compare_at_price": "99.90",
+          "compare_at_price": "29.90",
           "position": 1,
           "product_id": 10261317648648,
           "created_at": "2025-05-28T15:10:08+02:00"
@@ -44055,7 +44114,8 @@
         "Anime",
         "Dauersale",
         "Online",
-        "peppermint anime"
+        "peppermint anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -44069,9 +44129,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "19.90",
+          "price": "9.90",
           "grams": 524,
-          "compare_at_price": "89.90",
+          "compare_at_price": "19.90",
           "position": 1,
           "product_id": 10261317746952,
           "created_at": "2025-05-28T15:10:10+02:00"
@@ -44573,7 +44633,8 @@
       "vendor": "Polyband",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -44587,7 +44648,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "34.90",
+          "price": "19.90",
           "grams": 260,
           "compare_at_price": "34.90",
           "position": 1,
@@ -45721,6 +45782,7 @@
         "Anime",
         "Online",
         "polyband anime",
+        "sale-oktober-2026",
         "Sammelschuber"
       ],
       "variants": [
@@ -45735,7 +45797,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "41.90",
+          "price": "19.90",
           "grams": 160,
           "compare_at_price": "41.90",
           "position": 1,
@@ -56517,6 +56579,7 @@
         "Mystery",
         "Online",
         "peppermint anime",
+        "sale-oktober-2026",
         "Sammelschuber"
       ],
       "variants": [
@@ -56531,7 +56594,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "41.90",
+          "price": "9.90",
           "grams": 100,
           "compare_at_price": "41.90",
           "position": 1,
@@ -56647,6 +56710,7 @@
         "Mystery",
         "Online",
         "peppermint anime",
+        "sale-oktober-2026",
         "Sammelschuber"
       ],
       "variants": [
@@ -56661,7 +56725,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "41.90",
+          "price": "9.90",
           "grams": 100,
           "compare_at_price": "41.90",
           "position": 1,
@@ -58403,6 +58467,7 @@
         "Drama",
         "Online",
         "polyband anime",
+        "sale-oktober-2026",
         "Sammelschuber"
       ],
       "variants": [
@@ -58417,7 +58482,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "41.90",
+          "price": "4.90",
           "grams": 220,
           "compare_at_price": "41.90",
           "position": 1,
@@ -58479,7 +58544,8 @@
         "Anime",
         "Drama",
         "Online",
-        "polyband anime"
+        "polyband anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -58493,7 +58559,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "41.90",
+          "price": "4.90",
           "grams": 100,
           "compare_at_price": "41.90",
           "position": 1,
@@ -58545,7 +58611,8 @@
         "Anime",
         "Drama",
         "Online",
-        "polyband anime"
+        "polyband anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -58559,7 +58626,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "41.90",
+          "price": "4.90",
           "grams": 100,
           "compare_at_price": "41.90",
           "position": 1,
@@ -58611,7 +58678,8 @@
         "Anime",
         "Drama",
         "Online",
-        "polyband anime"
+        "polyband anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -58625,7 +58693,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "41.90",
+          "price": "4.90",
           "grams": 100,
           "compare_at_price": "41.90",
           "position": 1,
@@ -59985,7 +60053,8 @@
         "Action",
         "Anime",
         "KSM Anime",
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -59999,7 +60068,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "99.90",
+          "price": "79.90",
           "grams": 140,
           "compare_at_price": "99.90",
           "position": 1,
@@ -67593,7 +67662,8 @@
       "product_type": "",
       "tags": [
         "Online",
-        "Poster"
+        "Poster",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -67607,7 +67677,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "11.90",
+          "price": "7.90",
           "grams": 900,
           "compare_at_price": "11.90",
           "position": 1,
@@ -67648,6 +67718,7 @@
       "tags": [
         "Dauersale",
         "Online",
+        "sale-oktober-2026",
         "Wallscroll",
         "Wandbanner"
       ],
@@ -67663,9 +67734,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "19.90",
+          "price": "12.90",
           "grams": 150,
-          "compare_at_price": "34.90",
+          "compare_at_price": "19.90",
           "position": 1,
           "product_id": 10261398061320,
           "created_at": "2025-05-28T15:42:16+02:00"
@@ -67770,6 +67841,7 @@
         "Acrylaufsteller",
         "Online",
         "sale-august-2026",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -67784,7 +67856,7 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "9.90",
+          "price": "4.90",
           "grams": 20,
           "compare_at_price": "9.90",
           "position": 1,
@@ -67964,7 +68036,8 @@
       "tags": [
         "Frisch eingetroffen",
         "Online",
-        "Puzzle"
+        "Puzzle",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -67978,7 +68051,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "24.90",
+          "price": "4.90",
           "grams": 810,
           "compare_at_price": "24.90",
           "position": 1,
@@ -68029,7 +68102,8 @@
       "tags": [
         "Frisch eingetroffen",
         "Online",
-        "Puzzle"
+        "Puzzle",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -68043,7 +68117,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "24.90",
+          "price": "4.90",
           "grams": 800,
           "compare_at_price": "24.90",
           "position": 1,
@@ -68094,7 +68168,8 @@
       "tags": [
         "Online",
         "Puzzle",
-        "sale-august-2026"
+        "sale-august-2026",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -68108,7 +68183,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "24.90",
+          "price": "4.90",
           "grams": 800,
           "compare_at_price": "24.90",
           "position": 1,
@@ -68570,6 +68645,7 @@
       "tags": [
         "Frühstücksbrettchen",
         "Online",
+        "sale-oktober-2026",
         "Schneidebrett",
         "warenpost"
       ],
@@ -68585,7 +68661,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "12.90",
+          "price": "4.90",
           "grams": 110,
           "compare_at_price": "12.90",
           "position": 1,
@@ -68626,6 +68702,7 @@
       "tags": [
         "Frühstücksbrettchen",
         "Online",
+        "sale-oktober-2026",
         "Schneidebrett",
         "warenpost"
       ],
@@ -68641,7 +68718,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "12.90",
+          "price": "6.90",
           "grams": 110,
           "compare_at_price": "12.90",
           "position": 1,
@@ -68684,6 +68761,7 @@
         "Frühstücksbrettchen",
         "Online",
         "sale-august-2026",
+        "sale-oktober-2026",
         "Schneidebrett",
         "warenpost"
       ],
@@ -68699,9 +68777,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "4.90",
           "grams": 110,
-          "compare_at_price": "12.90",
+          "compare_at_price": "9.90",
           "position": 1,
           "product_id": 10261408710920,
           "created_at": "2025-05-28T15:46:24+02:00"
@@ -69183,6 +69261,7 @@
         "Dauersale",
         "Musik-CD",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -69197,9 +69276,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "19.90",
+          "price": "9.90",
           "grams": 100,
-          "compare_at_price": "34.90",
+          "compare_at_price": "19.90",
           "position": 1,
           "product_id": 10261405237512,
           "created_at": "2025-05-28T15:45:18+02:00"
@@ -69237,7 +69316,8 @@
       "product_type": "",
       "tags": [
         "Musik-CD",
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -69251,7 +69331,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "28.90",
+          "price": "7.90",
           "grams": 100,
           "compare_at_price": "28.90",
           "position": 1,
@@ -69980,7 +70060,8 @@
         "Anime",
         "Online",
         "peppermint anime",
-        "sale-august-2026"
+        "sale-august-2026",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -69994,9 +70075,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "29.90",
+          "price": "17.90",
           "grams": 107,
-          "compare_at_price": "41.90",
+          "compare_at_price": "29.90",
           "position": 1,
           "product_id": 10261387804936,
           "created_at": "2025-05-28T15:36:23+02:00"
@@ -70057,7 +70138,8 @@
         "Anime",
         "Online",
         "peppermint anime",
-        "sale-august-2026"
+        "sale-august-2026",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -70071,9 +70153,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "29.90",
+          "price": "17.90",
           "grams": 106,
-          "compare_at_price": "41.90",
+          "compare_at_price": "29.90",
           "position": 1,
           "product_id": 10261387903240,
           "created_at": "2025-05-28T15:36:25+02:00"
@@ -71272,7 +71354,8 @@
         "Action",
         "Anime",
         "Online",
-        "peppermint anime"
+        "peppermint anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -71286,9 +71369,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "29.90",
+          "price": "13.90",
           "grams": 81,
-          "compare_at_price": "41.90",
+          "compare_at_price": "29.90",
           "position": 1,
           "product_id": 10261388525832,
           "created_at": "2025-05-28T15:36:40+02:00"
@@ -71348,7 +71431,8 @@
         "Action",
         "Anime",
         "Online",
-        "peppermint anime"
+        "peppermint anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -71362,9 +71446,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "29.90",
+          "price": "13.90",
           "grams": 85,
-          "compare_at_price": "41.90",
+          "compare_at_price": "29.90",
           "position": 1,
           "product_id": 10261388558600,
           "created_at": "2025-05-28T15:36:42+02:00"
@@ -72015,6 +72099,7 @@
         "Anime",
         "Online",
         "peppermint anime",
+        "sale-oktober-2026",
         "Sport"
       ],
       "variants": [
@@ -72029,7 +72114,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "59.90",
+          "price": "24.90",
           "grams": 220,
           "compare_at_price": "59.90",
           "position": 1,
@@ -72068,7 +72153,8 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -72082,7 +72168,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "54.90",
+          "price": "18.90",
           "grams": 270,
           "compare_at_price": "54.90",
           "position": 1,
@@ -72339,7 +72425,8 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -72353,9 +72440,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "19.90",
+          "price": "9.90",
           "grams": 414,
-          "compare_at_price": "54.90",
+          "compare_at_price": "19.90",
           "position": 1,
           "product_id": 10261383938312,
           "created_at": "2025-05-28T15:34:08+02:00"
@@ -73452,7 +73539,8 @@
         "Anime",
         "Crunchyroll",
         "Frisch eingetroffen",
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -73466,9 +73554,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "49.90",
+          "price": "39.90",
           "grams": 100,
-          "compare_at_price": "69.90",
+          "compare_at_price": "49.90",
           "position": 1,
           "product_id": 10261420540168,
           "created_at": "2025-05-28T15:50:37+02:00"
@@ -80458,6 +80546,7 @@
         "Anime",
         "Crunchyroll",
         "Online",
+        "sale-oktober-2026",
         "Sammelschuber"
       ],
       "variants": [
@@ -80472,7 +80561,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "44.90",
+          "price": "36.90",
           "grams": 260,
           "compare_at_price": "44.90",
           "position": 1,
@@ -83704,7 +83793,8 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -83718,9 +83808,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "29.90",
+          "price": "9.90",
           "grams": 288,
-          "compare_at_price": "69.90",
+          "compare_at_price": "29.90",
           "position": 1,
           "product_id": 10261476540680,
           "created_at": "2025-05-28T16:02:07+02:00"
@@ -86981,6 +87071,7 @@
         "Drama",
         "Online",
         "polyband anime",
+        "sale-oktober-2026",
         "Sammelschuber"
       ],
       "variants": [
@@ -86995,7 +87086,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "129.90",
+          "price": "89.90",
           "grams": 220,
           "compare_at_price": "129.90",
           "position": 1,
@@ -96485,7 +96576,8 @@
       "tags": [
         "Bandai",
         "Figur",
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -96499,7 +96591,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "41.90",
+          "price": "24.90",
           "grams": 240,
           "compare_at_price": "41.90",
           "position": 1,
@@ -99436,7 +99528,8 @@
       "product_type": "",
       "tags": [
         "Online",
-        "Puzzle"
+        "Puzzle",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -99450,7 +99543,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "19.90",
+          "price": "7.90",
           "grams": 300,
           "compare_at_price": "19.90",
           "position": 1,
@@ -99490,7 +99583,8 @@
       "product_type": "",
       "tags": [
         "Online",
-        "Puzzle"
+        "Puzzle",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -99504,7 +99598,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "19.90",
+          "price": "7.90",
           "grams": 300,
           "compare_at_price": "19.90",
           "position": 1,
@@ -102526,6 +102620,7 @@
       "tags": [
         "Dauersale",
         "Online",
+        "sale-oktober-2026",
         "Wallscroll",
         "Wandbanner"
       ],
@@ -102541,9 +102636,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "19.90",
+          "price": "9.90",
           "grams": 150,
-          "compare_at_price": "34.90",
+          "compare_at_price": "19.90",
           "position": 1,
           "product_id": 10261416116488,
           "created_at": "2025-05-28T15:49:04+02:00"
@@ -102582,6 +102677,7 @@
       "tags": [
         "Acrylaufsteller",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -102596,7 +102692,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "4.90",
           "grams": 20,
           "compare_at_price": "9.90",
           "position": 1,
@@ -102647,6 +102743,7 @@
       "tags": [
         "Acrylaufsteller",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -102661,7 +102758,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "4.90",
           "grams": 20,
           "compare_at_price": "9.90",
           "position": 1,
@@ -102712,6 +102809,7 @@
       "tags": [
         "Acrylaufsteller",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -102726,7 +102824,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "4.90",
           "grams": 20,
           "compare_at_price": "9.90",
           "position": 1,
@@ -102777,6 +102875,7 @@
       "tags": [
         "Acrylaufsteller",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -102791,7 +102890,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "4.90",
           "grams": 20,
           "compare_at_price": "9.90",
           "position": 1,
@@ -102842,6 +102941,7 @@
       "tags": [
         "Acrylaufsteller",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -102856,7 +102956,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "4.90",
           "grams": 20,
           "compare_at_price": "9.90",
           "position": 1,
@@ -102907,6 +103007,7 @@
       "tags": [
         "Acrylaufsteller",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -102921,7 +103022,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "4.90",
           "grams": 20,
           "compare_at_price": "9.90",
           "position": 1,
@@ -103036,6 +103137,7 @@
       "product_type": "",
       "tags": [
         "Online",
+        "sale-oktober-2026",
         "Schlüsselanhänger",
         "warenpost"
       ],
@@ -103051,7 +103153,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "4.90",
           "grams": 20,
           "compare_at_price": "9.90",
           "position": 1,
@@ -103101,6 +103203,7 @@
       "product_type": "",
       "tags": [
         "Online",
+        "sale-oktober-2026",
         "Schlüsselanhänger",
         "warenpost"
       ],
@@ -103116,7 +103219,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "4.90",
           "grams": 20,
           "compare_at_price": "9.90",
           "position": 1,
@@ -103166,6 +103269,7 @@
       "product_type": "",
       "tags": [
         "Online",
+        "sale-oktober-2026",
         "Schlüsselanhänger",
         "warenpost"
       ],
@@ -103181,7 +103285,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "4.90",
           "grams": 20,
           "compare_at_price": "9.90",
           "position": 1,
@@ -103231,6 +103335,7 @@
       "product_type": "",
       "tags": [
         "Online",
+        "sale-oktober-2026",
         "Schlüsselanhänger",
         "warenpost"
       ],
@@ -103246,7 +103351,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "4.90",
           "grams": 20,
           "compare_at_price": "9.90",
           "position": 1,
@@ -103296,6 +103401,7 @@
       "product_type": "",
       "tags": [
         "Online",
+        "sale-oktober-2026",
         "Schlüsselanhänger",
         "warenpost"
       ],
@@ -103311,7 +103417,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "4.90",
           "grams": 20,
           "compare_at_price": "9.90",
           "position": 1,
@@ -103363,7 +103469,8 @@
         "Dauersale",
         "Frisch eingetroffen",
         "Online",
-        "peppermint anime"
+        "peppermint anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -103377,9 +103484,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "2.90",
           "grams": 140,
-          "compare_at_price": "19.90",
+          "compare_at_price": "4.90",
           "position": 1,
           "product_id": 10261464547592,
           "created_at": "2025-05-28T15:59:08+02:00"
@@ -103427,7 +103534,8 @@
       "product_type": "",
       "tags": [
         "Online",
-        "Puzzle"
+        "Puzzle",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -103441,7 +103549,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "24.90",
+          "price": "4.90",
           "grams": 800,
           "compare_at_price": "24.90",
           "position": 1,
@@ -104282,6 +104390,7 @@
         "Acrylaufsteller",
         "Online",
         "sale-august-2026",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -104296,7 +104405,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "4.90",
           "grams": 20,
           "compare_at_price": "9.90",
           "position": 1,
@@ -104413,6 +104522,7 @@
         "Acrylaufsteller",
         "Online",
         "sale-august-2026",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -104427,7 +104537,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "4.90",
           "grams": 20,
           "compare_at_price": "9.90",
           "position": 1,
@@ -104479,6 +104589,7 @@
         "Acrylaufsteller",
         "Online",
         "sale-august-2026",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -104493,7 +104604,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "4.90",
           "grams": 20,
           "compare_at_price": "9.90",
           "position": 1,
@@ -104610,6 +104721,7 @@
         "Acrylaufsteller",
         "Online",
         "sale-august-2026",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -104624,7 +104736,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "4.90",
           "grams": 20,
           "compare_at_price": "9.90",
           "position": 1,
@@ -104675,7 +104787,8 @@
       "tags": [
         "Online",
         "Puzzle",
-        "sale-august-2026"
+        "sale-august-2026",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -104689,7 +104802,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "24.90",
+          "price": "4.90",
           "grams": 800,
           "compare_at_price": "24.90",
           "position": 1,
@@ -104739,6 +104852,7 @@
       "product_type": "",
       "tags": [
         "Online",
+        "sale-oktober-2026",
         "Wallscroll",
         "Wandbanner"
       ],
@@ -104754,9 +104868,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "19.90",
+          "price": "9.90",
           "grams": 120,
-          "compare_at_price": "34.90",
+          "compare_at_price": "19.90",
           "position": 1,
           "product_id": 10261448491272,
           "created_at": "2025-05-28T15:56:19+02:00"
@@ -108125,7 +108239,8 @@
         "Drama",
         "Musik",
         "Online",
-        "peppermint anime"
+        "peppermint anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -108139,9 +108254,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "32.90",
+          "price": "17.90",
           "grams": 140,
-          "compare_at_price": "43.90",
+          "compare_at_price": "32.90",
           "position": 1,
           "product_id": 10261396947208,
           "created_at": "2025-05-28T15:41:59+02:00"
@@ -108213,7 +108328,8 @@
         "Drama",
         "Musik",
         "Online",
-        "peppermint anime"
+        "peppermint anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -108227,9 +108343,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "32.90",
+          "price": "17.90",
           "grams": 144,
-          "compare_at_price": "43.90",
+          "compare_at_price": "32.90",
           "position": 1,
           "product_id": 10261397012744,
           "created_at": "2025-05-28T15:42:00+02:00"
@@ -118151,7 +118267,8 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -118165,9 +118282,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "29.90",
+          "price": "19.90",
           "grams": 198,
-          "compare_at_price": "59.90",
+          "compare_at_price": "29.90",
           "position": 1,
           "product_id": 10261563474184,
           "created_at": "2025-05-28T16:32:10+02:00"
@@ -118522,7 +118639,8 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -118536,7 +118654,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "129.90",
+          "price": "99.90",
           "grams": 703,
           "compare_at_price": "129.90",
           "position": 1,
@@ -120454,7 +120572,8 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -120468,7 +120587,7 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "69.90",
+          "price": "54.90",
           "grams": 158,
           "compare_at_price": "69.90",
           "position": 1,
@@ -124097,7 +124216,8 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -124111,7 +124231,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "69.90",
+          "price": "54.90",
           "grams": 157,
           "compare_at_price": "69.90",
           "position": 1,
@@ -124337,7 +124457,8 @@
       "product_type": "",
       "tags": [
         "Flow:ArtikelstatusAktiv",
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -124351,7 +124472,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "69.90",
+          "price": "54.90",
           "grams": 167,
           "compare_at_price": "69.90",
           "position": 1,
@@ -130029,7 +130150,8 @@
       "tags": [
         "Anime",
         "Dybex",
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -130043,7 +130165,7 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "69.90",
+          "price": "55.90",
           "grams": 1541,
           "compare_at_price": "69.90",
           "position": 1,
@@ -131262,7 +131384,8 @@
       "tags": [
         "Dauersale",
         "Hoodie",
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -131276,9 +131399,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "14.90",
+          "price": "7.90",
           "grams": 0,
-          "compare_at_price": "49.90",
+          "compare_at_price": "14.90",
           "position": 1,
           "product_id": 10431169560840,
           "created_at": "2025-07-25T17:46:32+02:00"
@@ -137661,7 +137784,8 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -137675,7 +137799,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "2.90",
           "grams": 20,
           "compare_at_price": "4.90",
           "position": 1,
@@ -137724,7 +137848,8 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -137738,7 +137863,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "2.90",
           "grams": 20,
           "compare_at_price": "4.90",
           "position": 1,
@@ -137787,7 +137912,8 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -137801,7 +137927,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "2.90",
           "grams": 10,
           "compare_at_price": "4.90",
           "position": 1,
@@ -137850,7 +137976,8 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -137864,7 +137991,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "2.90",
           "grams": 20,
           "compare_at_price": "4.90",
           "position": 1,
@@ -137913,7 +138040,8 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -137927,7 +138055,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "2.90",
           "grams": 20,
           "compare_at_price": "4.90",
           "position": 1,
@@ -137976,7 +138104,8 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -137990,7 +138119,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "2.90",
           "grams": 20,
           "compare_at_price": "4.90",
           "position": 1,
@@ -138039,7 +138168,8 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -138053,7 +138183,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "2.90",
           "grams": 20,
           "compare_at_price": "4.90",
           "position": 1,
@@ -138148,6 +138278,7 @@
         "AnimagiC-Merch",
         "Dauersale",
         "Online",
+        "sale-oktober-2026",
         "Wallscroll",
         "Wandbanner"
       ],
@@ -138163,9 +138294,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "19.90",
+          "price": "11.90",
           "grams": 120,
-          "compare_at_price": "34.90",
+          "compare_at_price": "19.90",
           "position": 1,
           "product_id": 10261562425608,
           "created_at": "2025-05-28T16:31:48+02:00"
@@ -138269,7 +138400,8 @@
       "tags": [
         "AnimagiC-Merch",
         "Dauersale",
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -138283,9 +138415,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "6.90",
           "grams": 140,
-          "compare_at_price": "19.90",
+          "compare_at_price": "9.90",
           "position": 1,
           "product_id": 10375277281544,
           "created_at": "2025-06-26T18:47:18+02:00"
@@ -138334,7 +138466,8 @@
       "tags": [
         "AnimagiC-Merch",
         "Dauersale",
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -138348,9 +138481,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "3.90",
           "grams": 140,
-          "compare_at_price": "19.90",
+          "compare_at_price": "9.90",
           "position": 1,
           "product_id": 10375277347080,
           "created_at": "2025-06-26T18:47:19+02:00"
@@ -138775,6 +138908,7 @@
         "Musik",
         "Online",
         "peppermint anime",
+        "sale-oktober-2026",
         "Sammelschuber"
       ],
       "variants": [
@@ -138789,7 +138923,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "43.90",
+          "price": "29.90",
           "grams": 141,
           "compare_at_price": "43.90",
           "position": 1,
@@ -138844,6 +138978,7 @@
         "Musik",
         "Online",
         "peppermint anime",
+        "sale-oktober-2026",
         "Sammelschuber"
       ],
       "variants": [
@@ -138858,7 +138993,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "43.90",
+          "price": "29.90",
           "grams": 138,
           "compare_at_price": "43.90",
           "position": 1,
@@ -140040,6 +140175,7 @@
         "Online",
         "peppermint anime",
         "sale-august-2026",
+        "sale-oktober-2026",
         "Sammelschuber"
       ],
       "variants": [
@@ -140054,9 +140190,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "39.90",
+          "price": "24.90",
           "grams": 210,
-          "compare_at_price": "54.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261547843848,
           "created_at": "2025-05-28T16:27:26+02:00"
@@ -140098,6 +140234,7 @@
         "Online",
         "peppermint anime",
         "sale-august-2026",
+        "sale-oktober-2026",
         "Sammelschuber"
       ],
       "variants": [
@@ -140112,9 +140249,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "39.90",
+          "price": "24.90",
           "grams": 210,
-          "compare_at_price": "54.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261547942152,
           "created_at": "2025-05-28T16:27:27+02:00"
@@ -140629,7 +140766,8 @@
         "Anime",
         "Frisch eingetroffen",
         "Online",
-        "peppermint anime"
+        "peppermint anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -140643,9 +140781,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "43.90",
+          "price": "24.90",
           "grams": 164,
-          "compare_at_price": "45.90",
+          "compare_at_price": "43.90",
           "position": 1,
           "product_id": 10261547745544,
           "created_at": "2025-05-28T16:27:24+02:00"
@@ -140919,6 +141057,7 @@
         "Anime",
         "Online",
         "polyband anime",
+        "sale-oktober-2026",
         "Slice-of-Life"
       ],
       "variants": [
@@ -140933,7 +141072,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "15.90",
+          "price": "11.90",
           "grams": 110,
           "compare_at_price": "15.90",
           "position": 1,
@@ -141089,6 +141228,7 @@
         "Anime",
         "Online",
         "polyband anime",
+        "sale-oktober-2026",
         "Slice-of-Life"
       ],
       "variants": [
@@ -141103,7 +141243,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "15.90",
+          "price": "11.90",
           "grams": 0,
           "compare_at_price": "15.90",
           "position": 1,
@@ -142154,7 +142294,8 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -142168,7 +142309,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "15.90",
+          "price": "11.90",
           "grams": 90,
           "compare_at_price": "15.90",
           "position": 1,
@@ -142421,7 +142562,8 @@
       "product_type": "",
       "tags": [
         "Flow:ArtikelstatusAktiv",
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -142435,7 +142577,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "15.90",
+          "price": "11.90",
           "grams": 90,
           "compare_at_price": "15.90",
           "position": 1,
@@ -143129,7 +143271,8 @@
       "product_type": "",
       "tags": [
         "Flow:ArtikelstatusAktiv",
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -143143,7 +143286,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "15.90",
+          "price": "11.90",
           "grams": 90,
           "compare_at_price": "15.90",
           "position": 1,
@@ -143292,7 +143435,8 @@
       "tags": [
         "Flow:ArtikelstatusAktiv",
         "Frisch eingetroffen",
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -143306,7 +143450,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "49.90",
+          "price": "33.90",
           "grams": 170,
           "compare_at_price": "49.90",
           "position": 1,
@@ -143625,7 +143769,8 @@
       "vendor": "Polyband",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -143639,7 +143784,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "15.90",
+          "price": "11.90",
           "grams": 0,
           "compare_at_price": "15.90",
           "position": 1,
@@ -143680,7 +143825,8 @@
       "tags": [
         "Anime",
         "Online",
-        "polyband anime"
+        "polyband anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -143694,7 +143840,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "15.90",
+          "price": "11.90",
           "grams": 90,
           "compare_at_price": "15.90",
           "position": 1,
@@ -174159,7 +174305,8 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -174173,7 +174320,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "12.90",
+          "price": "6.90",
           "grams": 80,
           "compare_at_price": "12.90",
           "position": 1,
@@ -174242,7 +174389,8 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -174256,7 +174404,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "4.90",
           "grams": 150,
           "compare_at_price": "9.90",
           "position": 1,
@@ -174884,7 +175032,8 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -174898,7 +175047,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "14.90",
+          "price": "12.90",
           "grams": 20,
           "compare_at_price": "14.90",
           "position": 1,
@@ -174937,7 +175086,8 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -174951,7 +175101,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "14.90",
+          "price": "12.90",
           "grams": 20,
           "compare_at_price": "14.90",
           "position": 1,
@@ -175045,6 +175195,7 @@
       "tags": [
         "AnimagiC2026",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -175059,7 +175210,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "3.90",
           "grams": 0,
           "compare_at_price": "4.90",
           "position": 1,
@@ -175110,6 +175261,7 @@
       "tags": [
         "AnimagiC2026",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -175124,7 +175276,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "3.90",
           "grams": 0,
           "compare_at_price": "4.90",
           "position": 1,
@@ -175175,6 +175327,7 @@
       "tags": [
         "AnimagiC2026",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -175189,7 +175342,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "3.90",
           "grams": 0,
           "compare_at_price": "4.90",
           "position": 1,
@@ -179237,7 +179390,8 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -179251,7 +179405,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "49.90",
+          "price": "14.90",
           "grams": 645,
           "compare_at_price": "49.90",
           "position": 1,
@@ -179290,7 +179444,8 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -179304,7 +179459,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "69.90",
+          "price": "37.90",
           "grams": 414,
           "compare_at_price": "69.90",
           "position": 1,
@@ -179839,7 +179994,8 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -179853,7 +180009,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "45.90",
+          "price": "24.90",
           "grams": 163,
           "compare_at_price": "45.90",
           "position": 1,
@@ -180116,6 +180272,7 @@
       "tags": [
         "Anime",
         "Online",
+        "sale-oktober-2026",
         "Slice-of-Life"
       ],
       "variants": [
@@ -180130,7 +180287,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "15.90",
+          "price": "11.90",
           "grams": 90,
           "compare_at_price": "15.90",
           "position": 1,
@@ -180222,7 +180379,8 @@
       "vendor": "Polyband",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -180236,7 +180394,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "15.90",
+          "price": "11.90",
           "grams": 0,
           "compare_at_price": "15.90",
           "position": 1,
@@ -194923,6 +195081,7 @@
       "tags": [
         "AnimagiC2026",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -194937,7 +195096,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "7.90",
           "grams": 20,
           "compare_at_price": "9.90",
           "position": 1,
@@ -194988,6 +195147,7 @@
       "tags": [
         "AnimagiC2026",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -195002,7 +195162,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "7.90",
           "grams": 20,
           "compare_at_price": "9.90",
           "position": 1,
@@ -195053,6 +195213,7 @@
       "tags": [
         "AnimagiC2026",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -195067,7 +195228,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "3.90",
           "grams": 20,
           "compare_at_price": "4.90",
           "position": 1,
@@ -195118,6 +195279,7 @@
       "tags": [
         "AnimagiC2026",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -195132,7 +195294,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "3.90",
           "grams": 20,
           "compare_at_price": "4.90",
           "position": 1,
@@ -195183,6 +195345,7 @@
       "tags": [
         "AnimagiC2026",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -195197,7 +195360,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "3.90",
           "grams": 20,
           "compare_at_price": "4.90",
           "position": 1,
@@ -195248,6 +195411,7 @@
       "tags": [
         "AnimagiC2026",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -195262,7 +195426,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "3.90",
           "grams": 20,
           "compare_at_price": "4.90",
           "position": 1,
@@ -195313,6 +195477,7 @@
       "tags": [
         "AnimagiC2026",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -195327,7 +195492,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "3.90",
           "grams": 20,
           "compare_at_price": "4.90",
           "position": 1,
@@ -195378,6 +195543,7 @@
       "tags": [
         "AnimagiC2026",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -195392,7 +195558,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "3.90",
           "grams": 20,
           "compare_at_price": "4.90",
           "position": 1,
@@ -195443,6 +195609,7 @@
       "tags": [
         "AnimagiC2026",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -195457,7 +195624,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "3.90",
           "grams": 20,
           "compare_at_price": "4.90",
           "position": 1,
@@ -195508,6 +195675,7 @@
       "tags": [
         "AnimagiC2026",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -195522,7 +195690,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "3.90",
           "grams": 20,
           "compare_at_price": "4.90",
           "position": 1,
@@ -195573,6 +195741,7 @@
       "tags": [
         "AnimagiC2026",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -195587,7 +195756,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "3.90",
           "grams": 20,
           "compare_at_price": "4.90",
           "position": 1,
@@ -195638,6 +195807,7 @@
       "tags": [
         "AnimagiC2026",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -195652,7 +195822,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "3.90",
           "grams": 20,
           "compare_at_price": "4.90",
           "position": 1,
@@ -195703,6 +195873,7 @@
       "tags": [
         "AnimagiC2026",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -195717,7 +195888,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "3.90",
           "grams": 20,
           "compare_at_price": "4.90",
           "position": 1,
@@ -195768,6 +195939,7 @@
       "tags": [
         "AnimagiC2026",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -195782,7 +195954,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "4.90",
+          "price": "3.90",
           "grams": 20,
           "compare_at_price": "4.90",
           "position": 1,
@@ -195887,6 +196059,7 @@
       "tags": [
         "AnimagiC2026",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -195901,7 +196074,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "7.90",
           "grams": 15,
           "compare_at_price": "9.90",
           "position": 1,
@@ -195942,6 +196115,7 @@
       "tags": [
         "AnimagiC2026",
         "Online",
+        "sale-oktober-2026",
         "warenpost"
       ],
       "variants": [
@@ -195956,7 +196130,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "24.90",
+          "price": "19.90",
           "grams": 300,
           "compare_at_price": "24.90",
           "position": 1,
@@ -215036,7 +215210,8 @@
       "product_type": "",
       "tags": [
         "AnimagiC-Merch",
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -215050,7 +215225,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "12.90",
+          "price": "4.90",
           "grams": 110,
           "compare_at_price": "12.90",
           "position": 1,
@@ -215089,7 +215264,8 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -215103,7 +215279,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "4.90",
           "grams": 110,
           "compare_at_price": "9.90",
           "position": 1,
@@ -216878,7 +217054,8 @@
       "product_type": "",
       "tags": [
         "AnimagiC-Merch",
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -216892,9 +217069,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "24.90",
+          "price": "14.90",
           "grams": 300,
-          "compare_at_price": "34.90",
+          "compare_at_price": "24.90",
           "position": 1,
           "product_id": 10387250086152,
           "created_at": "2025-07-03T15:27:35+02:00"
@@ -217100,7 +217277,8 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -217114,7 +217292,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "9.90",
+          "price": "4.90",
           "grams": 110,
           "compare_at_price": "9.90",
           "position": 1,
@@ -217592,7 +217770,8 @@
       "product_type": "",
       "tags": [
         "Online",
-        "sale-august-2026"
+        "sale-august-2026",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -217606,7 +217785,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "14.90",
+          "price": "8.90",
           "grams": 80,
           "compare_at_price": "14.90",
           "position": 1,
@@ -224765,7 +224944,8 @@
       "tags": [
         "Anime",
         "Online",
-        "peppermint anime"
+        "peppermint anime",
+        "sale-oktober-2026"
       ],
       "variants": [
         {
@@ -224779,7 +224959,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "11.90",
+          "price": "2.90",
           "grams": 60,
           "compare_at_price": "11.90",
           "position": 1,
