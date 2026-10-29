@@ -58340,6 +58340,57 @@
       ]
     },
     {
+      "id": 12320039534856,
+      "title": "Pokémon - Season 1-2: Die Anfänge - Bundle (DVD)",
+      "handle": "23a022-pokemon-die-tv-serie-staffel-1-2-bundle-dvd",
+      "published_at": "2026-10-29T13:08:49+01:00",
+      "created_at": "2026-10-02T11:13:41+02:00",
+      "vendor": "Polyband",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 58952170045704,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "23a022",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "44.90",
+          "grams": 260,
+          "compare_at_price": "44.90",
+          "position": 1,
+          "product_id": 12320039534856,
+          "created_at": "2026-10-02T11:13:41+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 87345270685960,
+          "created_at": "2026-10-02T12:50:10+02:00",
+          "position": 1,
+          "product_id": 12320039534856,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pokemon-tv-serie-staffel-1-2-bundle-dvd-standard-edition-449.webp?v=1790938210",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 10261388591368,
       "title": "Future Boy Conan - Vol. 1 mit Sammelschuber - Limited Edition (Blu-ray)",
       "handle": "23a023-future-boy-conan-vol-1-mit-sammelschuber-limited-edition-bluray",
@@ -181529,12 +181580,12 @@
       ],
       "images": [
         {
-          "id": 87857083121928,
-          "created_at": "2026-10-20T19:00:16+02:00",
+          "id": 88141342671112,
+          "created_at": "2026-10-29T13:31:01+01:00",
           "position": 1,
           "product_id": 12217377685768,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pokemon-season-1-2-anfaenge-dvd-standard-edition-polyband-anime-315.webp?v=1792515616",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pokemon-season-1-2-anfaenge-dvd-standard-edition-polyband-anime-334.webp?v=1793277061",
           "width": 2500,
           "height": 2500
         }
@@ -181582,12 +181633,12 @@
       ],
       "images": [
         {
-          "id": 87857069785352,
-          "created_at": "2026-10-20T18:58:22+02:00",
+          "id": 88141344768264,
+          "created_at": "2026-10-29T13:31:34+01:00",
           "position": 1,
           "product_id": 12217377653000,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pokemon-season-14-16-schwarz-weiss-dvd-standard-edition-polyband-704.webp?v=1792515502",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pokemon-season-14-16-schwarz-weiss-dvd-standard-edition-polyband-145.webp?v=1793277094",
           "width": 2500,
           "height": 2500
         }
@@ -182000,12 +182051,12 @@
       ],
       "images": [
         {
-          "id": 87856955588872,
-          "created_at": "2026-10-20T18:49:27+02:00",
+          "id": 88141304267016,
+          "created_at": "2026-10-29T13:28:22+01:00",
           "position": 1,
           "product_id": 12364556042504,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pokemon-season-3-5-gold-silber-dvd-standard-edition-polyband-149.webp?v=1792514967",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pokemon-season-3-5-gold-silber-dvd-standard-edition-polyband-771.webp?v=1793276902",
           "width": 2500,
           "height": 2500
         }
@@ -182053,12 +182104,12 @@
       ],
       "images": [
         {
-          "id": 87856954343688,
-          "created_at": "2026-10-20T18:49:18+02:00",
+          "id": 88141311279368,
+          "created_at": "2026-10-29T13:28:56+01:00",
           "position": 1,
           "product_id": 12364556009736,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pokemon-season-6-9-rubin-saphir-dvd-standard-edition-polyband-261.webp?v=1792514958",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pokemon-season-6-9-rubin-saphir-dvd-standard-edition-polyband-545.webp?v=1793276936",
           "width": 2500,
           "height": 2500
         }
@@ -182106,12 +182157,12 @@
       ],
       "images": [
         {
-          "id": 87856956342536,
-          "created_at": "2026-10-20T18:49:34+02:00",
+          "id": 88141299450120,
+          "created_at": "2026-10-29T13:27:16+01:00",
           "position": 1,
           "product_id": 12364556108040,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pokemon-season-10-13-diamant-perl-dvd-standard-edition-polyband-738.webp?v=1792514974",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pokemon-season-10-13-diamant-perl-dvd-standard-edition-polyband-270.webp?v=1793276836",
           "width": 2500,
           "height": 2500
         }
@@ -182159,12 +182210,12 @@
       ],
       "images": [
         {
-          "id": 87856953622792,
-          "created_at": "2026-10-20T18:49:06+02:00",
+          "id": 88141314720008,
+          "created_at": "2026-10-29T13:29:29+01:00",
           "position": 1,
           "product_id": 12364555944200,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pokemon-season-17-19-xy-dvd-standard-edition-polyband-anime-film-955.webp?v=1792514946",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pokemon-season-17-19-xy-dvd-standard-edition-polyband-anime-film-362.webp?v=1793276969",
           "width": 2500,
           "height": 2500
         }
@@ -182212,12 +182263,12 @@
       ],
       "images": [
         {
-          "id": 87856952082696,
-          "created_at": "2026-10-20T18:48:50+02:00",
+          "id": 88141340344584,
+          "created_at": "2026-10-29T13:30:40+01:00",
           "position": 1,
           "product_id": 12364555845896,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pokemon-season-20-22-sonne-mond-dvd-standard-edition-polyband-473.webp?v=1792514930",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pokemon-season-20-22-sonne-mond-dvd-standard-edition-polyband-312.webp?v=1793277040",
           "width": 2500,
           "height": 2500
         }
@@ -182265,12 +182316,12 @@
       ],
       "images": [
         {
-          "id": 87856937369864,
-          "created_at": "2026-10-20T18:48:25+02:00",
+          "id": 88141325173000,
+          "created_at": "2026-10-29T13:30:04+01:00",
           "position": 1,
           "product_id": 12364555878664,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pokemon-season-23-25-reisen-dvd-standard-edition-polyband-anime-338.webp?v=1792514905",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pokemon-season-23-25-reisen-dvd-standard-edition-polyband-anime-338_2f81fac7-63ff-4f1e-9c67-96b813df966b.webp?v=1793277004",
           "width": 2500,
           "height": 2500
         }
@@ -196470,6 +196521,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -196483,7 +196535,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "64.90",
           "grams": 750,
           "compare_at_price": "64.90",
