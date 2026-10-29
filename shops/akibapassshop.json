@@ -131253,7 +131253,7 @@
     },
     {
       "id": 10431169560840,
-      "title": "Junji-Ito - Melting - Hoodie - Größe M",
+      "title": "Junji-Ito - Melting - Hoodie - Größe S",
       "handle": "25her008-junji-ito-melting-hoodie",
       "published_at": "2025-07-25T17:52:22+02:00",
       "created_at": "2025-07-25T17:45:45+02:00",
@@ -174987,6 +174987,59 @@
       ]
     },
     {
+      "id": 12122165510408,
+      "title": "Call of the Night - Season 2 - Wandbanner - Keyvisual",
+      "handle": "26m097-call-of-the-night-wandbanner",
+      "published_at": "2026-10-29T20:00:40+01:00",
+      "created_at": "2026-07-22T17:22:24+02:00",
+      "vendor": "peppermint anime",
+      "product_type": "",
+      "tags": [
+        "Online"
+      ],
+      "variants": [
+        {
+          "id": 58282644701448,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26m097",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "19.90",
+          "grams": 150,
+          "compare_at_price": "19.90",
+          "position": 1,
+          "product_id": 12122165510408,
+          "created_at": "2026-07-22T17:22:24+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 85864768438536,
+          "created_at": "2026-07-22T17:38:48+02:00",
+          "position": 1,
+          "product_id": 12122165510408,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/call-of-the-night-season-2-wandbanner-keyvisual-221.webp?v=1784734728",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 12121963725064,
       "title": "Call of the Night - Magnet - Nazuna (Metallic Finish)",
       "handle": "26m098-call-of-the-night-magnet-nazuna",
@@ -196529,7 +196582,6 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -196543,7 +196595,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "64.90",
           "grams": 750,
           "compare_at_price": "64.90",
