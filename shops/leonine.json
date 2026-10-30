@@ -24076,7 +24076,7 @@
       "product_type": "DVD",
       "tags": [
         "DVD",
-        "preorder",
+        "Neuheiten",
         "Serien"
       ],
       "variants": [
@@ -24141,7 +24141,7 @@
       "product_type": "BluRay",
       "tags": [
         "Blu-ray",
-        "preorder",
+        "Neuheiten",
         "Serien"
       ],
       "variants": [
@@ -26332,7 +26332,7 @@
       "published_at": "2026-10-30T10:52:42+01:00",
       "created_at": "2026-10-30T10:21:27+01:00",
       "vendor": "LEONINE Distribution GmbH",
-      "product_type": "BluRay",
+      "product_type": "DVD",
       "tags": [
         "Blu-ray",
         "Disney",
@@ -26345,7 +26345,7 @@
           "option1": "Default Title",
           "option2": null,
           "option3": null,
-          "sku": "LEO-00786",
+          "sku": "LEO-00785",
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
@@ -39063,7 +39063,7 @@
       "tags": [
         "DVD",
         "Filme & Serien",
-        "preorder"
+        "Neuheiten"
       ],
       "variants": [
         {
@@ -39128,7 +39128,7 @@
       "tags": [
         "Blu-ray",
         "Filme & Serien",
-        "preorder"
+        "Neuheiten"
       ],
       "variants": [
         {
@@ -44935,7 +44935,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "59.99",
           "grams": 1000,
           "compare_at_price": null,
@@ -45375,7 +45375,7 @@
       "tags": [
         "blu-ray",
         "Filme & Serien",
-        "preorder"
+        "Neuheiten"
       ],
       "variants": [
         {
@@ -47028,7 +47028,7 @@
       "tags": [
         "BluRay",
         "Horror",
-        "preorder",
+        "Neuheiten",
         "Serien"
       ],
       "variants": [
@@ -50503,7 +50503,7 @@
         "Disney Kat",
         "DVD",
         "Filme",
-        "preorder"
+        "Neuheiten"
       ],
       "variants": [
         {
@@ -50632,7 +50632,7 @@
         "Blu-ray",
         "Disney Kat",
         "Filme",
-        "preorder"
+        "Neuheiten"
       ],
       "variants": [
         {
@@ -50760,7 +50760,7 @@
         "Abenteuer & Family",
         "Disney Kat",
         "Filme",
-        "preorder",
+        "Neuheiten",
         "Steelbooks"
       ],
       "variants": [
@@ -50888,7 +50888,7 @@
         "Blu-ray",
         "Disney Kat",
         "Filme",
-        "preorder"
+        "Neuheiten"
       ],
       "variants": [
         {
