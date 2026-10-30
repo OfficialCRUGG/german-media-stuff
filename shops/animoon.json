@@ -23219,16 +23219,16 @@
         "comedy",
         "dendrogram",
         "fantasy",
-        "preorder",
+        "Neuheit",
+        "released",
         "rpg",
-        "sci-fi",
-        "vorbestellung"
+        "sci-fi"
       ],
       "variants": [
         {
           "id": 48838565921033,
-          "title": "Blu-ray (Vorbestellung)",
-          "option1": "Blu-ray (Vorbestellung)",
+          "title": "Blu-ray",
+          "option1": "Blu-ray",
           "option2": null,
           "option3": null,
           "sku": "4260497795605",
@@ -23249,17 +23249,17 @@
             ]
           },
           "available": true,
-          "price": "37.99",
+          "price": "39.99",
           "grams": 250,
-          "compare_at_price": "39.99",
+          "compare_at_price": null,
           "position": 1,
           "product_id": 9391503180041,
           "created_at": "2024-12-14T14:45:14+01:00"
         },
         {
           "id": 48838565953801,
-          "title": "DVD (Vorbestellung)",
-          "option1": "DVD (Vorbestellung)",
+          "title": "DVD",
+          "option1": "DVD",
           "option2": null,
           "option3": null,
           "sku": "4260497795599",
@@ -23280,9 +23280,9 @@
             ]
           },
           "available": true,
-          "price": "37.99",
+          "price": "39.99",
           "grams": 250,
-          "compare_at_price": "39.99",
+          "compare_at_price": null,
           "position": 2,
           "product_id": 9391503180041,
           "created_at": "2024-12-14T14:45:14+01:00"
@@ -23329,8 +23329,8 @@
           "name": "Medium auswählen:",
           "position": 1,
           "values": [
-            "Blu-ray (Vorbestellung)",
-            "DVD (Vorbestellung)"
+            "Blu-ray",
+            "DVD"
           ]
         }
       ]
@@ -35344,18 +35344,18 @@
         "drama",
         "ecchi",
         "harem",
+        "Neuheit",
         "nukitashi",
-        "preorder",
+        "released",
         "romance",
         "school",
-        "Serie",
-        "vorbestellung"
+        "Serie"
       ],
       "variants": [
         {
           "id": 55997503734025,
-          "title": "Blu-ray (Vorbestellung)",
-          "option1": "Blu-ray (Vorbestellung)",
+          "title": "Blu-ray",
+          "option1": "Blu-ray",
           "option2": null,
           "option3": null,
           "sku": "4260497796152",
@@ -35376,17 +35376,17 @@
             ]
           },
           "available": true,
-          "price": "39.99",
+          "price": "42.99",
           "grams": 400,
-          "compare_at_price": "42.99",
+          "compare_at_price": null,
           "position": 1,
           "product_id": 15264011976969,
           "created_at": "2025-08-08T14:17:18+02:00"
         },
         {
           "id": 56919636148489,
-          "title": "DVD (Vorbestellung)",
-          "option1": "DVD (Vorbestellung)",
+          "title": "DVD",
+          "option1": "DVD",
           "option2": null,
           "option3": null,
           "sku": "4260497796763",
@@ -35394,9 +35394,9 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "39.99",
+          "price": "42.99",
           "grams": 400,
-          "compare_at_price": "42.99",
+          "compare_at_price": null,
           "position": 2,
           "product_id": 15264011976969,
           "created_at": "2026-03-26T17:09:53+01:00"
@@ -35431,8 +35431,8 @@
           "name": "Medium auswählen:",
           "position": 1,
           "values": [
-            "Blu-ray (Vorbestellung)",
-            "DVD (Vorbestellung)"
+            "Blu-ray",
+            "DVD"
           ]
         }
       ]
