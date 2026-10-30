@@ -11139,7 +11139,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.90",
           "grams": 130,
           "compare_at_price": "4.90",
@@ -11370,7 +11370,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "2.90",
           "grams": 100,
           "compare_at_price": "9.90",
@@ -58557,7 +58557,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "4.90",
           "grams": 100,
           "compare_at_price": "41.90",
@@ -198384,7 +198384,6 @@
       "product_type": "Gift",
       "tags": [
         "Click&Collect",
-        "Flow:ArtikelstatusAktiv",
         "Goodie",
         "Online"
       ],
@@ -198399,7 +198398,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.00",
           "grams": 10,
           "compare_at_price": "0.00",
@@ -201047,8 +201046,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Click&Collect",
-        "Flow:ArtikelstatusAktiv"
+        "Click&Collect"
       ],
       "variants": [
         {
@@ -201061,7 +201059,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.00",
           "grams": 10,
           "compare_at_price": "0.00",

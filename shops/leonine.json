@@ -13718,6 +13718,138 @@
       ]
     },
     {
+      "id": 15461085806645,
+      "title": "Die Chroniken von Narnia 3-Movie-Collection",
+      "handle": "die-chroniken-von-narnia-3-movie-collection",
+      "published_at": "2026-10-30T10:36:58+01:00",
+      "created_at": "2026-10-30T09:31:14+01:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "DVD",
+      "tags": [
+        "Disney",
+        "DVD",
+        "Filme",
+        "preorder"
+      ],
+      "variants": [
+        {
+          "id": 67851027054645,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00783",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "19.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15461085806645,
+          "created_at": "2026-10-30T09:31:14+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39347592167477,
+          "created_at": "2026-10-30T10:38:17+01:00",
+          "position": 1,
+          "product_id": 15461085806645,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4013575734351_01.jpg?v=1793353099",
+          "width": 1527,
+          "height": 2156
+        },
+        {
+          "id": 39347592200245,
+          "created_at": "2026-10-30T10:38:17+01:00",
+          "position": 2,
+          "product_id": 15461085806645,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4013575734351_02i.jpg?v=1793353099",
+          "width": 1620,
+          "height": 2339
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15461085773877,
+      "title": "Die Chroniken von Narnia 3-Movie-Collection Blu-ray",
+      "handle": "die-chroniken-von-narnia-3-movie-collection-blu-ray",
+      "published_at": "2026-10-30T10:36:33+01:00",
+      "created_at": "2026-10-30T09:31:12+01:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "Blu-ray",
+        "Disney",
+        "Filme",
+        "preorder"
+      ],
+      "variants": [
+        {
+          "id": 67851027021877,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00782",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "24.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15461085773877,
+          "created_at": "2026-10-30T09:31:12+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39347367247925,
+          "created_at": "2026-10-30T09:31:22+01:00",
+          "position": 1,
+          "product_id": 15461085773877,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573436801jpg-242706.jpg?v=1793349084",
+          "width": 1744,
+          "height": 2141
+        },
+        {
+          "id": 39347367444533,
+          "created_at": "2026-10-30T09:31:27+01:00",
+          "position": 2,
+          "product_id": 15461085773877,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573436802jpg-242755.jpg?v=1793349089",
+          "width": 1239,
+          "height": 1753
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 15446673817653,
       "title": "Die Chroniken von Narnia - Der König von Narnia UHD+BD (Lim. Steelbook)",
       "handle": "die-chroniken-von-narnia-der-k-nig-von-narnia-uhd-bd-lim-steelbook",
@@ -13924,6 +14056,71 @@
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/dieedelsteintrilogiedvdbox40103240185712d72dpijpg.jpg?v=1739192905",
           "width": 1655,
           "height": 2203
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15461090754613,
+      "title": "Die Eiskönigin 1 + 2 Blu-ray",
+      "handle": "die-eisk-nigin-1-2-blu-ray",
+      "published_at": "2026-10-30T10:51:50+01:00",
+      "created_at": "2026-10-30T09:47:59+01:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "Blu-ray",
+        "Disney",
+        "Filme"
+      ],
+      "variants": [
+        {
+          "id": 67851036524597,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00784",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "14.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15461090754613,
+          "created_at": "2026-10-30T09:47:59+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39337704751157,
+          "created_at": "2026-10-29T10:20:48+01:00",
+          "position": 1,
+          "product_id": 15461090754613,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/167a03fd-c5fc-42bd-ab4b-44559e09a306jpeg-242431.jpg?v=1793265650",
+          "width": 1572,
+          "height": 2000
+        },
+        {
+          "id": 39337705078837,
+          "created_at": "2026-10-29T10:20:53+01:00",
+          "position": 2,
+          "product_id": 15461090754613,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/e0ddafd8-dfac-43a5-8397-2e4df9c605f9jpeg-242480.jpg?v=1793265654",
+          "width": 1622,
+          "height": 2000
         }
       ],
       "options": [
@@ -16317,6 +16514,71 @@
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/disney-prinzessinnen-box-12-filmedvd3palowresjpg.jpg?v=1738916143",
           "width": 2000,
           "height": 1921
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15461131321397,
+      "title": "Disneys Eine Weihnachtsgeschichte 3D Blu-ray (3D / 2D)",
+      "handle": "disneys-eine-weihnachtsgeschichte-3d-blu-ray-3d-2d",
+      "published_at": "2026-10-30T10:53:16+01:00",
+      "created_at": "2026-10-30T10:21:29+01:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "Blu-ray",
+        "Disney",
+        "Filme"
+      ],
+      "variants": [
+        {
+          "id": 67851178737717,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00787",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "14.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15461131321397,
+          "created_at": "2026-10-30T10:21:29+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39347514867765,
+          "created_at": "2026-10-30T10:21:55+01:00",
+          "position": 1,
+          "product_id": 15461131321397,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/871741836870801jpg-243490.jpg?v=1793352117",
+          "width": 1589,
+          "height": 2000
+        },
+        {
+          "id": 39347514900533,
+          "created_at": "2026-10-30T10:22:01+01:00",
+          "position": 2,
+          "product_id": 15461131321397,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/871741836870802jpg-243539.jpg?v=1793352122",
+          "width": 1460,
+          "height": 1892
         }
       ],
       "options": [
@@ -26051,6 +26313,136 @@
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/karlmayklassikereditionbdbluraybox8884306949963d72dpijpg.jpg?v=1738849649",
           "width": 2394,
           "height": 2154
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15461131255861,
+      "title": "Kevin - Allein zu Haus 1-5",
+      "handle": "kevin-allein-zu-haus-1-5",
+      "published_at": "2026-10-30T10:52:42+01:00",
+      "created_at": "2026-10-30T10:21:27+01:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "Blu-ray",
+        "Disney",
+        "Filme"
+      ],
+      "variants": [
+        {
+          "id": 67851178311733,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00786",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "17.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15461131255861,
+          "created_at": "2026-10-30T10:21:27+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39347514310709,
+          "created_at": "2026-10-30T10:21:43+01:00",
+          "position": 1,
+          "product_id": 15461131255861,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/871741859682801jpg-243196.jpg?v=1793352104",
+          "width": 1589,
+          "height": 2000
+        },
+        {
+          "id": 39347514507317,
+          "created_at": "2026-10-30T10:21:47+01:00",
+          "position": 2,
+          "product_id": 15461131255861,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/871741859682802jpg-243245.jpg?v=1793352109",
+          "width": 1423,
+          "height": 2000
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15461117722677,
+      "title": "Kevin - Allein zu Haus / Kevin - Allein in New York - Doppelpack Blu-ray",
+      "handle": "kevin-allein-zu-haus-kevin-allein-in-new-york-doppelpack-blu-ray",
+      "published_at": "2026-10-30T10:54:28+01:00",
+      "created_at": "2026-10-30T10:04:52+01:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "Blu-ray",
+        "Disney",
+        "Filme"
+      ],
+      "variants": [
+        {
+          "id": 67851150557237,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00785",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "9.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15461117722677,
+          "created_at": "2026-10-30T10:04:52+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39347514310709,
+          "created_at": "2026-10-30T10:21:43+01:00",
+          "position": 1,
+          "product_id": 15461117722677,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/871741859682801jpg-243196.jpg?v=1793352104",
+          "width": 1589,
+          "height": 2000
+        },
+        {
+          "id": 39347514507317,
+          "created_at": "2026-10-30T10:21:47+01:00",
+          "position": 2,
+          "product_id": 15461117722677,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/871741859682802jpg-243245.jpg?v=1793352109",
+          "width": 1423,
+          "height": 2000
         }
       ],
       "options": [
