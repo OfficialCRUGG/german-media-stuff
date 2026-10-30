@@ -83423,7 +83423,6 @@
         "Action",
         "Anime",
         "Crunchyroll",
-        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -83437,7 +83436,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "49.90",
           "grams": 193,
           "compare_at_price": "69.90",
