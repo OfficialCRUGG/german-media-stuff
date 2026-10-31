@@ -38930,7 +38930,7 @@
               51541922873608
             ]
           },
-          "available": true,
+          "available": false,
           "price": "0.90",
           "grams": 100,
           "compare_at_price": "6.90",
@@ -38997,7 +38997,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.90",
           "grams": 130,
           "compare_at_price": "4.90",
@@ -77288,7 +77288,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "49.90",
           "grams": 176,
           "compare_at_price": "59.90",
@@ -123155,7 +123155,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "29.90",
           "grams": 127,
           "compare_at_price": "39.90",
@@ -159472,7 +159472,6 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -159486,7 +159485,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "39.90",
           "grams": 120,
           "compare_at_price": "39.90",
@@ -208524,7 +208523,6 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -208538,7 +208536,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "29.90",
           "grams": 143,
           "compare_at_price": "29.90",
