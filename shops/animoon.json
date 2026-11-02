@@ -48940,16 +48940,16 @@
         "drama",
         "fantasy",
         "mystery",
-        "preorder",
+        "Neuheit",
+        "released",
         "school",
-        "virginroad",
-        "vorbestellung"
+        "virginroad"
       ],
       "variants": [
         {
           "id": 56697379029257,
-          "title": "Blu-ray (Vorbestellung)",
-          "option1": "Blu-ray (Vorbestellung)",
+          "title": "Blu-ray",
+          "option1": "Blu-ray",
           "option2": null,
           "option3": null,
           "sku": "4260497796626",
@@ -48970,7 +48970,7 @@
             ]
           },
           "available": true,
-          "price": "39.99",
+          "price": "42.99",
           "grams": 250,
           "compare_at_price": "42.99",
           "position": 1,
@@ -49007,7 +49007,7 @@
           "name": "Medium auswählen:",
           "position": 1,
           "values": [
-            "Blu-ray (Vorbestellung)"
+            "Blu-ray"
           ]
         }
       ]
