@@ -58405,14 +58405,34 @@
       ],
       "images": [
         {
-          "id": 87345270685960,
-          "created_at": "2026-10-02T12:50:10+02:00",
+          "id": 88225623638280,
+          "created_at": "2026-11-02T15:26:22+01:00",
           "position": 1,
           "product_id": 12320039534856,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pokemon-tv-serie-staffel-1-2-bundle-dvd-standard-edition-449.webp?v=1790938210",
-          "width": 1024,
-          "height": 1024
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pokemon-season-1-2-anfaenge-bundle-dvd-standard-edition-polyband-455.webp?v=1793629582",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88225625899272,
+          "created_at": "2026-11-02T15:26:32+01:00",
+          "position": 2,
+          "product_id": 12320039534856,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pokemon-season-1-2-anfaenge-bundle-dvd-standard-edition-polyband-524.webp?v=1793629592",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88225628684552,
+          "created_at": "2026-11-02T15:26:40+01:00",
+          "position": 3,
+          "product_id": 12320039534856,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pokemon-season-1-2-anfaenge-bundle-dvd-standard-edition-polyband-183.webp?v=1793629600",
+          "width": 2500,
+          "height": 2500
         }
       ],
       "options": [
@@ -159883,6 +159903,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -159966,6 +159987,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -160311,6 +160333,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -160812,6 +160835,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -161021,6 +161045,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -161406,6 +161431,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -193357,6 +193383,516 @@
           "product_id": 12348909486344,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/tagebuecher-apothekerin-wallscroll-60x90cm-motiv-maomao-freunde-615.webp?v=1791981394",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12390101483784,
+      "title": "Goddess of Victory: NIKKE - Acryldiorama - Alice (18cm)",
+      "handle": "26sam199-goddess-of-victory-nikke-acryldiorama-alice",
+      "published_at": "2026-11-02T16:04:05+01:00",
+      "created_at": "2026-10-26T14:37:31+01:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59251868401928,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam199",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "17.90",
+          "grams": 0,
+          "compare_at_price": "17.90",
+          "position": 1,
+          "product_id": 12390101483784,
+          "created_at": "2026-10-26T14:37:31+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88220924346632,
+          "created_at": "2026-11-02T08:54:13+01:00",
+          "position": 1,
+          "product_id": 12390101483784,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/goddess-of-victory-nikke-acryldiorama-alice-18cm-sakami-643.webp?v=1793606053",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12390101025032,
+      "title": "Goddess of Victory: NIKKE - Acryldiorama - Anis (18cm)",
+      "handle": "26sam200-goddess-of-victory-nikke-acryldiorama-anis",
+      "published_at": "2026-11-02T16:04:04+01:00",
+      "created_at": "2026-10-26T14:37:21+01:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59251866173704,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam200",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "17.90",
+          "grams": 0,
+          "compare_at_price": "17.90",
+          "position": 1,
+          "product_id": 12390101025032,
+          "created_at": "2026-10-26T14:37:21+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88220925395208,
+          "created_at": "2026-11-02T08:54:20+01:00",
+          "position": 1,
+          "product_id": 12390101025032,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/goddess-of-victory-nikke-acryldiorama-anis-18cm-sakami-merchandise-184.webp?v=1793606060",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12390101188872,
+      "title": "Goddess of Victory: NIKKE - Acryldiorama - Dorothy (18cm)",
+      "handle": "26sam201-goddess-of-victory-nikke-acryldiorama-dorothy",
+      "published_at": "2026-11-02T16:04:05+01:00",
+      "created_at": "2026-10-26T14:37:25+01:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59251866829064,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam201",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "17.90",
+          "grams": 0,
+          "compare_at_price": "17.90",
+          "position": 1,
+          "product_id": 12390101188872,
+          "created_at": "2026-10-26T14:37:25+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88220938109192,
+          "created_at": "2026-11-02T08:56:15+01:00",
+          "position": 1,
+          "product_id": 12390101188872,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/goddess-of-victory-nikke-acryldiorama-dorothy-18cm-sakami-970.webp?v=1793606175",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12390101680392,
+      "title": "Goddess of Victory: NIKKE - Acryldiorama - Modernia (18cm)",
+      "handle": "26sam202-goddess-of-victory-nikke-acryldiorama-modernia",
+      "published_at": "2026-11-02T16:04:06+01:00",
+      "created_at": "2026-10-26T14:37:35+01:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59251869384968,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam202",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "17.90",
+          "grams": 0,
+          "compare_at_price": "17.90",
+          "position": 1,
+          "product_id": 12390101680392,
+          "created_at": "2026-10-26T14:37:35+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88220938567944,
+          "created_at": "2026-11-02T08:56:25+01:00",
+          "position": 1,
+          "product_id": 12390101680392,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/goddess-of-victory-nikke-acryldiorama-modernia-18cm-sakami-344.webp?v=1793606185",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12390102040840,
+      "title": "Goddess of Victory: NIKKE - Acryldiorama - Rapi (18cm)",
+      "handle": "26sam203-goddess-of-victory-nikke-acryldiorama-rapi",
+      "published_at": "2026-11-02T16:04:08+01:00",
+      "created_at": "2026-10-26T14:37:41+01:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59251870990600,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam203",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "17.90",
+          "grams": 0,
+          "compare_at_price": "17.90",
+          "position": 1,
+          "product_id": 12390102040840,
+          "created_at": "2026-10-26T14:37:41+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88220980314376,
+          "created_at": "2026-11-02T08:58:11+01:00",
+          "position": 1,
+          "product_id": 12390102040840,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/goddess-of-victory-nikke-acryldiorama-rapi-18cm-sakami-merchandise-285.webp?v=1793606291",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12390102237448,
+      "title": "Goddess of Victory: NIKKE - Acryldiorama - Scarlet (18cm)",
+      "handle": "26sam204-goddess-of-victory-nikke-acryldiorama-scarlet",
+      "published_at": "2026-11-02T16:04:08+01:00",
+      "created_at": "2026-10-26T14:37:44+01:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59251871809800,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam204",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "17.90",
+          "grams": 0,
+          "compare_at_price": "17.90",
+          "position": 1,
+          "product_id": 12390102237448,
+          "created_at": "2026-10-26T14:37:44+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88220980445448,
+          "created_at": "2026-11-02T08:58:19+01:00",
+          "position": 1,
+          "product_id": 12390102237448,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/goddess-of-victory-nikke-acryldiorama-scarlet-18cm-sakami-419.webp?v=1793606299",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12390101877000,
+      "title": "Goddess of Victory: NIKKE - Acryldiorama - Viper (18cm)",
+      "handle": "26sam205-goddess-of-victory-nikke-acryldiorama-viper",
+      "published_at": "2026-11-02T16:04:07+01:00",
+      "created_at": "2026-10-26T14:37:38+01:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59251870368008,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam205",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "17.90",
+          "grams": 0,
+          "compare_at_price": "17.90",
+          "position": 1,
+          "product_id": 12390101877000,
+          "created_at": "2026-10-26T14:37:38+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88220980543752,
+          "created_at": "2026-11-02T08:58:25+01:00",
+          "position": 1,
+          "product_id": 12390101877000,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/goddess-of-victory-nikke-acryldiorama-viper-18cm-sakami-781.webp?v=1793606305",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12390102728968,
+      "title": "Black Butler - Wallscroll (60x90cm) - Sebastian (Season 4)",
+      "handle": "26sam206-black-butler-sebastian-season-4-wallscroll",
+      "published_at": "2026-11-02T16:04:10+01:00",
+      "created_at": "2026-10-26T14:37:54+01:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59251873972488,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam206",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "19.90",
+          "grams": 0,
+          "compare_at_price": "19.90",
+          "position": 1,
+          "product_id": 12390102728968,
+          "created_at": "2026-10-26T14:37:54+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88221001023752,
+          "created_at": "2026-11-02T09:02:20+01:00",
+          "position": 1,
+          "product_id": 12390102728968,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/black-butler-wallscroll-60x90cm-sebastian-season-4-sakami-331.webp?v=1793606540",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12390103023880,
+      "title": "Cardcaptor Sakura: Clear Card - Spielkarten",
+      "handle": "26sam208-card-captor-sakura-clear-card-spielkarten",
+      "published_at": "2026-11-02T16:04:11+01:00",
+      "created_at": "2026-10-26T14:37:57+01:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59251875053832,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam208",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "9.90",
+          "grams": 0,
+          "compare_at_price": "9.90",
+          "position": 1,
+          "product_id": 12390103023880,
+          "created_at": "2026-10-26T14:37:57+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88221037494536,
+          "created_at": "2026-11-02T09:08:20+01:00",
+          "position": 1,
+          "product_id": 12390103023880,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/cardcaptor-sakura-clear-card-spielkarten-sakami-merchandise-670.webp?v=1793606900",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12390102499592,
+      "title": "Meine Wiedergeburt als Schleim in einer anderen Welt - Clearfile Set",
+      "handle": "26sam210-meine-wiedergeburt-als-schleim-in-einer-anderen-welt-clearfile-set",
+      "published_at": "2026-11-02T16:04:09+01:00",
+      "created_at": "2026-10-26T14:37:50+01:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59251873153288,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam210",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "12.90",
+          "grams": 0,
+          "compare_at_price": "12.90",
+          "position": 1,
+          "product_id": 12390102499592,
+          "created_at": "2026-10-26T14:37:50+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88221009019144,
+          "created_at": "2026-11-02T09:04:16+01:00",
+          "position": 1,
+          "product_id": 12390102499592,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/wiedergeburt-schleim-anderen-welt-clearfile-set-sakami-merchandise-583.webp?v=1793606656",
           "width": 2500,
           "height": 2500
         }
