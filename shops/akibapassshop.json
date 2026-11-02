@@ -25608,39 +25608,19 @@
       ],
       "images": [
         {
-          "id": 73941467201800,
-          "created_at": "2025-10-29T14:39:15+01:00",
+          "id": 73941488206088,
+          "created_at": "2025-10-29T14:39:40+01:00",
           "position": 1,
           "product_id": 10261301461256,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/fire-force-tasse-graffart-peppermint-anime-162.webp?v=1769021414",
-          "width": 1000,
-          "height": 1000
-        },
-        {
-          "id": 73941473952008,
-          "created_at": "2025-10-29T14:39:20+01:00",
-          "position": 2,
-          "product_id": 10261301461256,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/fire-force-tasse-graffart-peppermint-anime-169.webp?v=1769021418",
-          "width": 1000,
-          "height": 1000
-        },
-        {
-          "id": 73941478146312,
-          "created_at": "2025-10-29T14:39:24+01:00",
-          "position": 3,
-          "product_id": 10261301461256,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/fire-force-tasse-graffart-peppermint-anime-759.webp?v=1769021421",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/fire-force-tasse-graffart-peppermint-anime-204.webp?v=1769021430",
           "width": 1000,
           "height": 1000
         },
         {
           "id": 73941481324808,
           "created_at": "2025-10-29T14:39:30+01:00",
-          "position": 4,
+          "position": 2,
           "product_id": 10261301461256,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/fire-force-tasse-graffart-peppermint-anime-243.webp?v=1769021424",
@@ -25650,20 +25630,10 @@
         {
           "id": 73941485519112,
           "created_at": "2025-10-29T14:39:35+01:00",
-          "position": 5,
+          "position": 3,
           "product_id": 10261301461256,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/fire-force-tasse-graffart-peppermint-anime-692.webp?v=1769021427",
-          "width": 1000,
-          "height": 1000
-        },
-        {
-          "id": 73941488206088,
-          "created_at": "2025-10-29T14:39:40+01:00",
-          "position": 6,
-          "product_id": 10261301461256,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/fire-force-tasse-graffart-peppermint-anime-204.webp?v=1769021430",
           "width": 1000,
           "height": 1000
         }
