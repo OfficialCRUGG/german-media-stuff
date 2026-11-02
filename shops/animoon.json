@@ -5074,6 +5074,7 @@
         "fantasy",
         "harem",
         "isekai",
+        "released",
         "romance",
         "Serie"
       ],
@@ -5102,7 +5103,7 @@
             ]
           },
           "available": true,
-          "price": "99.00",
+          "price": "119.00",
           "grams": 1000,
           "compare_at_price": "130.97",
           "position": 1,
@@ -5120,7 +5121,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "99.00",
+          "price": "119.00",
           "grams": 1000,
           "compare_at_price": "130.97",
           "position": 2,
