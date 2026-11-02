@@ -119917,7 +119917,6 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -119931,7 +119930,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "49.90",
           "grams": 599,
           "compare_at_price": "79.90",
@@ -128144,7 +128143,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "49.90",
           "grams": 271,
           "compare_at_price": "69.90",
@@ -166377,7 +166376,6 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -166391,7 +166389,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "79.90",
           "grams": 280,
           "compare_at_price": "79.90",
