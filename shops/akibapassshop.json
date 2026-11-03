@@ -171213,6 +171213,7 @@
       "vendor": "Leonine Anime",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -181117,6 +181118,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
         "Online"
       ],
       "variants": [
@@ -181130,7 +181132,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "39.90",
           "grams": 222,
           "compare_at_price": "39.90",
