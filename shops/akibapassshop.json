@@ -185412,7 +185412,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "15.90",
           "grams": 300,
           "compare_at_price": "15.90",
@@ -187210,7 +187210,6 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen",
         "Flow:Releaseplan-Merch",
         "warenpost"
       ],
