@@ -180110,6 +180110,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
         "Online"
       ],
       "variants": [
@@ -180123,7 +180124,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "31.90",
           "grams": 220,
           "compare_at_price": "31.90",
@@ -180497,6 +180498,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Badge:Vorbestellen",
         "Online"
       ],
       "variants": [
@@ -180510,7 +180512,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "42.90",
           "grams": 0,
           "compare_at_price": "42.90",
@@ -180551,6 +180553,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Badge:Vorbestellen",
         "Online"
       ],
       "variants": [
@@ -180564,7 +180567,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "42.90",
           "grams": 103,
           "compare_at_price": "42.90",
@@ -197134,6 +197137,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -197147,7 +197151,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "64.90",
           "grams": 750,
           "compare_at_price": "64.90",
@@ -208862,6 +208866,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -208875,7 +208880,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "29.90",
           "grams": 143,
           "compare_at_price": "29.90",
