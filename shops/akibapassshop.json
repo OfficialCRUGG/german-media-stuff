@@ -45970,6 +45970,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Flow:ArtikelstatusAktiv",
         "KSM Anime",
         "Online"
       ],
@@ -45984,7 +45985,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "27.90",
           "grams": 170,
           "compare_at_price": "27.90",
@@ -81224,6 +81225,7 @@
       "tags": [
         "Anime",
         "Comedy",
+        "Flow:ArtikelstatusAktiv",
         "KSM Anime",
         "Online"
       ],
@@ -81238,7 +81240,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "79.90",
           "grams": 500,
           "compare_at_price": "79.90",
@@ -81280,6 +81282,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Flow:ArtikelstatusAktiv",
         "KSM Anime",
         "Online"
       ],
@@ -81294,7 +81297,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "99.90",
           "grams": 500,
           "compare_at_price": "99.90",
