@@ -81418,7 +81418,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "89.90",
           "grams": 2036,
           "compare_at_price": "139.90",
@@ -197158,7 +197158,6 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -199263,7 +199262,6 @@
         "exclude_rebuy",
         "exclude_recommendations",
         "exclude_review",
-        "Flow:ArtikelstatusAktiv",
         "hidden",
         "Hidden recommendation",
         "Hide",
@@ -199288,7 +199286,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.00",
           "grams": 40,
           "compare_at_price": "0.00",
@@ -208887,7 +208885,6 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
