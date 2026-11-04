@@ -46635,6 +46635,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Flow:ArtikelstatusAktiv",
         "KSM Anime",
         "Online"
       ],
@@ -46649,7 +46650,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "54.90",
           "grams": 180,
           "compare_at_price": "54.90",
@@ -164814,6 +164815,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -164827,7 +164829,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "54.90",
           "grams": 250,
           "compare_at_price": "54.90",
