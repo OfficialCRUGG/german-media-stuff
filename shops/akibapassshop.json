@@ -165581,6 +165581,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
         "Online"
       ],
       "variants": [
@@ -165594,7 +165595,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "79.90",
           "grams": 168,
           "compare_at_price": "79.90",
