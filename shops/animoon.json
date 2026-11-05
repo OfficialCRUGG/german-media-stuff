@@ -432,16 +432,16 @@
         "BD/DVD",
         "comedy",
         "drama",
-        "preorder",
+        "Neuheit",
+        "released",
         "romance",
-        "school",
-        "vorbestellung"
+        "school"
       ],
       "variants": [
         {
           "id": 48108278448393,
-          "title": "Blu-ray (Vorbestellung)",
-          "option1": "Blu-ray (Vorbestellung)",
+          "title": "Blu-ray",
+          "option1": "Blu-ray",
           "option2": null,
           "option3": null,
           "sku": "4260497795186",
@@ -462,7 +462,7 @@
             ]
           },
           "available": true,
-          "price": "37.99",
+          "price": "39.99",
           "grams": 250,
           "compare_at_price": "39.99",
           "position": 1,
@@ -471,8 +471,8 @@
         },
         {
           "id": 48108278481161,
-          "title": "DVD (Vorbestellung)",
-          "option1": "DVD (Vorbestellung)",
+          "title": "DVD",
+          "option1": "DVD",
           "option2": null,
           "option3": null,
           "sku": "4260497795179",
@@ -493,7 +493,7 @@
             ]
           },
           "available": true,
-          "price": "37.99",
+          "price": "39.99",
           "grams": 250,
           "compare_at_price": "39.99",
           "position": 2,
@@ -552,8 +552,8 @@
           "name": "Medium auswählen:",
           "position": 1,
           "values": [
-            "Blu-ray (Vorbestellung)",
-            "DVD (Vorbestellung)"
+            "Blu-ray",
+            "DVD"
           ]
         }
       ]
