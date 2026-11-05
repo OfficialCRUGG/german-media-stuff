@@ -44875,6 +44875,7 @@
       "tags": [
         "Anime",
         "Drama",
+        "Flow:ArtikelstatusAktiv",
         "KSM Anime",
         "Online"
       ],
@@ -44889,7 +44890,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "19.90",
           "grams": 120,
           "compare_at_price": "19.90",
@@ -44987,6 +44988,7 @@
       "tags": [
         "Anime",
         "Fantasy",
+        "Flow:ArtikelstatusAktiv",
         "KSM Anime",
         "Online"
       ],
@@ -45001,7 +45003,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "27.90",
           "grams": 130,
           "compare_at_price": "27.90",
@@ -46748,6 +46750,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Flow:ArtikelstatusAktiv",
         "KSM Anime",
         "Online",
         "Romance"
@@ -46763,7 +46766,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "24.90",
           "grams": 130,
           "compare_at_price": "24.90",
@@ -58041,6 +58044,7 @@
       "tags": [
         "Anime",
         "Fantasy",
+        "Flow:ArtikelstatusAktiv",
         "KSM Anime",
         "Online"
       ],
@@ -58055,7 +58059,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "24.90",
           "grams": 110,
           "compare_at_price": "24.90",
@@ -59685,6 +59689,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Flow:ArtikelstatusAktiv",
         "KSM Anime",
         "Online"
       ],
@@ -59699,7 +59704,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "59.90",
           "grams": 150,
           "compare_at_price": "59.90",
@@ -72807,6 +72812,7 @@
       "tags": [
         "Anime",
         "Drama",
+        "Flow:ArtikelstatusAktiv",
         "KSM Anime",
         "Online"
       ],
@@ -72821,7 +72827,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "24.90",
           "grams": 180,
           "compare_at_price": "24.90",
@@ -72863,6 +72869,7 @@
       "tags": [
         "Anime",
         "Boys Love",
+        "Flow:ArtikelstatusAktiv",
         "KSM Anime",
         "Online"
       ],
@@ -72877,7 +72884,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "7.90",
           "grams": 0,
           "compare_at_price": "7.90",
@@ -164657,6 +164664,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -164670,7 +164678,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "149.90",
           "grams": 500,
           "compare_at_price": "149.90",
@@ -165296,6 +165304,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -165309,7 +165318,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "34.90",
           "grams": 250,
           "compare_at_price": "34.90",
