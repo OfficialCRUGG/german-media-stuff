@@ -13126,6 +13126,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -13139,7 +13140,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "12.90",
           "grams": 100,
           "compare_at_price": "12.90",
@@ -13232,6 +13233,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -13245,7 +13247,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "12.90",
           "grams": 100,
           "compare_at_price": "12.90",
@@ -13338,6 +13340,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -13351,7 +13354,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "13.90",
           "grams": 100,
           "compare_at_price": "13.90",
@@ -13657,6 +13660,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "Pokémon",
         "polyband anime"
@@ -13672,7 +13676,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "13.90",
           "grams": 0,
           "compare_at_price": "13.90",
@@ -143045,6 +143049,7 @@
       "vendor": "Polyband",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -143058,7 +143063,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "99.90",
           "grams": 570,
           "compare_at_price": "99.90",
@@ -143779,6 +143784,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "polyband anime"
       ],
@@ -143793,7 +143799,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "42.90",
           "grams": 170,
           "compare_at_price": "42.90",
@@ -180139,7 +180145,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -180527,7 +180533,7 @@
       "product_type": "",
       "tags": [
         "Anime",
-        "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -180636,6 +180642,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -180649,7 +180656,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "42.90",
           "grams": 0,
           "compare_at_price": "42.90",
@@ -180981,6 +180988,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -180994,7 +181002,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "21.90",
           "grams": 100,
           "compare_at_price": "21.90",
@@ -196811,6 +196819,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -197177,7 +197186,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
