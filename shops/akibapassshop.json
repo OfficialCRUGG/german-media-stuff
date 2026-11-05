@@ -57823,6 +57823,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Flow:ArtikelstatusAktiv",
         "KSM Anime",
         "Online",
         "Sport"
@@ -57838,7 +57839,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "24.90",
           "grams": 80,
           "compare_at_price": "24.90",
@@ -60320,6 +60321,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Flow:ArtikelstatusAktiv",
         "KSM Anime",
         "Online",
         "Shounen"
@@ -60335,7 +60337,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "29.90",
           "grams": 120,
           "compare_at_price": "29.90",
@@ -87725,6 +87727,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -87738,7 +87741,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "9.90",
           "grams": 90,
           "compare_at_price": "9.90",
@@ -135101,6 +135104,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -135114,7 +135118,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "24.90",
           "grams": 70,
           "compare_at_price": "24.90",
@@ -160660,14 +160664,34 @@
       ],
       "images": [
         {
-          "id": 86506046849288,
-          "created_at": "2026-08-25T20:25:26+02:00",
+          "id": 88320468648200,
+          "created_at": "2026-11-05T17:06:18+01:00",
           "position": 1,
           "product_id": 12205899186440,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dragonball-z-movies-box-vol-1-dvd-standard-edition-crunchyroll-698.webp?v=1787682326",
-          "width": 1024,
-          "height": 1024
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dragonball-z-movies-box-vol-1-dvd-standard-edition-crunchyroll-150.webp?v=1793894778",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88320473628936,
+          "created_at": "2026-11-05T17:06:26+01:00",
+          "position": 2,
+          "product_id": 12205899186440,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dragonball-z-movies-box-vol-1-dvd-standard-edition-crunchyroll-689.webp?v=1793894786",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88320477823240,
+          "created_at": "2026-11-05T17:06:35+01:00",
+          "position": 3,
+          "product_id": 12205899186440,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dragonball-z-movies-box-vol-1-dvd-standard-edition-crunchyroll-965.webp?v=1793894795",
+          "width": 2500,
+          "height": 2500
         }
       ],
       "options": [
@@ -179923,7 +179947,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -215055,6 +215079,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -215068,7 +215093,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "149.90",
           "grams": 873,
           "compare_at_price": "149.90",
