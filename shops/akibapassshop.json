@@ -160882,7 +160882,6 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -160896,7 +160895,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "69.90",
           "grams": 201,
           "compare_at_price": "69.90",
@@ -198801,7 +198800,6 @@
       "product_type": "Gift",
       "tags": [
         "Click&Collect",
-        "Flow:ArtikelstatusAktiv",
         "Goodie",
         "Online"
       ],
@@ -198816,7 +198814,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.00",
           "grams": 10,
           "compare_at_price": "0.00",
@@ -201466,8 +201464,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Click&Collect",
-        "Flow:ArtikelstatusAktiv"
+        "Click&Collect"
       ],
       "variants": [
         {
@@ -201480,7 +201477,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.00",
           "grams": 10,
           "compare_at_price": "0.00",
