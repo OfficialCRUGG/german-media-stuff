@@ -8357,6 +8357,72 @@
       ]
     },
     {
+      "id": 15480374100021,
+      "title": "Coneheads Blu-ray",
+      "handle": "coneheads-blu-ray",
+      "published_at": "2026-11-09T13:24:14+01:00",
+      "created_at": "2026-11-09T13:05:27+01:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "Action & Thriller",
+        "Blu-ray",
+        "Filme & Serien",
+        "preorder"
+      ],
+      "variants": [
+        {
+          "id": 67932673540149,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00793",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "12.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15480374100021,
+          "created_at": "2026-11-09T13:05:27+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39420240068661,
+          "created_at": "2026-11-09T13:06:27+01:00",
+          "position": 1,
+          "product_id": 15480374100021,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122983501501jpg-245893.jpg?v=1794225989",
+          "width": 1500,
+          "height": 1915
+        },
+        {
+          "id": 39420240134197,
+          "created_at": "2026-11-09T13:06:32+01:00",
+          "position": 2,
+          "product_id": 15480374100021,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122983501502jpg-245944.jpg?v=1794225993",
+          "width": 1172,
+          "height": 1680
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 10310635257909,
       "title": "Corpus Delicti Blu-ray",
       "handle": "corpus-delicti-blu-ray",
@@ -8859,6 +8925,140 @@
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/dasbootcompleteeditiondasoriginalbdbluraybox40429991294293d72dpijpg.jpg?v=1738833861",
           "width": 1299,
           "height": 1880
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15480374034485,
+      "title": "Das Ende der Sterne 4K UHD + Blu-ray",
+      "handle": "das-ende-der-sterne-4k-uhd-blu-ray",
+      "published_at": "2026-11-09T13:25:06+01:00",
+      "created_at": "2026-11-09T13:05:24+01:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "4K",
+        "4K UHD",
+        "Blu-ray",
+        "Disney",
+        "Filme",
+        "preorder"
+      ],
+      "variants": [
+        {
+          "id": 67932673474613,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00791",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "29.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15480374034485,
+          "created_at": "2026-11-09T13:05:24+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39420239773749,
+          "created_at": "2026-11-09T13:06:06+01:00",
+          "position": 1,
+          "product_id": 15480374034485,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122976009601jpg-245485.jpg?v=1794225968",
+          "width": 1744,
+          "height": 2284
+        },
+        {
+          "id": 39420239839285,
+          "created_at": "2026-11-09T13:06:11+01:00",
+          "position": 2,
+          "product_id": 15480374034485,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122976009602jpg-245536.jpg?v=1794225973",
+          "width": 1619,
+          "height": 2152
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15480374067253,
+      "title": "Das Ende der Sterne Blu-ray",
+      "handle": "das-ende-der-sterne-blu-ray",
+      "published_at": "2026-11-09T13:24:32+01:00",
+      "created_at": "2026-11-09T13:05:26+01:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "Blu-ray",
+        "Disney",
+        "Filme",
+        "preorder"
+      ],
+      "variants": [
+        {
+          "id": 67932673507381,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00792",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "17.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15480374067253,
+          "created_at": "2026-11-09T13:05:26+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39420239904821,
+          "created_at": "2026-11-09T13:06:16+01:00",
+          "position": 1,
+          "product_id": 15480374067253,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122976001001jpg-245689.jpg?v=1794225978",
+          "width": 1744,
+          "height": 2141
+        },
+        {
+          "id": 39420239970357,
+          "created_at": "2026-11-09T13:06:21+01:00",
+          "position": 2,
+          "product_id": 15480374067253,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122976001002jpg-245740.jpg?v=1794225983",
+          "width": 1227,
+          "height": 1755
         }
       ],
       "options": [
@@ -14559,6 +14759,72 @@
       ]
     },
     {
+      "id": 15480374198325,
+      "title": "Die Namensbox (3 DVDs)",
+      "handle": "die-namensbox-3-dvds",
+      "published_at": "2026-11-09T13:22:33+01:00",
+      "created_at": "2026-11-09T13:05:38+01:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "DVD",
+      "tags": [
+        "DVD",
+        "Filme & Serien",
+        "Komödie & Drama",
+        "preorder"
+      ],
+      "variants": [
+        {
+          "id": 67932673638453,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00796",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "17.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15480374198325,
+          "created_at": "2026-11-09T13:05:38+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39420240527413,
+          "created_at": "2026-11-09T13:07:05+01:00",
+          "position": 1,
+          "product_id": 15480374198325,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573205001jpg-246505.jpg?v=1794226026",
+          "width": 1530,
+          "height": 2162
+        },
+        {
+          "id": 39420240592949,
+          "created_at": "2026-11-09T13:07:10+01:00",
+          "position": 2,
+          "product_id": 15480374198325,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573205002png-246556.png?v=1794226032",
+          "width": 1174,
+          "height": 1879
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 8050226757685,
       "title": "Die rote Schildkröte (Amaray)",
       "handle": "die-rote-schildkrote-amaray",
@@ -18016,6 +18282,72 @@
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/einmuenchnerimhimmelbd3dpackshotjpg-215741.jpg?v=1786091482",
           "width": 1172,
           "height": 1680
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15480374001717,
+      "title": "Ein Talent fürs Morden Blu-ray",
+      "handle": "ein-talent-f-rs-morden-blu-ray",
+      "published_at": "2026-11-09T13:22:11+01:00",
+      "created_at": "2026-11-09T13:05:22+01:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "Blu-ray",
+        "Filme",
+        "Filme & Serien",
+        "preorder"
+      ],
+      "variants": [
+        {
+          "id": 67932673441845,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00790",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "17.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15480374001717,
+          "created_at": "2026-11-09T13:05:22+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39420239642677,
+          "created_at": "2026-11-09T13:05:54+01:00",
+          "position": 1,
+          "product_id": 15480374001717,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122984320102png-245281.png?v=1794225957",
+          "width": 1172,
+          "height": 1680
+        },
+        {
+          "id": 39420239708213,
+          "created_at": "2026-11-09T13:06:02+01:00",
+          "position": 2,
+          "product_id": 15480374001717,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122984320101jpg-245332.jpg?v=1794225963",
+          "width": 1500,
+          "height": 1915
         }
       ],
       "options": [
@@ -47428,6 +47760,144 @@
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/unbestechlichen_SB_UHDBD_Packshot_Beauty.jpg?v=1778064341",
           "width": 5315,
           "height": 3300
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15480374132789,
+      "title": "The Uprising - Für die Freiheit 4K UHD + Blu-ray (Collector's Edition)",
+      "handle": "the-uprising-f-r-die-freiheit-4k-uhd-blu-ray-collector-s-edition",
+      "published_at": "2026-11-09T13:23:28+01:00",
+      "created_at": "2026-11-09T13:05:34+01:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "4K",
+        "4K UHD",
+        "Blu-ray",
+        "Collector",
+        "Filme & Serien",
+        "Komödie & Drama",
+        "preorder"
+      ],
+      "variants": [
+        {
+          "id": 67932673572917,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00794",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "29.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15480374132789,
+          "created_at": "2026-11-09T13:05:34+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39420240265269,
+          "created_at": "2026-11-09T13:06:37+01:00",
+          "position": 1,
+          "product_id": 15480374132789,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122955799301jpg-246097.jpg?v=1794225999",
+          "width": 1607,
+          "height": 2023
+        },
+        {
+          "id": 39420240330805,
+          "created_at": "2026-11-09T13:06:42+01:00",
+          "position": 2,
+          "product_id": 15480374132789,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122955799302jpg-246148.jpg?v=1794226004",
+          "width": 1169,
+          "height": 1626
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15480374165557,
+      "title": "The Uprising - Für die Freiheit Blu-ray",
+      "handle": "the-uprising-f-r-die-freiheit-blu-ray",
+      "published_at": "2026-11-09T13:22:57+01:00",
+      "created_at": "2026-11-09T13:05:36+01:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "4K",
+        "4K UHD",
+        "Blu-ray",
+        "Collector",
+        "Filme & Serien",
+        "Komödie & Drama",
+        "preorder"
+      ],
+      "variants": [
+        {
+          "id": 67932673605685,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00795",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "17.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15480374165557,
+          "created_at": "2026-11-09T13:05:36+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39420240429109,
+          "created_at": "2026-11-09T13:06:55+01:00",
+          "position": 1,
+          "product_id": 15480374165557,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122955791701jpg-246301.jpg?v=1794226016",
+          "width": 1500,
+          "height": 1915
+        },
+        {
+          "id": 39420240461877,
+          "created_at": "2026-11-09T13:07:00+01:00",
+          "position": 2,
+          "product_id": 15480374165557,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122955791702jpg-246352.jpg?v=1794226021",
+          "width": 1172,
+          "height": 1680
         }
       ],
       "options": [
