@@ -32753,7 +32753,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "49.99",
           "grams": 400,
           "compare_at_price": "59.99",
