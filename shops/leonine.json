@@ -26873,6 +26873,72 @@
       ]
     },
     {
+      "id": 15469062651957,
+      "title": "Kommissar Jennerwein - Hochsaison Blu-ray",
+      "handle": "kommissar-jennerwein-hochsaison-blu-ray",
+      "published_at": "2026-11-09T10:17:45+01:00",
+      "created_at": "2026-11-04T09:39:02+01:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "Action & Thriller",
+        "Blu-ray",
+        "Filme & Serien",
+        "preorder"
+      ],
+      "variants": [
+        {
+          "id": 67897620594741,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00789",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "17.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15469062651957,
+          "created_at": "2026-11-04T09:39:02+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39419338063925,
+          "created_at": "2026-11-09T09:39:07+01:00",
+          "position": 1,
+          "product_id": 15469062651957,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573511201jpg-245045.jpg?v=1794213549",
+          "width": 1500,
+          "height": 1915
+        },
+        {
+          "id": 39419338293301,
+          "created_at": "2026-11-09T09:39:12+01:00",
+          "position": 2,
+          "product_id": 15469062651957,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573511202jpg-245096.jpg?v=1794213554",
+          "width": 1172,
+          "height": 1680
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 7855581560885,
       "title": "Königreich der Himmel (Director's Cut) Blu-ray",
       "handle": "konigreich-der-himmel-directors-cut-bd",
