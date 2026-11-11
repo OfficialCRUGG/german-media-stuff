@@ -171257,7 +171257,6 @@
       "vendor": "Leonine Anime",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -171271,7 +171270,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "69.90",
           "grams": 244,
           "compare_at_price": "69.90",
@@ -182343,7 +182342,6 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Flow:ReleaseInfoOffen",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -182815,7 +182813,6 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Flow:ReleaseInfoOffen",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -182869,7 +182866,6 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Flow:ReleaseInfoOffen",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -182923,7 +182919,6 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Flow:ReleaseInfoOffen",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -182977,7 +182972,6 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Flow:ReleaseInfoOffen",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -183031,7 +183025,6 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Flow:ReleaseInfoOffen",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
