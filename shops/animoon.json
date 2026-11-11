@@ -17277,6 +17277,66 @@
       ]
     },
     {
+      "id": 15740987834633,
+      "title": "Gushing Over Magical Girls - Manga - Band 1-5 im Sammelschuber",
+      "handle": "gushing-over-magical-girls-manga-band-1-5-im-sammelschuber",
+      "published_at": "2026-11-11T19:49:39+01:00",
+      "created_at": "2026-11-11T18:10:27+01:00",
+      "vendor": "AniMoon Shop",
+      "product_type": "Manga",
+      "tags": [
+        "action",
+        "comedy",
+        "ecchi",
+        "gushing",
+        "magical girl",
+        "Manga",
+        "preorder",
+        "vorbestellung"
+      ],
+      "variants": [
+        {
+          "id": 57561870041353,
+          "title": "Band 1 - 5 im Sammelschuber",
+          "option1": "Band 1 - 5 im Sammelschuber",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "69.00",
+          "grams": 100,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15740987834633,
+          "created_at": "2026-11-11T18:10:27+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82110436540681,
+          "created_at": "2026-11-11T18:10:59+01:00",
+          "position": 1,
+          "product_id": 15740987834633,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Gushing_Sammelschuber1_mitBand1-5.png?v=1794417062",
+          "width": 1848,
+          "height": 1848
+        }
+      ],
+      "options": [
+        {
+          "name": "Medium auswählen:",
+          "position": 1,
+          "values": [
+            "Band 1 - 5 im Sammelschuber"
+          ]
+        }
+      ]
+    },
+    {
       "id": 15297020002569,
       "title": "Gushing Over Magical Girls - Manga - Band 2",
       "handle": "gushing-over-magical-girls-manga-band-2",
@@ -17780,6 +17840,66 @@
           "values": [
             "Band 5",
             "Band 5 Limited Edition mit Acrylaufsteller"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15740911780105,
+      "title": "Gushing Over Magical Girls - Manga - Leerschuber für Band 1-5",
+      "handle": "gushing-over-magical-girls-manga-sammelschuber",
+      "published_at": "2026-11-11T19:49:20+01:00",
+      "created_at": "2026-11-11T17:36:03+01:00",
+      "vendor": "AniMoon Shop",
+      "product_type": "Manga",
+      "tags": [
+        "action",
+        "comedy",
+        "ecchi",
+        "gushing",
+        "magical girl",
+        "Manga",
+        "preorder",
+        "vorbestellung"
+      ],
+      "variants": [
+        {
+          "id": 57561749651721,
+          "title": "Leerschuber für Band 1 - 5",
+          "option1": "Leerschuber für Band 1 - 5",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "10.00",
+          "grams": 100,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15740911780105,
+          "created_at": "2026-11-11T17:36:04+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82110304026889,
+          "created_at": "2026-11-11T17:49:50+01:00",
+          "position": 1,
+          "product_id": 15740911780105,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Gushing_Sammelschuber1_LEER.png?v=1794415793",
+          "width": 1848,
+          "height": 1848
+        }
+      ],
+      "options": [
+        {
+          "name": "Medium auswählen:",
+          "position": 1,
+          "values": [
+            "Leerschuber für Band 1 - 5"
           ]
         }
       ]
