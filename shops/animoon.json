@@ -50437,6 +50437,68 @@
       ]
     },
     {
+      "id": 15741431218441,
+      "title": "Yandere Dark Elf - Manga - Band 1-5 im Sammelschuber",
+      "handle": "yandere-dark-elf-manga-band-1-5-im-sammelschuber",
+      "published_at": "2026-11-11T20:52:06+01:00",
+      "created_at": "2026-11-11T20:43:14+01:00",
+      "vendor": "AniMoon Shop",
+      "product_type": "Manga",
+      "tags": [
+        "action",
+        "comedy",
+        "Darkelf",
+        "ecchi",
+        "fantasy",
+        "isekai",
+        "Manga",
+        "preorder",
+        "romance",
+        "vorbestellung"
+      ],
+      "variants": [
+        {
+          "id": 57562448199945,
+          "title": "Band 1 - 5 im Sammelschuber",
+          "option1": "Band 1 - 5 im Sammelschuber",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "69.00",
+          "grams": 100,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15741431218441,
+          "created_at": "2026-11-11T20:43:14+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82111737889033,
+          "created_at": "2026-11-11T20:44:21+01:00",
+          "position": 1,
+          "product_id": 15741431218441,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/DarkElf_Schuber_LEER.png?v=1794426265",
+          "width": 1848,
+          "height": 1848
+        }
+      ],
+      "options": [
+        {
+          "name": "Medium auswählen:",
+          "position": 1,
+          "values": [
+            "Band 1 - 5 im Sammelschuber"
+          ]
+        }
+      ]
+    },
+    {
       "id": 15297116373257,
       "title": "Yandere Dark Elf - Manga - Band 2",
       "handle": "yandere-dark-elf-manga-band-2",
@@ -50934,6 +50996,69 @@
           "values": [
             "Band 5",
             "Band 5 Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15741430006025,
+      "title": "Yandere Dark Elf - Manga - Leerschuber für Band 1-5",
+      "handle": "yandere-dark-elf-manga-leerschuber-fur-band-1-5",
+      "published_at": "2026-11-11T20:52:18+01:00",
+      "created_at": "2026-11-11T20:42:53+01:00",
+      "vendor": "AniMoon Shop",
+      "product_type": "Manga",
+      "tags": [
+        "action",
+        "comedy",
+        "Darkelf",
+        "ecchi",
+        "fantasy",
+        "isekai",
+        "Manga",
+        "preorder",
+        "romance",
+        "school",
+        "vorbestellung"
+      ],
+      "variants": [
+        {
+          "id": 57562446823689,
+          "title": "Leerschuber für Band 1 - 5",
+          "option1": "Leerschuber für Band 1 - 5",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "10.00",
+          "grams": 100,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15741430006025,
+          "created_at": "2026-11-11T20:42:53+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82111737528585,
+          "created_at": "2026-11-11T20:44:18+01:00",
+          "position": 1,
+          "product_id": 15741430006025,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/DarkElf_Schuber_mitBand1-5.png?v=1794426261",
+          "width": 1848,
+          "height": 1848
+        }
+      ],
+      "options": [
+        {
+          "name": "Medium auswählen:",
+          "position": 1,
+          "values": [
+            "Leerschuber für Band 1 - 5"
           ]
         }
       ]
