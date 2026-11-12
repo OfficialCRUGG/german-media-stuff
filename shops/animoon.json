@@ -48858,8 +48858,7 @@
             "height": 1848,
             "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Band_1_191c266c-03b7-4634-8656-3f712d9c59a3.png?v=1769812243",
             "variant_ids": [
-              56790450700553,
-              56790450733321
+              56790450700553
             ]
           },
           "available": true,
@@ -48880,17 +48879,16 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": {
-            "id": 78915177414921,
+            "id": 82120862269705,
             "product_id": 15483296219401,
-            "position": 1,
-            "created_at": "2026-01-30T23:30:39+01:00",
-            "updated_at": "2026-01-30T23:30:43+01:00",
+            "position": 2,
+            "created_at": "2026-11-12T19:13:39+01:00",
+            "updated_at": "2026-11-12T19:13:43+01:00",
             "alt": null,
             "width": 1848,
             "height": 1848,
-            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Band_1_191c266c-03b7-4634-8656-3f712d9c59a3.png?v=1769812243",
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Band_1_LE_d302781d-9531-4aec-9982-f4284cade65e.png?v=1794507223",
             "variant_ids": [
-              56790450700553,
               56790450733321
             ]
           },
@@ -48910,17 +48908,28 @@
           "position": 1,
           "product_id": 15483296219401,
           "variant_ids": [
-            56790450700553,
-            56790450733321
+            56790450700553
           ],
           "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Band_1_191c266c-03b7-4634-8656-3f712d9c59a3.png?v=1769812243",
           "width": 1848,
           "height": 1848
         },
         {
+          "id": 82120862269705,
+          "created_at": "2026-11-12T19:13:39+01:00",
+          "position": 2,
+          "product_id": 15483296219401,
+          "variant_ids": [
+            56790450733321
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Band_1_LE_d302781d-9531-4aec-9982-f4284cade65e.png?v=1794507223",
+          "width": 1848,
+          "height": 1848
+        },
+        {
           "id": 78915177480457,
           "created_at": "2026-01-30T23:30:39+01:00",
-          "position": 2,
+          "position": 3,
           "product_id": 15483296219401,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Band_1_2D_Cover_89d0fc92-e9c9-4e94-bc02-2b5e614201e0.png?v=1769812246",
@@ -48996,7 +49005,20 @@
           "sku": "978-3-69194-027-5",
           "requires_shipping": true,
           "taxable": true,
-          "featured_image": null,
+          "featured_image": {
+            "id": 82120862925065,
+            "product_id": 15624729297161,
+            "position": 2,
+            "created_at": "2026-11-12T19:13:47+01:00",
+            "updated_at": "2026-11-12T19:13:50+01:00",
+            "alt": null,
+            "width": 1839,
+            "height": 1614,
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Vermeil-in-Gold_Band_2_LE.png?v=1794507230",
+            "variant_ids": [
+              57195684200713
+            ]
+          },
           "available": true,
           "price": "20.00",
           "grams": 300,
@@ -49020,9 +49042,21 @@
           "height": 1848
         },
         {
+          "id": 82120862925065,
+          "created_at": "2026-11-12T19:13:47+01:00",
+          "position": 2,
+          "product_id": 15624729297161,
+          "variant_ids": [
+            57195684200713
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Vermeil-in-Gold_Band_2_LE.png?v=1794507230",
+          "width": 1839,
+          "height": 1614
+        },
+        {
           "id": 81628865265929,
           "created_at": "2026-09-26T00:48:27+02:00",
-          "position": 2,
+          "position": 3,
           "product_id": 15624729297161,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Vermeil-in-Gold_Band_2_2D_Cover_d987fbd7-c5ad-43d8-8a7f-d5fd0791355a.png?v=1790376511",
