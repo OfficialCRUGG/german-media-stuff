@@ -82326,7 +82326,6 @@
       "tags": [
         "Anime",
         "Crunchyroll",
-        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -82340,7 +82339,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "39.90",
           "grams": 274,
           "compare_at_price": "59.90",
@@ -185662,7 +185661,6 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Merch",
         "Online"
       ],
@@ -185677,7 +185675,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "17.90",
           "grams": 189,
           "compare_at_price": "19.90",
