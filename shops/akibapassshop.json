@@ -177159,6 +177159,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Merch",
         "Online",
         "warenpost"
       ],
@@ -177213,6 +177214,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Merch",
         "Online",
         "warenpost"
       ],
@@ -177267,6 +177269,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Flow:Releaseplan-Merch",
         "Online",
         "warenpost"
       ],
@@ -178955,7 +178958,9 @@
       "created_at": "2026-11-10T11:32:19+01:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59432334295304,
@@ -179006,7 +179011,9 @@
       "created_at": "2026-11-10T11:32:19+01:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59432334426376,
@@ -179057,7 +179064,9 @@
       "created_at": "2026-11-10T11:32:19+01:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59432334328072,
@@ -179108,7 +179117,9 @@
       "created_at": "2026-11-10T11:32:19+01:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59432334459144,
@@ -179159,7 +179170,9 @@
       "created_at": "2026-11-10T11:32:19+01:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59432334393608,
@@ -179210,7 +179223,9 @@
       "created_at": "2026-11-10T11:32:19+01:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59432334360840,
@@ -179261,7 +179276,9 @@
       "created_at": "2026-11-03T18:18:30+01:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59351890952456,
@@ -194233,9 +194250,7 @@
       "created_at": "2026-10-26T14:37:54+01:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [
-        "Flow:Releaseplan-Merch"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 59251873972488,
@@ -194286,9 +194301,7 @@
       "created_at": "2026-10-26T14:37:47+01:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [
-        "Flow:Releaseplan-Merch"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 59251872563464,
@@ -194339,9 +194352,7 @@
       "created_at": "2026-10-26T14:37:57+01:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [
-        "Flow:Releaseplan-Merch"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 59251875053832,
@@ -194392,9 +194403,7 @@
       "created_at": "2026-10-26T14:37:50+01:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [
-        "Flow:Releaseplan-Merch"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 59251873153288,
@@ -194445,7 +194454,9 @@
       "created_at": "2026-11-11T14:58:22+01:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59454688592136,
@@ -194496,7 +194507,9 @@
       "created_at": "2026-11-11T15:18:49+01:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59454843552008,
@@ -194547,7 +194560,9 @@
       "created_at": "2026-11-11T14:58:22+01:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59454688526600,
@@ -194598,7 +194613,9 @@
       "created_at": "2026-11-11T14:58:22+01:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59454688624904,
@@ -194649,7 +194666,9 @@
       "created_at": "2026-11-11T15:22:54+01:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59454883660040,
