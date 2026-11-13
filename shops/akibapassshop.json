@@ -165958,6 +165958,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -167142,7 +167143,7 @@
     },
     {
       "id": 10919651836168,
-      "title": "Weathering With You - Das Mädchen, das die Sonne berührte - Special Edition (UHD Blu-ray)",
+      "title": "Weathering With You - Das Mädchen, das die Sonne berührte - Special Edition (4K UHD & Blu-ray)",
       "handle": "26la004-weathering-with-you-shinkai-special-edition-bluray",
       "published_at": "2026-03-25T15:35:03+01:00",
       "created_at": "2026-03-16T12:26:51+01:00",
@@ -167259,7 +167260,7 @@
     },
     {
       "id": 10919651901704,
-      "title": "Your Name: Gestern, heute und für immer - Special Edition (UHD Blu-ray)",
+      "title": "Your Name: Gestern, heute und für immer - Special Edition (4K UHD & Blu-ray)",
       "handle": "26la006-your-name-shinkai-special-edition-bluray",
       "published_at": "2026-03-25T15:35:03+01:00",
       "created_at": "2026-03-16T12:26:55+01:00",
@@ -167969,7 +167970,7 @@
     },
     {
       "id": 10919652491528,
-      "title": "Der Junge und der Reiher - Special Edition (UHD Blu-ray)",
+      "title": "Der Junge und der Reiher - Special Edition (4K UHD & Blu-ray)",
       "handle": "26la017-der-junge-und-der-reiher-ghibli-special-edition-bluray",
       "published_at": "2026-03-25T15:35:01+01:00",
       "created_at": "2026-03-16T12:27:13+01:00",
@@ -169046,7 +169047,7 @@
     },
     {
       "id": 10919653376264,
-      "title": "Violet Evergarden - Staffel 1 - Gesamtausgabe (Blu-ray)",
+      "title": "Violet Evergarden - Season 1 - Gesamtausgabe (Blu-ray)",
       "handle": "26la034-violet-evergarden-gesamtausgabe-bluray",
       "published_at": "2026-03-25T15:34:58+01:00",
       "created_at": "2026-03-16T12:27:42+01:00",
@@ -169174,7 +169175,7 @@
     },
     {
       "id": 10919653441800,
-      "title": "Violet Evergarden: Der Film - Special Edition (UHD Blu-ray)",
+      "title": "Violet Evergarden: Der Film - Special Edition (4K UHD & Blu-ray)",
       "handle": "26la036-violet-evergarden-film-sepcial-edition-bluray",
       "published_at": "2026-03-25T15:34:57+01:00",
       "created_at": "2026-03-16T12:27:46+01:00",
@@ -169302,7 +169303,7 @@
     },
     {
       "id": 10919653605640,
-      "title": "Made in Abyss - Staffel 1 - Gesamtausgabe (Blu-ray)",
+      "title": "Made in Abyss - Season 1 - Gesamtausgabe (Blu-ray)",
       "handle": "26la039-made-in-abyss-gesamtausgabe-bluray",
       "published_at": "2026-03-25T15:34:56+01:00",
       "created_at": "2026-03-16T12:27:51+01:00",
@@ -169366,7 +169367,7 @@
     },
     {
       "id": 10919653638408,
-      "title": "Made in Abyss - Staffel 2 - Gesamtausgabe - Special Edition (Blu-ray)",
+      "title": "Made in Abyss - Season 2 - Gesamtausgabe - Special Edition (Blu-ray)",
       "handle": "26la040-made-in-abyss-gesamtausgabe-bluray",
       "published_at": "2026-03-25T15:34:56+01:00",
       "created_at": "2026-03-16T12:27:52+01:00",
@@ -169724,7 +169725,7 @@
     },
     {
       "id": 10919653966088,
-      "title": "The Saint's Magic Power Is Omnipotent - Staffel 1 - Vol. 1 (Blu-ray)",
+      "title": "The Saint's Magic Power Is Omnipotent - Season 1 - Vol. 1 (Blu-ray)",
       "handle": "26la046-saints-magic-power-omnipotent-bluray",
       "published_at": "2026-03-25T15:34:55+01:00",
       "created_at": "2026-03-16T12:28:03+01:00",
@@ -169788,7 +169789,7 @@
     },
     {
       "id": 10919653998856,
-      "title": "The Saint's Magic Power Is Omnipotent - Staffel 1 - Vol. 2 (Blu-ray)",
+      "title": "The Saint's Magic Power Is Omnipotent - Season 1 - Vol. 2 (Blu-ray)",
       "handle": "26la047-saints-magic-power-omnipotent-bluray",
       "published_at": "2026-03-25T15:34:55+01:00",
       "created_at": "2026-03-16T12:28:05+01:00",
@@ -169852,7 +169853,7 @@
     },
     {
       "id": 10919654031624,
-      "title": "The Saint's Magic Power Is Omnipotent - Staffel 1 - Vol. 3 inkl. Sammelschuber (Blu-ray)",
+      "title": "The Saint's Magic Power Is Omnipotent - Season 1 - Vol. 3 mit Sammelschuber (Blu-ray)",
       "handle": "26la048-saints-magic-power-omnipotent-bluray",
       "published_at": "2026-03-25T15:34:55+01:00",
       "created_at": "2026-03-16T12:28:06+01:00",
@@ -169916,7 +169917,7 @@
     },
     {
       "id": 10919654064392,
-      "title": "The Saint's Magic Power Is Omnipotent - Staffel 2 - Vol. 1 (Blu-ray)",
+      "title": "The Saint's Magic Power Is Omnipotent - Season 2 - Vol. 1 (Blu-ray)",
       "handle": "26la049-saints-magic-power-omnipotent-bluray",
       "published_at": "2026-03-25T15:34:55+01:00",
       "created_at": "2026-03-16T12:28:08+01:00",
@@ -169980,7 +169981,7 @@
     },
     {
       "id": 10919654097160,
-      "title": "The Saint's Magic Power Is Omnipotent - Staffel 2 - Vol. 2 (Blu-ray)",
+      "title": "The Saint's Magic Power Is Omnipotent - Season 2 - Vol. 2 (Blu-ray)",
       "handle": "26la050-saints-magic-power-omnipotent-bluray",
       "published_at": "2026-03-25T15:34:55+01:00",
       "created_at": "2026-03-16T12:28:09+01:00",
@@ -170044,7 +170045,7 @@
     },
     {
       "id": 10919654228232,
-      "title": "The Saint's Magic Power Is Omnipotent - Staffel 2 - Vol. 3 inkl. Sammelscuber (Blu-ray)",
+      "title": "The Saint's Magic Power Is Omnipotent - Season 2 - Vol. 3 mit Sammelschuber (Blu-ray)",
       "handle": "26la051-saints-magic-power-omnipotent-bluray",
       "published_at": "2026-03-25T15:34:55+01:00",
       "created_at": "2026-03-16T12:28:12+01:00",
@@ -170290,7 +170291,7 @@
     },
     {
       "id": 10919654392072,
-      "title": "Evangelion: 3.0+1.11 Thrice Upon a Time - Mediabook (UHD Blu-ray)",
+      "title": "Evangelion: 3.0+1.11 Thrice Upon a Time - Mediabook (4K UHD & Blu-ray)",
       "handle": "26la055-evangelion-thrice-upon-time-bluray",
       "published_at": "2026-03-25T15:34:54+01:00",
       "created_at": "2026-03-16T12:28:19+01:00",
@@ -170480,7 +170481,7 @@
     },
     {
       "id": 10919654490376,
-      "title": "Ghost in the Shell 2: Innocence - Special Edition (UHD Blu-ray)",
+      "title": "Ghost in the Shell 2: Innocence - Special Edition (4K UHD & Blu-ray)",
       "handle": "26la058-ghost-in-the-shell-innocence-special-edition-bluray",
       "published_at": "2026-03-25T15:34:54+01:00",
       "created_at": "2026-03-16T12:28:25+01:00",
@@ -170998,7 +170999,7 @@
     },
     {
       "id": 10919654916360,
-      "title": "Cheer for You! - Vol. 3 inkl. Sammelschuber (Blu-ray)",
+      "title": "Cheer for You! - Vol. 3 mit Sammelschuber (Blu-ray)",
       "handle": "26la066-cheer-for-you-bluray",
       "published_at": "2026-03-25T15:34:52+01:00",
       "created_at": "2026-03-16T12:28:42+01:00",
@@ -171179,7 +171180,7 @@
     },
     {
       "id": 11978537173256,
-      "title": "Tougen Anki - Part 1 - Limited Collector's Edition (Blu-ray)",
+      "title": "Tougen Anki - Season 1 - Part 1 - Limited Collector's Edition (Blu-ray)",
       "handle": "26la069-tougen-anki-limited-collectors-edition-blu-ray",
       "published_at": "2026-05-20T10:13:50+02:00",
       "created_at": "2026-05-20T10:01:58+02:00",
