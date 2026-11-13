@@ -40668,17 +40668,17 @@
         "comedy",
         "ecchi",
         "fantasy",
-        "preorder",
+        "Neuheit",
+        "released",
         "school",
         "sci-fi",
-        "strike witches",
-        "vorbestellung"
+        "strike witches"
       ],
       "variants": [
         {
           "id": 56671022481673,
-          "title": "Blu-ray (Vorbestellung)",
-          "option1": "Blu-ray (Vorbestellung)",
+          "title": "Blu-ray",
+          "option1": "Blu-ray",
           "option2": null,
           "option3": null,
           "sku": "4260497796442",
@@ -40699,7 +40699,7 @@
             ]
           },
           "available": true,
-          "price": "39.99",
+          "price": "42.99",
           "grams": 250,
           "compare_at_price": "42.99",
           "position": 1,
@@ -40708,8 +40708,8 @@
         },
         {
           "id": 56671022514441,
-          "title": "DVD (Vorbestellung)",
-          "option1": "DVD (Vorbestellung)",
+          "title": "DVD",
+          "option1": "DVD",
           "option2": null,
           "option3": null,
           "sku": "4260497796435",
@@ -40730,7 +40730,7 @@
             ]
           },
           "available": true,
-          "price": "39.99",
+          "price": "42.99",
           "grams": 250,
           "compare_at_price": "42.99",
           "position": 2,
@@ -40779,8 +40779,8 @@
           "name": "Medium auswählen:",
           "position": 1,
           "values": [
-            "Blu-ray (Vorbestellung)",
-            "DVD (Vorbestellung)"
+            "Blu-ray",
+            "DVD"
           ]
         }
       ]

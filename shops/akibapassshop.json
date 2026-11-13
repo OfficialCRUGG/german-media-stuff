@@ -143196,7 +143196,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "69.90",
           "grams": 480,
           "compare_at_price": "69.90",
@@ -187571,6 +187571,59 @@
       ]
     },
     {
+      "id": 12136346255624,
+      "title": "Detektiv Conan - Schlüsselanhänger (11cm) - Kaito Kid",
+      "handle": "26sam108-detektiv-conan-schluesselanhaenger-kaito-kid",
+      "published_at": "2026-11-13T10:50:29+01:00",
+      "created_at": "2026-07-28T13:48:44+02:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [
+        "Flow:ArtikelstatusAktiv"
+      ],
+      "variants": [
+        {
+          "id": 58317755285768,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam108",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "7.90",
+          "grams": 17,
+          "compare_at_price": "8.90",
+          "position": 1,
+          "product_id": 12136346255624,
+          "created_at": "2026-07-28T13:48:44+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 85936469246216,
+          "created_at": "2026-07-28T16:16:15+02:00",
+          "position": 1,
+          "product_id": 12136346255624,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/detektiv-conan-schluesselanhaenger-11cm-meisterdieb-kaito-kid-847.webp?v=1785248175",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 12155517993224,
       "title": "Die Tagebücher der Apothekerin - Plüschfigur mit Vinylgesicht - Blindbox (1 aus 7)",
       "handle": "26sam116-tagebuecher-der-apothekerin-plueschfigur-blindbox",
@@ -194446,6 +194499,1136 @@
       ]
     },
     {
+      "id": 12453134795016,
+      "title": "Haikyu!! - Backstage Moments Sitting Series - Minifigur (7cm) - Blindbox-Display (6 Stück)",
+      "handle": "26sam212-haikyu-backstage-moments-sitting-minifigur-blindbox-display",
+      "published_at": "2026-11-13T10:54:15+01:00",
+      "created_at": "2026-11-12T16:22:41+01:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
+      "variants": [
+        {
+          "id": 59478045786376,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam212",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "73.90",
+          "grams": 0,
+          "compare_at_price": "89.40",
+          "position": 1,
+          "product_id": 12453134795016,
+          "created_at": "2026-11-12T16:22:41+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88608199475464,
+          "created_at": "2026-11-13T10:24:13+01:00",
+          "position": 1,
+          "product_id": 12453134795016,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-backstage-moments-sitting-series-minifigur-7cm-blindbox-562.webp?v=1794561853",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12453134958856,
+      "title": "Haikyu!! - Backstage Moments Sitting Series - Minifigur (7cm) - Blindbox (1 aus 7)",
+      "handle": "26sam213-haikyu-backstage-moments-sitting-minifigur-blindbox",
+      "published_at": "2026-11-13T10:54:18+01:00",
+      "created_at": "2026-11-12T16:22:41+01:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
+      "variants": [
+        {
+          "id": 59478045950216,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam213",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "14.90",
+          "grams": 0,
+          "compare_at_price": "14.90",
+          "position": 1,
+          "product_id": 12453134958856,
+          "created_at": "2026-11-12T16:22:42+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88608366493960,
+          "created_at": "2026-11-13T10:32:15+01:00",
+          "position": 1,
+          "product_id": 12453134958856,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-backstage-moments-sitting-series-minifigur-7cm-blindbox-1-384.webp?v=1794562335",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12453134762248,
+      "title": "Haikyu!! - Crossdressing Series - Plüschanhänger (14cm) - Blindbox-Display (6 Stück)",
+      "handle": "26sam214-haikyu-crossdressing-plueschanhaenger-blindbox-display",
+      "published_at": "2026-11-13T10:54:15+01:00",
+      "created_at": "2026-11-12T16:22:41+01:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
+      "variants": [
+        {
+          "id": 59478045753608,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam214",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "98.90",
+          "grams": 0,
+          "compare_at_price": "119.40",
+          "position": 1,
+          "product_id": 12453134762248,
+          "created_at": "2026-11-12T16:22:41+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88608211599624,
+          "created_at": "2026-11-13T10:26:17+01:00",
+          "position": 1,
+          "product_id": 12453134762248,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-crossdressing-series-plueschanhaenger-14cm-blindbox-display-505.webp?v=1794561977",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608213893384,
+          "created_at": "2026-11-13T10:26:33+01:00",
+          "position": 2,
+          "product_id": 12453134762248,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-crossdressing-series-plueschanhaenger-14cm-blindbox-display-799.webp?v=1794561993",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608216056072,
+          "created_at": "2026-11-13T10:26:48+01:00",
+          "position": 3,
+          "product_id": 12453134762248,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-crossdressing-series-plueschanhaenger-14cm-blindbox-display-479.webp?v=1794562008",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608216973576,
+          "created_at": "2026-11-13T10:27:03+01:00",
+          "position": 4,
+          "product_id": 12453134762248,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-crossdressing-series-plueschanhaenger-14cm-blindbox-display-989.webp?v=1794562023",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608218939656,
+          "created_at": "2026-11-13T10:27:19+01:00",
+          "position": 5,
+          "product_id": 12453134762248,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-crossdressing-series-plueschanhaenger-14cm-blindbox-display-943.webp?v=1794562039",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608220086536,
+          "created_at": "2026-11-13T10:27:33+01:00",
+          "position": 6,
+          "product_id": 12453134762248,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-crossdressing-series-plueschanhaenger-14cm-blindbox-display-707.webp?v=1794562053",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608223166728,
+          "created_at": "2026-11-13T10:27:46+01:00",
+          "position": 7,
+          "product_id": 12453134762248,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-crossdressing-series-plueschanhaenger-14cm-blindbox-display-846.webp?v=1794562066",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608224968968,
+          "created_at": "2026-11-13T10:27:59+01:00",
+          "position": 8,
+          "product_id": 12453134762248,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-crossdressing-series-plueschanhaenger-14cm-blindbox-display-297.webp?v=1794562080",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12453134991624,
+      "title": "Haikyu!! - Crossdressing Series - Plüschanhänger (14cm) - Blindbox (1 aus 7)",
+      "handle": "26sam215-haikyu-crossdressing-plueschanhaenger-blindbox",
+      "published_at": "2026-11-13T10:54:19+01:00",
+      "created_at": "2026-11-12T16:22:41+01:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
+      "variants": [
+        {
+          "id": 59478045982984,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam215",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "19.90",
+          "grams": 0,
+          "compare_at_price": "19.90",
+          "position": 1,
+          "product_id": 12453134991624,
+          "created_at": "2026-11-12T16:22:42+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88608367411464,
+          "created_at": "2026-11-13T10:32:32+01:00",
+          "position": 1,
+          "product_id": 12453134991624,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-crossdressing-series-plueschanhaenger-14cm-blindbox-1-7-220.webp?v=1794562352",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608367739144,
+          "created_at": "2026-11-13T10:32:45+01:00",
+          "position": 2,
+          "product_id": 12453134991624,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-crossdressing-series-plueschanhaenger-14cm-blindbox-1-7-494.webp?v=1794562365",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608368132360,
+          "created_at": "2026-11-13T10:32:59+01:00",
+          "position": 3,
+          "product_id": 12453134991624,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-crossdressing-series-plueschanhaenger-14cm-blindbox-1-7-843.webp?v=1794562379",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608370819336,
+          "created_at": "2026-11-13T10:33:13+01:00",
+          "position": 4,
+          "product_id": 12453134991624,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-crossdressing-series-plueschanhaenger-14cm-blindbox-1-7-481.webp?v=1794562393",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608376848648,
+          "created_at": "2026-11-13T10:33:28+01:00",
+          "position": 5,
+          "product_id": 12453134991624,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-crossdressing-series-plueschanhaenger-14cm-blindbox-1-7-403.webp?v=1794562408",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608397820168,
+          "created_at": "2026-11-13T10:33:43+01:00",
+          "position": 6,
+          "product_id": 12453134991624,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-crossdressing-series-plueschanhaenger-14cm-blindbox-1-7-529.webp?v=1794562423",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608414400776,
+          "created_at": "2026-11-13T10:33:57+01:00",
+          "position": 7,
+          "product_id": 12453134991624,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-crossdressing-series-plueschanhaenger-14cm-blindbox-1-7-738.webp?v=1794562437",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608418201864,
+          "created_at": "2026-11-13T10:34:11+01:00",
+          "position": 8,
+          "product_id": 12453134991624,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-crossdressing-series-plueschanhaenger-14cm-blindbox-1-7-533.webp?v=1794562451",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12453134631176,
+      "title": "Naruto Shippuden - Cute Chubby Series - Plüschanhänger mit Vinylgesicht (9cm) - Blindbox-Display (6 Stück)",
+      "handle": "26sam216-naruto-shippuden-cute-chubby-plueschanhaenger-blindbox-display",
+      "published_at": "2026-11-13T10:54:12+01:00",
+      "created_at": "2026-11-12T16:22:40+01:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
+      "variants": [
+        {
+          "id": 59478045557000,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam216",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "73.90",
+          "grams": 0,
+          "compare_at_price": "89.40",
+          "position": 1,
+          "product_id": 12453134631176,
+          "created_at": "2026-11-12T16:22:40+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88583306510600,
+          "created_at": "2026-11-12T18:31:26+01:00",
+          "position": 1,
+          "product_id": 12453134631176,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/naruto-shippuden-cute-chubby-series-plueschanhaenger-vinylgesicht-9cm-518.webp?v=1794504686",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88583310868744,
+          "created_at": "2026-11-12T18:31:41+01:00",
+          "position": 2,
+          "product_id": 12453134631176,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/naruto-shippuden-cute-chubby-series-plueschanhaenger-vinylgesicht-9cm-568.webp?v=1794504701",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88583312048392,
+          "created_at": "2026-11-12T18:31:56+01:00",
+          "position": 3,
+          "product_id": 12453134631176,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/naruto-shippuden-cute-chubby-series-plueschanhaenger-vinylgesicht-9cm-191.webp?v=1794504716",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88583315521800,
+          "created_at": "2026-11-12T18:32:11+01:00",
+          "position": 4,
+          "product_id": 12453134631176,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/naruto-shippuden-cute-chubby-series-plueschanhaenger-vinylgesicht-9cm-561.webp?v=1794504731",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88583320600840,
+          "created_at": "2026-11-12T18:32:26+01:00",
+          "position": 5,
+          "product_id": 12453134631176,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/naruto-shippuden-cute-chubby-series-plueschanhaenger-vinylgesicht-9cm-918.webp?v=1794504746",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88583326007560,
+          "created_at": "2026-11-12T18:32:40+01:00",
+          "position": 6,
+          "product_id": 12453134631176,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/naruto-shippuden-cute-chubby-series-plueschanhaenger-vinylgesicht-9cm-149.webp?v=1794504760",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88583326728456,
+          "created_at": "2026-11-12T18:32:55+01:00",
+          "position": 7,
+          "product_id": 12453134631176,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/naruto-shippuden-cute-chubby-series-plueschanhaenger-vinylgesicht-9cm-729.webp?v=1794504775",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88583327383816,
+          "created_at": "2026-11-12T18:33:09+01:00",
+          "position": 8,
+          "product_id": 12453134631176,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/naruto-shippuden-cute-chubby-series-plueschanhaenger-vinylgesicht-9cm-756.webp?v=1794504789",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12453134827784,
+      "title": "Naruto Shippuden - Cute Chubby Series - Plüschanhänger mit Vinylgesicht (9cm) - Blindbox (1 aus 7)",
+      "handle": "26sam217-naruto-shippuden-cute-chubby-plueschanhaenger-blindbox",
+      "published_at": "2026-11-13T10:54:16+01:00",
+      "created_at": "2026-11-12T16:22:41+01:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
+      "variants": [
+        {
+          "id": 59478045851912,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam217",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "14.90",
+          "grams": 0,
+          "compare_at_price": "14.90",
+          "position": 1,
+          "product_id": 12453134827784,
+          "created_at": "2026-11-12T16:22:41+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88583310704904,
+          "created_at": "2026-11-12T18:31:40+01:00",
+          "position": 1,
+          "product_id": 12453134827784,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/naruto-shippuden-cute-chubby-series-plueschanhaenger-vinylgesicht-9cm-119.webp?v=1794504700",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88583311655176,
+          "created_at": "2026-11-12T18:31:54+01:00",
+          "position": 2,
+          "product_id": 12453134827784,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/naruto-shippuden-cute-chubby-series-plueschanhaenger-vinylgesicht-9cm-559.webp?v=1794504714",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88583314800904,
+          "created_at": "2026-11-12T18:32:09+01:00",
+          "position": 3,
+          "product_id": 12453134827784,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/naruto-shippuden-cute-chubby-series-plueschanhaenger-vinylgesicht-9cm-679.webp?v=1794504729",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88583319978248,
+          "created_at": "2026-11-12T18:32:24+01:00",
+          "position": 4,
+          "product_id": 12453134827784,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/naruto-shippuden-cute-chubby-series-plueschanhaenger-vinylgesicht-9cm-227.webp?v=1794504744",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88583325843720,
+          "created_at": "2026-11-12T18:32:38+01:00",
+          "position": 5,
+          "product_id": 12453134827784,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/naruto-shippuden-cute-chubby-series-plueschanhaenger-vinylgesicht-9cm-636.webp?v=1794504758",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88583326662920,
+          "created_at": "2026-11-12T18:32:52+01:00",
+          "position": 6,
+          "product_id": 12453134827784,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/naruto-shippuden-cute-chubby-series-plueschanhaenger-vinylgesicht-9cm-611.webp?v=1794504772",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88583327318280,
+          "created_at": "2026-11-12T18:33:08+01:00",
+          "position": 7,
+          "product_id": 12453134827784,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/naruto-shippuden-cute-chubby-series-plueschanhaenger-vinylgesicht-9cm-102.webp?v=1794504788",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88583328334088,
+          "created_at": "2026-11-12T18:33:21+01:00",
+          "position": 8,
+          "product_id": 12453134827784,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/naruto-shippuden-cute-chubby-series-plueschanhaenger-vinylgesicht-9cm-869.webp?v=1794504801",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12453134926088,
+      "title": "Frieren - Plüschanhänger (11cm) - Blindbox-Display (6 Stück)",
+      "handle": "26sam218-frieren-plueschanhaenger-blindbox-display",
+      "published_at": "2026-11-13T10:54:17+01:00",
+      "created_at": "2026-11-12T16:22:41+01:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
+      "variants": [
+        {
+          "id": 59478045917448,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam218",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "73.90",
+          "grams": 0,
+          "compare_at_price": "89.40",
+          "position": 1,
+          "product_id": 12453134926088,
+          "created_at": "2026-11-12T16:22:41+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88608368099592,
+          "created_at": "2026-11-13T10:32:59+01:00",
+          "position": 1,
+          "product_id": 12453134926088,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/frieren-plueschanhaenger-11cm-blindbox-display-6-stueck-sakami-601.webp?v=1794562379",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608369377544,
+          "created_at": "2026-11-13T10:33:09+01:00",
+          "position": 2,
+          "product_id": 12453134926088,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/frieren-plueschanhaenger-11cm-blindbox-display-6-stueck-sakami-719.webp?v=1794562389",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608372752648,
+          "created_at": "2026-11-13T10:33:21+01:00",
+          "position": 3,
+          "product_id": 12453134926088,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/frieren-plueschanhaenger-11cm-blindbox-display-6-stueck-sakami-783.webp?v=1794562401",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608381600008,
+          "created_at": "2026-11-13T10:33:32+01:00",
+          "position": 4,
+          "product_id": 12453134926088,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/frieren-plueschanhaenger-11cm-blindbox-display-6-stueck-sakami-272.webp?v=1794562412",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608399786248,
+          "created_at": "2026-11-13T10:33:44+01:00",
+          "position": 5,
+          "product_id": 12453134926088,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/frieren-plueschanhaenger-11cm-blindbox-display-6-stueck-sakami-407.webp?v=1794562424",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608414728456,
+          "created_at": "2026-11-13T10:33:58+01:00",
+          "position": 6,
+          "product_id": 12453134926088,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/frieren-plueschanhaenger-11cm-blindbox-display-6-stueck-sakami-820.webp?v=1794562438",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608418136328,
+          "created_at": "2026-11-13T10:34:10+01:00",
+          "position": 7,
+          "product_id": 12453134926088,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/frieren-plueschanhaenger-11cm-blindbox-display-6-stueck-sakami-901.webp?v=1794562450",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608421970184,
+          "created_at": "2026-11-13T10:34:24+01:00",
+          "position": 8,
+          "product_id": 12453134926088,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/frieren-plueschanhaenger-11cm-blindbox-display-6-stueck-sakami-233.webp?v=1794562464",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608444940552,
+          "created_at": "2026-11-13T10:34:36+01:00",
+          "position": 9,
+          "product_id": 12453134926088,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/frieren-plueschanhaenger-11cm-blindbox-display-6-stueck-sakami-915.webp?v=1794562476",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12453134860552,
+      "title": "Frieren - Plüschanhänger (11cm) - Blindbox (1 aus 7)",
+      "handle": "26sam219-frieren-plueschanhaenger-blindbox",
+      "published_at": "2026-11-13T10:54:17+01:00",
+      "created_at": "2026-11-12T16:22:41+01:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
+      "variants": [
+        {
+          "id": 59478045819144,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam219",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "14.90",
+          "grams": 0,
+          "compare_at_price": "14.90",
+          "position": 1,
+          "product_id": 12453134860552,
+          "created_at": "2026-11-12T16:22:41+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88608368787720,
+          "created_at": "2026-11-13T10:33:07+01:00",
+          "position": 1,
+          "product_id": 12453134860552,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/frieren-plueschanhaenger-11cm-blindbox-1-7-sakami-merchandise-870.webp?v=1794562387",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608372130056,
+          "created_at": "2026-11-13T10:33:17+01:00",
+          "position": 2,
+          "product_id": 12453134860552,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/frieren-plueschanhaenger-11cm-blindbox-1-7-sakami-merchandise-457.webp?v=1794562397",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608377372936,
+          "created_at": "2026-11-13T10:33:28+01:00",
+          "position": 3,
+          "product_id": 12453134860552,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/frieren-plueschanhaenger-11cm-blindbox-1-7-sakami-merchandise-558.webp?v=1794562408",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608391758088,
+          "created_at": "2026-11-13T10:33:40+01:00",
+          "position": 4,
+          "product_id": 12453134860552,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/frieren-plueschanhaenger-11cm-blindbox-1-7-sakami-merchandise-588.webp?v=1794562420",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608412729608,
+          "created_at": "2026-11-13T10:33:53+01:00",
+          "position": 5,
+          "product_id": 12453134860552,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/frieren-plueschanhaenger-11cm-blindbox-1-7-sakami-merchandise-380.webp?v=1794562433",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608416727304,
+          "created_at": "2026-11-13T10:34:06+01:00",
+          "position": 6,
+          "product_id": 12453134860552,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/frieren-plueschanhaenger-11cm-blindbox-1-7-sakami-merchandise-703.webp?v=1794562446",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608420692232,
+          "created_at": "2026-11-13T10:34:19+01:00",
+          "position": 7,
+          "product_id": 12453134860552,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/frieren-plueschanhaenger-11cm-blindbox-1-7-sakami-merchandise-331.webp?v=1794562459",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608435372296,
+          "created_at": "2026-11-13T10:34:31+01:00",
+          "position": 8,
+          "product_id": 12453134860552,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/frieren-plueschanhaenger-11cm-blindbox-1-7-sakami-merchandise-614.webp?v=1794562471",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608462242056,
+          "created_at": "2026-11-13T10:34:43+01:00",
+          "position": 9,
+          "product_id": 12453134860552,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/frieren-plueschanhaenger-11cm-blindbox-1-7-sakami-merchandise-470.webp?v=1794562483",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12453134729480,
+      "title": "Jujutsu Kaisen - Sitting Cat Party Series - Plüschfigur (13cm) - Blindbox-Display (6 Stück)",
+      "handle": "26sam220-jujutsu-kaisen-sitting-cat-party-plueschfigur-blindbox-display",
+      "published_at": "2026-11-13T10:54:14+01:00",
+      "created_at": "2026-11-12T16:22:40+01:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
+      "variants": [
+        {
+          "id": 59478045720840,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam220",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "98.90",
+          "grams": 0,
+          "compare_at_price": "119.40",
+          "position": 1,
+          "product_id": 12453134729480,
+          "created_at": "2026-11-12T16:22:40+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88608371835144,
+          "created_at": "2026-11-13T10:33:18+01:00",
+          "position": 1,
+          "product_id": 12453134729480,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-sitting-cat-party-series-plueschfigur-13cm-blindbox-798.webp?v=1794562398",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608381403400,
+          "created_at": "2026-11-13T10:33:32+01:00",
+          "position": 2,
+          "product_id": 12453134729480,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-sitting-cat-party-series-plueschfigur-13cm-blindbox-793.webp?v=1794562412",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608401555720,
+          "created_at": "2026-11-13T10:33:45+01:00",
+          "position": 3,
+          "product_id": 12453134729480,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-sitting-cat-party-series-plueschfigur-13cm-blindbox-995.webp?v=1794562425",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608415088904,
+          "created_at": "2026-11-13T10:33:59+01:00",
+          "position": 4,
+          "product_id": 12453134729480,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-sitting-cat-party-series-plueschfigur-13cm-blindbox-601.webp?v=1794562439",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608419348744,
+          "created_at": "2026-11-13T10:34:14+01:00",
+          "position": 5,
+          "product_id": 12453134729480,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-sitting-cat-party-series-plueschfigur-13cm-blindbox-297.webp?v=1794562454",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608428294408,
+          "created_at": "2026-11-13T10:34:28+01:00",
+          "position": 6,
+          "product_id": 12453134729480,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-sitting-cat-party-series-plueschfigur-13cm-blindbox-543.webp?v=1794562468",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608462602504,
+          "created_at": "2026-11-13T10:34:43+01:00",
+          "position": 7,
+          "product_id": 12453134729480,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-sitting-cat-party-series-plueschfigur-13cm-blindbox-193.webp?v=1794562483",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608492355848,
+          "created_at": "2026-11-13T10:34:57+01:00",
+          "position": 8,
+          "product_id": 12453134729480,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-sitting-cat-party-series-plueschfigur-13cm-blindbox-236.webp?v=1794562497",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608503824648,
+          "created_at": "2026-11-13T10:35:14+01:00",
+          "position": 9,
+          "product_id": 12453134729480,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-sitting-cat-party-series-plueschfigur-13cm-blindbox-603.webp?v=1794562514",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12453134663944,
+      "title": "Jujutsu Kaisen - Sitting Cat Party Series - Plüschfigur (13cm) - Blindbox (1 aus 7)",
+      "handle": "26sam221-jujutsu-kaisen-sitting-cat-party-plueschfigur-blindbox",
+      "published_at": "2026-11-13T10:54:13+01:00",
+      "created_at": "2026-11-12T16:22:40+01:00",
+      "vendor": "Sakami Merchandise",
+      "product_type": "",
+      "tags": [
+        "Flow:Releaseplan-Merch"
+      ],
+      "variants": [
+        {
+          "id": 59478045589768,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26sam221",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "19.90",
+          "grams": 0,
+          "compare_at_price": "19.90",
+          "position": 1,
+          "product_id": 12453134663944,
+          "created_at": "2026-11-12T16:22:40+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88608373113096,
+          "created_at": "2026-11-13T10:33:24+01:00",
+          "position": 1,
+          "product_id": 12453134663944,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-sitting-cat-party-series-plueschfigur-13cm-blindbox-437.webp?v=1794562404",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608388382984,
+          "created_at": "2026-11-13T10:33:38+01:00",
+          "position": 2,
+          "product_id": 12453134663944,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-sitting-cat-party-series-plueschfigur-13cm-blindbox-365.webp?v=1794562418",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608412500232,
+          "created_at": "2026-11-13T10:33:53+01:00",
+          "position": 3,
+          "product_id": 12453134663944,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-sitting-cat-party-series-plueschfigur-13cm-blindbox-680.webp?v=1794562433",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608417480968,
+          "created_at": "2026-11-13T10:34:09+01:00",
+          "position": 4,
+          "product_id": 12453134663944,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-sitting-cat-party-series-plueschfigur-13cm-blindbox-561.webp?v=1794562449",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608421937416,
+          "created_at": "2026-11-13T10:34:24+01:00",
+          "position": 5,
+          "product_id": 12453134663944,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-sitting-cat-party-series-plueschfigur-13cm-blindbox-789.webp?v=1794562464",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608449003784,
+          "created_at": "2026-11-13T10:34:38+01:00",
+          "position": 6,
+          "product_id": 12453134663944,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-sitting-cat-party-series-plueschfigur-13cm-blindbox-383.webp?v=1794562478",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608483508488,
+          "created_at": "2026-11-13T10:34:53+01:00",
+          "position": 7,
+          "product_id": 12453134663944,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-sitting-cat-party-series-plueschfigur-13cm-blindbox-645.webp?v=1794562493",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608501891336,
+          "created_at": "2026-11-13T10:35:09+01:00",
+          "position": 8,
+          "product_id": 12453134663944,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-sitting-cat-party-series-plueschfigur-13cm-blindbox-816.webp?v=1794562509",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88608507756808,
+          "created_at": "2026-11-13T10:35:25+01:00",
+          "position": 9,
+          "product_id": 12453134663944,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-sitting-cat-party-series-plueschfigur-13cm-blindbox-555.webp?v=1794562525",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 12446182375688,
       "title": "Demon Slave - The Chained Soldier - Season 2 - Vol. 1 (Blu-ray) - EARLY BIRD PHASE",
       "handle": "27p03-01-demon-slave-the-chained-soldier-season-2-vol-1-bluray",
@@ -197733,6 +198916,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -201507,7 +202691,7 @@
           "featured_image": null,
           "available": true,
           "price": "129.90",
-          "grams": 0,
+          "grams": 390,
           "compare_at_price": "59.90",
           "position": 1,
           "product_id": 12155411824904,
