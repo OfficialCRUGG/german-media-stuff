@@ -14614,7 +14614,8 @@
         "goblin slayer 1",
         "goblin slayer 2",
         "merch",
-        "merch-highlight"
+        "merch-highlight",
+        "released"
       ],
       "variants": [
         {
@@ -14628,9 +14629,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "29.99",
+          "price": "34.99",
           "grams": 100,
-          "compare_at_price": "34.99",
+          "compare_at_price": null,
           "position": 1,
           "product_id": 15704673452297,
           "created_at": "2026-10-16T10:31:20+02:00"
