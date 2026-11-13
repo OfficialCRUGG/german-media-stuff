@@ -181922,6 +181922,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -181935,7 +181936,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "43.90",
           "grams": 139,
           "compare_at_price": "43.90",
