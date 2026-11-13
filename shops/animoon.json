@@ -433,7 +433,6 @@
         "comedy",
         "drama",
         "Neuheit",
-        "released",
         "romance",
         "school"
       ],
@@ -14703,7 +14702,8 @@
         "goblin slayer 1",
         "goblin slayer 2",
         "merch",
-        "merch-highlight"
+        "merch-highlight",
+        "released"
       ],
       "variants": [
         {
@@ -16931,7 +16931,8 @@
         "acrylaufsteller_merch",
         "gushing",
         "merch",
-        "merch-highlight"
+        "merch-highlight",
+        "released"
       ],
       "variants": [
         {
@@ -33082,7 +33083,6 @@
         "comedy",
         "drama",
         "Neuheit",
-        "released",
         "romance",
         "school",
         "Serie",
@@ -35509,7 +35509,6 @@
         "harem",
         "Neuheit",
         "nukitashi",
-        "released",
         "romance",
         "school",
         "Serie"
@@ -40126,7 +40125,6 @@
         "drama",
         "fantasy",
         "Neuheit",
-        "released",
         "romance",
         "Serie",
         "SoL",
@@ -49160,7 +49158,6 @@
         "fantasy",
         "mystery",
         "Neuheit",
-        "released",
         "school",
         "virginroad"
       ],
