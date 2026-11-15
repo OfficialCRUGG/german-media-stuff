@@ -125097,7 +125097,6 @@
       "product_type": "",
       "tags": [
         "Flow:ArtikelstatusAktiv",
-        "Flow:Releaseplan-Anime",
         "Online"
       ],
       "variants": [
@@ -125182,7 +125181,6 @@
       "product_type": "",
       "tags": [
         "Flow:ArtikelstatusAktiv",
-        "Flow:Releaseplan-Anime",
         "Online"
       ],
       "variants": [
@@ -159091,8 +159089,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
-        "Flow:Releaseplan-Anime"
+        "Flow:ArtikelstatusAktiv"
       ],
       "variants": [
         {
@@ -159145,8 +159142,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
-        "Flow:Releaseplan-Anime"
+        "Flow:ArtikelstatusAktiv"
       ],
       "variants": [
         {
@@ -159199,8 +159195,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
-        "Flow:Releaseplan-Anime"
+        "Flow:ArtikelstatusAktiv"
       ],
       "variants": [
         {
@@ -159272,9 +159267,7 @@
       "created_at": "2026-08-06T11:54:25+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [
-        "Flow:Releaseplan-Anime"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 58378674110728,
@@ -159399,8 +159392,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
-        "Flow:Releaseplan-Anime"
+        "Flow:ArtikelstatusAktiv"
       ],
       "variants": [
         {
@@ -159452,9 +159444,7 @@
       "created_at": "2026-08-06T12:12:27+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [
-        "Flow:Releaseplan-Anime"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 58378837983496,
@@ -166967,7 +166957,9 @@
       "created_at": "2026-11-13T16:46:05+01:00",
       "vendor": "KSM Anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59491612590344,
@@ -167028,7 +167020,9 @@
       "created_at": "2026-11-13T16:45:55+01:00",
       "vendor": "KSM Anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59491609837832,
@@ -167089,7 +167083,9 @@
       "created_at": "2026-11-13T16:46:05+01:00",
       "vendor": "KSM Anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59491612623112,
@@ -167150,7 +167146,9 @@
       "created_at": "2026-11-13T16:46:07+01:00",
       "vendor": "KSM Anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:Releaseplan-Anime"
+      ],
       "variants": [
         {
           "id": 59491612786952,
@@ -179637,9 +179635,7 @@
       "created_at": "2026-08-06T12:29:39+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [
-        "Flow:Releaseplan-Anime"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 58378963714312,
@@ -179690,9 +179686,7 @@
       "created_at": "2026-08-06T12:26:28+02:00",
       "vendor": "peppermint anime",
       "product_type": "",
-      "tags": [
-        "Flow:Releaseplan-Anime"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 58378903421192,
@@ -202124,8 +202118,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
-        "Flow:Releaseplan-Anime"
+        "Flow:ArtikelstatusAktiv"
       ],
       "variants": [
         {
@@ -212831,9 +212824,7 @@
       "created_at": "2026-08-06T10:49:10+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [
-        "Flow:Releaseplan-Anime"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 58377641230600,
