@@ -17321,8 +17321,8 @@
       "variants": [
         {
           "id": 57561870041353,
-          "title": "Band 1 - 5 im Sammelschuber",
-          "option1": "Band 1 - 5 im Sammelschuber",
+          "title": "Band 1 - 5 im Sammelschuber (Vorbestellung)",
+          "option1": "Band 1 - 5 im Sammelschuber (Vorbestellung)",
           "option2": null,
           "option3": null,
           "sku": null,
@@ -17355,7 +17355,7 @@
           "name": "Medium auswählen:",
           "position": 1,
           "values": [
-            "Band 1 - 5 im Sammelschuber"
+            "Band 1 - 5 im Sammelschuber (Vorbestellung)"
           ]
         }
       ]
@@ -17889,8 +17889,8 @@
       "variants": [
         {
           "id": 57561749651721,
-          "title": "Leerschuber für Band 1 - 5",
-          "option1": "Leerschuber für Band 1 - 5",
+          "title": "Leerschuber für Band 1 - 5 (Vorbestellung)",
+          "option1": "Leerschuber für Band 1 - 5 (Vorbestellung)",
           "option2": null,
           "option3": null,
           "sku": null,
@@ -17923,7 +17923,7 @@
           "name": "Medium auswählen:",
           "position": 1,
           "values": [
-            "Leerschuber für Band 1 - 5"
+            "Leerschuber für Band 1 - 5 (Vorbestellung)"
           ]
         }
       ]
@@ -50644,8 +50644,8 @@
       "variants": [
         {
           "id": 57562448199945,
-          "title": "Band 1 - 5 im Sammelschuber",
-          "option1": "Band 1 - 5 im Sammelschuber",
+          "title": "Band 1 - 5 im Sammelschuber (Vorbestellung)",
+          "option1": "Band 1 - 5 im Sammelschuber (Vorbestellung)",
           "option2": null,
           "option3": null,
           "sku": null,
@@ -50678,7 +50678,7 @@
           "name": "Medium auswählen:",
           "position": 1,
           "values": [
-            "Band 1 - 5 im Sammelschuber"
+            "Band 1 - 5 im Sammelschuber (Vorbestellung)"
           ]
         }
       ]
@@ -51209,8 +51209,8 @@
       "variants": [
         {
           "id": 57562446823689,
-          "title": "Leerschuber für Band 1 - 5",
-          "option1": "Leerschuber für Band 1 - 5",
+          "title": "Leerschuber für Band 1 - 5 (Vorbestellung)",
+          "option1": "Leerschuber für Band 1 - 5 (Vorbestellung)",
           "option2": null,
           "option3": null,
           "sku": null,
@@ -51243,7 +51243,7 @@
           "name": "Medium auswählen:",
           "position": 1,
           "values": [
-            "Leerschuber für Band 1 - 5"
+            "Leerschuber für Band 1 - 5 (Vorbestellung)"
           ]
         }
       ]
