@@ -112090,7 +112090,7 @@
     },
     {
       "id": 10261536145672,
-      "title": "Black Clover - Staffel 4 - Box 1 (DVD)",
+      "title": "Black Clover - Season 4 - Box 1 (DVD)",
       "handle": "25cr026-black-clover-staffel-4-box-1-dvd",
       "published_at": "2025-05-28T16:25:17+02:00",
       "created_at": "2025-05-28T16:24:25+02:00",
@@ -113468,7 +113468,7 @@
     },
     {
       "id": 10261538406664,
-      "title": "Black Clover - Staffel 4 - Box 2 (Blu-ray)",
+      "title": "Black Clover - Season 4 - Box 2 (Blu-ray)",
       "handle": "25cr044-black-clover-staffel-4-box-2-bluray",
       "published_at": "2025-05-28T16:25:12+02:00",
       "created_at": "2025-05-28T16:24:57+02:00",
@@ -113541,7 +113541,7 @@
     },
     {
       "id": 10261538570504,
-      "title": "Black Clover - Staffel 4 - Box 2 (DVD)",
+      "title": "Black Clover - Season 4 - Box 2 (DVD)",
       "handle": "25cr045-black-clover-staffel-4-box-2-dvd",
       "published_at": "2025-05-28T16:25:12+02:00",
       "created_at": "2025-05-28T16:25:00+02:00",
@@ -113695,7 +113695,7 @@
     },
     {
       "id": 10261538767112,
-      "title": "Horimiya - Staffel 1 - Vol. 2 (DVD)",
+      "title": "Horimiya - Season 1 - Vol. 2 (DVD)",
       "handle": "25cr047-horimiya-staffel-1-vol-2-dvd",
       "published_at": "2025-05-28T16:25:11+02:00",
       "created_at": "2025-05-28T16:25:03+02:00",
@@ -118353,7 +118353,7 @@
     },
     {
       "id": 10353666916616,
-      "title": "Dragon Quest: The Adventure of Dai - Staffel 1 - Gesamtausgabe -Bundle mit Vol. 1-4 (DVD)",
+      "title": "Dragon Quest: The Adventure of Dai - Season 1 - Gesamtausgabe - Bundle mit Vol. 1-4 (DVD)",
       "handle": "25cr119-dragon-quest-the-adventure-of-dai-staffel-1-gesamtausgabe-bundle-mit-vol-1-4-dvd",
       "published_at": "2025-06-18T10:51:12+02:00",
       "created_at": "2025-06-18T10:40:08+02:00",
@@ -120154,6 +120154,60 @@
           "product_id": 10270976573704,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/tsukimichi-moonlit-fantasy-staffel-2-vol-1-limited-edition-533.webp?v=1769041171",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10270976672008,
+      "title": "Gods' Games We Play - Gesamtausgabe (Blu-ray)",
+      "handle": "25cr154-gods-games-we-play-gesamtausgabe-bluray",
+      "published_at": "2026-11-16T14:06:53+01:00",
+      "created_at": "2025-05-30T18:20:19+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [
+        "Flow:Releaseplan-Anime",
+        "Online"
+      ],
+      "variants": [
+        {
+          "id": 51568968728840,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "25cr154",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "69.90",
+          "grams": 0,
+          "compare_at_price": "69.90",
+          "position": 1,
+          "product_id": 10270976672008,
+          "created_at": "2025-05-30T18:20:20+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 73958508724488,
+          "created_at": "2025-10-29T20:17:06+01:00",
+          "position": 1,
+          "product_id": 10270976672008,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/gods-games-we-play-gesamtausgabe-blu-ray-gesamtausgabe-crunchyroll-288.webp?v=1769041182",
           "width": 2500,
           "height": 2500
         }
@@ -126392,7 +126446,7 @@
     },
     {
       "id": 10270984470792,
-      "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World - Staffel 1 - Vol. 2 (Blu-ray)",
+      "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World - Season 1 - Vol. 2 (Blu-ray)",
       "handle": "25cr245-as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill-to-rise-in-the-world-staffel-1-vol-2-bluray",
       "published_at": "2025-05-30T19:05:58+02:00",
       "created_at": "2025-05-30T18:22:51+02:00",
@@ -127502,7 +127556,7 @@
     },
     {
       "id": 10475336040712,
-      "title": "Die Melancholie der Haruhi Suzumiya -Staffel 1 & 2 - Gesamtausgabe (Blu-ray)",
+      "title": "Die Melancholie der Haruhi Suzumiya - Season 1 & 2 - Gesamtausgabe (Blu-ray)",
       "handle": "25cr264-melancholie-haruhi-suzumiya-gesamtausgabe-bluray",
       "published_at": "2025-08-21T17:50:04+02:00",
       "created_at": "2025-08-21T17:08:12+02:00",
@@ -127555,7 +127609,7 @@
     },
     {
       "id": 10475336073480,
-      "title": "Attack on Titan: Final Season - Staffel 4 - Part 1 - Gesamtausgabe (Blu-ray)",
+      "title": "Attack on Titan: Final Season - Season 4 - Part 1 - Gesamtausgabe (Blu-ray)",
       "handle": "25cr265-attack-on-titan-final-season-gesamtausgabe-bluray",
       "published_at": "2025-08-21T17:50:05+02:00",
       "created_at": "2025-08-21T17:08:13+02:00",
@@ -127727,7 +127781,7 @@
     },
     {
       "id": 10475336237320,
-      "title": "Attack on Titan: Final Season - Staffel 4 - Part 2 - Gesamtausgabe (DVD)",
+      "title": "Attack on Titan: Final Season - Season 4 - Part 2 - Gesamtausgabe (DVD)",
       "handle": "25cr268-attack-on-titan-final-season-gesamtausgabe-dvd",
       "published_at": "2025-08-21T17:50:07+02:00",
       "created_at": "2025-08-21T17:08:19+02:00",
@@ -128162,7 +128216,7 @@
     },
     {
       "id": 10475336761608,
-      "title": "How Not to Summon a Demon - Staffel 2 - Gesamtausgabe - Bundle mit Vol. 1-2 ohne Schuber (DVD)",
+      "title": "How NOT to Summon a Demon Lord - Season 2 - Gesamtausgabe - Bundle mit Vol. 1-2 ohne Schuber (DVD)",
       "handle": "25cr276-how-not-to-summon-a-demon-gesamtausgabe-dvd",
       "published_at": "2025-08-21T17:50:12+02:00",
       "created_at": "2025-08-21T17:08:32+02:00",
@@ -133543,7 +133597,7 @@
     },
     {
       "id": 10482473304328,
-      "title": "Azumanga Daioh - Staffel 1 - Gesamtausgabe (Blu-ray)",
+      "title": "Azumanga Daioh - Season 1 - Gesamtausgabe (Blu-ray)",
       "handle": "25hf008-azumanga-daioh-gesamtausgabe-bluray",
       "published_at": "2025-08-27T18:30:58+02:00",
       "created_at": "2025-08-27T15:14:04+02:00",
@@ -179574,7 +179628,6 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -179588,7 +179641,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "49.90",
           "grams": 242,
           "compare_at_price": "49.90",
