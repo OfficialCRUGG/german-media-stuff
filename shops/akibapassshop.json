@@ -45098,7 +45098,7 @@
     },
     {
       "id": 10261339799816,
-      "title": "Food Wars! The Fifth Plate - 5. Season - Vol. 1 mit Sammelschuber - Limited Edition (Blu-ray)",
+      "title": "Food Wars! The Fifth Plate - Season 5 - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
       "handle": "22a085-food-wars-the-fifth-plate-5-season-vol-1-mit-sammelschuber-limited-edition-bluray",
       "published_at": "2025-05-28T16:30:29+02:00",
       "created_at": "2025-05-28T15:17:28+02:00",
@@ -45152,7 +45152,7 @@
     },
     {
       "id": 10261339832584,
-      "title": "Food Wars! The Fifth Plate - 5. Season - Vol. 1 mit Sammelschuber - Limited Edition (DVD)",
+      "title": "Food Wars! The Fifth Plate - Season 5 - Vol. 1 - Limited Edition mit Sammelschuber (DVD)",
       "handle": "22a086-food-wars-the-fifth-plate-5-season-vol-1-mit-sammelschuber-limited-edition-dvd",
       "published_at": "2025-05-28T16:30:29+02:00",
       "created_at": "2025-05-28T15:17:29+02:00",
@@ -45206,7 +45206,7 @@
     },
     {
       "id": 10261339898120,
-      "title": "Junjo Romantica  - 1. Season - Vol. 1 mit Sammelschuber - Limited Edition (Blu-ray)",
+      "title": "Junjo Romantica - Season 1 - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
       "handle": "22a087-junjo-romantica-1-season-vol-1-mit-sammelschuber-limited-edition-bluray",
       "published_at": "2025-05-28T16:30:28+02:00",
       "created_at": "2025-05-28T15:17:31+02:00",
@@ -45260,7 +45260,7 @@
     },
     {
       "id": 10261339963656,
-      "title": "Junjo Romantica  - 1. Season - Vol. 1 mit Sammelschuber - Limited Edition (DVD)",
+      "title": "Junjo Romantica - Season 1 - Vol. 1 - Limited Edition mit Sammelschuber (DVD)",
       "handle": "22a088-junjo-romantica-1-season-vol-1-mit-sammelschuber-limited-edition-dvd",
       "published_at": "2025-05-28T16:30:28+02:00",
       "created_at": "2025-05-28T15:17:32+02:00",
@@ -45577,7 +45577,7 @@
     },
     {
       "id": 10261340586248,
-      "title": "Junjo Romantica  - 1. Season - Vol. 2 (DVD)",
+      "title": "Junjo Romantica - Season 1 - Vol. 2 (DVD)",
       "handle": "22a093-junjo-romantica-1-season-vol-2-dvd",
       "published_at": "2025-05-28T16:30:27+02:00",
       "created_at": "2025-05-28T15:17:41+02:00",
@@ -45633,7 +45633,7 @@
     },
     {
       "id": 10261340782856,
-      "title": "Junjo Romantica  - 1. Season - Vol. 2 (Blu-ray)",
+      "title": "Junjo Romantica - Season 1 - Vol. 2 (Blu-ray)",
       "handle": "22a094-junjo-romantica-1-season-vol-2-bluray",
       "published_at": "2025-05-28T16:30:26+02:00",
       "created_at": "2025-05-28T15:17:43+02:00",
@@ -57108,6 +57108,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -57121,7 +57122,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "19.90",
           "grams": 404,
           "compare_at_price": "54.90",
@@ -73156,7 +73157,7 @@
     },
     {
       "id": 10261419884808,
-      "title": "Code Geass: Lelouch of the Rebellion R2 - Staffel 2 - Gesamtausgabe (Blu-ray)",
+      "title": "Code Geass: Lelouch of the Rebellion R2 - Season 2 - Gesamtausgabe (Blu-ray)",
       "handle": "24a013-code-geass-lelouch-of-the-rebellion-r2-staffel-2-gesamtausgabe-bluray",
       "published_at": "2025-05-28T16:28:30+02:00",
       "created_at": "2025-05-28T15:50:26+02:00",
@@ -73278,7 +73279,7 @@
     },
     {
       "id": 10261420212488,
-      "title": "Chainsaw Man - Staffel 1 - Vol.2 - Blu-ray (Limited Edition)",
+      "title": "Chainsaw Man - Season 1 - Vol. 2 - Limited Edition (Blu-ray)",
       "handle": "24a016-chainsaw-man-staffel-1-vol2-bluraylimited-edition",
       "published_at": "2025-05-28T16:28:29+02:00",
       "created_at": "2025-05-28T15:50:32+02:00",
@@ -73334,7 +73335,7 @@
     },
     {
       "id": 10261420310792,
-      "title": "Corpse Princess - Staffel 2 - Vol. 2 (Blu-ray)",
+      "title": "Corpse Princess - Season 2 - Vol. 2 (Blu-ray)",
       "handle": "24a018-corpse-princess-staffel-2-vol-2-bluray",
       "published_at": "2025-05-28T16:28:28+02:00",
       "created_at": "2025-05-28T15:50:34+02:00",
@@ -73390,7 +73391,7 @@
     },
     {
       "id": 10261420409096,
-      "title": "Corpse Princess - Staffel 2 - Vol. 2 (DVD)",
+      "title": "Corpse Princess - Season 2 - Vol. 2 (DVD)",
       "handle": "24a019-corpse-princess-staffel-2-vol-2-dvd",
       "published_at": "2025-05-28T16:28:28+02:00",
       "created_at": "2025-05-28T15:50:36+02:00",
@@ -73696,7 +73697,7 @@
     },
     {
       "id": 10261420867848,
-      "title": "Hell's Paradise - Staffel 1 - Vol. 2 (Blu-ray)",
+      "title": "Hell's Paradise - Season 1 - Vol. 2 (Blu-ray)",
       "handle": "24a024-hell-s-paradise-staffel-1-vol-2-bluray",
       "published_at": "2025-05-28T16:28:26+02:00",
       "created_at": "2025-05-28T15:50:44+02:00",
@@ -73752,7 +73753,7 @@
     },
     {
       "id": 10261420998920,
-      "title": "In Another World With My Smartphone - Staffel 2 - Gesamtausgabe (Blu-ray)",
+      "title": "In Another World With My Smartphone - Season 2 - Gesamtausgabe (Blu-ray)",
       "handle": "24a026-in-another-world-with-my-smartphone-staffel-2-gesamtausgabe-bluray",
       "published_at": "2025-05-28T16:28:26+02:00",
       "created_at": "2025-05-28T15:50:47+02:00",
@@ -73818,7 +73819,7 @@
     },
     {
       "id": 10261421097224,
-      "title": "In Another World With My Smartphone - Staffel 2 - Gesamtausgabe (DVD)",
+      "title": "In Another World With My Smartphone - Season 2 - Gesamtausgabe (DVD)",
       "handle": "24a027-in-another-world-with-my-smartphone-staffel-2-gesamtausgabe-dvd",
       "published_at": "2025-05-28T16:28:26+02:00",
       "created_at": "2025-05-28T15:50:49+02:00",
@@ -73950,7 +73951,7 @@
     },
     {
       "id": 10261421326600,
-      "title": "Mushoku Tensei: Jobless Reincarnation - Staffel 1 - Vol.1 - Limited Edition mit Sammelschuber (Blu-ray)",
+      "title": "Mushoku Tensei: Jobless Reincarnation - Season 1 - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
       "handle": "24a029-mushoku-tensei-jobless-reincarnation-staffel-1-vol1-limited-edition-mit-sammelschuber-bluray",
       "published_at": "2025-05-28T16:28:25+02:00",
       "created_at": "2025-05-28T15:50:53+02:00",
@@ -74017,7 +74018,7 @@
     },
     {
       "id": 10261421392136,
-      "title": "Mushoku Tensei: Jobless Reincarnation - Staffel 1 - Vol.1 - Limited Edition mit Sammelschuber (DVD)",
+      "title": "Mushoku Tensei: Jobless Reincarnation - Season 1 - Vol. 1 - Limited Edition mit Sammelschuber (DVD)",
       "handle": "24a030-mushoku-tensei-jobless-reincarnation-staffel-1-vol1-limited-edition-mit-sammelschuber-dvd",
       "published_at": "2025-05-28T16:28:25+02:00",
       "created_at": "2025-05-28T15:50:54+02:00",
@@ -74658,7 +74659,7 @@
     },
     {
       "id": 10261424111880,
-      "title": "Peacemaker Kurogane - Gesamtausgabe - Bundle mit Vol.1-2 (DVD)",
+      "title": "Peacemaker Kurogane - Gesamtausgabe - Bundle mit Vol. 1-2 (DVD)",
       "handle": "24a045-peacemaker-kurogane-gesamtausgabe-bundle-mit-vol1-2-dvd",
       "published_at": "2025-05-28T16:28:21+02:00",
       "created_at": "2025-05-28T15:52:02+02:00",
@@ -74880,7 +74881,7 @@
     },
     {
       "id": 10261424406792,
-      "title": "Blue Lock - Staffel 1 - Part 2 - Vol. 3 - mit Sammelschuber - Limited Edition  (Blu-ray)",
+      "title": "Blue Lock - Season 1 - Part 2 - Vol. 3 - Limited Edition mit Sammelschuber (Blu-ray)",
       "handle": "24a049-blue-lock-staffel-1-part-2-vol-3-mit-sammelschuber-limited-edition-bluray",
       "published_at": "2025-05-28T16:28:20+02:00",
       "created_at": "2025-05-28T15:52:07+02:00",
@@ -74937,7 +74938,7 @@
     },
     {
       "id": 10261424505096,
-      "title": "Blue Lock - Staffel 1 - Part 2 - Vol. 3 - mit Sammelschuber - Limited Edition (DVD)",
+      "title": "Blue Lock - Season 1 - Part 2 - Vol. 3 - Limited Edition mit Sammelschuber (DVD)",
       "handle": "24a050-blue-lock-staffel-1-part-2-vol-3-mit-sammelschuber-limited-edition-dvd",
       "published_at": "2025-05-28T16:28:20+02:00",
       "created_at": "2025-05-28T15:52:09+02:00",
@@ -75060,7 +75061,7 @@
     },
     {
       "id": 10261424636168,
-      "title": "Dagashi Kashi - Staffel 1 - Gesamtausgabe - Bundle mit Vol. 1-2 (Blu-ray)",
+      "title": "Dagashi Kashi - Season 1 - Gesamtausgabe - Bundle mit Vol. 1-2 (Blu-ray)",
       "handle": "24a052-dagashi-kashi-staffel-1-gesamtausgabe-bundle-mit-vol-1-2-bluray",
       "published_at": "2025-05-28T16:28:20+02:00",
       "created_at": "2025-05-28T15:52:11+02:00",
@@ -75370,7 +75371,7 @@
     },
     {
       "id": 10261425193224,
-      "title": "Mushoku Tensei: Jobless Reincarnation - Staffel 1 - Vol. 2 (Blu-ray)",
+      "title": "Mushoku Tensei: Jobless Reincarnation - Season 1 - Vol. 2 (Blu-ray)",
       "handle": "24a058-mushoku-tensei-jobless-reincarnation-staffel-1-vol-2-bluray",
       "published_at": "2025-05-28T16:28:18+02:00",
       "created_at": "2025-05-28T15:52:19+02:00",
@@ -75436,7 +75437,7 @@
     },
     {
       "id": 10261425258760,
-      "title": "Mushoku Tensei: Jobless Reincarnation - Staffel 1 - Vol. 2 (DVD)",
+      "title": "Mushoku Tensei: Jobless Reincarnation - Season 1 - Vol. 2 (DVD)",
       "handle": "24a059-mushoku-tensei-jobless-reincarnation-staffel-1-vol-2-dvd",
       "published_at": "2025-05-28T16:28:18+02:00",
       "created_at": "2025-05-28T15:52:21+02:00",
@@ -75566,7 +75567,7 @@
     },
     {
       "id": 10261425520904,
-      "title": "Ranking of Kings - Staffel 1 - Part 1 - Limited Edition (Blu-ray)",
+      "title": "Ranking of Kings - Season 1 - Part 1 - Limited Edition (Blu-ray)",
       "handle": "24a061-ranking-of-kings-staffel-1-part-1-limited-edition-bluray",
       "published_at": "2025-05-28T16:28:18+02:00",
       "created_at": "2025-05-28T15:52:24+02:00",
@@ -76127,7 +76128,7 @@
     },
     {
       "id": 10261431419144,
-      "title": "Captain Tsubasa 2018 - Gesamtausgabe - Bundle - Vol. 1-4 (Blu-ray)",
+      "title": "Captain Tsubasa 2018 - Gesamtausgabe - Bundle mit Vol. 1-4 (Blu-ray)",
       "handle": "24a072-captain-tsubasa-2018-gesamtausgabe-bundle-vol-1-4-bluray",
       "published_at": "2025-05-28T16:28:14+02:00",
       "created_at": "2025-05-28T15:53:25+02:00",
@@ -76183,7 +76184,7 @@
     },
     {
       "id": 10261431484680,
-      "title": "Captain Tsubasa 2018 - Gesamtausgabe - Bundle - Vol.1-4 (DVD)",
+      "title": "Captain Tsubasa 2018 - Gesamtausgabe - Bundle mit Vol. 1-4 (DVD)",
       "handle": "24a073-captain-tsubasa-2018-gesamtausgabe-bundle-vol-1-4-dvd",
       "published_at": "2025-05-28T16:28:14+02:00",
       "created_at": "2025-05-28T15:53:27+02:00",
@@ -76295,7 +76296,7 @@
     },
     {
       "id": 10261431681288,
-      "title": "Chainsaw Man - Staffel 1 - Vol.1 - Limited Edition (Blu-ray)",
+      "title": "Chainsaw Man - Season 1 - Vol. 1 - Limited Edition (Blu-ray)",
       "handle": "24a076-chainsaw-man-staffel-1-vol1-limited-edition-bluray",
       "published_at": "2025-05-28T16:28:13+02:00",
       "created_at": "2025-05-28T15:53:31+02:00",
@@ -76352,7 +76353,7 @@
     },
     {
       "id": 10261431812360,
-      "title": "Chainsaw Man - Staffel 1 - Vol.1 - Limited Edition (DVD)",
+      "title": "Chainsaw Man - Season 1 - Vol. 1 - Limited Edition (DVD)",
       "handle": "24a077-chainsaw-man-staffel-1-vol1-limited-edition-dvd",
       "published_at": "2026-07-03T00:14:52+02:00",
       "created_at": "2025-05-28T15:53:33+02:00",
@@ -76408,7 +76409,7 @@
     },
     {
       "id": 10261431943432,
-      "title": "One-Punch-Man - Staffel 1 - Gesamtausgabe (Blu-ray)",
+      "title": "One-Punch Man - Season 1 - Gesamtausgabe (Blu-ray)",
       "handle": "24a079-one-punch-man-staffel-1-gesamtausgabe-bluray",
       "published_at": "2025-05-28T16:28:12+02:00",
       "created_at": "2025-05-28T15:53:35+02:00",
@@ -76464,7 +76465,7 @@
     },
     {
       "id": 10261432008968,
-      "title": "Blue Lock - Staffel 1 - Part 2 - Vol. 4 (Blu-ray)",
+      "title": "Blue Lock - Season 1 - Part 2 - Vol. 4 (Blu-ray)",
       "handle": "24a080-blue-lock-staffel-1-part-2-vol-4-bluray",
       "published_at": "2025-05-28T16:28:12+02:00",
       "created_at": "2025-05-28T15:53:36+02:00",
@@ -76521,7 +76522,7 @@
     },
     {
       "id": 10261432369416,
-      "title": "Blue Lock - Staffel 1 - Part 2 - Vol. 4 (DVD)",
+      "title": "Blue Lock - Season 1 - Part 2 - Vol. 4 (DVD)",
       "handle": "24a081-blue-lock-staffel-1-part-2-vol-4-dvd",
       "published_at": "2025-05-28T16:28:12+02:00",
       "created_at": "2025-05-28T15:53:38+02:00",
@@ -76644,7 +76645,7 @@
     },
     {
       "id": 10261433254152,
-      "title": "Dr. STONE: New World Cour 2 - Staffel 3 - Part 1 - mit Sammelschuber (Blu-ray)",
+      "title": "Dr. STONE: New World Cour 2 - Season 3 - Part 1 mit Sammelschuber (Blu-ray)",
       "handle": "24a083-dr-stone-new-world-cour-2-staffel-3-part-1-mit-sammelschuber-bluray",
       "published_at": "2025-05-28T16:28:11+02:00",
       "created_at": "2025-05-28T15:53:42+02:00",
@@ -76722,7 +76723,7 @@
     },
     {
       "id": 10261433581832,
-      "title": "Dr. STONE: New World Cour 2 - Staffel 3 - Part 1 mit Sammelschuber (DVD)",
+      "title": "Dr. STONE: New World Cour 2 - Season 3 - Part 1 mit Sammelschuber (DVD)",
       "handle": "24a084-dr-stone-new-world-cour-2-staffel-3-part-1-mit-sammelschuber-dvd",
       "published_at": "2025-05-28T16:28:11+02:00",
       "created_at": "2025-05-28T15:53:43+02:00",
@@ -76901,7 +76902,7 @@
     },
     {
       "id": 10261434695944,
-      "title": "Ranking of Kings - Staffel 1 - Part 2 - Limited Edition (Blu-ray)",
+      "title": "Ranking of Kings - Season 1 - Part 2 - Limited Edition (Blu-ray)",
       "handle": "24a089-ranking-of-kings-staffel-1-part-2-limited-edition-bluray",
       "published_at": "2025-05-28T16:28:10+02:00",
       "created_at": "2025-05-28T15:53:48+02:00",
@@ -76976,7 +76977,7 @@
     },
     {
       "id": 10261435089160,
-      "title": "Ranking of Kings - Staffel 1 - Part 2 - Limited Edition (DVD)",
+      "title": "Ranking of Kings - Season 1 - Part 2 - Limited Edition (DVD)",
       "handle": "24a090-ranking-of-kings-staffel-1-part-2-limited-edition-dvd",
       "published_at": "2025-05-28T16:28:10+02:00",
       "created_at": "2025-05-28T15:53:50+02:00",
@@ -77532,7 +77533,7 @@
     },
     {
       "id": 10261436530952,
-      "title": "86: Eighty Six - Staffel 1 - Gesamtausgabe (Blu-ray)",
+      "title": "86: Eighty Six - Season 1 - Gesamtausgabe (Blu-ray)",
       "handle": "24a098-86-eighty-six-staffel-1-gesamtausgabe-bluray",
       "published_at": "2025-05-28T16:28:07+02:00",
       "created_at": "2025-05-28T15:54:04+02:00",
@@ -77598,7 +77599,7 @@
     },
     {
       "id": 10261436629256,
-      "title": "86: Eighty Six - Staffel 1 - Gesamtausgabe (DVD)",
+      "title": "86: Eighty Six - Season 1 - Gesamtausgabe (DVD)",
       "handle": "24a099-86-eighty-six-staffel-1-gesamtausgabe-dvd",
       "published_at": "2025-05-28T16:28:07+02:00",
       "created_at": "2025-05-28T15:54:06+02:00",
@@ -78148,7 +78149,7 @@
     },
     {
       "id": 10261437284616,
-      "title": "High School Prodigies ... - Gesamtausgabe - Bundle Vol.1-2 (Blu-ray)",
+      "title": "High School Prodigies Have It Easy Even in Another World! - Gesamtausgabe - Bundle mit Vol. 1-2 (Blu-ray)",
       "handle": "24a108-high-school-prodigies-gesamtausgabe-bundle-vol1-2-bluray",
       "published_at": "2025-05-28T16:28:05+02:00",
       "created_at": "2025-05-28T15:54:22+02:00",
@@ -78204,7 +78205,7 @@
     },
     {
       "id": 10261437350152,
-      "title": "High School Prodigies ... - Gesamtausgabe - Bundle Vol.1-2 (DVD)",
+      "title": "High School Prodigies Have It Easy Even in Another World! - Gesamtausgabe - Bundle mit Vol. 1-2 (DVD)",
       "handle": "24a109-high-school-prodigies-gesamtausgabe-bundle-vol1-2-dvd",
       "published_at": "2025-05-28T16:28:04+02:00",
       "created_at": "2025-05-28T15:54:23+02:00",
@@ -78257,7 +78258,7 @@
     },
     {
       "id": 10261437546760,
-      "title": "Mushoku Tensei: Jobless Reincarnation - Staffel 1 - Vol. 3 (Blu-ray)",
+      "title": "Mushoku Tensei: Jobless Reincarnation - Season 1 - Vol. 3 (Blu-ray)",
       "handle": "24a110-mushoku-tensei-jobless-reincarnation-staffel-1-vol-3-bluray",
       "published_at": "2025-05-28T16:28:04+02:00",
       "created_at": "2025-05-28T15:54:25+02:00",
@@ -78323,7 +78324,7 @@
     },
     {
       "id": 10261437612296,
-      "title": "Mushoku Tensei: Jobless Reincarnation - Staffel 1 - Vol. 3 (DVD)",
+      "title": "Mushoku Tensei: Jobless Reincarnation - Season 1 - Vol. 3 (DVD)",
       "handle": "24a111-mushoku-tensei-jobless-reincarnation-staffel-1-vol-3-dvd",
       "published_at": "2025-05-28T16:28:04+02:00",
       "created_at": "2025-05-28T15:54:27+02:00",
@@ -78664,7 +78665,7 @@
     },
     {
       "id": 10261437874440,
-      "title": "Ranking of Kings: The Treasure Chest of Courage - Staffel 2 - Gesamtausgabe (Blu-ray)",
+      "title": "Ranking of Kings: The Treasure Chest of Courage - Season 2 - Gesamtausgabe (Blu-ray)",
       "handle": "24a116-ranking-of-kings-the-treasure-chest-of-courage-staffel-2-gesamtausgabe-bluray",
       "published_at": "2025-05-28T16:28:02+02:00",
       "created_at": "2025-05-28T15:54:36+02:00",
@@ -78740,7 +78741,7 @@
     },
     {
       "id": 10261437939976,
-      "title": "Ranking of Kings: The Treasure Chest of Courage - Staffel 2 - Gesamtausgabe (DVD)",
+      "title": "Ranking of Kings: The Treasure Chest of Courage - Season 2 - Gesamtausgabe (DVD)",
       "handle": "24a117-ranking-of-kings-the-treasure-chest-of-courage-staffel-2-gesamtausgabe-dvd",
       "published_at": "2025-05-28T16:28:02+02:00",
       "created_at": "2025-05-28T15:54:37+02:00",
@@ -80281,7 +80282,7 @@
     },
     {
       "id": 10261452620040,
-      "title": "Code Geass: Lelouch of the Rebellion - Staffel 1 - Gesamtausgabe (Blu-ray)",
+      "title": "Code Geass: Lelouch of the Rebellion - Season 1 - Gesamtausgabe (Blu-ray)",
       "handle": "24a150-code-geass-lelouch-of-the-rebellion-staffel-1-gesamtausgabe-bluray",
       "published_at": "2025-05-28T16:27:44+02:00",
       "created_at": "2025-05-28T15:56:51+02:00",
@@ -80450,7 +80451,7 @@
     },
     {
       "id": 10261453242632,
-      "title": "Corpse Princess - Staffel 1 - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
+      "title": "Corpse Princess - Season 1 - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
       "handle": "24a153-corpse-princess-staffel-1-vol-1-limited-edition-mit-sammelschuber-bluray",
       "published_at": "2025-05-28T16:27:43+02:00",
       "created_at": "2025-05-28T15:56:57+02:00",
@@ -80507,7 +80508,7 @@
     },
     {
       "id": 10261453340936,
-      "title": "Corpse Princess - Staffel 1 - Vol. 2 (Blu-ray)",
+      "title": "Corpse Princess - Season 1 - Vol. 2 (Blu-ray)",
       "handle": "24a154-corpse-princess-staffel-1-vol-2-bluray",
       "published_at": "2025-05-28T16:27:43+02:00",
       "created_at": "2025-05-28T15:56:58+02:00",
@@ -80563,7 +80564,7 @@
     },
     {
       "id": 10261453373704,
-      "title": "Corpse Princess - Staffel 2 - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
+      "title": "Corpse Princess - Season 2 - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
       "handle": "24a155-corpse-princess-staffel-2-vol-1-limited-edition-mit-sammelschuber-bluray",
       "published_at": "2025-05-28T16:27:43+02:00",
       "created_at": "2025-05-28T15:57:00+02:00",
@@ -80620,7 +80621,7 @@
     },
     {
       "id": 10261453439240,
-      "title": "Food Wars! The Fifth Plate - 5. Season - Vol. 2 (Blu-ray)",
+      "title": "Food Wars! The Fifth Plate - Season 5 - Vol. 2 (Blu-ray)",
       "handle": "24a156-food-wars-the-fifth-plate-5-season-vol-2-bluray",
       "published_at": "2025-05-28T16:27:42+02:00",
       "created_at": "2025-05-28T15:57:01+02:00",
@@ -80696,7 +80697,7 @@
     },
     {
       "id": 10261453472008,
-      "title": "Hell's Paradise - Staffel 1 - Vol.1 - Limited Edition mit Sammelschuber (Blu-ray)",
+      "title": "Hell's Paradise - Season 1 - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
       "handle": "24a157-hell-s-paradise-staffel-1-vol1-limited-edition-mit-sammelschuber-bluray",
       "published_at": "2025-05-28T16:27:42+02:00",
       "created_at": "2025-05-28T15:57:03+02:00",
@@ -80763,7 +80764,7 @@
     },
     {
       "id": 10261453570312,
-      "title": "Junjo Romantica  - 2. Season - Vol. 1 mit Sammelschuber - Limited Edition (Blu-ray)",
+      "title": "Junjo Romantica - Season 2 - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
       "handle": "24a158-junjo-romantica-2-season-vol-1-mit-sammelschuber-limited-edition-bluray",
       "published_at": "2025-05-28T16:27:42+02:00",
       "created_at": "2025-05-28T15:57:05+02:00",
@@ -80820,7 +80821,7 @@
     },
     {
       "id": 10261453603080,
-      "title": "Junjo Romantica  - 2. Season - Vol. 2 (Blu-ray)",
+      "title": "Junjo Romantica - Season 2 - Vol. 2 (Blu-ray)",
       "handle": "24a159-junjo-romantica-2-season-vol-2-bluray",
       "published_at": "2025-05-28T16:27:41+02:00",
       "created_at": "2025-05-28T15:57:07+02:00",
@@ -80876,7 +80877,7 @@
     },
     {
       "id": 10261453668616,
-      "title": "Junjo Romantica  - 3. Season - Vol. 1 mit Sammelschuber - Limited Edition (Blu-ray)",
+      "title": "Junjo Romantica - Season 3 - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
       "handle": "24a160-junjo-romantica-3-season-vol-1-mit-sammelschuber-limited-edition-bluray",
       "published_at": "2025-05-28T16:27:41+02:00",
       "created_at": "2025-05-28T15:57:08+02:00",
@@ -80933,7 +80934,7 @@
     },
     {
       "id": 10261453701384,
-      "title": "Junjo Romantica  - 3. Season - Vol. 2 (Blu-ray)",
+      "title": "Junjo Romantica - Season 3 - Vol. 2 (Blu-ray)",
       "handle": "24a161-junjo-romantica-3-season-vol-2-bluray",
       "published_at": "2025-05-28T16:27:41+02:00",
       "created_at": "2025-05-28T15:57:10+02:00",
@@ -81414,7 +81415,7 @@
     },
     {
       "id": 10261474115848,
-      "title": "Chainsaw Man - Staffel 1 - Steelbook & Vinyl - Collectors Edition (Blu-ray)",
+      "title": "Chainsaw Man - Season 1 - Steelbook & Vinyl - Collector's Edition (Blu-ray)",
       "handle": "24a170-chainsaw-man-staffel-1-steelbook-vinyl-collectors-edition-bluray",
       "published_at": "2025-05-28T16:27:19+02:00",
       "created_at": "2025-05-28T16:00:58+02:00",
@@ -81481,7 +81482,7 @@
     },
     {
       "id": 10261474148616,
-      "title": "Chainsaw Man - Staffel 1 - Steelbook & Vinyl - Collectors Edition (DVD)",
+      "title": "Chainsaw Man - Season 1 - Steelbook & Vinyl - Collector's Edition (DVD)",
       "handle": "24a171-chainsaw-man-staffel-1-steelbook-vinyl-collectors-edition-dvd",
       "published_at": "2025-05-28T16:27:19+02:00",
       "created_at": "2025-05-28T16:01:00+02:00",
@@ -82204,7 +82205,7 @@
     },
     {
       "id": 10261475033352,
-      "title": "Dr. Stone - Staffel 2 - Gesamtausgabe (DVD)",
+      "title": "Dr. Stone - Season 2 - Gesamtausgabe (DVD)",
       "handle": "24a183-dr-stone-staffel-2-gesamtausgabe-dvd",
       "published_at": "2025-05-28T16:27:15+02:00",
       "created_at": "2025-05-28T16:01:23+02:00",
@@ -82260,7 +82261,7 @@
     },
     {
       "id": 10261475066120,
-      "title": "Dr. Stone - Staffel 2 - Gesamtausgabe (Blu-ray)",
+      "title": "Dr. Stone - Season 2 - Gesamtausgabe (Blu-ray)",
       "handle": "24a184-dr-stone-staffel-2-gesamtausgabe-bluray",
       "published_at": "2025-05-28T16:27:15+02:00",
       "created_at": "2025-05-28T16:01:25+02:00",
@@ -82317,7 +82318,7 @@
     },
     {
       "id": 10261475164424,
-      "title": "Pandora Hearts - Gesamtausgabe - Bundle Vol. 1-2 (Blu-ray)",
+      "title": "Pandora Hearts - Gesamtausgabe - Bundle mit Vol. 1-2 (Blu-ray)",
       "handle": "24a187-pandora-hearts-gesamtausgabe-bundle-vol-1-2-bluray",
       "published_at": "2025-05-28T16:27:15+02:00",
       "created_at": "2025-05-28T16:01:27+02:00",
@@ -82372,7 +82373,7 @@
     },
     {
       "id": 10261475197192,
-      "title": "Pandora Hearts - Gesamtausgabe - Bundle Vol. 1-2 (DVD)",
+      "title": "Pandora Hearts - Gesamtausgabe - Bundle mit Vol. 1-2 (DVD)",
       "handle": "24a188-pandora-hearts-gesamtausgabe-bundle-vol-1-2-dvd",
       "published_at": "2025-05-28T16:27:14+02:00",
       "created_at": "2025-05-28T16:01:28+02:00",
@@ -82814,7 +82815,7 @@
     },
     {
       "id": 10261475688712,
-      "title": "Attack on Titan Final Season - 4. Staffel - Vol. 1 (Blu-ray)",
+      "title": "Attack on Titan: Final Season - Season 4 - Vol. 1 (Blu-ray)",
       "handle": "24a206-attack-on-titan-final-season-4-staffel-vol-1-bluray",
       "published_at": "2025-05-28T16:27:12+02:00",
       "created_at": "2025-05-28T16:01:42+02:00",
@@ -82881,7 +82882,7 @@
     },
     {
       "id": 10261475721480,
-      "title": "Mushoku Tensei: Jobless Reincarnation - Staffel 1 - Vol. 4 (Blu-ray)",
+      "title": "Mushoku Tensei: Jobless Reincarnation - Season 1 - Vol. 4 (Blu-ray)",
       "handle": "24a207-mushoku-tensei-jobless-reincarnation-staffel-1-vol-4-bluray",
       "published_at": "2025-05-28T16:27:12+02:00",
       "created_at": "2025-05-28T16:01:44+02:00",
@@ -82947,7 +82948,7 @@
     },
     {
       "id": 10261475787016,
-      "title": "Mushoku Tensei: Jobless Reincarnation - Staffel 1 - Vol. 4 (DVD)",
+      "title": "Mushoku Tensei: Jobless Reincarnation - Season 1 - Vol. 4 (DVD)",
       "handle": "24a208-mushoku-tensei-jobless-reincarnation-staffel-1-vol-4-dvd",
       "published_at": "2025-05-28T16:27:12+02:00",
       "created_at": "2025-05-28T16:01:45+02:00",
@@ -83010,7 +83011,7 @@
     },
     {
       "id": 10261475852552,
-      "title": "My Hero Academia - Staffel 4 - Gesamtausgabe (Blu-ray)",
+      "title": "My Hero Academia - Season 4 - Gesamtausgabe (Blu-ray)",
       "handle": "24a209-my-hero-academia-staffel-4-gesamtausgabe-bluray",
       "published_at": "2025-05-28T16:27:11+02:00",
       "created_at": "2025-05-28T16:01:47+02:00",
@@ -83066,7 +83067,7 @@
     },
     {
       "id": 10261475950856,
-      "title": "Psycho-Pass - Staffel 3 - Gesamtausgabe (Blu-ray)",
+      "title": "Psycho-Pass - Season 3 - Gesamtausgabe (Blu-ray)",
       "handle": "24a210-psycho-pass-staffel-3-gesamtausgabe-bluray",
       "published_at": "2025-05-28T16:27:11+02:00",
       "created_at": "2025-05-28T16:01:49+02:00",
@@ -83122,7 +83123,7 @@
     },
     {
       "id": 10261475983624,
-      "title": "Psycho-Pass - Staffel 3 - Gesamtausgabe (DVD)",
+      "title": "Psycho-Pass - Season 3 - Gesamtausgabe (DVD)",
       "handle": "24a211-psycho-pass-staffel-3-gesamtausgabe-dvd",
       "published_at": "2025-05-28T16:27:11+02:00",
       "created_at": "2025-05-28T16:01:51+02:00",
@@ -83175,7 +83176,7 @@
     },
     {
       "id": 10261476114696,
-      "title": "Rent-a-Girlfriend - Staffel 3 - Vol. 1 mit Sammelschuber (Blu-ray)",
+      "title": "Rent-a-Girlfriend - Season 3 - Vol. 1 mit Sammelschuber (Blu-ray)",
       "handle": "24a212-rent-a-girlfriend-staffel-3-vol-1-mit-sammelschuber-bluray",
       "published_at": "2025-05-28T16:27:10+02:00",
       "created_at": "2025-05-28T16:01:53+02:00",
@@ -83252,7 +83253,7 @@
     },
     {
       "id": 10261476147464,
-      "title": "Rent-a-Girlfriend - Staffel 3 - Vol. 1  mit Sammelschuber (DVD)",
+      "title": "Rent-a-Girlfriend - Season 3 - Vol. 1 mit Sammelschuber (DVD)",
       "handle": "24a213-rent-a-girlfriend-staffel-3-vol-1-mit-sammelschuber-dvd",
       "published_at": "2025-05-28T16:27:10+02:00",
       "created_at": "2025-05-28T16:01:54+02:00",
@@ -83753,7 +83754,7 @@
     },
     {
       "id": 10261476638984,
-      "title": "Jujutsu Kaisen - Hidden Inventory/Premature Death - Staffel 2 - Vol. 1 mit Sammelschuber (Blu-ray)",
+      "title": "Jujutsu Kaisen - Hidden Inventory/Premature Death - Season 2 - Vol. 1 mit Sammelschuber (Blu-ray)",
       "handle": "24a222-jujutsu-kaisen-hidden-inventory-premature-death-staffel-2-vol-1-mit-sammelschuber-bluray",
       "published_at": "2025-05-28T16:27:08+02:00",
       "created_at": "2025-05-28T16:02:09+02:00",
@@ -83830,7 +83831,7 @@
     },
     {
       "id": 10261476704520,
-      "title": "Jujutsu Kaisen - Hidden Inventory/Premature Death - Staffel 2 - Vol. 1 mit Sammelschuber (DVD)",
+      "title": "Jujutsu Kaisen - Hidden Inventory/Premature Death - Season 2 - Vol. 1 mit Sammelschuber (DVD)",
       "handle": "24a223-jujutsu-kaisen-hidden-inventory-premature-death-staffel-2-vol-1-mit-sammelschuber-dvd",
       "published_at": "2026-07-02T23:48:20+02:00",
       "created_at": "2025-05-28T16:02:11+02:00",
@@ -83907,7 +83908,7 @@
     },
     {
       "id": 10261476737288,
-      "title": "Mashle: Magic and Muscles - Staffel 1 - Part 1 mit Sammelschuber (Blu-ray)",
+      "title": "Mashle: Magic and Muscles - Season 1 - Part 1 mit Sammelschuber (Blu-ray)",
       "handle": "24a224-mashle-magic-and-muscles-staffel-1-part-1-mit-sammelschuber-bluray",
       "published_at": "2025-05-28T16:27:07+02:00",
       "created_at": "2025-05-28T16:02:13+02:00",
@@ -83984,7 +83985,7 @@
     },
     {
       "id": 10261476802824,
-      "title": "Mashle: Magic and Muscles - Staffel 1 - Part 1 mit Sammelschuber (DVD)",
+      "title": "Mashle: Magic and Muscles - Season 1 - Part 1 mit Sammelschuber (DVD)",
       "handle": "24a225-mashle-magic-and-muscles-staffel-1-part-1-mit-sammelschuber-dvd",
       "published_at": "2025-05-28T16:27:07+02:00",
       "created_at": "2025-05-28T16:02:14+02:00",
@@ -84359,7 +84360,7 @@
     },
     {
       "id": 10261477097736,
-      "title": "Rent-a-Girlfriend - Staffel 1 - Gesamtausgabe (Blu-ray)",
+      "title": "Rent-a-Girlfriend - Season 1 - Gesamtausgabe (Blu-ray)",
       "handle": "24a230-rent-a-girlfriend-staffel-1-gesamtausgabe-bluray",
       "published_at": "2025-05-28T16:27:06+02:00",
       "created_at": "2025-05-28T16:02:23+02:00",
@@ -84415,7 +84416,7 @@
     },
     {
       "id": 10261477163272,
-      "title": "Rent-a-Girlfriend - Staffel 1 - Gesamtausgabe (DVD)",
+      "title": "Rent-a-Girlfriend - Season 1 - Gesamtausgabe (DVD)",
       "handle": "24a231-rent-a-girlfriend-staffel-1-gesamtausgabe-dvd",
       "published_at": "2025-05-28T16:27:06+02:00",
       "created_at": "2025-05-28T16:02:25+02:00",
@@ -84861,7 +84862,7 @@
     },
     {
       "id": 10261477622024,
-      "title": "Attack on Titan - Staffel 2 - Gesamtausgabe - Limited Edition im Steelbook (Blu-ray)",
+      "title": "Attack on Titan - Season 2 - Gesamtausgabe - Limited Edition mit Steelbook (Blu-ray)",
       "handle": "24a239-attack-on-titan-staffel-2-gesamtausgabe-limited-edition-im-steelbook-bluray",
       "published_at": "2025-05-28T16:27:03+02:00",
       "created_at": "2025-05-28T16:02:40+02:00",
@@ -84938,7 +84939,7 @@
     },
     {
       "id": 10261477654792,
-      "title": "Attack on Titan - Staffel 2 - Gesamtausgabe - Limited Edition im Steelbook (DVD)",
+      "title": "Attack on Titan - Season 2 - Gesamtausgabe - Limited Edition mit Steelbook (DVD)",
       "handle": "24a240-attack-on-titan-staffel-2-gesamtausgabe-limited-edition-im-steelbook-dvd",
       "published_at": "2025-05-28T16:27:03+02:00",
       "created_at": "2025-05-28T16:02:42+02:00",
@@ -85015,7 +85016,7 @@
     },
     {
       "id": 10261477720328,
-      "title": "Attack on Titan - Staffel 3 - Gesamtausgabe - Steelbook (Blu-ray) - Limited Edition",
+      "title": "Attack on Titan - Season 3 - Gesamtausgabe - Limited Edition mit Steelbook (Blu-ray)",
       "handle": "24a241-attack-on-titan-staffel-3-gesamtausgabe-steelbook-bluraylimited-edition",
       "published_at": "2025-05-28T16:27:03+02:00",
       "created_at": "2025-05-28T16:02:43+02:00",
@@ -85092,7 +85093,7 @@
     },
     {
       "id": 10261477785864,
-      "title": "Attack on Titan - Staffel 3 - Gesamtausgabe - Steelbook (DVD) - Limited Edition",
+      "title": "Attack on Titan - Season 3 - Gesamtausgabe - Limited Edition mit Steelbook (DVD)",
       "handle": "24a242-attack-on-titan-staffel-3-gesamtausgabe-steelbook-dvdlimited-edition",
       "published_at": "2025-05-28T16:27:02+02:00",
       "created_at": "2025-05-28T16:02:46+02:00",
@@ -85169,7 +85170,7 @@
     },
     {
       "id": 10261477851400,
-      "title": "Frieren: Beyond Journey’s End - Frieren: Nach dem Ende der Reise - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
+      "title": "Frieren: Beyond Journey's End - Nach dem Ende der Reise - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
       "handle": "24a243-frieren-beyond-journey-s-end-frieren-nach-dem-ende-der-reise-vol-1-limited-edition-mit-sammelschuber-bluray",
       "published_at": "2025-05-28T16:27:02+02:00",
       "created_at": "2025-05-28T16:02:47+02:00",
@@ -85246,7 +85247,7 @@
     },
     {
       "id": 10261477884168,
-      "title": "Frieren: Beyond Journey’s End - Frieren: Nach dem Ende der Reise - Vol. 1 - Limited Edition mit Sammelschuber (DVD)",
+      "title": "Frieren: Beyond Journey's End - Nach dem Ende der Reise - Vol. 1 - Limited Edition mit Sammelschuber (DVD)",
       "handle": "24a244-frieren-beyond-journey-s-end-frieren-nach-dem-ende-der-reise-vol-1-limited-edition-mit-sammelschuber-dvd",
       "published_at": "2025-05-28T16:27:02+02:00",
       "created_at": "2025-05-28T16:02:49+02:00",
@@ -85323,7 +85324,7 @@
     },
     {
       "id": 10261477916936,
-      "title": "Mushoku Tensei: Jobless Reincarnation - Staffel 2 - Vol. 1 (Blu-ray) - mit Sammelschuber",
+      "title": "Mushoku Tensei: Jobless Reincarnation - Season 2 - Vol. 1 mit Sammelschuber (Blu-ray)",
       "handle": "24a251-mushoku-tensei-jobless-reincarnation-staffel-2-vol-1-bluraymit-sammelschuber",
       "published_at": "2025-05-28T16:27:01+02:00",
       "created_at": "2025-05-28T16:02:51+02:00",
@@ -85409,7 +85410,7 @@
     },
     {
       "id": 10261478048008,
-      "title": "Mushoku Tensei: Jobless Reincarnation - Staffel 2 - Vol. 1 (DVD) - mit Sammelschuber",
+      "title": "Mushoku Tensei: Jobless Reincarnation - Season 2 - Vol. 1 mit Sammelschuber (DVD)",
       "handle": "24a252-mushoku-tensei-jobless-reincarnation-staffel-2-vol-1-dvdmit-sammelschuber",
       "published_at": "2025-05-28T16:27:01+02:00",
       "created_at": "2025-05-28T16:02:52+02:00",
@@ -85714,7 +85715,7 @@
     },
     {
       "id": 10261478277384,
-      "title": "Rent-a-Girlfriend - Staffel 3 - Vol. 2 (Blu-ray)",
+      "title": "Rent-a-Girlfriend - Season 3 - Vol. 2 (Blu-ray)",
       "handle": "24a256-rent-a-girlfriend-staffel-3-vol-2-bluray",
       "published_at": "2025-05-28T16:27:00+02:00",
       "created_at": "2025-05-28T16:03:00+02:00",
@@ -85780,7 +85781,7 @@
     },
     {
       "id": 10261478375688,
-      "title": "Rent-a-Girlfriend - Staffel 3 - Vol. 2 (DVD)",
+      "title": "Rent-a-Girlfriend - Season 3 - Vol. 2 (DVD)",
       "handle": "24a257-rent-a-girlfriend-staffel-3-vol-2-dvd",
       "published_at": "2025-05-28T16:27:00+02:00",
       "created_at": "2025-05-28T16:03:01+02:00",
@@ -86131,7 +86132,7 @@
     },
     {
       "id": 10261478703368,
-      "title": "Mashle: Magic and Muscles - Staffel 1 - Part 2 (Blu-ray)",
+      "title": "Mashle: Magic and Muscles - Season 1 - Part 2 (Blu-ray)",
       "handle": "24a262-mashle-magic-and-muscles-staffel-1-part-2-bluray",
       "published_at": "2025-05-28T16:26:58+02:00",
       "created_at": "2025-05-28T16:03:10+02:00",
@@ -86197,7 +86198,7 @@
     },
     {
       "id": 10261478834440,
-      "title": "Mashle: Magic and Muscles - Staffel 1 - Part 2 (DVD)",
+      "title": "Mashle: Magic and Muscles - Season 1 - Part 2 (DVD)",
       "handle": "24a263-mashle-magic-and-muscles-staffel-1-part-2-dvd",
       "published_at": "2025-05-28T16:26:58+02:00",
       "created_at": "2025-05-28T16:03:12+02:00",
@@ -90412,7 +90413,7 @@
     },
     {
       "id": 10261493055752,
-      "title": "Food Wars! The Fifth Plate - Staffel 5 - Gesamtausgabe (Blu-ray)",
+      "title": "Food Wars! The Fifth Plate - Season 5 - Gesamtausgabe (Blu-ray)",
       "handle": "24a347-food-wars-the-fifth-plate-staffel-5-gesamtausgabe-bluray",
       "published_at": "2025-05-28T16:26:31+02:00",
       "created_at": "2025-05-28T16:10:53+02:00",
@@ -90468,7 +90469,7 @@
     },
     {
       "id": 10261493154056,
-      "title": "Food Wars! The Fifth Plate - Staffel 5 - Gesamtausgabe (DVD)",
+      "title": "Food Wars! The Fifth Plate - Season 5 - Gesamtausgabe (DVD)",
       "handle": "24a348-food-wars-the-fifth-plate-staffel-5-gesamtausgabe-dvd",
       "published_at": "2025-05-28T16:26:30+02:00",
       "created_at": "2025-05-28T16:10:55+02:00",
@@ -91947,7 +91948,7 @@
     },
     {
       "id": 10261508915464,
-      "title": "Dr. Stone - Staffel 3 - Part 2 (Blu-ray)",
+      "title": "Dr. Stone - Season 3 - Part 2 (Blu-ray)",
       "handle": "24a373-dr-stone-staffel-3-part-2-bluray",
       "published_at": "2025-05-28T16:26:09+02:00",
       "created_at": "2025-05-28T16:16:08+02:00",
@@ -92024,7 +92025,7 @@
     },
     {
       "id": 10261509046536,
-      "title": "Dr. Stone - Staffel 3 - Part 2 (DVD)",
+      "title": "Dr. Stone - Season 3 - Part 2 (DVD)",
       "handle": "24a374-dr-stone-staffel-3-part-2-dvd",
       "published_at": "2025-05-28T16:26:09+02:00",
       "created_at": "2025-05-28T16:16:09+02:00",
@@ -92249,7 +92250,7 @@
     },
     {
       "id": 10261509308680,
-      "title": "Meine Wiedergeburt als Schleim - Staffel 1 - Gesamtausgabe (Blu-ray)",
+      "title": "Meine Wiedergeburt als Schleim in einer anderen Welt - Season 1 - Gesamtausgabe (Blu-ray)",
       "handle": "24a377-meine-wiedergeburt-als-schleim-gesamtausgabe-bluray",
       "published_at": "2025-05-28T16:26:08+02:00",
       "created_at": "2025-05-28T16:16:16+02:00",
@@ -92305,7 +92306,7 @@
     },
     {
       "id": 10261509374216,
-      "title": "Psycho-Pass - Staffel 2 - Gesamtausgabe (Blu-ray)",
+      "title": "Psycho-Pass - Season 2 - Gesamtausgabe (Blu-ray)",
       "handle": "24a378-psycho-pass-staffel-2-gesamtausgabe-bluray",
       "published_at": "2025-05-28T16:26:08+02:00",
       "created_at": "2025-05-28T16:16:17+02:00",
@@ -93004,7 +93005,7 @@
     },
     {
       "id": 10261514944776,
-      "title": "Attack on Titan Final Season - 4. Staffel - The Final Chapters (Blu-ray)",
+      "title": "Attack on Titan: Final Season - Season 4 - The Final Chapters (Blu-ray)",
       "handle": "24a391-attack-on-titan-final-season-4-staffel-the-final-chapters-bluray",
       "published_at": "2025-05-28T16:25:58+02:00",
       "created_at": "2025-05-28T16:17:37+02:00",
@@ -93081,7 +93082,7 @@
     },
     {
       "id": 10261515075848,
-      "title": "Attack on Titan Final Season - 4. Staffel - The Final Chapters (DVD)",
+      "title": "Attack on Titan: Final Season - Season 4 - The Final Chapters (DVD)",
       "handle": "24a392-attack-on-titan-final-season-4-staffel-the-final-chapters-dvd",
       "published_at": "2025-05-28T16:25:57+02:00",
       "created_at": "2025-05-28T16:17:39+02:00",
@@ -93307,7 +93308,7 @@
     },
     {
       "id": 10261515501832,
-      "title": "Jujutsu Kaisen - Shibuya Incident - Staffel 2 - Vol. 2 (Blu-ray)",
+      "title": "Jujutsu Kaisen - Shibuya Incident - Season 2 - Vol. 2 (Blu-ray)",
       "handle": "24a395-jujutsu-kaisen-shibuya-incident-staffel-2-vol-2-bluray",
       "published_at": "2025-05-28T16:25:56+02:00",
       "created_at": "2025-05-28T16:17:45+02:00",
@@ -93383,7 +93384,7 @@
     },
     {
       "id": 10261515665672,
-      "title": "Jujutsu Kaisen - Shibuya Incident - Staffel 2 - Vol. 2 (DVD)",
+      "title": "Jujutsu Kaisen - Shibuya Incident - Season 2 - Vol. 2 (DVD)",
       "handle": "24a396-jujutsu-kaisen-shibuya-incident-staffel-2-vol-2-dvd",
       "published_at": "2026-07-02T22:47:23+02:00",
       "created_at": "2025-05-28T16:17:46+02:00",
@@ -93456,7 +93457,7 @@
     },
     {
       "id": 10261515731208,
-      "title": "Mushoku Tensei: Jobless Reincarnation - Staffel 2 - Vol. 2 (Blu-ray)",
+      "title": "Mushoku Tensei: Jobless Reincarnation - Season 2 - Vol. 2 (Blu-ray)",
       "handle": "24a397-mushoku-tensei-jobless-reincarnation-staffel-2-vol-2-bluray",
       "published_at": "2025-05-28T16:25:55+02:00",
       "created_at": "2025-05-28T16:17:48+02:00",
@@ -93512,7 +93513,7 @@
     },
     {
       "id": 10261515829512,
-      "title": "Mushoku Tensei: Jobless Reincarnation - Staffel 2 - Vol. 2 (DVD)",
+      "title": "Mushoku Tensei: Jobless Reincarnation - Season 2 - Vol. 2 (DVD)",
       "handle": "24a398-mushoku-tensei-jobless-reincarnation-staffel-2-vol-2-dvd",
       "published_at": "2025-05-28T16:25:55+02:00",
       "created_at": "2025-05-28T16:17:50+02:00",
@@ -93714,7 +93715,7 @@
     },
     {
       "id": 10261516288264,
-      "title": "Re:ZERO Start Life Another World - Staffel 1 - Gesamtausgabe - Bundle mit Vol. 1-5 (Blu-ray)",
+      "title": "Re:ZERO - Starting Life in Another World - Season 1 - Gesamtausgabe - Bundle mit Vol. 1-5 (Blu-ray)",
       "handle": "24a401-re-zero-start-life-another-world-staffel-1-gesamtausgabe-bundle-mit-vol-1-5-bluray",
       "published_at": "2025-05-28T16:25:54+02:00",
       "created_at": "2025-05-28T16:17:56+02:00",
@@ -93771,7 +93772,7 @@
     },
     {
       "id": 10261516452104,
-      "title": "Ron Kamonohashi's Forbidden Deductions - Meisterdetektiv Ron Kamonohashi - Staffel 1 - Part 1 mit Sammelschuber (Blu-ray)",
+      "title": "Ron Kamonohashi's Forbidden Deductions - Meisterdetektiv Ron Kamonohashi - Season 1 - Part 1 mit Sammelschuber (Blu-ray)",
       "handle": "24a402-ron-kamonohashi-s-forbidden-deductions-meisterdetektiv-ron-kamonohashi-staffel-1-part-1-mit-sammelschuber-bluray",
       "published_at": "2025-05-28T16:25:53+02:00",
       "created_at": "2025-05-28T16:17:58+02:00",
@@ -93848,7 +93849,7 @@
     },
     {
       "id": 10261516550408,
-      "title": "Ron Kamonohashi's Forbidden Deductions - Meisterdetektiv Ron Kamonohashi - Staffel 1 - Part 1 mit Sammelschuber (DVD)",
+      "title": "Ron Kamonohashi's Forbidden Deductions - Meisterdetektiv Ron Kamonohashi - Season 1 - Part 1 mit Sammelschuber (DVD)",
       "handle": "24a403-ron-kamonohashi-s-forbidden-deductions-meisterdetektiv-ron-kamonohashi-staffel-1-part-1-mit-sammelschuber-dvd",
       "published_at": "2025-05-28T16:25:53+02:00",
       "created_at": "2025-05-28T16:18:00+02:00",
@@ -106192,7 +106193,7 @@
     },
     {
       "id": 10261510586632,
-      "title": "Jujutsu Kaisen - Fushiguro - Acrylaufsteller (12cm)",
+      "title": "Jujutsu Kaisen - Acrylaufsteller (12cm) - Megumi Fushiguro",
       "handle": "24m069-jujutsu-kaisen-fushiguro-acrylaufsteller-12cm",
       "published_at": "2025-05-28T16:26:05+02:00",
       "created_at": "2025-05-28T16:16:36+02:00",
@@ -106247,7 +106248,7 @@
     },
     {
       "id": 10261510848776,
-      "title": "Jujutsu Kaisen - Itadori - Acrylaufsteller (12cm)",
+      "title": "Jujutsu Kaisen - Acrylaufsteller (12cm) - Yuji Itadori",
       "handle": "24m070-jujutsu-kaisen-itadori-acrylaufsteller-12cm",
       "published_at": "2025-05-28T16:26:05+02:00",
       "created_at": "2025-05-28T16:16:38+02:00",
@@ -106302,7 +106303,7 @@
     },
     {
       "id": 10261510914312,
-      "title": "Jujutsu Kaisen - Kugisaki - Acrylaufsteller (12cm)",
+      "title": "Jujutsu Kaisen - Acrylaufsteller (12cm) - Nobara Kugisaki",
       "handle": "24m071-jujutsu-kaisen-kugisaki-acrylaufsteller-12cm",
       "published_at": "2025-05-28T16:26:05+02:00",
       "created_at": "2025-05-28T16:16:40+02:00",
@@ -110818,7 +110819,7 @@
     },
     {
       "id": 10261534048520,
-      "title": "Jujutsu Kaisen - Shibuya Incident - Staffel 2 - Vol. 3 (Blu-ray)",
+      "title": "Jujutsu Kaisen - Shibuya Incident - Season 2 - Vol. 3 (Blu-ray)",
       "handle": "25cr009-jujutsu-kaisen-shibuya-incident-staffel-2-vol-3-bluray",
       "published_at": "2025-05-28T16:25:22+02:00",
       "created_at": "2025-05-28T16:23:52+02:00",
@@ -110894,7 +110895,7 @@
     },
     {
       "id": 10261534212360,
-      "title": "Jujutsu Kaisen - Shibuya Incident - Staffel 2 - Vol. 3 (DVD)",
+      "title": "Jujutsu Kaisen - Shibuya Incident - Season 2 - Vol. 3 (DVD)",
       "handle": "25cr010-jujutsu-kaisen-shibuya-incident-staffel-2-vol-3-dvd",
       "published_at": "2026-07-02T21:58:40+02:00",
       "created_at": "2025-05-28T16:23:55+02:00",
@@ -110967,7 +110968,7 @@
     },
     {
       "id": 10261534310664,
-      "title": "ONE-PUNCH MAN - Staffel 2 - Gesamtausgabe (Blu-ray)",
+      "title": "One-Punch Man - Season 2 - Gesamtausgabe (Blu-ray)",
       "handle": "25cr011-one-punch-man-staffel-2-gesamtausgabe-bluray",
       "published_at": "2025-05-28T16:25:21+02:00",
       "created_at": "2025-05-28T16:23:57+02:00",
@@ -111273,7 +111274,7 @@
     },
     {
       "id": 10261534802184,
-      "title": "Horimiya - Staffel 1 - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
+      "title": "Horimiya - Season 1 - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
       "handle": "25cr015-horimiya-staffel-1-vol-1-limited-edition-mit-sammelschuber-bluray",
       "published_at": "2025-05-28T16:25:20+02:00",
       "created_at": "2025-05-28T16:24:05+02:00",
@@ -111332,7 +111333,7 @@
     },
     {
       "id": 10261534867720,
-      "title": "Horimiya - Staffel 1 - Vol. 1 - Limited Edition mit Sammelschuber (DVD)",
+      "title": "Horimiya - Season 1 - Vol. 1 - Limited Edition mit Sammelschuber (DVD)",
       "handle": "25cr016-horimiya-staffel-1-vol-1-limited-edition-mit-sammelschuber-dvd",
       "published_at": "2025-05-28T16:25:20+02:00",
       "created_at": "2025-05-28T16:24:07+02:00",
@@ -111389,7 +111390,7 @@
     },
     {
       "id": 10261534966024,
-      "title": "Mashle: Magic and Muscles - The Divine Visionary Candidate Exam - Staffel 2 - Part 1 mit Sammelschuber (Blu-ray)",
+      "title": "Mashle: Magic and Muscles - The Divine Visionary Candidate Exam - Season 2 - Part 1 mit Sammelschuber (Blu-ray)",
       "handle": "25cr017-mashle-magic-and-muscles-the-divine-visionary-candidate-exam-staffel-2-part-1-mit-sammelschuber-bluray",
       "published_at": "2025-05-28T16:25:20+02:00",
       "created_at": "2025-05-28T16:24:08+02:00",
@@ -111466,7 +111467,7 @@
     },
     {
       "id": 10261535162632,
-      "title": "Mashle: Magic and Muscles - The Divine Visionary Candidate Exam - Staffel 2 - Part 1 mit Sammelschuber (DVD)",
+      "title": "Mashle: Magic and Muscles - The Divine Visionary Candidate Exam - Season 2 - Part 1 mit Sammelschuber (DVD)",
       "handle": "25cr018-mashle-magic-and-muscles-the-divine-visionary-candidate-exam-staffel-2-part-1-mit-sammelschuber-dvd",
       "published_at": "2025-05-28T16:25:19+02:00",
       "created_at": "2025-05-28T16:24:10+02:00",
@@ -112014,7 +112015,7 @@
     },
     {
       "id": 10261536014600,
-      "title": "Black Clover - Staffel 4 - Box 1 (Blu-ray)",
+      "title": "Black Clover - Season 4 - Box 1 (Blu-ray)",
       "handle": "25cr025-black-clover-staffel-4-box-1-bluray",
       "published_at": "2025-05-28T16:25:18+02:00",
       "created_at": "2025-05-28T16:24:23+02:00",
@@ -112392,7 +112393,7 @@
     },
     {
       "id": 10261536637192,
-      "title": "Jujutsu Kaisen - Shibuya Incident - Staffel 2 - Vol. 4 (Blu-ray)",
+      "title": "Jujutsu Kaisen - Shibuya Incident - Season 2 - Vol. 4 (Blu-ray)",
       "handle": "25cr030-jujutsu-kaisen-shibuya-incident-staffel-2-vol-4-bluray",
       "published_at": "2025-05-28T16:25:16+02:00",
       "created_at": "2025-05-28T16:24:33+02:00",
@@ -112468,7 +112469,7 @@
     },
     {
       "id": 10261536833800,
-      "title": "Jujutsu Kaisen - Shibuya Incident - Staffel 2 - Vol. 4 (DVD)",
+      "title": "Jujutsu Kaisen - Shibuya Incident - Season 2 - Vol. 4 (DVD)",
       "handle": "25cr031-jujutsu-kaisen-shibuya-incident-staffel-2-vol-4-dvd",
       "published_at": "2026-07-02T21:33:26+02:00",
       "created_at": "2025-05-28T16:24:34+02:00",
@@ -112693,7 +112694,7 @@
     },
     {
       "id": 10261537390856,
-      "title": "Blue Exorcist: Shimane Illuminati Saga - Staffel 3 - Part 1 - Vol. 1 mit Sammelschuber (Blu-ray)",
+      "title": "Blue Exorcist: Shimane Illuminati Saga - Season 3 - Part 1 - Vol. 1 mit Sammelschuber (Blu-ray)",
       "handle": "25cr034-blue-exorcist-shimane-illuminati-saga-staffel-3-vol-1-mit-sammelschuber-bluray",
       "published_at": "2025-05-28T16:25:15+02:00",
       "created_at": "2025-05-28T16:24:39+02:00",
@@ -112779,7 +112780,7 @@
     },
     {
       "id": 10261537489160,
-      "title": "Blue Exorcist: Shimane Illuminati Saga - Staffel 3 - Part 1 - Vol. 1 mit Sammelschuber (DVD)",
+      "title": "Blue Exorcist: Shimane Illuminati Saga - Season 3 - Part 1 - Vol. 1 mit Sammelschuber (DVD)",
       "handle": "25cr035-blue-exorcist-shimane-illuminati-saga-staffel-3-vol-1-mit-sammelschuber-dvd",
       "published_at": "2025-05-28T16:25:15+02:00",
       "created_at": "2025-05-28T16:24:42+02:00",
@@ -113293,7 +113294,7 @@
     },
     {
       "id": 10261538210056,
-      "title": "Black Butler: Public School Arc - Staffel 4 - Vol. 1 mit Sammelschuber (Blu-ray)",
+      "title": "Black Butler: Public School Arc - Season 4 - Vol. 1 mit Sammelschuber (Blu-ray)",
       "handle": "25cr042-black-butler-public-school-arc-staffel-4-vol-1-mit-sammelschuber-bluray",
       "published_at": "2025-05-28T16:25:13+02:00",
       "created_at": "2025-05-28T16:24:54+02:00",
@@ -113381,7 +113382,7 @@
     },
     {
       "id": 10261538341128,
-      "title": "Black Butler: Public School Arc - Staffel 4 - Vol. 1 mit Sammelschuber (DVD)",
+      "title": "Black Butler: Public School Arc - Season 4 - Vol. 1 mit Sammelschuber (DVD)",
       "handle": "25cr043-black-butler-public-school-arc-staffel-4-vol-1-mit-sammelschuber-dvd",
       "published_at": "2025-05-28T16:25:13+02:00",
       "created_at": "2025-05-28T16:24:55+02:00",
@@ -113617,7 +113618,7 @@
     },
     {
       "id": 10261538668808,
-      "title": "Horimiya - Staffel 1 - Vol. 2 (Blu-ray)",
+      "title": "Horimiya - Season 1 - Vol. 2 (Blu-ray)",
       "handle": "25cr046-horimiya-staffel-1-vol-2-bluray",
       "published_at": "2025-05-28T16:25:12+02:00",
       "created_at": "2025-05-28T16:25:01+02:00",
@@ -113915,7 +113916,7 @@
     },
     {
       "id": 10261539062024,
-      "title": "Log Horizon - Staffel 1 - Vol. 1 (Blu-ray)",
+      "title": "Log Horizon - Season 1 - Vol. 1 (Blu-ray)",
       "handle": "25cr050-log-horizon-staffel-1-vol-1-bluray",
       "published_at": "2025-05-28T16:25:11+02:00",
       "created_at": "2025-05-28T16:25:09+02:00",
@@ -113989,7 +113990,7 @@
     },
     {
       "id": 10261539193096,
-      "title": "Mushoku Tensei: Jobless Reincarnation - Staffel 2 - Vol. 3 (Blu-ray)",
+      "title": "Mushoku Tensei: Jobless Reincarnation - Season 2 - Vol. 3 (Blu-ray)",
       "handle": "25cr051-mushoku-tensei-jobless-reincarnation-staffel-2-vol-3-bluray",
       "published_at": "2025-05-28T16:39:54+02:00",
       "created_at": "2025-05-28T16:25:10+02:00",
@@ -114062,7 +114063,7 @@
     },
     {
       "id": 10261539291400,
-      "title": "Mushoku Tensei: Jobless Reincarnation - Staffel 2 - Vol. 3 (DVD)",
+      "title": "Mushoku Tensei: Jobless Reincarnation - Season 2 - Vol. 3 (DVD)",
       "handle": "25cr052-mushoku-tensei-jobless-reincarnation-staffel-2-vol-3-dvd",
       "published_at": "2025-05-28T16:39:53+02:00",
       "created_at": "2025-05-28T16:25:12+02:00",
@@ -114287,7 +114288,7 @@
     },
     {
       "id": 10261539651848,
-      "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World - Staffel 1 - Vol. 1 (Blu-ray)",
+      "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World - Season 1 - Vol. 1 (Blu-ray)",
       "handle": "25cr055-as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill-to-rise-in-the-world-staffel-1-vol-1-bluray",
       "published_at": "2025-05-28T16:39:52+02:00",
       "created_at": "2025-05-28T16:25:18+02:00",
@@ -114363,7 +114364,7 @@
     },
     {
       "id": 10261539717384,
-      "title": "Log Horizon - Staffel 1 - Vol. 2 (Blu-ray)",
+      "title": "Log Horizon - Season 1 - Vol. 2 (Blu-ray)",
       "handle": "25cr056-log-horizon-staffel-1-vol-2-bluray",
       "published_at": "2025-05-28T16:39:52+02:00",
       "created_at": "2025-05-28T16:25:19+02:00",
@@ -114662,7 +114663,7 @@
     },
     {
       "id": 10261540241672,
-      "title": "Ron Kamonohashi’s Forbidden Deductions - Meisterdetektiv Ron Kamonohashi - Staffel 1 - Vol. 2 (Blu-ray)",
+      "title": "Ron Kamonohashi's Forbidden Deductions - Meisterdetektiv Ron Kamonohashi - Season 1 - Vol. 2 (Blu-ray)",
       "handle": "25cr060-ron-kamonohashi-s-forbidden-deductions-meisterdetektiv-ron-kamonohashi-staffel-1-vol-2-bluray",
       "published_at": "2025-05-28T16:39:51+02:00",
       "created_at": "2025-05-28T16:25:27+02:00",
@@ -114736,7 +114737,7 @@
     },
     {
       "id": 10261540339976,
-      "title": "Ron Kamonohashi’s Forbidden Deductions - Meisterdetektiv Ron Kamonohashi - Staffel 1 - Vol. 2 (DVD)",
+      "title": "Ron Kamonohashi's Forbidden Deductions - Meisterdetektiv Ron Kamonohashi - Season 1 - Vol. 2 (DVD)",
       "handle": "25cr061-ron-kamonohashi-s-forbidden-deductions-meisterdetektiv-ron-kamonohashi-staffel-1-vol-2-dvd",
       "published_at": "2025-05-28T16:39:51+02:00",
       "created_at": "2025-05-28T16:25:28+02:00",
@@ -115125,7 +115126,7 @@
     },
     {
       "id": 10261541290248,
-      "title": "Psycho-Pass - Staffel 1 - Gesamtausgabe - Bundle mit Vol. 1-4 (Blu-ray)",
+      "title": "Psycho-Pass - Season 1 - Gesamtausgabe - Bundle mit Vol. 1-4 (Blu-ray)",
       "handle": "25cr066-psycho-pass-staffel-1-gesamtausgabe-bundle-mit-vol-1-4-bluray",
       "published_at": "2025-05-28T16:39:48+02:00",
       "created_at": "2025-05-28T16:25:46+02:00",
@@ -115369,7 +115370,7 @@
     },
     {
       "id": 10261541749000,
-      "title": "How NOT to Summon a Demon Lord - Staffel 1 - Gesamtausgabe - Bundle mit Vol. 1-3 (Blu-ray)",
+      "title": "How NOT to Summon a Demon Lord - Season 1 - Gesamtausgabe - Bundle mit Vol. 1-3 (Blu-ray)",
       "handle": "25cr070-how-not-to-summon-a-demon-lord-staffel-1-gesamtausgabe-bluray",
       "published_at": "2025-05-28T16:39:47+02:00",
       "created_at": "2025-05-28T16:25:53+02:00",
@@ -115426,7 +115427,7 @@
     },
     {
       "id": 10261541847304,
-      "title": "How NOT to Summon a Demon Lord - Staffel 1 - Gesamtausgabe - Bundle mit Volume 1-3 (DVD)",
+      "title": "How NOT to Summon a Demon Lord - Season 1 - Gesamtausgabe - Bundle mit Vol. 1-3 (DVD)",
       "handle": "25cr071-how-not-to-summon-a-demon-lord-staffel-1-gesamtausgabe-bundle-mit-volume-1-3-dvd",
       "published_at": "2025-05-28T16:39:46+02:00",
       "created_at": "2025-05-28T16:25:54+02:00",
@@ -115479,7 +115480,7 @@
     },
     {
       "id": 10261541945608,
-      "title": "Junjo Romantica - Staffel 1 - Gesamtausgabe (Blu-ray)",
+      "title": "Junjo Romantica - Season 1 - Gesamtausgabe (Blu-ray)",
       "handle": "25cr072-junjo-romantica-staffel-1-gesamtausgabe-bluray",
       "published_at": "2025-05-28T16:39:46+02:00",
       "created_at": "2025-05-28T16:25:56+02:00",
@@ -115535,7 +115536,7 @@
     },
     {
       "id": 10261542043912,
-      "title": "Junjo Romantica - Staffel 1 - Gesamtausgabe (DVD)",
+      "title": "Junjo Romantica - Season 1 - Gesamtausgabe (DVD)",
       "handle": "25cr073-junjo-romantica-staffel-1-gesamtausgabe-dvd",
       "published_at": "2025-05-28T16:39:46+02:00",
       "created_at": "2025-05-28T16:25:58+02:00",
@@ -115750,7 +115751,7 @@
     },
     {
       "id": 10261542535432,
-      "title": "Meine Wiedergeburt als Schleim in einer anderen Welt - Staffel 2 - Gesamtausgabe (Blu-ray)",
+      "title": "Meine Wiedergeburt als Schleim in einer anderen Welt - Season 2 - Gesamtausgabe (Blu-ray)",
       "handle": "25cr077-meine-wiedergeburt-als-schleim-in-einer-anderen-welt-staffel-2-gesamtausgabe-bluray",
       "published_at": "2025-05-28T16:39:45+02:00",
       "created_at": "2025-05-28T16:26:05+02:00",
@@ -115807,7 +115808,7 @@
     },
     {
       "id": 10261542633736,
-      "title": "Meine Wiedergeburt als Schleim in einer anderen Welt - Staffel 2 - Gesamtausgabe (DVD)",
+      "title": "Meine Wiedergeburt als Schleim in einer anderen Welt - Season 2 - Gesamtausgabe (DVD)",
       "handle": "25cr078-meine-wiedergeburt-als-schleim-in-einer-anderen-welt-staffel-2-gesamtausgabe-dvd",
       "published_at": "2025-05-28T16:39:44+02:00",
       "created_at": "2025-05-28T16:26:07+02:00",
@@ -115860,7 +115861,7 @@
     },
     {
       "id": 10261542797576,
-      "title": "Platinum End - Gesamtausgabe - Bundle - Part 1-2 (Blu-ray)",
+      "title": "Platinum End - Gesamtausgabe - Bundle mit Part 1-2 (Blu-ray)",
       "handle": "25cr079-platinum-end-gesamtausgabe-bundle-part-1-2-bluray",
       "published_at": "2025-05-28T16:39:44+02:00",
       "created_at": "2025-05-28T16:26:08+02:00",
@@ -116446,7 +116447,7 @@
     },
     {
       "id": 10261544009992,
-      "title": "Junjo Romantica - Staffel 2 - Gesamtausgabe (Blu-ray)",
+      "title": "Junjo Romantica - Season 2 - Gesamtausgabe (Blu-ray)",
       "handle": "25cr089-junjo-romantica-staffel-2-gesamtausgabe-bluray",
       "published_at": "2025-05-28T16:39:41+02:00",
       "created_at": "2025-05-28T16:26:28+02:00",
@@ -116502,7 +116503,7 @@
     },
     {
       "id": 10261544206600,
-      "title": "Junjo Romantica - Staffel 2 - Gesamtausgabe (DVD)",
+      "title": "Junjo Romantica - Season 2 - Gesamtausgabe (DVD)",
       "handle": "25cr090-junjo-romantica-staffel-2-gesamtausgabe-dvd",
       "published_at": "2025-05-28T16:39:41+02:00",
       "created_at": "2025-05-28T16:26:31+02:00",
@@ -116555,7 +116556,7 @@
     },
     {
       "id": 10261544272136,
-      "title": "Classroom of the Elite - Staffel 3 - Gesamtausgabe (Blu-ray)",
+      "title": "Classroom of the Elite - Season 3 - Gesamtausgabe (Blu-ray)",
       "handle": "25cr091-classroom-of-the-elite-staffel-3-gesamtausgabe-bluray",
       "published_at": "2025-05-28T16:39:40+02:00",
       "created_at": "2025-05-28T16:26:32+02:00",
@@ -116929,7 +116930,7 @@
     },
     {
       "id": 10261544960264,
-      "title": "Junjo Romantica - Staffel 3 - Gesamtausgabe (Blu-ray)",
+      "title": "Junjo Romantica - Season 3 - Gesamtausgabe (Blu-ray)",
       "handle": "25cr096-junjo-romantica-staffel-3-gesamtausgabe-bluray",
       "published_at": "2025-05-28T16:39:39+02:00",
       "created_at": "2025-05-28T16:26:42+02:00",
@@ -116985,7 +116986,7 @@
     },
     {
       "id": 10261545189640,
-      "title": "Junjo Romantica - Staffel 3 - Gesamtausgabe (DVD)",
+      "title": "Junjo Romantica - Season 3 - Gesamtausgabe (DVD)",
       "handle": "25cr097-junjo-romantica-staffel-3-gesamtausgabe-dvd",
       "published_at": "2025-05-28T16:39:39+02:00",
       "created_at": "2025-05-28T16:26:44+02:00",
@@ -117038,7 +117039,7 @@
     },
     {
       "id": 10261545320712,
-      "title": "Mashle: Magic and Muscles - The Divine Visionary Candidate Exam - Staffel 2 - Part 2 (Blu-ray)",
+      "title": "Mashle: Magic and Muscles - The Divine Visionary Candidate Exam - Season 2 - Part 2 (Blu-ray)",
       "handle": "25cr098-mashle-magic-and-muscles-the-divine-visionary-candidate-exam-staffel-2-part-2-bluray",
       "published_at": "2025-05-28T16:39:38+02:00",
       "created_at": "2025-05-28T16:26:46+02:00",
@@ -117114,7 +117115,7 @@
     },
     {
       "id": 10261545419016,
-      "title": "Mashle: Magic and Muscles - The Divine Visionary Candidate Exam - Staffel 2 - Part 2 (DVD)",
+      "title": "Mashle: Magic and Muscles - The Divine Visionary Candidate Exam - Season 2 - Part 2 (DVD)",
       "handle": "25cr099-mashle-magic-and-muscles-the-divine-visionary-candidate-exam-staffel-2-part-2-dvd",
       "published_at": "2025-05-28T16:39:38+02:00",
       "created_at": "2025-05-28T16:26:47+02:00",
@@ -117187,7 +117188,7 @@
     },
     {
       "id": 10261545615624,
-      "title": "Kaiju No. 8 - Staffel 1 - Vol. 1 (Blu-ray)",
+      "title": "Kaiju No. 8 - Season 1 - Vol. 1 (Blu-ray)",
       "handle": "25cr100-kaiju-no-8-staffel-1-part-1-vol-1-bluray",
       "published_at": "2025-05-28T16:39:38+02:00",
       "created_at": "2025-05-28T16:26:50+02:00",
@@ -117264,7 +117265,7 @@
     },
     {
       "id": 10261545681160,
-      "title": "Kaiju No. 8 - Staffel 1 - Vol. 1 (DVD)",
+      "title": "Kaiju No. 8 - Season 1 - Vol. 1 (DVD)",
       "handle": "25cr101-kaiju-no-8-staffel-1-part-1-vol-1-dvd",
       "published_at": "2025-05-28T16:39:37+02:00",
       "created_at": "2025-05-28T16:26:51+02:00",
@@ -117341,7 +117342,7 @@
     },
     {
       "id": 10324540784904,
-      "title": "Meine Wiedergeburt als Schleim in einer anderen Welt - Staffel 3 - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
+      "title": "Meine Wiedergeburt als Schleim in einer anderen Welt - Season 3 - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
       "handle": "25cr102-meine-wiedergeburt-als-schleim-in-einer-anderen-welt-staffel-3-vol-1-limited-edition-mit-sammelschuber-bluray",
       "published_at": "2025-06-10T14:40:24+02:00",
       "created_at": "2025-06-10T14:29:42+02:00",
@@ -117425,7 +117426,7 @@
     },
     {
       "id": 10324584562952,
-      "title": "Meine Wiedergeburt als Schleim in einer anderen Welt - Staffel 3 - Vol. 1 - Limited Edition mit Sammelschuber (DVD)",
+      "title": "Meine Wiedergeburt als Schleim in einer anderen Welt - Season 3 - Vol. 1 - Limited Edition mit Sammelschuber (DVD)",
       "handle": "25cr103-meine-wiedergeburt-als-schleim-in-einer-anderen-welt-staffel-3-vol-1-limited-edition-mit-sammelschuber-dvd",
       "published_at": "2025-06-10T14:40:24+02:00",
       "created_at": "2025-06-10T14:35:14+02:00",
@@ -117508,7 +117509,7 @@
     },
     {
       "id": 10324541604104,
-      "title": "Meine Wiedergeburt als Schleim in einer anderen Welt - Staffel 3 - Vol. 2 (Blu-ray)",
+      "title": "Meine Wiedergeburt als Schleim in einer anderen Welt - Season 3 - Vol. 2 (Blu-ray)",
       "handle": "25cr104-meine-wiedergeburt-als-schleim-in-einer-anderen-welt-staffel-3-vol-2-bluray",
       "published_at": "2025-06-10T14:40:24+02:00",
       "created_at": "2025-06-10T14:29:43+02:00",
@@ -117581,7 +117582,7 @@
     },
     {
       "id": 10324584694024,
-      "title": "Meine Wiedergeburt als Schleim in einer anderen Welt - Staffel 3 - Vol. 2 (DVD)",
+      "title": "Meine Wiedergeburt als Schleim in einer anderen Welt - Season 3 - Vol. 2 (DVD)",
       "handle": "25cr105-meine-wiedergeburt-als-schleim-in-einer-anderen-welt-staffel-3-vol-2-dvd",
       "published_at": "2025-06-10T14:40:25+02:00",
       "created_at": "2025-06-10T14:35:16+02:00",
@@ -117707,7 +117708,7 @@
     },
     {
       "id": 10261557248264,
-      "title": "Frieren: Beyond Journey’s End - Frieren: Nach dem Ende der Reise - Vol. 1 (Blu-ray)",
+      "title": "Frieren: Beyond Journey's End - Nach dem Ende der Reise - Vol. 1 (Blu-ray)",
       "handle": "25cr107-frieren-beyond-journey-s-end-frieren-nach-dem-ende-der-reise-vol-1-bluray",
       "published_at": "2025-05-28T16:39:29+02:00",
       "created_at": "2025-05-28T16:30:13+02:00",
@@ -117853,7 +117854,7 @@
     },
     {
       "id": 10261563048200,
-      "title": "K-On - Season 1 - Gesamtausgabe (Blu-ray)",
+      "title": "K-On! - Season 1 - Gesamtausgabe (Blu-ray)",
       "handle": "25cr109-k-on-season-1-gesamtausgabe-bluray",
       "published_at": "2025-05-28T16:39:12+02:00",
       "created_at": "2025-05-28T16:32:00+02:00",
@@ -117906,7 +117907,7 @@
     },
     {
       "id": 10261563080968,
-      "title": "K-On - Season 2 - Gesamtausgabe (Blu-ray)",
+      "title": "K-On! - Season 2 - Gesamtausgabe (Blu-ray)",
       "handle": "25cr110-k-on-season-2-gesamtausgabe-bluray",
       "published_at": "2025-05-28T16:39:12+02:00",
       "created_at": "2025-05-28T16:32:01+02:00",
@@ -117959,7 +117960,7 @@
     },
     {
       "id": 10261563179272,
-      "title": "Rent-a-Girlfriend - Staffel 2 - Vol. 1 mit Sammelschuber (Blu-ray)",
+      "title": "Rent-a-Girlfriend - Season 2 - Vol. 1 mit Sammelschuber (Blu-ray)",
       "handle": "25cr111-rent-a-girlfriend-staffel-2-vol-1-mit-sammelschuber-bluray",
       "published_at": "2025-05-28T16:39:12+02:00",
       "created_at": "2025-05-28T16:32:03+02:00",
@@ -118012,7 +118013,7 @@
     },
     {
       "id": 10261563244808,
-      "title": "Rent-a-Girlfriend - Staffel 2 - Vol. 2 (Blu-ray)",
+      "title": "Rent-a-Girlfriend - Season 2 - Vol. 2 (Blu-ray)",
       "handle": "25cr112-rent-a-girlfriend-staffel-2-vol-2-bluray",
       "published_at": "2025-05-28T16:39:11+02:00",
       "created_at": "2025-05-28T16:32:05+02:00",
@@ -118300,7 +118301,7 @@
     },
     {
       "id": 10353666818312,
-      "title": "Dragon Quest: The Adventure of Dai - Staffel 1 - Gesamtausgabe -Bundle mit Vol. 1-4 (Blu-ray)",
+      "title": "Dragon Quest: The Adventure of Dai - Season 1 - Gesamtausgabe - Bundle mit Vol. 1-4 (Blu-ray)",
       "handle": "25cr118-dragon-quest-the-adventure-of-dai-staffel-1-gesamtausgabe-bundle-mit-vol-1-4-bluray",
       "published_at": "2025-06-18T10:51:11+02:00",
       "created_at": "2025-06-18T10:40:06+02:00",
@@ -119024,7 +119025,7 @@
     },
     {
       "id": 10270581784840,
-      "title": "Attack on Titan - Season 4 - Vol. 2 (Blu-ray)",
+      "title": "Attack on Titan: Final Season - Season 4 - Vol. 2 (Blu-ray)",
       "handle": "25cr134-attack-on-titan-season-4-vol-2-bluray",
       "published_at": "2025-05-30T19:06:44+02:00",
       "created_at": "2025-05-30T16:06:06+02:00",
@@ -120224,7 +120225,7 @@
     },
     {
       "id": 10270976770312,
-      "title": "Mushoku Tensei: Jobless Reincarnation - Staffel 2 - Vol. 4 (Blu-ray)",
+      "title": "Mushoku Tensei: Jobless Reincarnation - Season 2 - Vol. 4 (Blu-ray)",
       "handle": "25cr155-mushoku-tensei-jobless-reincarnation-staffel-2-vol-4-bluray",
       "published_at": "2025-05-30T19:06:49+02:00",
       "created_at": "2025-05-30T18:20:21+02:00",
@@ -120298,7 +120299,7 @@
     },
     {
       "id": 10270976835848,
-      "title": "Mushoku Tensei: Jobless Reincarnation - Staffel 2 - Vol. 4 (DVD)",
+      "title": "Mushoku Tensei: Jobless Reincarnation - Season 2 - Vol. 4 (DVD)",
       "handle": "25cr156-mushoku-tensei-jobless-reincarnation-staffel-2-vol-4-dvd",
       "published_at": "2025-05-30T19:06:50+02:00",
       "created_at": "2025-05-30T18:20:23+02:00",
@@ -120741,7 +120742,7 @@
     },
     {
       "id": 10270977261832,
-      "title": "Black Butler: Public School Arc - Staffel 4 - Vol. 2 (Blu-ray)",
+      "title": "Black Butler: Public School Arc - Season 4 - Vol. 2 (Blu-ray)",
       "handle": "25cr162-black-butler-public-school-arc-staffel-4-vol-2-bluray",
       "published_at": "2025-05-30T19:06:52+02:00",
       "created_at": "2025-05-30T18:20:33+02:00",
@@ -120818,7 +120819,7 @@
     },
     {
       "id": 10270977392904,
-      "title": "Black Butler: Public School Arc - Staffel 4 - Vol. 2 (DVD)",
+      "title": "Black Butler: Public School Arc - Season 4 - Vol. 2 (DVD)",
       "handle": "25cr163-black-butler-public-school-arc-staffel-4-vol-2-dvd",
       "published_at": "2025-05-30T19:06:52+02:00",
       "created_at": "2025-05-30T18:20:35+02:00",
@@ -120894,7 +120895,7 @@
     },
     {
       "id": 10270977425672,
-      "title": "Log Horizon - Staffel 2 - Vol. 1 (Blu-ray)",
+      "title": "Log Horizon - Season 2 - Vol. 1 (Blu-ray)",
       "handle": "25cr164-log-horizon-staffel-2-vol-1-bluray",
       "published_at": "2025-05-30T19:06:05+02:00",
       "created_at": "2025-05-30T18:20:38+02:00",
@@ -120967,7 +120968,7 @@
     },
     {
       "id": 10270977458440,
-      "title": "My Hero Academia - Staffel 7 - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
+      "title": "My Hero Academia - Season 7 - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
       "handle": "25cr165-my-hero-academia-staffel-7-vol-1-bluraymit-sammelschuber-limited-edition",
       "published_at": "2025-05-30T19:06:06+02:00",
       "created_at": "2025-05-30T18:20:39+02:00",
@@ -121050,7 +121051,7 @@
     },
     {
       "id": 10270977523976,
-      "title": "My Hero Academia - Staffel 7 - Vol. 1 - Limited Edition mit Sammelschuber (DVD)",
+      "title": "My Hero Academia - Season 7 - Vol. 1 - Limited Edition mit Sammelschuber (DVD)",
       "handle": "25cr166-my-hero-academia-staffel-7-vol-1-dvdmit-sammelschuber-limited-edition",
       "published_at": "2025-05-30T19:06:06+02:00",
       "created_at": "2025-05-30T18:20:41+02:00",
@@ -121250,7 +121251,7 @@
     },
     {
       "id": 10270977753352,
-      "title": "Re:ZERO - Starting Life in Another World - Gesamtausgabe - Steelbook (Blu-ray) - Director´s Cut - Limited Edition",
+      "title": "Re:ZERO - Starting Life in Another World - Season 1 - Director's Cut - Gesamtausgabe - Limited Edition mit Steelbook (Blu-ray)",
       "handle": "25cr169-re-zero-starting-life-in-another-world-gesamtausgabe-steelbook-bluraydirectors-cut-limited-edition",
       "published_at": "2025-05-30T19:06:07+02:00",
       "created_at": "2025-05-30T18:20:46+02:00",
@@ -121794,7 +121795,7 @@
     },
     {
       "id": 10270978441480,
-      "title": "Blue Exorcist: Shimane Illuminati Saga - Staffel 3 - Part 1 - Vol. 2 (Blu-ray)",
+      "title": "Blue Exorcist: Shimane Illuminati Saga - Season 3 - Part 1 - Vol. 2 (Blu-ray)",
       "handle": "25cr176-blue-exorcist-shimane-illuminati-saga-staffel-3-vol-2-bluray",
       "published_at": "2025-05-30T19:06:09+02:00",
       "created_at": "2025-05-30T18:20:57+02:00",
@@ -121860,7 +121861,7 @@
     },
     {
       "id": 10270978507016,
-      "title": "Blue Exorcist: Shimane Illuminati Saga - Staffel 3 - Part 1 - Vol. 2 (DVD)",
+      "title": "Blue Exorcist: Shimane Illuminati Saga - Season 3 - Part 1 - Vol. 2 (DVD)",
       "handle": "25cr177-blue-exorcist-shimane-illuminati-saga-staffel-3-vol-2-dvd",
       "published_at": "2025-05-30T19:06:09+02:00",
       "created_at": "2025-05-30T18:20:58+02:00",
@@ -122153,7 +122154,7 @@
     },
     {
       "id": 10270978769160,
-      "title": "Frieren: Beyond Journey’s End - Nach dem Ende der Reise - Gesamtausgabe (Blu-ray) - Collector's Edition",
+      "title": "Frieren: Beyond Journey's End - Nach dem Ende der Reise - Gesamtausgabe - Collector's Edition (Blu-ray)",
       "handle": "25cr181-frieren-beyond-journey-s-end-nach-dem-ende-der-reise-gesamtausgabe-collectors-edition-bluray",
       "published_at": "2025-05-30T19:06:11+02:00",
       "created_at": "2025-05-30T18:21:05+02:00",
@@ -122217,7 +122218,7 @@
     },
     {
       "id": 10270978834696,
-      "title": "Frieren: Beyond Journey’s End - Nach dem Ende der Reise - Gesamtausgabe (DVD) - Collector's Edition",
+      "title": "Frieren: Beyond Journey's End - Nach dem Ende der Reise - Gesamtausgabe - Collector's Edition (DVD)",
       "handle": "25cr182-frieren-beyond-journey-s-end-nach-dem-ende-der-reise-gesamtausgabe-collectors-edition-dvd",
       "published_at": "2025-05-30T19:06:11+02:00",
       "created_at": "2025-05-30T18:21:07+02:00",
@@ -122270,7 +122271,7 @@
     },
     {
       "id": 10270978900232,
-      "title": "Log Horizon - Staffel 2 - Vol. 2 (Blu-ray)",
+      "title": "Log Horizon - Season 2 - Vol. 2 (Blu-ray)",
       "handle": "25cr183-log-horizon-staffel-2-vol-2-bluray",
       "published_at": "2025-05-30T19:06:11+02:00",
       "created_at": "2025-05-30T18:21:08+02:00",
@@ -122343,7 +122344,7 @@
     },
     {
       "id": 10270979031304,
-      "title": "Masamune-kun's Revenge R - Staffel 2 - Gesamtausgabe (Blu-ray)",
+      "title": "Masamune-kun's Revenge R - Season 2 - Gesamtausgabe (Blu-ray)",
       "handle": "25cr184-masamune-kun-s-revenge-r-staffel-2-gesamtausgabe-bluray",
       "published_at": "2025-05-30T19:06:12+02:00",
       "created_at": "2025-05-30T18:21:10+02:00",
@@ -122416,7 +122417,7 @@
     },
     {
       "id": 10270979129608,
-      "title": "Masamune-kun's Revenge R - Staffel 2 - Gesamtausgabe (DVD)",
+      "title": "Masamune-kun's Revenge R - Season 2 - Gesamtausgabe (DVD)",
       "handle": "25cr185-masamune-kun-s-revenge-r-staffel-2-gesamtausgabe-dvd",
       "published_at": "2025-05-30T19:06:12+02:00",
       "created_at": "2025-05-30T18:21:12+02:00",
@@ -123214,7 +123215,7 @@
     },
     {
       "id": 10270979981576,
-      "title": "86: Eighty Six - Staffel 1 - Gesamtausgabe - Limited Edition mit Steelbook (Blu-ray)",
+      "title": "86: Eighty Six - Season 1 - Gesamtausgabe - Limited Edition mit Steelbook (Blu-ray)",
       "handle": "25cr197-86-eighty-six-staffel-1-gesamtausgabe-limited-edition-mit-steelbook-bluray",
       "published_at": "2025-05-30T19:06:16+02:00",
       "created_at": "2025-05-30T18:21:31+02:00",
@@ -123459,7 +123460,7 @@
     },
     {
       "id": 10270980473096,
-      "title": "Horimiya: The Missing Pieces - Staffel 2 - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
+      "title": "Horimiya: The Missing Pieces - Season 2 - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
       "handle": "25cr201-horimiya-the-missing-pieces-staffel-2-vol-1-limited-edition-mit-sammelschuber-bluray",
       "published_at": "2025-05-30T19:06:17+02:00",
       "created_at": "2025-05-30T18:21:38+02:00",
@@ -123543,7 +123544,7 @@
     },
     {
       "id": 10270980636936,
-      "title": "Horimiya: The Missing Pieces - Staffel 2 - Vol. 1 - Limited Edition mit Sammelschuber (DVD)",
+      "title": "Horimiya: The Missing Pieces - Season 2 - Vol. 1 - Limited Edition mit Sammelschuber (DVD)",
       "handle": "25cr202-horimiya-the-missing-pieces-staffel-2-vol-1-limited-edition-mit-sammelschuber-dvd",
       "published_at": "2025-05-30T19:06:18+02:00",
       "created_at": "2025-05-30T18:21:40+02:00",
@@ -123626,7 +123627,7 @@
     },
     {
       "id": 10270980702472,
-      "title": "Meine Wiedergeburt als Schleim in einer anderen Welt - Staffel 3 - Vol. 3 (Blu-ray)",
+      "title": "Meine Wiedergeburt als Schleim in einer anderen Welt - Season 3 - Vol. 3 (Blu-ray)",
       "handle": "25cr203-meine-wiedergeburt-als-schleim-in-einer-anderen-welt-staffel-3-vol-3-bluray",
       "published_at": "2025-05-30T19:06:18+02:00",
       "created_at": "2025-05-30T18:21:41+02:00",
@@ -123699,7 +123700,7 @@
     },
     {
       "id": 10270980899080,
-      "title": "Meine Wiedergeburt als Schleim in einer anderen Welt - Staffel 3 - Vol. 3 (DVD)",
+      "title": "Meine Wiedergeburt als Schleim in einer anderen Welt - Season 3 - Vol. 3 (DVD)",
       "handle": "25cr204-meine-wiedergeburt-als-schleim-in-einer-anderen-welt-staffel-3-vol-3-dvd",
       "published_at": "2025-05-30T19:06:18+02:00",
       "created_at": "2025-05-30T18:21:43+02:00",
@@ -124851,7 +124852,7 @@
     },
     {
       "id": 10270982144264,
-      "title": "Log Horizon: Destruction of the Round Table - Staffel 3 - Gesamtausgabe (Blu-ray)",
+      "title": "Log Horizon: Destruction of the Round Table - Season 3 - Gesamtausgabe (Blu-ray)",
       "handle": "25cr220-log-horizon-destruction-of-the-round-table-staffel-3-gesamtausgabe-bluray",
       "published_at": "2025-05-30T19:05:50+02:00",
       "created_at": "2025-05-30T18:22:09+02:00",
@@ -124924,7 +124925,7 @@
     },
     {
       "id": 10270982177032,
-      "title": "My Hero Academia - Staffel 7 - Vol. 2 (Blu-ray)",
+      "title": "My Hero Academia - Season 7 - Vol. 2 (Blu-ray)",
       "handle": "25cr221-my-hero-academia-staffel-7-vol-2-bluray",
       "published_at": "2025-05-30T19:05:51+02:00",
       "created_at": "2025-05-30T18:22:10+02:00",
@@ -124997,7 +124998,7 @@
     },
     {
       "id": 10270982242568,
-      "title": "My Hero Academia - Staffel 7 - Vol. 2 (DVD)",
+      "title": "My Hero Academia - Season 7 - Vol. 2 (DVD)",
       "handle": "25cr222-my-hero-academia-staffel-7-vol-2-dvd",
       "published_at": "2025-05-30T19:05:51+02:00",
       "created_at": "2025-05-30T18:22:12+02:00",
@@ -125311,7 +125312,7 @@
     },
     {
       "id": 10270982504712,
-      "title": "Alya Sometimes Hides Her Feelings in Russian - Staffel 1 - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
+      "title": "Alya Sometimes Hides Her Feelings in Russian - Season 1 - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
       "handle": "25cr226-alya-sometimes-hides-her-feelings-in-russian-staffel-1-vol-1-limited-edition-mit-sammelschuber-bluray",
       "published_at": "2025-05-30T19:05:52+02:00",
       "created_at": "2025-05-30T18:22:18+02:00",
@@ -125394,7 +125395,7 @@
     },
     {
       "id": 10270982603016,
-      "title": "Alya Sometimes Hides Her Feelings in Russian - Staffel 1 - Vol. 1 - Limited Edition mit Sammelschuber (DVD)",
+      "title": "Alya Sometimes Hides Her Feelings in Russian - Season 1 - Vol. 1 - Limited Edition mit Sammelschuber (DVD)",
       "handle": "25cr227-alya-sometimes-hides-her-feelings-in-russian-staffel-1-vol-1-limited-edition-mit-sammelschuber-dvd",
       "published_at": "2025-05-30T19:05:53+02:00",
       "created_at": "2025-05-30T18:22:20+02:00",
@@ -125554,7 +125555,7 @@
     },
     {
       "id": 10270982996232,
-      "title": "Fairy Tail: 100 Years Quest - Staffel 1 - Gesamtausgabe - Limited Edition mit Steelbook (Blu-ray)",
+      "title": "Fairy Tail: 100 Years Quest - Season 1 - Gesamtausgabe - Limited Edition mit Steelbook (Blu-ray)",
       "handle": "25cr230-fairy-tail-100-years-quest-staffel-1-gesamtausgabe-limited-edition-mit-steelbook-bluray",
       "published_at": "2025-05-30T19:05:54+02:00",
       "created_at": "2025-05-30T18:22:25+02:00",
@@ -125629,7 +125630,7 @@
     },
     {
       "id": 10270983061768,
-      "title": "Fairy Tail: 100 Years Quest - Staffel 1 - Gesamtausgabe - Limited Edition mit Steelbook (DVD)",
+      "title": "Fairy Tail: 100 Years Quest - Season 1 - Gesamtausgabe - Limited Edition mit Steelbook (DVD)",
       "handle": "25cr231-fairy-tail-100-years-quest-staffel-1-gesamtausgabe-limited-edition-mit-steelbook-dvd",
       "published_at": "2025-05-30T19:05:54+02:00",
       "created_at": "2025-05-30T18:22:27+02:00",
@@ -125702,7 +125703,7 @@
     },
     {
       "id": 10270983127304,
-      "title": "I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability - Staffel 1 - Gesamtausgabe (Blu-ray)",
+      "title": "I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability - Season 1 - Gesamtausgabe (Blu-ray)",
       "handle": "25cr232-i-was-reincarnated-as-the-7th-prince-so-i-can-take-my-time-perfecting-my-magical-ability-staffel-1-gesamtausgabe-bluray",
       "published_at": "2025-12-05T13:25:19+01:00",
       "created_at": "2025-05-30T18:22:28+02:00",
@@ -125881,7 +125882,7 @@
     },
     {
       "id": 10270983487752,
-      "title": "Kaiju No. 8 - Staffel 1 - Vol. 2 - Limited Edition mit Sammelschuber (Blu-ray)",
+      "title": "Kaiju No. 8 - Season 1 - Vol. 2 - Limited Edition mit Sammelschuber (Blu-ray)",
       "handle": "25cr235-kaiju-no-8-staffel-1-vol-2-bluray",
       "published_at": "2025-05-30T19:05:55+02:00",
       "created_at": "2025-05-30T18:22:34+02:00",
@@ -125964,7 +125965,7 @@
     },
     {
       "id": 10270983553288,
-      "title": "Kaiju No. 8 - Staffel 1 - Vol. 2 - Limited Edition mit Sammelschuber (DVD)",
+      "title": "Kaiju No. 8 - Season 1 - Vol. 2 - Limited Edition mit Sammelschuber (DVD)",
       "handle": "25cr236-kaiju-no-8-staffel-1-vol-2-dvd",
       "published_at": "2025-05-30T19:05:55+02:00",
       "created_at": "2025-05-30T18:22:35+02:00",
@@ -126047,7 +126048,7 @@
     },
     {
       "id": 10270983618824,
-      "title": "Meine Wiedergeburt als Schleim in einer anderen Welt - Staffel 3 - Vol. 4 (Blu-ray)",
+      "title": "Meine Wiedergeburt als Schleim in einer anderen Welt - Season 3 - Vol. 4 (Blu-ray)",
       "handle": "25cr237-meine-wiedergeburt-als-schleim-in-einer-anderen-welt-staffel-3-vol-4-bluray",
       "published_at": "2025-05-30T19:05:56+02:00",
       "created_at": "2025-05-30T18:22:37+02:00",
@@ -126120,7 +126121,7 @@
     },
     {
       "id": 10270983782664,
-      "title": "Meine Wiedergeburt als Schleim in einer anderen Welt - Staffel 3 - Vol. 4 (DVD)",
+      "title": "Meine Wiedergeburt als Schleim in einer anderen Welt - Season 3 - Vol. 4 (DVD)",
       "handle": "25cr238-meine-wiedergeburt-als-schleim-in-einer-anderen-welt-staffel-3-vol-4-dvd",
       "published_at": "2025-05-30T19:05:56+02:00",
       "created_at": "2025-05-30T18:22:38+02:00",
@@ -126522,7 +126523,7 @@
     },
     {
       "id": 10588437283080,
-      "title": "Blue Exorcist: Beyond the Snow Saga - Staffel 3 - Part 2 - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
+      "title": "Blue Exorcist: Beyond the Snow Saga - Season 3 - Part 2 - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
       "handle": "25cr246-blue-exorcists-snow-saga-limited-bluray",
       "published_at": "2025-11-06T14:57:18+01:00",
       "created_at": "2025-11-06T14:43:30+01:00",
@@ -126606,7 +126607,7 @@
     },
     {
       "id": 10588441477384,
-      "title": "Blue Exorcist: Beyond the Snow Saga - Staffel 3 - Part 2 - Vol. 1 - Limited Edition mit Sammelschuber (DVD)",
+      "title": "Blue Exorcist: Beyond the Snow Saga - Season 3 - Part 2 - Vol. 1 - Limited Edition mit Sammelschuber (DVD)",
       "handle": "25cr247-blue-exorcist-snow-saga-limited-dvd",
       "published_at": "2025-11-06T14:57:18+01:00",
       "created_at": "2025-11-06T14:48:45+01:00",
@@ -126690,7 +126691,7 @@
     },
     {
       "id": 10270985027848,
-      "title": "Don't Toy with me, Miss Nagatoro - Staffel 1 - Gesamtausgabe (Blu-ray)",
+      "title": "Don't Toy with Me, Miss Nagatoro - Season 1 - Gesamtausgabe (Blu-ray)",
       "handle": "25cr250-don-t-toy-with-me-miss-nagatoro-staffel-1-gesamtausgabe-bluray",
       "published_at": "2025-05-30T19:06:00+02:00",
       "created_at": "2025-05-30T18:22:59+02:00",
@@ -126763,7 +126764,7 @@
     },
     {
       "id": 10270985126152,
-      "title": "Horimiya: The Missing Pieces - Staffel 2 - Vol. 2 (Blu-ray)",
+      "title": "Horimiya: The Missing Pieces - Season 2 - Vol. 2 (Blu-ray)",
       "handle": "25cr251-horimiya-the-missing-pieces-staffel-2-vol-2-bluray",
       "published_at": "2025-05-30T19:06:00+02:00",
       "created_at": "2025-05-30T18:23:00+02:00",
@@ -126836,7 +126837,7 @@
     },
     {
       "id": 10270985289992,
-      "title": "Horimiya: The Missing Pieces - Staffel 2 - Vol. 2 (DVD)",
+      "title": "Horimiya: The Missing Pieces - Season 2 - Vol. 2 (DVD)",
       "handle": "25cr252-horimiya-the-missing-pieces-staffel-2-vol-2-dvd",
       "published_at": "2025-05-30T19:06:01+02:00",
       "created_at": "2025-05-30T18:23:02+02:00",
@@ -126909,7 +126910,7 @@
     },
     {
       "id": 10270985453832,
-      "title": "My Hero Academia - Staffel 7 - Vol. 3 (Blu-ray)",
+      "title": "My Hero Academia - Season 7 - Vol. 3 (Blu-ray)",
       "handle": "25cr253-my-hero-academia-staffel-7-vol-3-bluray",
       "published_at": "2025-05-30T19:06:01+02:00",
       "created_at": "2025-05-30T18:23:03+02:00",
@@ -126982,7 +126983,7 @@
     },
     {
       "id": 10270985552136,
-      "title": "My Hero Academia - Staffel 7 - Vol. 3 (DVD)",
+      "title": "My Hero Academia - Season 7 - Vol. 3 (DVD)",
       "handle": "25cr254-my-hero-academia-staffel-7-vol-3-dvd",
       "published_at": "2025-05-30T19:06:01+02:00",
       "created_at": "2025-05-30T18:23:06+02:00",
@@ -127055,7 +127056,7 @@
     },
     {
       "id": 12088441307400,
-      "title": "Re:ZERO - Starting Life in Another World - Staffel 3 - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
+      "title": "Re:ZERO - Starting Life in Another World - Season 3 - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
       "handle": "25cr256-rezero-starting-life-another-world-limited-bluray",
       "published_at": "2026-07-07T14:19:44+02:00",
       "created_at": "2026-07-07T12:45:19+02:00",
@@ -127503,7 +127504,7 @@
     },
     {
       "id": 10475335975176,
-      "title": "Die Melancholie der Haruhi Suzumiya -Staffel 1 & 2 - Gesamtausgabe (DVD)",
+      "title": "Die Melancholie der Haruhi Suzumiya - Season 1 & 2 - Gesamtausgabe (DVD)",
       "handle": "25cr263-melancholie-haruhi-suzumiya-gesamtausgabe-dvd",
       "published_at": "2025-08-21T17:50:04+02:00",
       "created_at": "2025-08-21T17:08:10+02:00",
@@ -127666,7 +127667,7 @@
     },
     {
       "id": 10475336106248,
-      "title": "Attack on Titan: Final Season - Staffel 4 - Part 2 - Gesamtausgabe (Blu-ray)",
+      "title": "Attack on Titan: Final Season - Season 4 - Part 2 - Gesamtausgabe (Blu-ray)",
       "handle": "25cr266-attack-on-titan-final-season-gesamtausgabe-bluray",
       "published_at": "2025-08-21T17:50:06+02:00",
       "created_at": "2025-08-21T17:08:15+02:00",
@@ -127724,7 +127725,7 @@
     },
     {
       "id": 10475336171784,
-      "title": "Attack on Titan: Final Season - Staffel 4 - Part 1 - Gesamtausgabe (DVD)",
+      "title": "Attack on Titan: Final Season - Season 4 - Part 1 - Gesamtausgabe (DVD)",
       "handle": "25cr267-attack-on-titan-final-season-gesamtausgabe-dvd",
       "published_at": "2025-08-21T17:50:06+02:00",
       "created_at": "2025-08-21T17:08:16+02:00",
@@ -127838,7 +127839,7 @@
     },
     {
       "id": 10475336270088,
-      "title": "Blue Lock - Staffel 1 - Part 1 - Gesamtausgabe (Blu-ray)",
+      "title": "Blue Lock - Season 1 - Part 1 - Gesamtausgabe (Blu-ray)",
       "handle": "25cr269-blue-lock-gesamtausgabe-bluray",
       "published_at": "2025-08-21T17:50:08+02:00",
       "created_at": "2025-08-21T17:08:20+02:00",
@@ -127894,7 +127895,7 @@
     },
     {
       "id": 10475336302856,
-      "title": "Blue Lock - Staffel 1 - Part 1 - Gesamtausgabe (DVD)",
+      "title": "Blue Lock - Season 1 - Part 1 - Gesamtausgabe (DVD)",
       "handle": "25cr270-blue-lock-gesamtausgabe-dvd",
       "published_at": "2025-08-21T17:50:08+02:00",
       "created_at": "2025-08-21T17:08:22+02:00",
@@ -127947,7 +127948,7 @@
     },
     {
       "id": 10475336335624,
-      "title": "Blue Lock - Staffel 1 - Part 2 - Gesamtausgabe (Blu-ray)",
+      "title": "Blue Lock - Season 1 - Part 2 - Gesamtausgabe (Blu-ray)",
       "handle": "25cr271-blue-lock-gesamtausgabe-bluray",
       "published_at": "2025-08-21T17:50:09+02:00",
       "created_at": "2025-08-21T17:08:23+02:00",
@@ -128003,7 +128004,7 @@
     },
     {
       "id": 10475336433928,
-      "title": "Blue Lock - Staffel 1 - Part 2 - Gesamtausgabe (DVD)",
+      "title": "Blue Lock - Season 1 - Part 2 - Gesamtausgabe (DVD)",
       "handle": "25cr272-blue-lock-gesamtausgabe-dvd",
       "published_at": "2025-08-21T17:50:10+02:00",
       "created_at": "2025-08-21T17:08:25+02:00",
@@ -128163,7 +128164,7 @@
     },
     {
       "id": 10475336696072,
-      "title": "How Not to Summon a Demon - Staffel 2 - Gesamtausgabe - Bundle mit Vol. 1-2 ohne Schuber (Blu-ray)",
+      "title": "How NOT to Summon a Demon Lord - Season 2 - Gesamtausgabe - Bundle mit Vol. 1-2 ohne Schuber (Blu-ray)",
       "handle": "25cr275-how-not-to-summon-a-demon-gesamtausgabe-bluray",
       "published_at": "2025-08-21T17:50:11+02:00",
       "created_at": "2025-08-21T17:08:31+02:00",
@@ -128481,7 +128482,7 @@
     },
     {
       "id": 10475337023752,
-      "title": "Miss Kobayashis Dragon Maid - Staffel 2 - Gesamtausgabe (Blu-ray)",
+      "title": "Miss Kobayashi's Dragon Maid S - Season 2 - Gesamtausgabe (Blu-ray)",
       "handle": "25cr281-miss-kobayashis-dragon-maid-gesamtausgabe-bluray",
       "published_at": "2025-08-21T17:50:15+02:00",
       "created_at": "2025-08-21T17:08:41+02:00",
@@ -128535,7 +128536,7 @@
     },
     {
       "id": 10475337089288,
-      "title": "Miss Kobayashis Dragon Maid - Staffel 2 - Gesamtausgabe (DVD)",
+      "title": "Miss Kobayashi's Dragon Maid S - Season 2 - Gesamtausgabe (DVD)",
       "handle": "25cr282-miss-kobayashis-dragon-maid-gesamtausgabe-dvd",
       "published_at": "2025-08-21T17:50:16+02:00",
       "created_at": "2025-08-21T17:08:42+02:00",
@@ -128588,7 +128589,7 @@
     },
     {
       "id": 10475337122056,
-      "title": "My Hero Academia - Staffel 5 - Gesamtausgabe (Blu-ray)",
+      "title": "My Hero Academia - Season 5 - Gesamtausgabe (Blu-ray)",
       "handle": "25cr283-my-hero-academia-gesamtausgabe-bluray",
       "published_at": "2025-08-21T17:50:17+02:00",
       "created_at": "2025-08-21T17:08:44+02:00",
@@ -128642,7 +128643,7 @@
     },
     {
       "id": 10475330240776,
-      "title": "My Hero Academia - Staffel 5 - Gesamtausgabe (DVD)",
+      "title": "My Hero Academia - Season 5 - Gesamtausgabe (DVD)",
       "handle": "25cr284-my-hero-academia-gesamtausgabe-dvd",
       "published_at": "2025-08-21T17:49:56+02:00",
       "created_at": "2025-08-21T17:02:36+02:00",
@@ -128695,7 +128696,7 @@
     },
     {
       "id": 10475330306312,
-      "title": "Jujutsu Kaisen - Staffel 1 - Gesamtauflage (Blu-ray)",
+      "title": "Jujutsu Kaisen - Season 1 - Gesamtausgabe (Blu-ray)",
       "handle": "25cr285-jujutsu-kaisen-gesamtausgabe-bluray",
       "published_at": "2025-08-21T17:49:57+02:00",
       "created_at": "2025-08-21T17:02:38+02:00",
@@ -128748,7 +128749,7 @@
     },
     {
       "id": 10475330404616,
-      "title": "Jujutsu Kaisen - Staffel 1 - Gesamtauflage (DVD)",
+      "title": "Jujutsu Kaisen - Season 1 - Gesamtausgabe (DVD)",
       "handle": "25cr286-jujutsu-kaisen-gesamtausgabe-dvd",
       "published_at": "2026-05-21T14:06:53+02:00",
       "created_at": "2025-08-21T17:02:40+02:00",
@@ -128801,7 +128802,7 @@
     },
     {
       "id": 10475330437384,
-      "title": "Monster Girl Doctor - Staffel 1 - Gesamtausgabe (Blu-ray)",
+      "title": "Monster Girl Doctor - Season 1 - Gesamtausgabe (Blu-ray)",
       "handle": "25cr287-monster-girl-doctor-gesamtausgabe-bluray",
       "published_at": "2025-08-21T17:49:58+02:00",
       "created_at": "2025-08-21T17:02:41+02:00",
@@ -128854,7 +128855,7 @@
     },
     {
       "id": 10475330502920,
-      "title": "Monster Girl Doctor - Staffel 1 - Gesamtausgabe (DVD)",
+      "title": "Monster Girl Doctor - Season 1 - Gesamtausgabe (DVD)",
       "handle": "25cr288-monster-girl-doctor-gesamtausgabe-dvd",
       "published_at": "2025-08-21T17:49:59+02:00",
       "created_at": "2025-08-21T17:02:43+02:00",
@@ -129013,7 +129014,7 @@
     },
     {
       "id": 10475330699528,
-      "title": "Rent-a-Girlfriend - Staffel 2 - Gesamtausgabe (Blu-ray)",
+      "title": "Rent-a-Girlfriend - Season 2 - Gesamtausgabe (Blu-ray)",
       "handle": "25cr291-rent-a-girlfriend-gesamtausgabe-bluray",
       "published_at": "2025-08-21T17:50:01+02:00",
       "created_at": "2025-08-21T17:02:49+02:00",
@@ -129067,7 +129068,7 @@
     },
     {
       "id": 10475330732296,
-      "title": "Rent-a-Girlfriend - Staffel 2 - Gesamtausgabe (DVD)",
+      "title": "Rent-a-Girlfriend - Season 2 - Gesamtausgabe (DVD)",
       "handle": "25cr292-rent-a-girlfriend-gesamtausgabe-dvd",
       "published_at": "2025-08-21T17:50:01+02:00",
       "created_at": "2025-08-21T17:02:50+02:00",
@@ -133652,7 +133653,7 @@
     },
     {
       "id": 10482473337096,
-      "title": "Chibi Maruko Chan - Staffel 1 - Gesamtausgabe (Blu-ray)",
+      "title": "Chibi Maruko Chan - Season 1 - Gesamtausgabe (Blu-ray)",
       "handle": "25hf010-chibi-maruko-chan-gesamtausgabe-bluray",
       "published_at": "2025-08-27T18:30:58+02:00",
       "created_at": "2025-08-27T15:14:06+02:00",
@@ -133705,7 +133706,7 @@
     },
     {
       "id": 10482473369864,
-      "title": "Kiddy Grade - Staffel 1 - Gesamtausgabe (Blu-ray)",
+      "title": "Kiddy Grade - Season 1 - Gesamtausgabe (Blu-ray)",
       "handle": "25hf012-kiddy-grade-gesamtausgabe-bluray",
       "published_at": "2025-09-10T14:19:07+02:00",
       "created_at": "2025-08-27T15:14:08+02:00",
@@ -133758,7 +133759,7 @@
     },
     {
       "id": 10482473435400,
-      "title": "Ouran High School Host Club - Staffel 2 - Gesamtausgabe (Blu-ray)",
+      "title": "Ouran High School Host Club - Part 2 - Gesamtausgabe (Blu-ray)",
       "handle": "25hf014-ouran-high-shool-host-club-gesamtausgabe-bluray",
       "published_at": "2025-08-27T18:30:58+02:00",
       "created_at": "2025-08-27T15:14:10+02:00",
@@ -153703,7 +153704,7 @@
     },
     {
       "id": 10705019011336,
-      "title": "Alya Sometimes Hides Her Feelings in Russian - Staffel 1 - Vol. 2 (Blu-ray)",
+      "title": "Alya Sometimes Hides Her Feelings in Russian - Season 1 - Vol. 2 (Blu-ray)",
       "handle": "26cr001-alya-sometimes-hides-bluray",
       "published_at": "2026-01-13T19:10:54+01:00",
       "created_at": "2026-01-13T19:03:34+01:00",
@@ -153776,7 +153777,7 @@
     },
     {
       "id": 10705019076872,
-      "title": "Alya Sometimes Hides Her Feelings in Russian - Staffel 1 - Vol. 2 (DVD)",
+      "title": "Alya Sometimes Hides Her Feelings in Russian - Season 1 - Vol. 2 (DVD)",
       "handle": "26cr002-alya-sometimes-hides-dvd",
       "published_at": "2026-01-13T19:10:54+01:00",
       "created_at": "2026-01-13T19:03:36+01:00",
@@ -153849,7 +153850,7 @@
     },
     {
       "id": 10705019175176,
-      "title": "Attack on Titan - Final Season - Gesamtausgabe -Limited Edition mit Steelbook (Blu-ray)",
+      "title": "Attack on Titan: Final Season - Season 4 - Gesamtausgabe - Limited Edition mit Steelbook (Blu-ray)",
       "handle": "26cr003-attack-on-titan-final-steelbook-bluray",
       "published_at": "2026-01-13T19:10:54+01:00",
       "created_at": "2026-01-13T19:03:38+01:00",
@@ -153923,7 +153924,7 @@
     },
     {
       "id": 10705019306248,
-      "title": "Attack on Titan - Final Season - Gesamtausgabe -Limited Edition mit Steelbook (DVD)",
+      "title": "Attack on Titan: Final Season - Season 4 - Gesamtausgabe - Limited Edition mit Steelbook (DVD)",
       "handle": "26cr004-attack-on-titan-final-steelbook-dvd",
       "published_at": "2026-01-13T19:10:54+01:00",
       "created_at": "2026-01-13T19:03:40+01:00",
@@ -153996,7 +153997,7 @@
     },
     {
       "id": 10705019404552,
-      "title": "Code Geass - Gesamtausgabe mit Staffel 1 & 2 (DVD)",
+      "title": "Code Geass - Gesamtausgabe - Season 1 & 2 (DVD)",
       "handle": "26cr005-code-geass-gesamtausgabe-dvd",
       "published_at": "2026-01-13T19:10:54+01:00",
       "created_at": "2026-01-13T19:03:41+01:00",
@@ -154049,7 +154050,7 @@
     },
     {
       "id": 10705019502856,
-      "title": "Corpse Princess - Gesamtausgabe - Season 1 (Blu-ray)",
+      "title": "Corpse Princess - Season 1 - Gesamtausgabe (Blu-ray)",
       "handle": "26cr006-corpse-princess-gesamtausgabe-bluray",
       "published_at": "2026-01-13T19:10:54+01:00",
       "created_at": "2026-01-13T19:03:44+01:00",
@@ -154102,7 +154103,7 @@
     },
     {
       "id": 10705019568392,
-      "title": "Corpse Princess - Gesamtausgabe - Season 1 (DVD)",
+      "title": "Corpse Princess - Season 1 - Gesamtausgabe (DVD)",
       "handle": "26cr007-corpse-princess-gesamtausgabe-dvd",
       "published_at": "2026-01-13T19:10:54+01:00",
       "created_at": "2026-01-13T19:03:46+01:00",
@@ -154301,7 +154302,7 @@
     },
     {
       "id": 10705019830536,
-      "title": "How NOT to Summon a Demon Lord - Staffel 1 - Gesamtausgabe (Blu-ray)",
+      "title": "How NOT to Summon a Demon Lord - Season 1 - Gesamtausgabe (Blu-ray)",
       "handle": "26cr010-hot-not-summon-gesamtausgabe-bluray",
       "published_at": "2026-01-13T19:10:54+01:00",
       "created_at": "2026-01-13T19:03:50+01:00",
@@ -154354,7 +154355,7 @@
     },
     {
       "id": 10705019961608,
-      "title": "Jujutsu Kaisen - Staffel 1 - Gesamtausgabe - Bundle mit Vol. 1-4 (Blu-ray)",
+      "title": "Jujutsu Kaisen - Season 1 - Gesamtausgabe - Bundle mit Vol. 1-4 (Blu-ray)",
       "handle": "26cr011-jujutsu-kaisen-gesamtausgabe-bluray",
       "published_at": "2026-01-13T19:10:54+01:00",
       "created_at": "2026-01-13T19:03:53+01:00",
@@ -154408,7 +154409,7 @@
     },
     {
       "id": 10705020092680,
-      "title": "Mob Psycho 100 - Gesamtausgabe mit Staffel 1 & 2 (Blu-ray)",
+      "title": "Mob Psycho 100 - Gesamtausgabe mit Season 1 & 2 (Blu-ray)",
       "handle": "26cr012-mob-psycho-gesamtausgabe-bluray",
       "published_at": "2026-01-13T19:10:54+01:00",
       "created_at": "2026-01-13T19:03:55+01:00",
@@ -154461,7 +154462,7 @@
     },
     {
       "id": 10705020158216,
-      "title": "Mob Psycho 100 - Gesamtausgabe mit Staffel 1 & 2 (DVD)",
+      "title": "Mob Psycho 100 - Gesamtausgabe mit Season 1 & 2 (DVD)",
       "handle": "26cr013-mob-psycho-gesamtausgabe-dvd",
       "published_at": "2026-01-13T19:10:54+01:00",
       "created_at": "2026-01-13T19:03:56+01:00",
@@ -155556,7 +155557,7 @@
     },
     {
       "id": 10785466646792,
-      "title": "My Hero Academia - Staffel 6 - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
+      "title": "My Hero Academia - Season 6 - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
       "handle": "26cr030-my-hero-academina-season-6-limited-bluray",
       "published_at": "2026-03-27T14:40:01+01:00",
       "created_at": "2026-03-05T14:06:18+01:00",
@@ -155619,7 +155620,7 @@
     },
     {
       "id": 10785475887368,
-      "title": "My Hero Academia - Staffel 6 - Vol. 2  (Blu-ray)",
+      "title": "My Hero Academia - Season 6 - Vol. 2 (Blu-ray)",
       "handle": "26cr031-my-hero-academia-staffel-6-bluray",
       "published_at": "2026-03-27T14:41:01+01:00",
       "created_at": "2026-03-05T14:11:52+01:00",
@@ -155683,7 +155684,7 @@
     },
     {
       "id": 10785482899720,
-      "title": "My Hero Academia - Staffel 6 - Vol. 3  (Blu-ray)",
+      "title": "My Hero Academia - Season 6 - Vol. 3 (Blu-ray)",
       "handle": "26cr032-my-hero-academia-staffel-6-bluray",
       "published_at": "2026-03-27T14:42:00+01:00",
       "created_at": "2026-03-05T14:17:16+01:00",
@@ -155746,7 +155747,7 @@
     },
     {
       "id": 10787129884936,
-      "title": "My Hero Academia - Staffel 6 - Vol. 4  (Blu-ray)",
+      "title": "My Hero Academia - Season 6 - Vol. 4 (Blu-ray)",
       "handle": "26cr033-my-hero-academia-staffel6-bluray",
       "published_at": "2026-05-18T17:38:03+02:00",
       "created_at": "2026-03-06T10:43:38+01:00",
@@ -155872,7 +155873,7 @@
     },
     {
       "id": 11121713414408,
-      "title": "Ranking of Kings -  Staffel 1 - Gesamtausgabe  (Blu-ray)",
+      "title": "Ranking of Kings - Season 1 - Gesamtausgabe (Blu-ray)",
       "handle": "26cr035-ranking-of-kings-season-1-gesamtausgabe-blu-ray",
       "published_at": "2026-03-23T11:52:40+01:00",
       "created_at": "2026-03-23T11:10:04+01:00",
@@ -155925,7 +155926,7 @@
     },
     {
       "id": 11121717182728,
-      "title": "Ranking of Kings - Staffel 1 - Gesamtausgabe (DVD)",
+      "title": "Ranking of Kings - Season 1 - Gesamtausgabe (DVD)",
       "handle": "26cr036-ranking-of-kings-season-1-gesamtausgabe-dvd",
       "published_at": "2026-03-23T11:52:40+01:00",
       "created_at": "2026-03-23T11:10:05+01:00",
@@ -155978,7 +155979,7 @@
     },
     {
       "id": 11122121998600,
-      "title": "Maken-Ki! Battling Venus - Staffel 1 - Gesamtausgabe (Blu-ray)",
+      "title": "Maken-Ki! Battling Venus - Season 1 - Gesamtausgabe (Blu-ray)",
       "handle": "26cr037-maken-ki-season-1-gesamtausgabe-blu-ray",
       "published_at": "2026-03-23T11:52:40+01:00",
       "created_at": "2026-03-23T11:23:51+01:00",
@@ -156031,7 +156032,7 @@
     },
     {
       "id": 11122122064136,
-      "title": "Maken-Ki! Battling Venus - Staffel 1 - Gesamtausgabe (DVD)",
+      "title": "Maken-Ki! Battling Venus - Season 1 - Gesamtausgabe (DVD)",
       "handle": "26cr038-maken-ki-gesammtausgabe-season-1-dvd",
       "published_at": "2026-03-23T11:52:39+01:00",
       "created_at": "2026-03-23T11:23:53+01:00",
@@ -156084,7 +156085,7 @@
     },
     {
       "id": 11122122129672,
-      "title": "Hells Paradise - Staffel 1 - Gesamtausgabe (Blu-ray)",
+      "title": "Hell's Paradise - Season 1 - Gesamtausgabe (Blu-ray)",
       "handle": "26cr039-hells-paradise-season-1-gesamtausgabe-blu-ray",
       "published_at": "2026-03-23T11:52:39+01:00",
       "created_at": "2026-03-23T11:23:54+01:00",
@@ -156137,7 +156138,7 @@
     },
     {
       "id": 11122142150920,
-      "title": "Hells Paradise - Staffel 1 - Gesamtausgabe (DVD)",
+      "title": "Hell's Paradise - Season 1 - Gesamtausgabe (DVD)",
       "handle": "26cr040-hells-paradise-season-1-gesamtausgabe-dvd",
       "published_at": "2026-03-23T11:52:39+01:00",
       "created_at": "2026-03-23T11:30:29+01:00",
@@ -156190,7 +156191,7 @@
     },
     {
       "id": 11122153619720,
-      "title": "Death Note - Staffel 1 & Relight  - Gesamtausgabe ohne Schuber (Blu-ray)",
+      "title": "Death Note - Season 1 & Relight - Gesamtausgabe ohne Schuber (Blu-ray)",
       "handle": "26cr041-death-note-season-1-and-relight-gesamtausgabe-ohne-schuber-blu-ray",
       "published_at": "2026-03-23T11:52:39+01:00",
       "created_at": "2026-03-23T11:36:53+01:00",
@@ -156243,7 +156244,7 @@
     },
     {
       "id": 11122716868872,
-      "title": "Blue Exorcist: Beyond the Snow Saga - Staffel 3 - Part 2 - Vol.2 (Blu-ray)",
+      "title": "Blue Exorcist: Beyond the Snow Saga - Season 3 - Part 2 - Vol. 2 (Blu-ray)",
       "handle": "26cr042-blue-exorcist-staffel-3-part-2-vol-2-blu-ray",
       "published_at": "2026-03-23T11:56:49+01:00",
       "created_at": "2026-03-23T11:49:27+01:00",
@@ -156317,7 +156318,7 @@
     },
     {
       "id": 11122716967176,
-      "title": "Blue Exorcist: Beyond the Snow Saga - Staffel 3 - Part 2 - Vol. 2 (DVD)",
+      "title": "Blue Exorcist: Beyond the Snow Saga - Season 3 - Part 2 - Vol. 2 (DVD)",
       "handle": "26cr043-blue-exorcist-staffel-3-part-2-vol-2-dvd",
       "published_at": "2026-03-23T11:56:49+01:00",
       "created_at": "2026-03-23T11:49:28+01:00",
@@ -156602,7 +156603,7 @@
     },
     {
       "id": 11929300762888,
-      "title": "Rent-a-Girlfriend - Staffel 3 - Gesamtausgabe (Blu-ray)",
+      "title": "Rent-a-Girlfriend - Season 3 - Gesamtausgabe (Blu-ray)",
       "handle": "26cr048-rent-a-girlfriend-season-3-gesamtausgabe-blu-ray",
       "published_at": "2026-04-21T11:06:02+02:00",
       "created_at": "2026-04-21T09:55:20+02:00",
@@ -156655,7 +156656,7 @@
     },
     {
       "id": 11929308496136,
-      "title": "Rent-a-Girlfriend - Staffel 3 - Gesamtausgabe (DVD)",
+      "title": "Rent-a-Girlfriend - Season 3 - Gesamtausgabe (DVD)",
       "handle": "26cr049-rent-a-girlfriend-season-3-gesamtausgabe-dvd",
       "published_at": "2026-07-02T17:51:56+02:00",
       "created_at": "2026-04-21T10:01:28+02:00",
@@ -156708,7 +156709,7 @@
     },
     {
       "id": 11929318228232,
-      "title": "Re:ZERO: Starting Life Another World - Staffel 2 - Gesamtausgabe mit Sammelschuber (Blu-ray)",
+      "title": "Re:ZERO - Starting Life in Another World - Season 2 - Gesamtausgabe mit Sammelschuber (Blu-ray)",
       "handle": "26cr050-re-zero-season-2-gesamtausgabe-blu-ray",
       "published_at": "2026-04-21T11:06:02+02:00",
       "created_at": "2026-04-21T10:08:35+02:00",
@@ -156761,7 +156762,7 @@
     },
     {
       "id": 11929318261000,
-      "title": "Re:ZERO: Starting Life Another World - Staffel 2 - Gesamtausgabe mit Sammelschuber (DVD)",
+      "title": "Re:ZERO - Starting Life in Another World - Season 2 - Gesamtausgabe mit Sammelschuber (DVD)",
       "handle": "26cr051-re-zero-season-2-gesamtausgabe-dvd",
       "published_at": "2026-06-24T10:04:00+02:00",
       "created_at": "2026-04-21T10:08:36+02:00",
@@ -156814,7 +156815,7 @@
     },
     {
       "id": 11929326190856,
-      "title": "Maken-Ki! Battling Venus - Staffel 2 - Gesamtausgabe (Blu-ray)",
+      "title": "Maken-Ki! Battling Venus - Season 2 - Gesamtausgabe (Blu-ray)",
       "handle": "26cr052-maken-ki-battling-venus-season-2-gesamtausgabe-blu-ray",
       "published_at": "2026-04-21T11:06:01+02:00",
       "created_at": "2026-04-21T10:15:05+02:00",
@@ -156867,7 +156868,7 @@
     },
     {
       "id": 11929326223624,
-      "title": "Maken-Ki! Battling Venus - Staffel 2 - Gesamtausgabe (DVD)",
+      "title": "Maken-Ki! Battling Venus - Season 2 - Gesamtausgabe (DVD)",
       "handle": "26cr053-maken-ki-battling-venus-season-2-gesamtausgabe-vd",
       "published_at": "2026-04-21T11:06:01+02:00",
       "created_at": "2026-04-21T10:15:07+02:00",
@@ -156920,7 +156921,7 @@
     },
     {
       "id": 11929331859720,
-      "title": "Corpse Princess - Staffel 2 - Gesamtausgabe  (Blu-ray)",
+      "title": "Corpse Princess - Season 2 - Gesamtausgabe (Blu-ray)",
       "handle": "26cr054-corpse-princess-season-2-gesamtausgabe-blu-ray",
       "published_at": "2026-04-21T11:06:01+02:00",
       "created_at": "2026-04-21T10:20:55+02:00",
@@ -156973,7 +156974,7 @@
     },
     {
       "id": 11929336807688,
-      "title": "Corpse Princess - Staffel 2 - Gesamtausgabe  (DVD)",
+      "title": "Corpse Princess - Season 2 - Gesamtausgabe (DVD)",
       "handle": "26cr055-corpse-princess-season-2-gesamtausgabe-dvd",
       "published_at": "2026-05-21T11:03:15+02:00",
       "created_at": "2026-04-21T10:26:51+02:00",
@@ -157026,7 +157027,7 @@
     },
     {
       "id": 11929341526280,
-      "title": "Black Clover - Staffel 1 - Gesamtausgabe (Blu-ray)",
+      "title": "Black Clover - Season 1 - Gesamtausgabe (Blu-ray)",
       "handle": "26cr056-black-clover-season-1-gesamtausgabe-blu-ray",
       "published_at": "2026-04-21T11:06:00+02:00",
       "created_at": "2026-04-21T10:32:41+02:00",
@@ -157079,7 +157080,7 @@
     },
     {
       "id": 11929348702472,
-      "title": "Black Clover - Staffel 2 - Gesamtausgabe (Blu-ray)",
+      "title": "Black Clover - Season 2 - Gesamtausgabe (Blu-ray)",
       "handle": "26cr057-black-clover-season-2-gesamtausgabe-blu-ray",
       "published_at": "2026-04-21T11:06:00+02:00",
       "created_at": "2026-04-21T10:38:29+02:00",
@@ -157132,7 +157133,7 @@
     },
     {
       "id": 11929348768008,
-      "title": "Black Clover - Staffel 1 - Gesamtausgabe (DVD)",
+      "title": "Black Clover - Season 1 - Gesamtausgabe (DVD)",
       "handle": "26cr058-black-clover-season-1-gesamtausgabe-dvd",
       "published_at": "2026-05-21T13:43:40+02:00",
       "created_at": "2026-04-21T10:38:30+02:00",
@@ -157185,7 +157186,7 @@
     },
     {
       "id": 11929352765704,
-      "title": "Black Clover - Staffel 2 - Gesamtausgabe (DVD)",
+      "title": "Black Clover - Season 2 - Gesamtausgabe (DVD)",
       "handle": "26cr059-black-clover-season-2-gesamtausgabe-dvd",
       "published_at": "2026-06-24T18:15:37+02:00",
       "created_at": "2026-04-21T10:44:17+02:00",
@@ -157238,7 +157239,7 @@
     },
     {
       "id": 11979247583496,
-      "title": "Dont Toy with me Miss Nagatoro - Season 2 - Gesamtausgabe (Blu-ray)",
+      "title": "Don't Toy with Me, Miss Nagatoro - Season 2 - Gesamtausgabe (Blu-ray)",
       "handle": "26cr060-dont-toy-with-me-miss-nagatoro-gesamtausgabe-bluray",
       "published_at": "2026-05-20T18:48:56+02:00",
       "created_at": "2026-05-20T18:21:53+02:00",
@@ -158001,7 +158002,7 @@
     },
     {
       "id": 12046811463944,
-      "title": "Black Clover - Staffel 3 - Gesamtausgabe (Blu-ray)",
+      "title": "Black Clover - Season 3 - Gesamtausgabe (Blu-ray)",
       "handle": "26cr079-black-clover-gesamtausgabe-bluray",
       "published_at": "2026-06-23T16:39:48+02:00",
       "created_at": "2026-06-23T14:59:08+02:00",
@@ -158052,7 +158053,7 @@
     },
     {
       "id": 12046811496712,
-      "title": "Black Clover - Staffel 3 - Gesamtausgabe (DVD)",
+      "title": "Black Clover - Season 3 - Gesamtausgabe (DVD)",
       "handle": "26cr080-black-clover-gesamtausgabe-dvd",
       "published_at": "2026-06-23T16:43:01+02:00",
       "created_at": "2026-06-23T14:59:10+02:00",
@@ -158103,7 +158104,7 @@
     },
     {
       "id": 12088491868424,
-      "title": "A Couple of Cuckoos - Staffel 1 - Gesamtausgabe ohne Schuber (Blu-ray)",
+      "title": "A Couple of Cuckoos - Season 1 - Gesamtausgabe ohne Schuber (Blu-ray)",
       "handle": "26cr081-a-couple-of-cuckoos-gesamtausgabe-ohne-schuber-bluray",
       "published_at": "2026-07-07T14:19:40+02:00",
       "created_at": "2026-07-07T13:01:04+02:00",
@@ -158154,7 +158155,7 @@
     },
     {
       "id": 12088482627848,
-      "title": "Blue Exorcist: The Blue Night Saga - Staffel 3 - Part 3 - Vol.1 - Limited Edition mit Sammelschuber (Blu-ray)",
+      "title": "Blue Exorcist: The Blue Night Saga - Season 3 - Part 3 - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
       "handle": "26cr082-blue-exorcist-staffel-3-part-3-vol-1-limited-edition-mit-sammelschuber-bluray",
       "published_at": "2026-07-07T14:19:41+02:00",
       "created_at": "2026-07-07T13:00:10+02:00",
@@ -158235,7 +158236,7 @@
     },
     {
       "id": 12088478433544,
-      "title": "Blue Exorcist: The Blue Night Saga - Staffel 3 - Part 3 - Vol.1 - Limited Edition mit Sammelschuber (DVD)",
+      "title": "Blue Exorcist: The Blue Night Saga - Season 3 - Part 3 - Vol. 1 - Limited Edition mit Sammelschuber (DVD)",
       "handle": "26cr083-blue-exorcist-staffel-3-part-3-vol-1-limited-edition-mit-sammelschuber-dvd",
       "published_at": "2026-07-07T14:19:41+02:00",
       "created_at": "2026-07-07T12:59:33+02:00",
@@ -158316,7 +158317,7 @@
     },
     {
       "id": 12088349589768,
-      "title": "Code Geass - Gesamtausgabe ohne Schuber - Staffel 1&2 (Blu-ray)",
+      "title": "Code Geass - Gesamtausgabe ohne Schuber - Season 1 & 2 (Blu-ray)",
       "handle": "26cr084-code-geass-gesamtausgabe-bluray",
       "published_at": "2026-07-07T14:19:44+02:00",
       "created_at": "2026-07-07T11:36:52+02:00",
@@ -158334,7 +158335,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "79.90",
           "grams": 291,
           "compare_at_price": "79.90",
@@ -158367,7 +158368,7 @@
     },
     {
       "id": 12088474796296,
-      "title": "Code Geass - Gesamtausgabe ohne Schuber - Staffel 1&2 (DVD)",
+      "title": "Code Geass - Gesamtausgabe ohne Schuber - Season 1 & 2 (DVD)",
       "handle": "26cr085-code-geass-gesamtausgabe-ohne-schuber-dvd",
       "published_at": "2026-07-07T14:19:41+02:00",
       "created_at": "2026-07-07T12:59:01+02:00",
@@ -158385,7 +158386,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "49.90",
           "grams": 769,
           "compare_at_price": "49.90",
@@ -158501,7 +158502,7 @@
     },
     {
       "id": 12088467915016,
-      "title": "Princess Principal - Staffel 1 + OVAs - Gesamtausgabe ohne Schuber (Blu-ray)",
+      "title": "Princess Principal - Season 1 + OVAs - Gesamtausgabe ohne Schuber (Blu-ray)",
       "handle": "26cr089-princess-principal-gesamtausgabe-ohne-schuber-bluray",
       "published_at": "2026-07-07T14:19:42+02:00",
       "created_at": "2026-07-07T12:57:59+02:00",
@@ -158552,7 +158553,7 @@
     },
     {
       "id": 12088460869896,
-      "title": "Princess Principal - Staffel 1 + OVAs - Gesamtausgabe ohne Schuber (DVD)",
+      "title": "Princess Principal - Season 1 + OVAs - Gesamtausgabe ohne Schuber (DVD)",
       "handle": "26cr090-princess-principal-gesamtausgabe-ohne-schuber-dvd",
       "published_at": "2026-07-07T14:19:42+02:00",
       "created_at": "2026-07-07T12:56:45+02:00",
@@ -158570,7 +158571,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "39.90",
           "grams": 625,
           "compare_at_price": "39.90",
@@ -158603,7 +158604,7 @@
     },
     {
       "id": 12088407982344,
-      "title": "Ron Kamonohashi's Forbidden Deductions - Meisterdetektiv Ron Kamonohashi - Staffel 2 - Vol.1 - Limited Edition mit Sammelschuber (Blu-ray)",
+      "title": "Ron Kamonohashi's Forbidden Deductions - Meisterdetektiv Ron Kamonohashi - Season 2 - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
       "handle": "26cr091-ron-kqmonohashis-forbidden-deductions-limited-bluray",
       "published_at": "2026-07-07T14:19:44+02:00",
       "created_at": "2026-07-07T12:14:54+02:00",
@@ -158621,7 +158622,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "44.90",
           "grams": 217,
           "compare_at_price": "44.90",
@@ -158961,7 +158962,7 @@
     },
     {
       "id": 12088454021384,
-      "title": "Attack on Titan - Final Season - Gesamtausgabe -Limited Edition mit Steelbook (Blu-ray)",
+      "title": "Attack on Titan: Final Season - Season 4 - Gesamtausgabe - Limited Edition mit Steelbook (Blu-ray)",
       "handle": "26cr097-attack-on-titan-final-steelbook-bluray-newedition",
       "published_at": "2026-07-07T14:19:44+02:00",
       "created_at": "2026-07-07T12:53:30+02:00",
@@ -159032,7 +159033,7 @@
     },
     {
       "id": 12155548795144,
-      "title": "My Hero Academia - Staffel 6 - Gesamtausgabe (Blu-ray)",
+      "title": "My Hero Academia - Season 6 - Gesamtausgabe (Blu-ray)",
       "handle": "26cr108-my-hero-academia-staffel-6-gesamtausgabe-blu-ray",
       "published_at": "2026-08-06T16:28:42+02:00",
       "created_at": "2026-08-06T11:25:07+02:00",
@@ -159085,7 +159086,7 @@
     },
     {
       "id": 12155560132872,
-      "title": "My Hero Academia - Staffel 6 - Gesamtausgabe (DVD)",
+      "title": "My Hero Academia - Season 6 - Gesamtausgabe (DVD)",
       "handle": "26cr109-my-hero-academia-staffel-6-gesamtausgabe-dvd",
       "published_at": "2026-08-06T16:28:43+02:00",
       "created_at": "2026-08-06T11:30:08+02:00",
@@ -159136,7 +159137,7 @@
     },
     {
       "id": 12155583725832,
-      "title": "My Next Life as a Villainess - Staffel 2 - Gesamtausgabe - Bundle mit Vol. 1-2 (Blu-ray)",
+      "title": "My Next Life as a Villainess - Season 2 - Gesamtausgabe - Bundle mit Vol. 1-2 (Blu-ray)",
       "handle": "26cr110-my-next-life-as-a-villainess-staffel-2-gesamtausgabe-blu-ray",
       "published_at": "2026-08-06T16:28:42+02:00",
       "created_at": "2026-08-06T11:38:54+02:00",
@@ -159189,7 +159190,7 @@
     },
     {
       "id": 12155591131400,
-      "title": "My Next Life as a Villainess - Staffel 2 - Gesamtausgabe - Bundle mit Vol. 1-2 (DVD)",
+      "title": "My Next Life as a Villainess - Season 2 - Gesamtausgabe - Bundle mit Vol. 1-2 (DVD)",
       "handle": "26cr111-my-next-life-as-a-villainess-staffel-2-gesamtausgabe-dvd",
       "published_at": "2026-08-06T16:28:41+02:00",
       "created_at": "2026-08-06T11:40:49+02:00",
@@ -159242,7 +159243,7 @@
     },
     {
       "id": 12155613020424,
-      "title": "Rent-a-Girlfriend - Staffel 4 - Gesamtausgabe (Blu-ray)",
+      "title": "Rent-a-Girlfriend - Season 4 - Gesamtausgabe (Blu-ray)",
       "handle": "26cr112-rent-a-girlfriend-staffel-4-gesamtausgabe-blu-ray",
       "published_at": "2026-08-06T16:28:41+02:00",
       "created_at": "2026-08-06T11:47:43+02:00",
@@ -166070,7 +166071,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "99.90",
           "grams": 240,
           "compare_at_price": "99.90",
@@ -167226,22 +167227,22 @@
       ],
       "images": [
         {
-          "id": 88626023530760,
-          "created_at": "2026-11-13T17:18:46+01:00",
+          "id": 88683831165192,
+          "created_at": "2026-11-16T14:36:40+01:00",
           "position": 1,
           "product_id": 12459438473480,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/digimon-frontier-komplette-serie-blu-ray-standard-edition-653.webp?v=1794586726",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/Digimon_Frontier_BD_v1.png?v=1794836205",
           "width": 2500,
           "height": 2500
         },
         {
-          "id": 88626027987208,
-          "created_at": "2026-11-13T17:18:57+01:00",
+          "id": 88683831132424,
+          "created_at": "2026-11-16T14:36:40+01:00",
           "position": 2,
           "product_id": 12459438473480,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/digimon-frontier-komplette-serie-blu-ray-standard-edition-677.webp?v=1794586737",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/Digimon_Frontier_BD_Front_v1.png?v=1794836205",
           "width": 2500,
           "height": 2500
         }
@@ -179628,6 +179629,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -179641,7 +179643,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "49.90",
           "grams": 242,
           "compare_at_price": "49.90",
@@ -197340,7 +197342,7 @@
     },
     {
       "id": 12155331674376,
-      "title": "Black Butler: Emerald Witch Arc - Staffel 5 - Vol.1 - Limited Edition mit Sammelschuber (DVD)",
+      "title": "Black Butler: Emerald Witch Arc - Season 5 - Vol. 1 - Limited Edition mit Sammelschuber (DVD)",
       "handle": "black-butler-emerald-witch-arc-staffel-4-vol-1-limited-edition-mit-samelschuber-dvd",
       "published_at": "2026-08-06T16:28:45+02:00",
       "created_at": "2026-08-06T09:58:22+02:00",
@@ -197421,7 +197423,7 @@
     },
     {
       "id": 12155310506248,
-      "title": "Black Butler: Emerald Witch Arc - Staffel 5 - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
+      "title": "Black Butler: Emerald Witch Arc - Season 5 - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
       "handle": "black-butler-emerald-witch-arc-staffel-4-vol-1-limited-edition-mit-sammelschuber-blu-ray",
       "published_at": "2026-08-06T16:28:45+02:00",
       "created_at": "2026-08-06T09:51:39+02:00",
@@ -197719,7 +197721,7 @@
     },
     {
       "id": 12155349205256,
-      "title": "Blue Exorcist: The Blue Night Saga - Staffel 3 - Part 3 - Vol. 2 (Blu-ray)",
+      "title": "Blue Exorcist: The Blue Night Saga - Season 3 - Part 3 - Vol. 2 (Blu-ray)",
       "handle": "blue-exorcist-the-blue-night-saga-staffel-3-part-3-vol-2-blu-ray",
       "published_at": "2026-08-06T16:28:44+02:00",
       "created_at": "2026-08-06T10:07:13+02:00",
@@ -197792,7 +197794,7 @@
     },
     {
       "id": 12155360903432,
-      "title": "Blue Exorcist: The Blue Night Saga - Staffel 3 - Part 3 - Vol.2 (DVD)",
+      "title": "Blue Exorcist: The Blue Night Saga - Season 3 - Part 3 - Vol. 2 (DVD)",
       "handle": "blue-exorcist-the-blue-night-saga-staffel-3-part-3-vol-2-dvd",
       "published_at": "2026-08-06T16:28:44+02:00",
       "created_at": "2026-08-06T10:11:42+02:00",
@@ -199102,7 +199104,7 @@
     },
     {
       "id": 12155369586952,
-      "title": "Chainsaw Man - Staffel 1 - Gesamtausgabe - Bundle mit Vol.1-2 (Blu-ray)",
+      "title": "Chainsaw Man - Season 1 - Gesamtausgabe - Bundle mit Vol. 1-2 (Blu-ray)",
       "handle": "chainsaw-man-staffel-1-gesamtausgabe-bundle-mit-vol-1-2-blu-ray",
       "published_at": "2026-08-06T16:28:44+02:00",
       "created_at": "2026-08-06T10:18:24+02:00",
@@ -199153,7 +199155,7 @@
     },
     {
       "id": 12155379941640,
-      "title": "Chainsaw Man - Staffel 1 - Gesamtausgabe - Bundle mit Vol.1-2 (DVD)",
+      "title": "Chainsaw Man - Season 1 - Gesamtausgabe - Bundle mit Vol. 1-2 (DVD)",
       "handle": "chainsaw-man-staffel-1-gesamtausgabe-bundle-mit-vol-1-2-dvd",
       "published_at": "2026-08-06T16:28:44+02:00",
       "created_at": "2026-08-06T10:22:08+02:00",
@@ -199171,7 +199173,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "49.90",
           "grams": 0,
           "compare_at_price": "49.00",
@@ -202168,7 +202170,7 @@
     },
     {
       "id": 12155389542664,
-      "title": "Dr. Stone: Science Future - Staffel 4 - Part 1 mit Sammelschuber (Blu-ray)",
+      "title": "Dr. Stone: Science Future - Season 4 - Part 1 mit Sammelschuber (Blu-ray)",
       "handle": "dr-stone-science-future-staffel-4-part-1-mit-sammelschuber-blu-ray",
       "published_at": "2026-08-06T16:28:43+02:00",
       "created_at": "2026-08-06T10:27:43+02:00",
@@ -213126,7 +213128,7 @@
     },
     {
       "id": 12088467095816,
-      "title": "My Hero Academia: Vigilantes - Staffel 1 - Gesamtausgabe (Blu-ray)",
+      "title": "My Hero Academia: Vigilantes - Season 1 - Gesamtausgabe (Blu-ray)",
       "handle": "my-hero-academia-vigilantes-staffel-1-gesamtausgabe-bluray",
       "published_at": "2026-07-07T14:19:42+02:00",
       "created_at": "2026-07-07T12:57:51+02:00",
@@ -214021,7 +214023,7 @@
     },
     {
       "id": 10261420015880,
-      "title": "Code Geass: Lelouch of the Rebellion R2 - Staffel 2 - Gesamtausgabe (DVD)",
+      "title": "Code Geass: Lelouch of the Rebellion R2 - Season 2 - Gesamtausgabe (DVD)",
       "handle": "p-24a014",
       "published_at": "2025-05-28T16:28:29+02:00",
       "created_at": "2025-05-28T15:50:28+02:00",
@@ -214077,7 +214079,7 @@
     },
     {
       "id": 10251290280200,
-      "title": "Chainsaw Man - Staffel 1 - Vol.2 - Limited Edition (DVD)",
+      "title": "Chainsaw Man - Season 1 - Vol. 2 - Limited Edition (DVD)",
       "handle": "p-24a017",
       "published_at": "2026-07-03T00:28:58+02:00",
       "created_at": "2025-05-24T14:39:39+02:00",
@@ -214133,7 +214135,7 @@
     },
     {
       "id": 10261420966152,
-      "title": "Hell's Paradise - Staffel 1 - Vol.2 (DVD)",
+      "title": "Hell's Paradise - Season 1 - Vol. 2 (DVD)",
       "handle": "p-24a025",
       "published_at": "2025-05-28T16:28:26+02:00",
       "created_at": "2025-05-28T15:50:46+02:00",
@@ -214239,7 +214241,7 @@
     },
     {
       "id": 10251295326472,
-      "title": "Dagashi Kashi - Staffel 1 - Gesamtausgabe - Bundle Vol.1-2 - DVD",
+      "title": "Dagashi Kashi - Season 1 - Gesamtausgabe - Bundle mit Vol. 1-2 (DVD)",
       "handle": "p-24a053",
       "published_at": "2025-05-30T17:11:02+02:00",
       "created_at": "2025-05-24T14:42:24+02:00",
@@ -215373,7 +215375,7 @@
     },
     {
       "id": 10261558165768,
-      "title": "Chainsaw Man - Chibi Design 1 (Anhänger)",
+      "title": "Chainsaw Man - Chibi - Anhänger - Denji",
       "handle": "p-25crm002_chainsawman_acryl",
       "published_at": "2025-05-28T16:39:26+02:00",
       "created_at": "2025-05-28T16:30:28+02:00",
@@ -215428,7 +215430,7 @@
     },
     {
       "id": 10261558264072,
-      "title": "Chainsaw Man - Chibi Design 2 (Anhänger)",
+      "title": "Chainsaw Man - Chibi - Anhänger - Chainsaw Man",
       "handle": "p-25crm003_chainsawman_acryl",
       "published_at": "2025-05-28T16:39:26+02:00",
       "created_at": "2025-05-28T16:30:30+02:00",
@@ -215483,7 +215485,7 @@
     },
     {
       "id": 10261558362376,
-      "title": "Chainsaw Man - Chibi Design 3 (Anhänger)",
+      "title": "Chainsaw Man - Chibi - Anhänger - Power",
       "handle": "p-25crm004_chainsawman_acryl",
       "published_at": "2025-05-28T16:39:25+02:00",
       "created_at": "2025-05-28T16:30:32+02:00",
@@ -215538,7 +215540,7 @@
     },
     {
       "id": 10261558460680,
-      "title": "Chainsaw Man - Chibi Design 4 (Anhänger)",
+      "title": "Chainsaw Man - Chibi - Anhänger - Pochita",
       "handle": "p-25crm005_chainsawman_acryl",
       "published_at": "2025-05-28T16:39:25+02:00",
       "created_at": "2025-05-28T16:30:33+02:00",
@@ -215861,7 +215863,7 @@
     },
     {
       "id": 10261559312648,
-      "title": "Kaiju No.8 - Acryl Block",
+      "title": "Kaiju No. 8 - Acrylblock",
       "handle": "p-25crm011_kaijuno8_acryl",
       "published_at": "2026-07-01T16:14:49+02:00",
       "created_at": "2025-05-28T16:30:51+02:00",
@@ -215971,7 +215973,7 @@
     },
     {
       "id": 10261559410952,
-      "title": "Kaiju No.8 - Kissen",
+      "title": "Kaiju No. 8 - Kissen",
       "handle": "p-25crm013_kaijuno8_kissen",
       "published_at": "2025-05-28T16:39:21+02:00",
       "created_at": "2025-05-28T16:30:54+02:00",
@@ -216025,7 +216027,7 @@
     },
     {
       "id": 10261559509256,
-      "title": "Re:Zero - Motiv 1 - Kissen",
+      "title": "Re:ZERO - Kissen - Motiv 1",
       "handle": "p-25crm014_rezero_kissen",
       "published_at": "2025-05-28T16:39:21+02:00",
       "created_at": "2025-05-28T16:30:56+02:00",
@@ -216079,7 +216081,7 @@
     },
     {
       "id": 10261559640328,
-      "title": "Re:Zero - Rem 3D - Kissen",
+      "title": "Re:ZERO - 3D Kissen - Rem",
       "handle": "p-25crm015_rezero_kissen",
       "published_at": "2025-05-28T16:39:21+02:00",
       "created_at": "2025-05-28T16:30:57+02:00",
@@ -216133,7 +216135,7 @@
     },
     {
       "id": 10261560033544,
-      "title": "Re:Zero - Notizbuch",
+      "title": "Re:ZERO - Notizbuch",
       "handle": "p-25crm016_rezero_notizbuch",
       "published_at": "2025-05-28T16:39:19+02:00",
       "created_at": "2025-05-28T16:31:07+02:00",
@@ -216187,7 +216189,7 @@
     },
     {
       "id": 10261560656136,
-      "title": "Kaiju No.8 - Motiv 1 - Tasse",
+      "title": "Kaiju No. 8 - Tasse - Motiv 1",
       "handle": "p-25crm017_kaijuno8_tasse",
       "published_at": "2025-05-28T16:39:17+02:00",
       "created_at": "2025-05-28T16:31:20+02:00",
@@ -216240,7 +216242,7 @@
     },
     {
       "id": 10261560885512,
-      "title": "Kaiju No.8 - Motiv 2 - Tasse",
+      "title": "Kaiju No. 8 - Tasse - Motiv 2",
       "handle": "p-25crm018_kaijuno8_tasse",
       "published_at": "2025-05-28T16:39:16+02:00",
       "created_at": "2025-05-28T16:31:22+02:00",
