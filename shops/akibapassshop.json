@@ -77787,6 +77787,7 @@
       "tags": [
         "Anime",
         "Crunchyroll",
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -77800,7 +77801,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "14.90",
           "grams": 183,
           "compare_at_price": "29.90",
@@ -158116,7 +158117,9 @@
       "created_at": "2026-07-07T13:00:10+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:ArtikelstatusAktiv"
+      ],
       "variants": [
         {
           "id": 58174905712904,
@@ -158128,7 +158131,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "44.90",
           "grams": 265,
           "compare_at_price": "44.90",
@@ -160582,9 +160585,9 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "39.90",
-          "grams": 0,
+          "grams": 210,
           "compare_at_price": "39.90",
           "position": 1,
           "product_id": 12205914226952,
@@ -164331,6 +164334,7 @@
       "vendor": "Hardball Films",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -164346,7 +164350,7 @@
           "featured_image": null,
           "available": true,
           "price": "69.90",
-          "grams": 0,
+          "grams": 360,
           "compare_at_price": "69.90",
           "position": 1,
           "product_id": 12332157272328,
@@ -164450,9 +164454,9 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "69.90",
-          "grams": 0,
+          "grams": 680,
           "compare_at_price": "69.90",
           "position": 1,
           "product_id": 12332157567240,
@@ -164556,9 +164560,9 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "69.90",
-          "grams": 0,
+          "grams": 340,
           "compare_at_price": "69.90",
           "position": 1,
           "product_id": 12332157960456,
@@ -164649,6 +164653,7 @@
       "vendor": "Hardball Films",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -164664,7 +164669,7 @@
           "featured_image": null,
           "available": true,
           "price": "69.90",
-          "grams": 0,
+          "grams": 380,
           "compare_at_price": "69.90",
           "position": 1,
           "product_id": 12332157894920,
@@ -212837,7 +212842,9 @@
       "created_at": "2026-08-06T10:49:10+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:ArtikelstatusAktiv"
+      ],
       "variants": [
         {
           "id": 58377641230600,
@@ -212849,7 +212856,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "19.90",
           "grams": 75,
           "compare_at_price": "19.00",
