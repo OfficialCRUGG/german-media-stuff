@@ -15570,6 +15570,265 @@
       ]
     },
     {
+      "id": 15503902572597,
+      "title": "Die Tribute von Panem - Sunrise on the Reaping",
+      "handle": "die-tribute-von-panem-sunrise-on-the-reaping",
+      "published_at": "2026-11-17T09:41:12+01:00",
+      "created_at": "2026-11-17T09:36:20+01:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "DVD",
+      "tags": [
+        "Action & Thriller",
+        "DVD",
+        "preorder",
+        "Serien"
+      ],
+      "variants": [
+        {
+          "id": 68006034178101,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00803",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "14.99",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15503902572597,
+          "created_at": "2026-11-17T09:36:20+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39515541471285,
+          "created_at": "2026-11-17T09:37:10+01:00",
+          "position": 1,
+          "product_id": 15503902572597,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122964180701jpg-248066.jpg?v=1794904631",
+          "width": 1455,
+          "height": 2048
+        },
+        {
+          "id": 39515541569589,
+          "created_at": "2026-11-17T09:37:14+01:00",
+          "position": 2,
+          "product_id": 15503902572597,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122964180702png-248117.png?v=1794904637",
+          "width": 1200,
+          "height": 1879
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15503902310453,
+      "title": "Die Tribute von Panem - Sunrise on the Reaping 4K UHD + Blu-ray",
+      "handle": "die-tribute-von-panem-sunrise-on-the-reaping-4k-uhd-blu-ray",
+      "published_at": "2026-11-17T09:40:11+01:00",
+      "created_at": "2026-11-17T09:36:09+01:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "4K UHD",
+      "tags": [
+        "4K",
+        "4K UHD",
+        "Action & Thriller",
+        "Blu-ray",
+        "preorder",
+        "Serien"
+      ],
+      "variants": [
+        {
+          "id": 68006033915957,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00801",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "29.99",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15503902310453,
+          "created_at": "2026-11-17T09:36:09+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39515540815925,
+          "created_at": "2026-11-17T09:36:50+01:00",
+          "position": 1,
+          "product_id": 15503902310453,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122964189001jpg-247658.jpg?v=1794904611",
+          "width": 1500,
+          "height": 1915
+        },
+        {
+          "id": 39515540946997,
+          "created_at": "2026-11-17T09:36:54+01:00",
+          "position": 2,
+          "product_id": 15503902310453,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122964189002png-247677.png?v=1794904617",
+          "width": 1172,
+          "height": 1680
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15503902244917,
+      "title": "Die Tribute von Panem - Sunrise on the Reaping 4K UHD + Blu-ray Lim. Steelbook",
+      "handle": "die-tribute-von-panem-sunrise-on-the-reaping-4k-uhd-blu-ray-lim-steelbook",
+      "published_at": "2026-11-17T09:39:40+01:00",
+      "created_at": "2026-11-17T09:36:07+01:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "4K UHD",
+      "tags": [
+        "4K",
+        "4K UHD",
+        "Action & Thriller",
+        "Blu-ray",
+        "preorder",
+        "Serien",
+        "Steelbooks"
+      ],
+      "variants": [
+        {
+          "id": 68006033850421,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00800",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "34.99",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15503902244917,
+          "created_at": "2026-11-17T09:36:07+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39515540684853,
+          "created_at": "2026-11-17T09:36:46+01:00",
+          "position": 1,
+          "product_id": 15503902244917,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122964187601jpg-247556.jpg?v=1794904607",
+          "width": 2048,
+          "height": 1365
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15503902507061,
+      "title": "Die Tribute von Panem - Sunrise on the Reaping Blu-ray",
+      "handle": "die-tribute-von-panem-sunrise-on-the-reaping-blu-ray",
+      "published_at": "2026-11-17T09:40:44+01:00",
+      "created_at": "2026-11-17T09:36:18+01:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "Action & Thriller",
+        "Blu-ray",
+        "preorder",
+        "Serien"
+      ],
+      "variants": [
+        {
+          "id": 68006034112565,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00802",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "17.99",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15503902507061,
+          "created_at": "2026-11-17T09:36:18+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39515541176373,
+          "created_at": "2026-11-17T09:37:00+01:00",
+          "position": 1,
+          "product_id": 15503902507061,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122964181401jpg-247862.jpg?v=1794904621",
+          "width": 1500,
+          "height": 1915
+        },
+        {
+          "id": 39515541307445,
+          "created_at": "2026-11-17T09:37:04+01:00",
+          "position": 2,
+          "product_id": 15503902507061,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122964181402png-247913.png?v=1794904627",
+          "width": 1172,
+          "height": 1680
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 7794859966517,
       "title": "Die Tribute von Panem - The Ballad Of Songbirds… 4K UHD + Blu-ray",
       "handle": "die-tribute-von-panem-the-ballad-of-songbirds-and-snakes-uhd-bd",
