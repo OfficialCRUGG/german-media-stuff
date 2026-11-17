@@ -86818,6 +86818,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Flow:ArtikelstatusAktiv",
         "KSM Anime",
         "Online"
       ],
@@ -86832,7 +86833,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "69.90",
           "grams": 190,
           "compare_at_price": "64.90",
@@ -86874,6 +86875,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Flow:ArtikelstatusAktiv",
         "KSM Anime",
         "Online"
       ],
@@ -86888,7 +86890,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "69.90",
           "grams": 190,
           "compare_at_price": "64.90",
@@ -134449,6 +134451,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Flow:ArtikelstatusAktiv",
         "Girls Love",
         "KSM Anime",
         "Online"
@@ -134464,7 +134467,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "49.90",
           "grams": 120,
           "compare_at_price": "49.90",
@@ -135001,6 +135004,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -135014,7 +135018,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "69.90",
           "grams": 180,
           "compare_at_price": "69.90",
@@ -135320,6 +135324,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -135333,7 +135338,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "29.90",
           "grams": 270,
           "compare_at_price": "29.90",
@@ -165709,6 +165714,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -165722,7 +165728,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "79.90",
           "grams": 218,
           "compare_at_price": "79.90",
@@ -166059,6 +166065,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -166072,7 +166079,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "27.90",
           "grams": 120,
           "compare_at_price": "27.90",
