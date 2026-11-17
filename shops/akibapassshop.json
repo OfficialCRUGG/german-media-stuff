@@ -134676,6 +134676,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Flow:ArtikelstatusAktiv",
         "Isekai",
         "KSM Anime",
         "Online"
@@ -134691,7 +134692,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "79.90",
           "grams": 150,
           "compare_at_price": "79.90",
@@ -136124,6 +136125,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -136137,7 +136139,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "29.90",
           "grams": 120,
           "compare_at_price": "29.90",
@@ -165287,6 +165289,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -165300,7 +165303,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "34.90",
           "grams": 250,
           "compare_at_price": "34.90",
