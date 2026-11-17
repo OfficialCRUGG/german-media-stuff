@@ -38602,7 +38602,7 @@
               44561776050441
             ]
           },
-          "available": false,
+          "available": true,
           "price": "42.99",
           "grams": 400,
           "compare_at_price": null,
