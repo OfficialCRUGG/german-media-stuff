@@ -299,7 +299,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "4.90",
           "grams": 100,
           "compare_at_price": "9.90",
@@ -26376,7 +26376,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "4.90",
           "grams": 110,
           "compare_at_price": "12.90",
@@ -131089,7 +131089,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "9.90",
           "grams": 0,
           "compare_at_price": "19.90",
@@ -167574,6 +167574,7 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
         "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
@@ -170605,7 +170606,6 @@
       "vendor": "Leonine Anime",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -170619,7 +170619,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "24.90",
           "grams": 80,
           "compare_at_price": "24.90",
