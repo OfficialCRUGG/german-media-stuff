@@ -57681,7 +57681,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "7.90",
           "grams": 794,
           "compare_at_price": "29.90",
@@ -95716,7 +95716,6 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Frisch eingetroffen",
         "Handtuch",
         "Online",
@@ -95734,7 +95733,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "15.90",
           "grams": 470,
           "compare_at_price": "29.90",
@@ -96324,7 +96323,6 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Online",
         "sale-november-2026",
         "Tasse"
@@ -96340,7 +96338,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "7.90",
           "grams": 350,
           "compare_at_price": "14.90",
@@ -96380,7 +96378,6 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Online",
         "sale-november-2026",
         "Tasse"
@@ -96396,7 +96393,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "7.90",
           "grams": 350,
           "compare_at_price": "14.90",
@@ -144540,7 +144537,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "4.90",
           "grams": 110,
           "compare_at_price": "12.90",
@@ -144979,6 +144976,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Frisch eingetroffen",
         "Online"
       ],
@@ -144993,7 +144991,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "8.90",
           "grams": 20,
           "compare_at_price": "8.90",
@@ -145033,6 +145031,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Frisch eingetroffen",
         "Online"
       ],
@@ -145047,7 +145046,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "8.90",
           "grams": 20,
           "compare_at_price": "8.90",
@@ -166154,7 +166153,6 @@
       "vendor": "Hardball Films",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -166168,7 +166166,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "69.90",
           "grams": 340,
           "compare_at_price": "69.90",
@@ -223920,7 +223918,6 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Handtuch",
         "Online",
         "sale-november-2026",
@@ -223937,7 +223934,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "15.90",
           "grams": 0,
           "compare_at_price": "22.90",
