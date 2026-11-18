@@ -5578,7 +5578,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "4.90",
           "grams": 0,
           "compare_at_price": "9.90",
@@ -26262,7 +26262,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "4.90",
           "grams": 110,
           "compare_at_price": "12.90",
@@ -32651,7 +32651,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "1.90",
           "grams": 130,
           "compare_at_price": "4.90",
@@ -57613,7 +57613,6 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Online",
         "sale-november-2026"
       ],
@@ -57628,7 +57627,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "9.90",
           "grams": 407,
           "compare_at_price": "29.90",
@@ -72603,7 +72602,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "19.90",
           "grams": 212,
           "compare_at_price": "29.90",
@@ -73832,7 +73831,7 @@
           "available": true,
           "price": "39.90",
           "grams": 100,
-          "compare_at_price": "49.90",
+          "compare_at_price": "69.90",
           "position": 1,
           "product_id": 10261420540168,
           "created_at": "2025-05-28T15:50:37+02:00"
@@ -74343,7 +74342,7 @@
           "available": false,
           "price": "24.90",
           "grams": 291,
-          "compare_at_price": "29.90",
+          "compare_at_price": "44.90",
           "position": 1,
           "product_id": 10261421326600,
           "created_at": "2025-05-28T15:50:53+02:00"
@@ -75766,7 +75765,7 @@
           "available": true,
           "price": "21.90",
           "grams": 149,
-          "compare_at_price": "24.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261425193224,
           "created_at": "2025-05-28T15:52:20+02:00"
@@ -76865,8 +76864,8 @@
           "featured_image": null,
           "available": true,
           "price": "6.90",
-          "grams": 144,
-          "compare_at_price": "9.90",
+          "grams": 150,
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261432008968,
           "created_at": "2025-05-28T15:53:36+02:00"
@@ -78663,7 +78662,7 @@
           "available": false,
           "price": "21.90",
           "grams": 149,
-          "compare_at_price": "24.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261437546760,
           "created_at": "2025-05-28T15:54:25+02:00"
@@ -82021,7 +82020,7 @@
           "available": true,
           "price": "19.90",
           "grams": 408,
-          "compare_at_price": "29.90",
+          "compare_at_price": "49.90",
           "position": 1,
           "product_id": 10261474312456,
           "created_at": "2025-05-28T16:01:04+02:00"
@@ -83296,7 +83295,7 @@
           "available": false,
           "price": "21.90",
           "grams": 150,
-          "compare_at_price": "24.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261475721480,
           "created_at": "2025-05-28T16:01:44+02:00"
@@ -84171,7 +84170,7 @@
           "available": false,
           "price": "21.90",
           "grams": 323,
-          "compare_at_price": "34.90",
+          "compare_at_price": "44.90",
           "position": 1,
           "product_id": 10261476638984,
           "created_at": "2025-05-28T16:02:09+02:00"
@@ -85726,6 +85725,7 @@
       "tags": [
         "Anime",
         "Crunchyroll",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "sale-november-2026",
         "Sammelschuber"
@@ -85741,10 +85741,10 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "27.90",
           "grams": 296,
-          "compare_at_price": "34.90",
+          "compare_at_price": "44.90",
           "position": 1,
           "product_id": 10261477916936,
           "created_at": "2025-05-28T16:02:51+02:00"
@@ -88639,6 +88639,7 @@
         "Anime",
         "Drama",
         "Film Confect",
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -88652,7 +88653,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "4.90",
           "grams": 97,
           "compare_at_price": "12.90",
@@ -92312,6 +92313,7 @@
         "Action",
         "Anime",
         "Crunchyroll",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "sale-november-2026"
       ],
@@ -92326,10 +92328,10 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "39.90",
           "grams": 99,
-          "compare_at_price": "49.90",
+          "compare_at_price": "69.90",
           "position": 1,
           "product_id": 10261508718856,
           "created_at": "2025-05-28T16:16:06+02:00"
@@ -93752,7 +93754,7 @@
           "available": false,
           "price": "22.90",
           "grams": 140,
-          "compare_at_price": "29.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261515501832,
           "created_at": "2025-05-28T16:17:45+02:00"
@@ -93886,6 +93888,7 @@
         "Action",
         "Anime",
         "Crunchyroll",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "sale-november-2026"
       ],
@@ -93900,10 +93903,10 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "24.90",
           "grams": 173,
-          "compare_at_price": "29.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261515731208,
           "created_at": "2025-05-28T16:17:48+02:00"
@@ -111367,7 +111370,7 @@
           "available": false,
           "price": "22.90",
           "grams": 146,
-          "compare_at_price": "29.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261534048520,
           "created_at": "2025-05-28T16:23:52+02:00"
@@ -112930,6 +112933,7 @@
         "Action",
         "Anime",
         "Crunchyroll",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "sale-november-2026"
       ],
@@ -112944,10 +112948,10 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "22.90",
           "grams": 134,
-          "compare_at_price": "29.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261536637192,
           "created_at": "2025-05-28T16:24:33+02:00"
@@ -114528,6 +114532,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "sale-november-2026"
       ],
@@ -114542,10 +114547,10 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "24.90",
           "grams": 166,
-          "compare_at_price": "29.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261539193096,
           "created_at": "2025-05-28T16:25:10+02:00"
@@ -116135,6 +116140,7 @@
       "tags": [
         "Anime",
         "Crunchyroll",
+        "Flow:ArtikelstatusAktiv",
         "Isekai",
         "Online",
         "sale-november-2026"
@@ -116150,7 +116156,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "41.90",
           "grams": 393,
           "compare_at_price": "59.90",
@@ -119742,6 +119748,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "sale-november-2026"
       ],
@@ -119756,10 +119763,10 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "6.90",
-          "grams": 133,
-          "compare_at_price": "9.90",
+          "grams": 140,
+          "compare_at_price": "29.90",
           "position": 1,
           "product_id": 10270605771016,
           "created_at": "2025-05-30T16:11:33+02:00"
@@ -119796,6 +119803,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "sale-november-2026"
       ],
@@ -119810,7 +119818,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "6.90",
           "grams": 130,
           "compare_at_price": "29.90",
@@ -120745,7 +120753,7 @@
           "available": false,
           "price": "24.90",
           "grams": 175,
-          "compare_at_price": "29.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10270976770312,
           "created_at": "2025-05-30T18:20:21+02:00"
@@ -121914,6 +121922,7 @@
       "tags": [
         "Anime",
         "Crunchyroll",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "sale-november-2026",
         "Slice-of-Life"
@@ -121929,7 +121938,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "28.90",
           "grams": 150,
           "compare_at_price": "39.90",
@@ -126563,6 +126572,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "sale-november-2026"
       ],
@@ -126577,7 +126587,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "32.90",
           "grams": 143,
           "compare_at_price": "39.90",
@@ -128376,7 +128386,7 @@
           "available": true,
           "price": "26.90",
           "grams": 404,
-          "compare_at_price": "34.90",
+          "compare_at_price": "44.90",
           "position": 1,
           "product_id": 10475336270088,
           "created_at": "2025-08-21T17:08:20+02:00"
@@ -128486,7 +128496,7 @@
           "available": true,
           "price": "26.90",
           "grams": 385,
-          "compare_at_price": "34.90",
+          "compare_at_price": "44.90",
           "position": 1,
           "product_id": 10475336335624,
           "created_at": "2025-08-21T17:08:23+02:00"
@@ -145146,7 +145156,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "7.90",
           "grams": 370,
           "compare_at_price": "11.90",
@@ -171168,7 +171178,6 @@
       "vendor": "Leonine Anime",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -171182,7 +171191,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "59.90",
           "grams": 90,
           "compare_at_price": "59.90",
@@ -184290,7 +184299,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "49.90",
           "grams": 0,
           "compare_at_price": "49.90",
@@ -184343,7 +184352,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "84.90",
           "grams": 0,
           "compare_at_price": "84.90",
@@ -184748,6 +184757,8 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -184801,6 +184812,8 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -184854,6 +184867,8 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -184920,7 +184935,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "84.90",
           "grams": 0,
           "compare_at_price": "84.90",
@@ -184973,7 +184988,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "84.90",
           "grams": 0,
           "compare_at_price": "84.90",
@@ -185026,7 +185041,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "84.90",
           "grams": 0,
           "compare_at_price": "84.90",
@@ -191919,6 +191934,7 @@
       "product_type": "",
       "tags": [
         "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Merch"
       ],
       "variants": [
@@ -192187,6 +192203,7 @@
       "product_type": "",
       "tags": [
         "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Merch"
       ],
       "variants": [
@@ -192331,6 +192348,7 @@
       "product_type": "",
       "tags": [
         "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Merch"
       ],
       "variants": [
@@ -192683,6 +192701,7 @@
       "product_type": "",
       "tags": [
         "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Merch"
       ],
       "variants": [
@@ -193374,6 +193393,7 @@
       "product_type": "",
       "tags": [
         "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Merch"
       ],
       "variants": [
@@ -193482,6 +193502,7 @@
       "product_type": "",
       "tags": [
         "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Merch"
       ],
       "variants": [
@@ -193644,6 +193665,7 @@
       "product_type": "",
       "tags": [
         "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Merch"
       ],
       "variants": [
@@ -225575,6 +225597,7 @@
       "product_type": "",
       "tags": [
         "Clearfiles",
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -225588,7 +225611,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "12.90",
           "grams": 80,
           "compare_at_price": "12.90",
