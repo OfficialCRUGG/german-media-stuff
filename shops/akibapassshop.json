@@ -4511,7 +4511,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.90",
           "grams": 0,
           "compare_at_price": "4.90",
@@ -55538,7 +55538,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "3.90",
           "grams": 103,
           "compare_at_price": "9.90",
@@ -69584,7 +69584,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "7.90",
           "grams": 100,
           "compare_at_price": "28.90",
@@ -74205,7 +74205,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "21.90",
           "grams": 112,
           "compare_at_price": "39.90",
@@ -74339,7 +74339,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "24.90",
           "grams": 291,
           "compare_at_price": "44.90",
@@ -78659,7 +78659,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "21.90",
           "grams": 149,
           "compare_at_price": "39.90",
@@ -83292,7 +83292,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "21.90",
           "grams": 150,
           "compare_at_price": "39.90",
@@ -84167,7 +84167,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "21.90",
           "grams": 323,
           "compare_at_price": "44.90",
@@ -88976,6 +88976,7 @@
         "Action",
         "Anime",
         "Film Confect",
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -88989,7 +88990,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "9.90",
           "grams": 170,
           "compare_at_price": "19.90",
@@ -89708,6 +89709,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Flow:ArtikelstatusAktiv",
         "Nipponart",
         "Online"
       ],
@@ -89722,7 +89724,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "6.90",
           "grams": 100,
           "compare_at_price": "6.90",
@@ -93751,7 +93753,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "22.90",
           "grams": 140,
           "compare_at_price": "39.90",
@@ -96267,7 +96269,6 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Online",
         "sale-november-2026",
         "Tasse"
@@ -96283,7 +96284,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "7.90",
           "grams": 350,
           "compare_at_price": "14.90",
@@ -111364,7 +111365,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "22.90",
           "grams": 146,
           "compare_at_price": "39.90",
@@ -119691,6 +119692,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "sale-november-2026"
       ],
@@ -119705,7 +119707,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "6.90",
           "grams": 140,
           "compare_at_price": "29.90",
@@ -128365,6 +128367,7 @@
       "tags": [
         "Anime",
         "Crunchyroll",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "sale-november-2026",
         "Sport"
@@ -129183,7 +129186,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "69.90",
           "grams": 734,
           "compare_at_price": "99.90",
@@ -137557,7 +137560,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "4.90",
           "grams": 20,
           "compare_at_price": "9.90",
@@ -146092,7 +146095,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "17.90",
           "grams": 0,
           "compare_at_price": "24.90",
@@ -146311,7 +146314,6 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Online",
         "sale-november-2026"
       ],
@@ -146326,7 +146328,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "6.90",
           "grams": 0,
           "compare_at_price": "9.90",
@@ -184337,6 +184339,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -184350,7 +184353,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "84.90",
           "grams": 0,
           "compare_at_price": "84.90",
@@ -185026,6 +185029,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -185039,7 +185043,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "84.90",
           "grams": 0,
           "compare_at_price": "84.90",
@@ -193446,6 +193450,7 @@
       "product_type": "",
       "tags": [
         "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Merch"
       ],
       "variants": [
@@ -193555,6 +193560,7 @@
       "product_type": "",
       "tags": [
         "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Merch"
       ],
       "variants": [
@@ -193825,6 +193831,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
         "Flow:Releaseplan-Merch"
       ],
       "variants": [
@@ -193838,7 +193845,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "23.90",
           "grams": 0,
           "compare_at_price": "23.90",
@@ -202935,7 +202942,6 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "sale-november-2026"
       ],
       "variants": [
@@ -202949,7 +202955,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "6.90",
           "grams": 336,
           "compare_at_price": "9.90",
@@ -203478,6 +203484,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
         "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Merch"
       ],
@@ -203532,6 +203539,8 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Merch"
       ],
       "variants": [
@@ -203545,7 +203554,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "11.90",
           "grams": 345,
           "compare_at_price": "0.00",
@@ -212162,7 +212171,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.00",
           "grams": 50,
           "compare_at_price": "0.00",
