@@ -15987,7 +15987,7 @@
               44560602595593
             ]
           },
-          "available": true,
+          "available": false,
           "price": "42.99",
           "grams": 400,
           "compare_at_price": null,
@@ -19470,7 +19470,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "39.99",
           "grams": 250,
           "compare_at_price": null,
@@ -20562,7 +20562,7 @@
               44561500537097
             ]
           },
-          "available": false,
+          "available": true,
           "price": "199.00",
           "grams": 1700,
           "compare_at_price": "222.95",
@@ -20688,7 +20688,7 @@
               44561494606089
             ]
           },
-          "available": true,
+          "available": false,
           "price": "49.99",
           "grams": 500,
           "compare_at_price": null,
