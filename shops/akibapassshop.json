@@ -3997,7 +3997,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "4.90",
           "grams": 100,
           "compare_at_price": "9.90",
@@ -6914,7 +6914,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.90",
           "grams": 188,
           "compare_at_price": "3.90",
@@ -40632,7 +40632,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "1.90",
           "grams": 96,
           "compare_at_price": "5.90",
@@ -54090,7 +54090,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "4.90",
           "grams": 179,
           "compare_at_price": "19.90",
@@ -57613,6 +57613,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "sale-november-2026"
       ],
@@ -84887,7 +84888,7 @@
           "featured_image": null,
           "available": false,
           "price": "19.90",
-          "grams": 126,
+          "grams": 130,
           "compare_at_price": "29.90",
           "position": 1,
           "product_id": 10261477261576,
@@ -88877,7 +88878,7 @@
           "featured_image": null,
           "available": false,
           "price": "9.90",
-          "grams": 166,
+          "grams": 170,
           "compare_at_price": "19.90",
           "position": 1,
           "product_id": 10261491351816,
@@ -88933,7 +88934,7 @@
           "featured_image": null,
           "available": false,
           "price": "9.90",
-          "grams": 161,
+          "grams": 170,
           "compare_at_price": "19.90",
           "position": 1,
           "product_id": 10261491450120,
@@ -88989,7 +88990,7 @@
           "featured_image": null,
           "available": false,
           "price": "9.90",
-          "grams": 168,
+          "grams": 170,
           "compare_at_price": "19.90",
           "position": 1,
           "product_id": 10261491581192,
@@ -89103,7 +89104,7 @@
           "featured_image": null,
           "available": false,
           "price": "9.90",
-          "grams": 166,
+          "grams": 170,
           "compare_at_price": "19.90",
           "position": 1,
           "product_id": 10261491777800,
@@ -89479,6 +89480,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Flow:ArtikelstatusAktiv",
         "Magical Girl",
         "Nipponart",
         "Online",
@@ -89495,10 +89497,10 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "2.90",
-          "grams": 101,
-          "compare_at_price": "4.90",
+          "grams": 100,
+          "compare_at_price": "9.90",
           "position": 1,
           "product_id": 10261492269320,
           "created_at": "2025-05-28T16:10:40+02:00"
@@ -89721,7 +89723,7 @@
           "featured_image": null,
           "available": false,
           "price": "6.90",
-          "grams": 94,
+          "grams": 100,
           "compare_at_price": "6.90",
           "position": 1,
           "product_id": 10261492662536,
@@ -92324,7 +92326,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "39.90",
           "grams": 99,
           "compare_at_price": "49.90",
@@ -114676,7 +114678,6 @@
       "tags": [
         "Anime",
         "Crunchyroll",
-        "Flow:ArtikelstatusAktiv",
         "Online",
         "sale-november-2026",
         "Slice-of-Life"
@@ -114692,7 +114693,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "27.90",
           "grams": 151,
           "compare_at_price": "39.90",
@@ -119704,7 +119705,7 @@
           "available": false,
           "price": "6.90",
           "grams": 140,
-          "compare_at_price": "9.90",
+          "compare_at_price": "29.90",
           "position": 1,
           "product_id": 10270582145288,
           "created_at": "2025-05-30T16:06:10+02:00"
@@ -119811,8 +119812,8 @@
           "featured_image": null,
           "available": false,
           "price": "6.90",
-          "grams": 132,
-          "compare_at_price": "9.90",
+          "grams": 130,
+          "compare_at_price": "29.90",
           "position": 1,
           "product_id": 10270605836552,
           "created_at": "2025-05-30T16:11:35+02:00"
@@ -126576,7 +126577,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "32.90",
           "grams": 143,
           "compare_at_price": "39.90",
@@ -146356,6 +146357,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -146369,7 +146371,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "11.90",
           "grams": 75,
           "compare_at_price": "11.90",
@@ -160995,7 +160997,7 @@
           "featured_image": null,
           "available": true,
           "price": "24.90",
-          "grams": 0,
+          "grams": 170,
           "compare_at_price": "24.90",
           "position": 1,
           "product_id": 12205910294792,
@@ -163779,6 +163781,943 @@
           "product_id": 12332157796616,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-hidden-inventory-premature-death-the-movie-blu-190.webp?v=1791466830",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12482191229192,
+      "title": "Campfire Cooking in Another World with My Absurd Skill - Season 2 - Gesamtausgabe (Blu-ray)",
+      "handle": "26cr167-campfire-cooking-season-2-gesamtausgabe-bluray",
+      "published_at": "2026-11-18T15:35:30+01:00",
+      "created_at": "2026-11-18T14:48:40+01:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59572354384136,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr167",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "69.90",
+          "grams": 0,
+          "compare_at_price": "69.90",
+          "position": 1,
+          "product_id": 12482191229192,
+          "created_at": "2026-11-18T14:48:40+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88771395715336,
+          "created_at": "2026-11-18T15:42:35+01:00",
+          "position": 1,
+          "product_id": 12482191229192,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/campfire-cooking-another-world-with-my-absurd-skill-season-2-607.webp?v=1795012955",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88771403481352,
+          "created_at": "2026-11-18T15:42:45+01:00",
+          "position": 2,
+          "product_id": 12482191229192,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/campfire-cooking-another-world-with-my-absurd-skill-season-2-679.webp?v=1795012965",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88771425239304,
+          "created_at": "2026-11-18T15:42:54+01:00",
+          "position": 3,
+          "product_id": 12482191229192,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/campfire-cooking-another-world-with-my-absurd-skill-season-2-927.webp?v=1795012974",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12482186871048,
+      "title": "Clevatess - Season 1 - Vol. 2 (Blu-ray)",
+      "handle": "26cr168-clevatess-season-1-vol-2-bluray",
+      "published_at": "2026-11-18T15:35:29+01:00",
+      "created_at": "2026-11-18T14:48:17+01:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59572347306248,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr168",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "39.90",
+          "grams": 0,
+          "compare_at_price": "39.90",
+          "position": 1,
+          "product_id": 12482186871048,
+          "created_at": "2026-11-18T14:48:17+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88771195961608,
+          "created_at": "2026-11-18T15:40:12+01:00",
+          "position": 1,
+          "product_id": 12482186871048,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/clevatess-season-1-vol-2-blu-ray-standard-edition-crunchyroll-223.webp?v=1795012812",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88771212149000,
+          "created_at": "2026-11-18T15:40:24+01:00",
+          "position": 2,
+          "product_id": 12482186871048,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/clevatess-season-1-vol-2-blu-ray-standard-edition-crunchyroll-733.webp?v=1795012824",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88771231711496,
+          "created_at": "2026-11-18T15:40:34+01:00",
+          "position": 3,
+          "product_id": 12482186871048,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/clevatess-season-1-vol-2-blu-ray-standard-edition-crunchyroll-318.webp?v=1795012834",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12482191196424,
+      "title": "Dragonball Z - TV-Serie - Box 5 (Episoden 139-164) (Blu-ray)",
+      "handle": "26cr169-dragonball-z-tv-serie-box-5-bluray",
+      "published_at": "2026-11-18T15:35:30+01:00",
+      "created_at": "2026-11-18T14:48:40+01:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59572354416904,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr169",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "64.90",
+          "grams": 0,
+          "compare_at_price": "64.90",
+          "position": 1,
+          "product_id": 12482191196424,
+          "created_at": "2026-11-18T14:48:40+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88771403612424,
+          "created_at": "2026-11-18T15:42:44+01:00",
+          "position": 1,
+          "product_id": 12482191196424,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dragonball-z-tv-serie-box-5-episoden-139-164-blu-ray-standard-130.webp?v=1795012964",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12482193424648,
+      "title": "Dragonball Z - TV-Serie - Box 5 (Episoden 139-164) (DVD)",
+      "handle": "26cr170-dragonball-z-tv-serie-box-5-dvd",
+      "published_at": "2026-11-18T15:35:31+01:00",
+      "created_at": "2026-11-18T14:48:50+01:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59572357103880,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr170",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "54.90",
+          "grams": 0,
+          "compare_at_price": "54.90",
+          "position": 1,
+          "product_id": 12482193424648,
+          "created_at": "2026-11-18T14:48:51+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88771468624136,
+          "created_at": "2026-11-18T15:43:30+01:00",
+          "position": 1,
+          "product_id": 12482193424648,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/dragonball-z-tv-serie-box-5-episoden-139-164-dvd-standard-edition-496.webp?v=1795013010",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12482193916168,
+      "title": "Horimiya - Season 1 - Gesamtausgabe mit Sammelschuber (Blu-ray)",
+      "handle": "26cr171-horimiya-season-1-gesamtausgabe-bluray",
+      "published_at": "2026-11-18T15:35:32+01:00",
+      "created_at": "2026-11-18T14:48:54+01:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59572358414600,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr171",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "69.90",
+          "grams": 0,
+          "compare_at_price": "69.90",
+          "position": 1,
+          "product_id": 12482193916168,
+          "created_at": "2026-11-18T14:48:54+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88771467739400,
+          "created_at": "2026-11-18T15:43:21+01:00",
+          "position": 1,
+          "product_id": 12482193916168,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/horimiya-season-1-gesamtausgabe-blu-ray-gesamtausgabe-crunchyroll-206.webp?v=1795013001",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12482192638216,
+      "title": "Horimiya - Season 1 - Gesamtausgabe mit Sammelschuber (DVD)",
+      "handle": "26cr172-horimiya-season-1-gesamtausgabe-dvd",
+      "published_at": "2026-11-18T15:35:31+01:00",
+      "created_at": "2026-11-18T14:48:47+01:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59572356055304,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr172",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "49.90",
+          "grams": 0,
+          "compare_at_price": "49.90",
+          "position": 1,
+          "product_id": 12482192638216,
+          "created_at": "2026-11-18T14:48:47+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88771464036616,
+          "created_at": "2026-11-18T15:43:13+01:00",
+          "position": 1,
+          "product_id": 12482192638216,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/horimiya-season-1-gesamtausgabe-dvd-gesamtausgabe-crunchyroll-film-180.webp?v=1795012993",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12482196898056,
+      "title": "Mashle: Magic and Muscles - Season 1 - Gesamtausgabe mit Sammelschuber (Blu-ray)",
+      "handle": "26cr173-mashle-magic-and-muscles-season-1-gesamtausgabe-bluray",
+      "published_at": "2026-11-18T15:35:33+01:00",
+      "created_at": "2026-11-18T14:49:14+01:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59572363886856,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr173",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "69.90",
+          "grams": 0,
+          "compare_at_price": "69.90",
+          "position": 1,
+          "product_id": 12482196898056,
+          "created_at": "2026-11-18T14:49:14+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88771478225160,
+          "created_at": "2026-11-18T15:43:37+01:00",
+          "position": 1,
+          "product_id": 12482196898056,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/mashle-magic-and-muscles-season-1-gesamtausgabe-blu-ray-133.webp?v=1795013017",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12482199224584,
+      "title": "Mashle: Magic and Muscles - Season 1 - Gesamtausgabe mit Sammelschuber (DVD)",
+      "handle": "26cr174-mashle-magic-and-muscles-season-1-gesamtausgabe-dvd",
+      "published_at": "2026-11-18T15:35:34+01:00",
+      "created_at": "2026-11-18T14:49:28+01:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59572366377224,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr174",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "49.90",
+          "grams": 0,
+          "compare_at_price": "49.90",
+          "position": 1,
+          "product_id": 12482199224584,
+          "created_at": "2026-11-18T14:49:28+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88771495067912,
+          "created_at": "2026-11-18T15:43:44+01:00",
+          "position": 1,
+          "product_id": 12482199224584,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/mashle-magic-and-muscles-season-1-gesamtausgabe-dvd-gesamtausgabe-446.webp?v=1795013024",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12482194538760,
+      "title": "Mushoku Tensei: Jobless Reincarnation - Season 1 - Gesamtausgabe mit Sammelschuber (Blu-ray)",
+      "handle": "26cr175-mushoku-tensei-season-1-gesamtausgabe-bluray",
+      "published_at": "2026-11-18T15:35:33+01:00",
+      "created_at": "2026-11-18T14:49:00+01:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59572359528712,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr175",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "69.90",
+          "grams": 0,
+          "compare_at_price": "69.90",
+          "position": 1,
+          "product_id": 12482194538760,
+          "created_at": "2026-11-18T14:49:00+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88771467903240,
+          "created_at": "2026-11-18T15:43:23+01:00",
+          "position": 1,
+          "product_id": 12482194538760,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/mushoku-tensei-jobless-reincarnation-season-1-gesamtausgabe-blu-972.webp?v=1795013003",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12482200666376,
+      "title": "Mushoku Tensei: Jobless Reincarnation - Season 1 - Gesamtausgabe mit Sammelschuber (DVD)",
+      "handle": "26cr176-mushoku-tensei-season-1-gesamtausgabe-dvd",
+      "published_at": "2026-11-18T15:35:34+01:00",
+      "created_at": "2026-11-18T14:49:34+01:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59572370407688,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr176",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "49.90",
+          "grams": 0,
+          "compare_at_price": "49.90",
+          "position": 1,
+          "product_id": 12482200666376,
+          "created_at": "2026-11-18T14:49:34+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88771521478920,
+          "created_at": "2026-11-18T15:43:56+01:00",
+          "position": 1,
+          "product_id": 12482200666376,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/mushoku-tensei-jobless-reincarnation-season-1-gesamtausgabe-dvd-507.webp?v=1795013036",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12482202239240,
+      "title": "Sacrificial Princess and the King of Beasts - Season 1 - Gesamtausgabe (Blu-ray)",
+      "handle": "26cr177-sacrificial-princess-season-1-gesamtausgabe-bluray",
+      "published_at": "2026-11-18T15:35:35+01:00",
+      "created_at": "2026-11-18T14:49:42+01:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59572372341000,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr177",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "69.90",
+          "grams": 0,
+          "compare_at_price": "69.90",
+          "position": 1,
+          "product_id": 12482202239240,
+          "created_at": "2026-11-18T14:49:42+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88771726311688,
+          "created_at": "2026-11-18T15:46:18+01:00",
+          "position": 1,
+          "product_id": 12482202239240,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/sacrificial-princess-and-the-king-of-beasts-season-1-gesamtausgabe-984.webp?v=1795013178",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12482201714952,
+      "title": "Spy x Family - Season 2 - Gesamtausgabe mit Sammelschuber (Blu-ray)",
+      "handle": "26cr178-spy-x-family-season-2-gesamtausgabe-bluray",
+      "published_at": "2026-11-18T15:35:35+01:00",
+      "created_at": "2026-11-18T14:49:39+01:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59572371685640,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr178",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "79.90",
+          "grams": 0,
+          "compare_at_price": "79.90",
+          "position": 1,
+          "product_id": 12482201714952,
+          "created_at": "2026-11-18T14:49:39+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88771534651656,
+          "created_at": "2026-11-18T15:44:05+01:00",
+          "position": 1,
+          "product_id": 12482201714952,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/spy-x-family-season-2-gesamtausgabe-sammelschuber-blu-ray-830.webp?v=1795013045",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12482202468616,
+      "title": "Spy x Family - Season 2 - Gesamtausgabe mit Sammelschuber (DVD)",
+      "handle": "26cr179-spy-x-family-season-2-gesamtausgabe-dvd",
+      "published_at": "2026-11-18T15:35:36+01:00",
+      "created_at": "2026-11-18T14:49:45+01:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59572372701448,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr179",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "59.90",
+          "grams": 0,
+          "compare_at_price": "59.90",
+          "position": 1,
+          "product_id": 12482202468616,
+          "created_at": "2026-11-18T14:49:45+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88771748593928,
+          "created_at": "2026-11-18T15:46:33+01:00",
+          "position": 1,
+          "product_id": 12482202468616,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/spy-x-family-season-2-gesamtausgabe-sammelschuber-dvd-gesamtausgabe-588.webp?v=1795013193",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12482202632456,
+      "title": "The 100 Girlfriends Who Really Really Really Really REALLY Love You - Season 2 - Vol. 2 (Blu-ray)",
+      "handle": "26cr180-the-100-girlfriends-season-2-vol-2-bluray",
+      "published_at": "2026-11-18T15:35:36+01:00",
+      "created_at": "2026-11-18T14:49:48+01:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59572373160200,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr180",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "39.90",
+          "grams": 0,
+          "compare_at_price": "39.90",
+          "position": 1,
+          "product_id": 12482202632456,
+          "created_at": "2026-11-18T14:49:48+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88771758719240,
+          "created_at": "2026-11-18T15:46:46+01:00",
+          "position": 1,
+          "product_id": 12482202632456,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/the-100-girlfriends-who-really-really-really-really-really-love-you-542.webp?v=1795013206",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88771779821832,
+          "created_at": "2026-11-18T15:46:55+01:00",
+          "position": 2,
+          "product_id": 12482202632456,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/the-100-girlfriends-who-really-really-really-really-really-love-you-185.webp?v=1795013215",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88771807674632,
+          "created_at": "2026-11-18T15:47:05+01:00",
+          "position": 3,
+          "product_id": 12482202632456,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/the-100-girlfriends-who-really-really-really-really-really-love-you-633.webp?v=1795013225",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88771821863176,
+          "created_at": "2026-11-18T15:47:14+01:00",
+          "position": 4,
+          "product_id": 12482202632456,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/the-100-girlfriends-who-really-really-really-really-really-love-you-335.webp?v=1795013234",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12482202665224,
+      "title": "To Be Hero X - Season 1 - Gesamtausgabe (Blu-ray)",
+      "handle": "26cr181-to-be-hero-x-season-1-gesamtausgabe-bluray",
+      "published_at": "2026-11-18T15:35:37+01:00",
+      "created_at": "2026-11-18T14:49:50+01:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59572373192968,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr181",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "109.90",
+          "grams": 0,
+          "compare_at_price": "109.90",
+          "position": 1,
+          "product_id": 12482202665224,
+          "created_at": "2026-11-18T14:49:50+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88771787129096,
+          "created_at": "2026-11-18T15:46:57+01:00",
+          "position": 1,
+          "product_id": 12482202665224,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/to-be-hero-x-season-1-gesamtausgabe-blu-ray-gesamtausgabe-553.webp?v=1795013217",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12482202697992,
+      "title": "Tsukimichi: Moonlit Fantasy - Season 1 - Gesamtausgabe mit Sammelschuber (Blu-ray)",
+      "handle": "26cr182-tsukimichi-moonlit-fantasy-season-1-gesamtausgabe-bluray",
+      "published_at": "2026-11-18T15:35:38+01:00",
+      "created_at": "2026-11-18T14:49:52+01:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59572373225736,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr182",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "69.90",
+          "grams": 0,
+          "compare_at_price": "69.90",
+          "position": 1,
+          "product_id": 12482202697992,
+          "created_at": "2026-11-18T14:49:52+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88771814195464,
+          "created_at": "2026-11-18T15:47:08+01:00",
+          "position": 1,
+          "product_id": 12482202697992,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/tsukimichi-moonlit-fantasy-season-1-gesamtausgabe-sammelschuber-blu-784.webp?v=1795013228",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12482202894600,
+      "title": "Tsukimichi: Moonlit Fantasy - Season 1 - Gesamtausgabe mit Sammelschuber (DVD)",
+      "handle": "26cr183-tsukimichi-moonlit-fantasy-season-1-gesamtausgabe-dvd",
+      "published_at": "2026-11-18T15:35:38+01:00",
+      "created_at": "2026-11-18T14:49:54+01:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59572373422344,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr183",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "49.90",
+          "grams": 0,
+          "compare_at_price": "49.90",
+          "position": 1,
+          "product_id": 12482202894600,
+          "created_at": "2026-11-18T14:49:54+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 88771823403272,
+          "created_at": "2026-11-18T15:47:18+01:00",
+          "position": 1,
+          "product_id": 12482202894600,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/tsukimichi-moonlit-fantasy-season-1-gesamtausgabe-sammelschuber-331.webp?v=1795013238",
           "width": 2500,
           "height": 2500
         }
