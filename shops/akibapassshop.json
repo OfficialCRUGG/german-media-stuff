@@ -5802,7 +5802,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "14.90",
           "grams": 100,
           "compare_at_price": "22.90",
@@ -84872,6 +84872,7 @@
         "Anime",
         "Comedy",
         "Crunchyroll",
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -84885,7 +84886,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "19.90",
           "grams": 130,
           "compare_at_price": "29.90",
@@ -88864,6 +88865,7 @@
         "Action",
         "Anime",
         "Film Confect",
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -88877,7 +88879,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "9.90",
           "grams": 170,
           "compare_at_price": "19.90",
@@ -88920,6 +88922,7 @@
         "Action",
         "Anime",
         "Film Confect",
+        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -88933,7 +88936,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "9.90",
           "grams": 170,
           "compare_at_price": "19.90",
@@ -89090,6 +89093,7 @@
         "Action",
         "Anime",
         "Film Confect",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "Sammelschuber"
       ],
@@ -89104,7 +89108,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "9.90",
           "grams": 170,
           "compare_at_price": "19.90",
@@ -136345,7 +136349,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "69.90",
           "grams": 170,
           "compare_at_price": "69.90",
