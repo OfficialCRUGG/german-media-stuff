@@ -245,7 +245,7 @@
           "available": true,
           "price": "4.90",
           "grams": 100,
-          "compare_at_price": "9.90",
+          "compare_at_price": "41.90",
           "position": 1,
           "product_id": 10261228093704,
           "created_at": "2025-05-28T14:37:00+02:00"
@@ -302,7 +302,7 @@
           "available": false,
           "price": "4.90",
           "grams": 100,
-          "compare_at_price": "9.90",
+          "compare_at_price": "41.90",
           "position": 1,
           "product_id": 10261228192008,
           "created_at": "2025-05-28T14:37:02+02:00"
@@ -359,7 +359,7 @@
           "available": true,
           "price": "4.90",
           "grams": 100,
-          "compare_at_price": "9.90",
+          "compare_at_price": "41.90",
           "position": 1,
           "product_id": 10261228290312,
           "created_at": "2025-05-28T14:37:04+02:00"
@@ -2819,7 +2819,7 @@
           "available": false,
           "price": "0.90",
           "grams": 187,
-          "compare_at_price": "3.90",
+          "compare_at_price": "36.90",
           "position": 1,
           "product_id": 10261199945992,
           "created_at": "2025-05-28T14:23:40+02:00"
@@ -2877,7 +2877,7 @@
           "available": false,
           "price": "0.90",
           "grams": 188,
-          "compare_at_price": "3.90",
+          "compare_at_price": "36.90",
           "position": 1,
           "product_id": 10261222818056,
           "created_at": "2025-05-28T14:35:32+02:00"
@@ -2935,7 +2935,7 @@
           "available": false,
           "price": "0.90",
           "grams": 193,
-          "compare_at_price": "3.90",
+          "compare_at_price": "36.90",
           "position": 1,
           "product_id": 10261200044296,
           "created_at": "2025-05-28T14:23:42+02:00"
@@ -3050,7 +3050,7 @@
           "available": true,
           "price": "2.90",
           "grams": 97,
-          "compare_at_price": "4.90",
+          "compare_at_price": "38.90",
           "position": 1,
           "product_id": 10261200273672,
           "created_at": "2025-05-28T14:23:45+02:00"
@@ -3108,7 +3108,7 @@
           "available": true,
           "price": "2.90",
           "grams": 95,
-          "compare_at_price": "4.90",
+          "compare_at_price": "38.90",
           "position": 1,
           "product_id": 10261200371976,
           "created_at": "2025-05-28T14:23:47+02:00"
@@ -3647,7 +3647,7 @@
           "available": true,
           "price": "1.90",
           "grams": 170,
-          "compare_at_price": "9.90",
+          "compare_at_price": "46.90",
           "position": 1,
           "product_id": 10261223506184,
           "created_at": "2025-05-28T14:35:46+02:00"
@@ -3706,7 +3706,7 @@
           "available": true,
           "price": "1.90",
           "grams": 168,
-          "compare_at_price": "9.90",
+          "compare_at_price": "46.90",
           "position": 1,
           "product_id": 10261200929032,
           "created_at": "2025-05-28T14:23:54+02:00"
@@ -3765,7 +3765,7 @@
           "available": true,
           "price": "1.90",
           "grams": 166,
-          "compare_at_price": "9.90",
+          "compare_at_price": "41.90",
           "position": 1,
           "product_id": 10261223735560,
           "created_at": "2025-05-28T14:35:50+02:00"
@@ -3824,7 +3824,7 @@
           "available": true,
           "price": "4.90",
           "grams": 226,
-          "compare_at_price": "9.90",
+          "compare_at_price": "49.90",
           "position": 1,
           "product_id": 10261201060104,
           "created_at": "2025-05-28T14:23:55+02:00"
@@ -3883,7 +3883,7 @@
           "available": true,
           "price": "4.90",
           "grams": 102,
-          "compare_at_price": "9.90",
+          "compare_at_price": "41.90",
           "position": 1,
           "product_id": 10261201125640,
           "created_at": "2025-05-28T14:23:57+02:00"
@@ -4000,7 +4000,7 @@
           "available": false,
           "price": "4.90",
           "grams": 100,
-          "compare_at_price": "9.90",
+          "compare_at_price": "41.90",
           "position": 1,
           "product_id": 10261223604488,
           "created_at": "2025-05-28T14:35:48+02:00"
@@ -4170,7 +4170,7 @@
           "available": true,
           "price": "1.90",
           "grams": 108,
-          "compare_at_price": "9.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261264204040,
           "created_at": "2025-05-28T14:49:19+02:00"
@@ -4514,7 +4514,7 @@
           "available": false,
           "price": "0.90",
           "grams": 0,
-          "compare_at_price": "4.90",
+          "compare_at_price": "41.90",
           "position": 1,
           "product_id": 10261209088264,
           "created_at": "2025-05-28T14:25:49+02:00"
@@ -5581,7 +5581,7 @@
           "available": false,
           "price": "4.90",
           "grams": 0,
-          "compare_at_price": "9.90",
+          "compare_at_price": "69.90",
           "position": 1,
           "product_id": 10261218066696,
           "created_at": "2025-05-28T14:32:12+02:00"
@@ -5638,7 +5638,7 @@
           "available": false,
           "price": "7.90",
           "grams": 240,
-          "compare_at_price": "14.90",
+          "compare_at_price": "74.90",
           "position": 1,
           "product_id": 10261218001160,
           "created_at": "2025-05-28T14:32:10+02:00"
@@ -6091,7 +6091,7 @@
           "available": true,
           "price": "2.90",
           "grams": 100,
-          "compare_at_price": "19.90",
+          "compare_at_price": "29.90",
           "position": 1,
           "product_id": 10261230158088,
           "created_at": "2025-05-28T14:37:27+02:00"
@@ -6859,7 +6859,7 @@
           "available": false,
           "price": "0.90",
           "grams": 187,
-          "compare_at_price": "9.90",
+          "compare_at_price": "36.90",
           "position": 1,
           "product_id": 10261202862344,
           "created_at": "2025-05-28T14:24:21+02:00"
@@ -6917,7 +6917,7 @@
           "available": false,
           "price": "0.90",
           "grams": 188,
-          "compare_at_price": "3.90",
+          "compare_at_price": "36.90",
           "position": 1,
           "product_id": 10261202960648,
           "created_at": "2025-05-28T14:24:22+02:00"
@@ -7146,7 +7146,7 @@
           "available": true,
           "price": "2.90",
           "grams": 108,
-          "compare_at_price": "9.90",
+          "compare_at_price": "38.90",
           "position": 1,
           "product_id": 10261203517704,
           "created_at": "2025-05-28T14:24:27+02:00"
@@ -7204,7 +7204,7 @@
           "available": true,
           "price": "2.90",
           "grams": 102,
-          "compare_at_price": "9.90",
+          "compare_at_price": "38.90",
           "position": 1,
           "product_id": 10261203747080,
           "created_at": "2025-05-28T14:24:28+02:00"
@@ -7262,7 +7262,7 @@
           "available": false,
           "price": "2.90",
           "grams": 100,
-          "compare_at_price": "9.90",
+          "compare_at_price": "38.90",
           "position": 1,
           "product_id": 10261203910920,
           "created_at": "2025-05-28T14:24:30+02:00"
@@ -7986,7 +7986,7 @@
           "available": true,
           "price": "4.90",
           "grams": 123,
-          "compare_at_price": "19.90",
+          "compare_at_price": "36.90",
           "position": 1,
           "product_id": 10261224292616,
           "created_at": "2025-05-28T14:36:02+02:00"
@@ -8043,7 +8043,7 @@
           "available": true,
           "price": "4.90",
           "grams": 123,
-          "compare_at_price": "19.90",
+          "compare_at_price": "36.90",
           "position": 1,
           "product_id": 10261206630664,
           "created_at": "2025-05-28T14:25:03+02:00"
@@ -8110,7 +8110,7 @@
           "available": false,
           "price": "4.90",
           "grams": 125,
-          "compare_at_price": "19.90",
+          "compare_at_price": "36.90",
           "position": 1,
           "product_id": 10261224358152,
           "created_at": "2025-05-28T14:36:04+02:00"
@@ -8177,7 +8177,7 @@
           "available": true,
           "price": "4.90",
           "grams": 123,
-          "compare_at_price": "19.90",
+          "compare_at_price": "36.90",
           "position": 1,
           "product_id": 10261224423688,
           "created_at": "2025-05-28T14:36:06+02:00"
@@ -8234,7 +8234,7 @@
           "available": true,
           "price": "7.90",
           "grams": 96,
-          "compare_at_price": "19.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261224063240,
           "created_at": "2025-05-28T14:35:57+02:00"
@@ -8291,7 +8291,7 @@
           "available": false,
           "price": "7.90",
           "grams": 96,
-          "compare_at_price": "19.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261206663432,
           "created_at": "2025-05-28T14:25:05+02:00"
@@ -8358,7 +8358,7 @@
           "available": true,
           "price": "7.90",
           "grams": 98,
-          "compare_at_price": "19.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261224128776,
           "created_at": "2025-05-28T14:35:59+02:00"
@@ -8425,7 +8425,7 @@
           "available": true,
           "price": "7.90",
           "grams": 96,
-          "compare_at_price": "19.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261224194312,
           "created_at": "2025-05-28T14:36:00+02:00"
@@ -8482,7 +8482,7 @@
           "available": true,
           "price": "4.90",
           "grams": 124,
-          "compare_at_price": "19.90",
+          "compare_at_price": "36.90",
           "position": 1,
           "product_id": 10261234680072,
           "created_at": "2025-05-28T14:38:55+02:00"
@@ -8549,7 +8549,7 @@
           "available": true,
           "price": "4.90",
           "grams": 124,
-          "compare_at_price": "19.90",
+          "compare_at_price": "36.90",
           "position": 1,
           "product_id": 10261268627720,
           "created_at": "2025-05-28T14:50:39+02:00"
@@ -8616,7 +8616,7 @@
           "available": true,
           "price": "7.90",
           "grams": 97,
-          "compare_at_price": "19.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261234581768,
           "created_at": "2025-05-28T14:38:53+02:00"
@@ -8683,7 +8683,7 @@
           "available": true,
           "price": "7.90",
           "grams": 96,
-          "compare_at_price": "19.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261268726024,
           "created_at": "2025-05-28T14:50:41+02:00"
@@ -9541,7 +9541,7 @@
           "available": true,
           "price": "2.90",
           "grams": 90,
-          "compare_at_price": "4.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261226160392,
           "created_at": "2025-05-28T14:36:31+02:00"
@@ -10575,7 +10575,7 @@
           "available": true,
           "price": "1.90",
           "grams": 91,
-          "compare_at_price": "6.90",
+          "compare_at_price": "19.90",
           "position": 1,
           "product_id": 10261205745928,
           "created_at": "2025-05-28T14:24:50+02:00"
@@ -10632,7 +10632,7 @@
           "available": true,
           "price": "2.90",
           "grams": 96,
-          "compare_at_price": "9.90",
+          "compare_at_price": "24.90",
           "position": 1,
           "product_id": 10261205942536,
           "created_at": "2025-05-28T14:24:52+02:00"
@@ -11862,7 +11862,7 @@
           "available": true,
           "price": "1.90",
           "grams": 89,
-          "compare_at_price": "9.90",
+          "compare_at_price": "19.90",
           "position": 1,
           "product_id": 10261223899400,
           "created_at": "2025-05-28T14:35:53+02:00"
@@ -11919,7 +11919,7 @@
           "available": true,
           "price": "4.90",
           "grams": 95,
-          "compare_at_price": "9.90",
+          "compare_at_price": "24.90",
           "position": 1,
           "product_id": 10261223833864,
           "created_at": "2025-05-28T14:35:52+02:00"
@@ -12027,7 +12027,7 @@
           "available": true,
           "price": "1.90",
           "grams": 90,
-          "compare_at_price": "9.90",
+          "compare_at_price": "19.90",
           "position": 1,
           "product_id": 10353732419848,
           "created_at": "2025-06-18T10:54:41+02:00"
@@ -14969,7 +14969,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "10.90",
           "grams": 120,
           "compare_at_price": "10.90",
@@ -15907,7 +15907,7 @@
           "available": false,
           "price": "3.90",
           "grams": 150,
-          "compare_at_price": "22.90",
+          "compare_at_price": "35.90",
           "position": 1,
           "product_id": 10261322662152,
           "created_at": "2025-05-28T15:11:54+02:00"
@@ -16908,7 +16908,7 @@
           "available": true,
           "price": "1.90",
           "grams": 180,
-          "compare_at_price": "4.90",
+          "compare_at_price": "19.90",
           "position": 1,
           "product_id": 10261218754824,
           "created_at": "2025-05-28T14:32:31+02:00"
@@ -16926,7 +16926,7 @@
           "available": true,
           "price": "1.90",
           "grams": 180,
-          "compare_at_price": "4.90",
+          "compare_at_price": "19.90",
           "position": 2,
           "product_id": 10261218754824,
           "created_at": "2025-05-28T14:38:08+02:00"
@@ -21812,7 +21812,7 @@
           "available": true,
           "price": "1.90",
           "grams": 10,
-          "compare_at_price": "5.00",
+          "compare_at_price": "4.90",
           "position": 1,
           "product_id": 10261280784648,
           "created_at": "2025-05-28T14:55:05+02:00"
@@ -24354,7 +24354,7 @@
           "available": false,
           "price": "9.90",
           "grams": 1240,
-          "compare_at_price": "14.90",
+          "compare_at_price": "89.90",
           "position": 1,
           "product_id": 10261287993608,
           "created_at": "2025-05-28T14:57:48+02:00"
@@ -29690,6 +29690,120 @@
       ]
     },
     {
+      "id": 10261324988680,
+      "title": "Rascal Does Not Dream of a Dreaming Girl - MAI SAKURAJIMA Color dress Ver.",
+      "handle": "19m00440-rascal-does-not-dream-of-a-dreaming-girl-mai-sakurajima-color-dress-ver",
+      "published_at": "2026-11-19T12:20:21+01:00",
+      "created_at": "2025-05-28T15:12:45+02:00",
+      "vendor": "Import Ware",
+      "product_type": "",
+      "tags": [
+        "hidden-product",
+        "Online"
+      ],
+      "variants": [
+        {
+          "id": 51541995061512,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "19m00440",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "189.90",
+          "grams": 680,
+          "compare_at_price": "189.90",
+          "position": 1,
+          "product_id": 10261324988680,
+          "created_at": "2025-05-28T15:12:45+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 73943630512392,
+          "created_at": "2025-10-29T15:25:24+01:00",
+          "position": 1,
+          "product_id": 10261324988680,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/rascal-does-not-dream-of-a-dreaming-girl-mai-sakurajima-color-dress-695.webp?v=1769023605",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 73943634018568,
+          "created_at": "2025-10-29T15:25:28+01:00",
+          "position": 2,
+          "product_id": 10261324988680,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/rascal-does-not-dream-of-a-dreaming-girl-mai-sakurajima-color-dress-745.webp?v=1769023608",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 73943638343944,
+          "created_at": "2025-10-29T15:25:32+01:00",
+          "position": 3,
+          "product_id": 10261324988680,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/rascal-does-not-dream-of-a-dreaming-girl-mai-sakurajima-color-dress-662.webp?v=1769023610",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 73943640408328,
+          "created_at": "2025-10-29T15:25:37+01:00",
+          "position": 4,
+          "product_id": 10261324988680,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/rascal-does-not-dream-of-a-dreaming-girl-mai-sakurajima-color-dress-128.webp?v=1769023613",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 73943643226376,
+          "created_at": "2025-10-29T15:25:42+01:00",
+          "position": 5,
+          "product_id": 10261324988680,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/rascal-does-not-dream-of-a-dreaming-girl-mai-sakurajima-color-dress-735.webp?v=1769023616",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 73943646175496,
+          "created_at": "2025-10-29T15:25:46+01:00",
+          "position": 6,
+          "product_id": 10261324988680,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/rascal-does-not-dream-of-a-dreaming-girl-mai-sakurajima-color-dress-223.webp?v=1769023619",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 73943651156232,
+          "created_at": "2025-10-29T15:25:50+01:00",
+          "position": 7,
+          "product_id": 10261324988680,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/rascal-does-not-dream-of-a-dreaming-girl-mai-sakurajima-color-dress-571.webp?v=1769023622",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 10261327413512,
       "title": "Toilet-bound Hanako-kun - Postkartenkalender 2023",
       "handle": "19m00447-toilet-bound-hanako-kun-postkartenkalender-2023",
@@ -30935,7 +31049,7 @@
           "available": true,
           "price": "5.90",
           "grams": 96,
-          "compare_at_price": "9.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261269250312,
           "created_at": "2025-05-28T14:50:50+02:00"
@@ -31203,7 +31317,7 @@
           "available": true,
           "price": "6.90",
           "grams": 95,
-          "compare_at_price": "9.90",
+          "compare_at_price": "24.90",
           "position": 1,
           "product_id": 10261262762248,
           "created_at": "2025-05-28T14:48:56+02:00"
@@ -31260,7 +31374,7 @@
           "available": true,
           "price": "2.90",
           "grams": 90,
-          "compare_at_price": "4.90",
+          "compare_at_price": "19.90",
           "position": 1,
           "product_id": 10261262860552,
           "created_at": "2025-05-28T14:48:57+02:00"
@@ -31452,7 +31566,7 @@
           "available": true,
           "price": "1.90",
           "grams": 98,
-          "compare_at_price": "9.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261270823176,
           "created_at": "2025-05-28T14:51:19+02:00"
@@ -31654,7 +31768,7 @@
           "available": true,
           "price": "0.90",
           "grams": 130,
-          "compare_at_price": "4.90",
+          "compare_at_price": "36.90",
           "position": 1,
           "product_id": 10261272428808,
           "created_at": "2025-05-28T14:51:52+02:00"
@@ -31722,7 +31836,7 @@
           "available": true,
           "price": "1.90",
           "grams": 96,
-          "compare_at_price": "9.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261272494344,
           "created_at": "2025-05-28T14:51:54+02:00"
@@ -31790,7 +31904,7 @@
           "available": true,
           "price": "0.90",
           "grams": 0,
-          "compare_at_price": "4.90",
+          "compare_at_price": "36.90",
           "position": 1,
           "product_id": 10261272527112,
           "created_at": "2025-05-28T14:51:56+02:00"
@@ -32117,7 +32231,7 @@
           "available": true,
           "price": "2.90",
           "grams": 97,
-          "compare_at_price": "4.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261269053704,
           "created_at": "2025-05-28T14:50:46+02:00"
@@ -32181,7 +32295,7 @@
           "available": true,
           "price": "1.90",
           "grams": 188,
-          "compare_at_price": "4.90",
+          "compare_at_price": "36.90",
           "position": 1,
           "product_id": 10261269152008,
           "created_at": "2025-05-28T14:50:48+02:00"
@@ -32472,7 +32586,7 @@
           "available": true,
           "price": "4.90",
           "grams": 97,
-          "compare_at_price": "9.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261271511304,
           "created_at": "2025-05-28T14:51:32+02:00"
@@ -32529,7 +32643,7 @@
           "available": true,
           "price": "1.90",
           "grams": 124,
-          "compare_at_price": "9.90",
+          "compare_at_price": "36.90",
           "position": 1,
           "product_id": 10261271707912,
           "created_at": "2025-05-28T14:51:35+02:00"
@@ -32654,7 +32768,7 @@
           "available": false,
           "price": "1.90",
           "grams": 130,
-          "compare_at_price": "4.90",
+          "compare_at_price": "36.90",
           "position": 1,
           "product_id": 10261271838984,
           "created_at": "2025-05-28T14:51:37+02:00"
@@ -32722,7 +32836,7 @@
           "available": true,
           "price": "2.90",
           "grams": 96,
-          "compare_at_price": "9.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261272232200,
           "created_at": "2025-05-28T14:51:46+02:00"
@@ -32790,7 +32904,7 @@
           "available": true,
           "price": "1.90",
           "grams": 124,
-          "compare_at_price": "4.90",
+          "compare_at_price": "36.90",
           "position": 1,
           "product_id": 10261271970056,
           "created_at": "2025-05-28T14:51:39+02:00"
@@ -32858,7 +32972,7 @@
           "available": true,
           "price": "2.90",
           "grams": 97,
-          "compare_at_price": "9.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261272297736,
           "created_at": "2025-05-28T14:51:47+02:00"
@@ -32926,7 +33040,7 @@
           "available": true,
           "price": "1.90",
           "grams": 125,
-          "compare_at_price": "4.90",
+          "compare_at_price": "36.90",
           "position": 1,
           "product_id": 10261272068360,
           "created_at": "2025-05-28T14:51:40+02:00"
@@ -32994,7 +33108,7 @@
           "available": true,
           "price": "2.90",
           "grams": 98,
-          "compare_at_price": "9.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261272330504,
           "created_at": "2025-05-28T14:51:49+02:00"
@@ -33062,7 +33176,7 @@
           "available": true,
           "price": "1.90",
           "grams": 123,
-          "compare_at_price": "4.90",
+          "compare_at_price": "36.90",
           "position": 1,
           "product_id": 10261272133896,
           "created_at": "2025-05-28T14:51:42+02:00"
@@ -33129,7 +33243,7 @@
           "available": true,
           "price": "3.90",
           "grams": 96,
-          "compare_at_price": "9.90",
+          "compare_at_price": "24.90",
           "position": 1,
           "product_id": 10261272690952,
           "created_at": "2025-05-28T14:51:59+02:00"
@@ -33183,7 +33297,7 @@
           "available": true,
           "price": "1.90",
           "grams": 88,
-          "compare_at_price": "6.90",
+          "compare_at_price": "19.90",
           "position": 1,
           "product_id": 10261272592648,
           "created_at": "2025-05-28T14:51:57+02:00"
@@ -33406,7 +33520,7 @@
           "available": false,
           "price": "1.90",
           "grams": 0,
-          "compare_at_price": "9.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261274558728,
           "created_at": "2025-05-28T14:52:48+02:00"
@@ -33464,7 +33578,7 @@
           "available": false,
           "price": "0.90",
           "grams": 124,
-          "compare_at_price": "4.90",
+          "compare_at_price": "36.90",
           "position": 1,
           "product_id": 10261274886408,
           "created_at": "2025-05-28T14:52:55+02:00"
@@ -33522,7 +33636,7 @@
           "available": true,
           "price": "1.90",
           "grams": 96,
-          "compare_at_price": "9.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261274689800,
           "created_at": "2025-05-28T14:52:49+02:00"
@@ -33580,7 +33694,7 @@
           "available": true,
           "price": "0.90",
           "grams": 124,
-          "compare_at_price": "4.90",
+          "compare_at_price": "36.90",
           "position": 1,
           "product_id": 10261274951944,
           "created_at": "2025-05-28T14:52:57+02:00"
@@ -33638,7 +33752,7 @@
           "available": true,
           "price": "1.90",
           "grams": 96,
-          "compare_at_price": "9.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261274755336,
           "created_at": "2025-05-28T14:52:51+02:00"
@@ -33696,7 +33810,7 @@
           "available": false,
           "price": "0.90",
           "grams": 0,
-          "compare_at_price": "4.90",
+          "compare_at_price": "36.90",
           "position": 1,
           "product_id": 10261275017480,
           "created_at": "2025-05-28T14:52:59+02:00"
@@ -33754,7 +33868,7 @@
           "available": true,
           "price": "1.90",
           "grams": 96,
-          "compare_at_price": "9.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261274820872,
           "created_at": "2025-05-28T14:52:53+02:00"
@@ -33823,7 +33937,7 @@
           "available": false,
           "price": "0.90",
           "grams": 130,
-          "compare_at_price": "4.90",
+          "compare_at_price": "36.90",
           "position": 1,
           "product_id": 10261275050248,
           "created_at": "2025-05-28T14:53:00+02:00"
@@ -33890,7 +34004,7 @@
           "available": false,
           "price": "1.90",
           "grams": 100,
-          "compare_at_price": "9.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261272822024,
           "created_at": "2025-05-28T14:52:03+02:00"
@@ -33954,7 +34068,7 @@
           "available": false,
           "price": "1.90",
           "grams": 189,
-          "compare_at_price": "9.90",
+          "compare_at_price": "36.90",
           "position": 1,
           "product_id": 10261272756488,
           "created_at": "2025-05-28T14:52:01+02:00"
@@ -35122,7 +35236,7 @@
           "available": true,
           "price": "3.90",
           "grams": 98,
-          "compare_at_price": "9.90",
+          "compare_at_price": "24.90",
           "position": 1,
           "product_id": 10261283832072,
           "created_at": "2025-05-28T14:56:09+02:00"
@@ -35176,7 +35290,7 @@
           "available": true,
           "price": "1.90",
           "grams": 119,
-          "compare_at_price": "6.90",
+          "compare_at_price": "19.90",
           "position": 1,
           "product_id": 10261283733768,
           "created_at": "2025-05-28T14:56:08+02:00"
@@ -35689,7 +35803,7 @@
           "available": true,
           "price": "3.90",
           "grams": 100,
-          "compare_at_price": "6.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261288157448,
           "created_at": "2025-05-28T14:57:52+02:00"
@@ -35747,7 +35861,7 @@
           "available": true,
           "price": "2.90",
           "grams": 90,
-          "compare_at_price": "4.90",
+          "compare_at_price": "36.90",
           "position": 1,
           "product_id": 10261288222984,
           "created_at": "2025-05-28T14:57:53+02:00"
@@ -35804,7 +35918,7 @@
           "available": true,
           "price": "6.90",
           "grams": 96,
-          "compare_at_price": "9.90",
+          "compare_at_price": "24.90",
           "position": 1,
           "product_id": 10261282357512,
           "created_at": "2025-05-28T14:55:41+02:00"
@@ -36528,7 +36642,7 @@
           "available": true,
           "price": "3.90",
           "grams": 100,
-          "compare_at_price": "6.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261284651272,
           "created_at": "2025-05-28T14:56:22+02:00"
@@ -36596,7 +36710,7 @@
           "available": true,
           "price": "2.90",
           "grams": 130,
-          "compare_at_price": "4.90",
+          "compare_at_price": "36.90",
           "position": 1,
           "product_id": 10261284749576,
           "created_at": "2025-05-28T14:56:24+02:00"
@@ -36981,7 +37095,7 @@
           "available": true,
           "price": "2.90",
           "grams": 98,
-          "compare_at_price": "4.90",
+          "compare_at_price": "29.90",
           "position": 1,
           "product_id": 10261285077256,
           "created_at": "2025-05-28T14:56:29+02:00"
@@ -37049,7 +37163,7 @@
           "available": true,
           "price": "1.90",
           "grams": 191,
-          "compare_at_price": "9.90",
+          "compare_at_price": "26.90",
           "position": 1,
           "product_id": 10261285142792,
           "created_at": "2025-05-28T14:56:31+02:00"
@@ -37117,7 +37231,7 @@
           "available": true,
           "price": "2.90",
           "grams": 99,
-          "compare_at_price": "4.90",
+          "compare_at_price": "29.90",
           "position": 1,
           "product_id": 10261285273864,
           "created_at": "2025-05-28T14:56:33+02:00"
@@ -37185,7 +37299,7 @@
           "available": true,
           "price": "1.90",
           "grams": 190,
-          "compare_at_price": "9.90",
+          "compare_at_price": "26.90",
           "position": 1,
           "product_id": 10261285339400,
           "created_at": "2025-05-28T14:56:35+02:00"
@@ -37320,7 +37434,7 @@
           "available": true,
           "price": "1.90",
           "grams": 192,
-          "compare_at_price": "9.90",
+          "compare_at_price": "26.90",
           "position": 1,
           "product_id": 10261285536008,
           "created_at": "2025-05-28T14:56:38+02:00"
@@ -37455,7 +37569,7 @@
           "available": true,
           "price": "3.90",
           "grams": 187,
-          "compare_at_price": "9.90",
+          "compare_at_price": "35.90",
           "position": 1,
           "product_id": 10261289795848,
           "created_at": "2025-05-28T14:58:26+02:00"
@@ -37523,7 +37637,7 @@
           "available": true,
           "price": "3.90",
           "grams": 188,
-          "compare_at_price": "9.90",
+          "compare_at_price": "35.90",
           "position": 1,
           "product_id": 10261289926920,
           "created_at": "2025-05-28T14:58:28+02:00"
@@ -37600,7 +37714,7 @@
           "available": true,
           "price": "4.90",
           "grams": 98,
-          "compare_at_price": "9.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261285699848,
           "created_at": "2025-05-28T14:56:42+02:00"
@@ -37992,7 +38106,7 @@
           "available": true,
           "price": "2.90",
           "grams": 155,
-          "compare_at_price": "9.90",
+          "compare_at_price": "36.90",
           "position": 1,
           "product_id": 10261286158600,
           "created_at": "2025-05-28T14:56:52+02:00"
@@ -38059,7 +38173,7 @@
           "available": true,
           "price": "4.90",
           "grams": 99,
-          "compare_at_price": "9.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261286191368,
           "created_at": "2025-05-28T14:56:54+02:00"
@@ -38126,7 +38240,7 @@
           "available": true,
           "price": "2.90",
           "grams": 155,
-          "compare_at_price": "9.90",
+          "compare_at_price": "36.90",
           "position": 1,
           "product_id": 10261286256904,
           "created_at": "2025-05-28T14:56:55+02:00"
@@ -38193,7 +38307,7 @@
           "available": true,
           "price": "4.90",
           "grams": 97,
-          "compare_at_price": "9.90",
+          "compare_at_price": "24.90",
           "position": 1,
           "product_id": 10261293072648,
           "created_at": "2025-05-28T14:59:45+02:00"
@@ -39313,7 +39427,7 @@
           "available": true,
           "price": "4.90",
           "grams": 98,
-          "compare_at_price": "9.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261292843272,
           "created_at": "2025-05-28T14:59:39+02:00"
@@ -39380,7 +39494,7 @@
           "available": true,
           "price": "4.90",
           "grams": 122,
-          "compare_at_price": "9.90",
+          "compare_at_price": "36.90",
           "position": 1,
           "product_id": 10261292908808,
           "created_at": "2025-05-28T14:59:40+02:00"
@@ -39510,7 +39624,7 @@
           "available": false,
           "price": "1.90",
           "grams": 179,
-          "compare_at_price": "9.90",
+          "compare_at_price": "36.90",
           "position": 1,
           "product_id": 10261291368712,
           "created_at": "2025-05-28T14:59:08+02:00"
@@ -39909,7 +40023,7 @@
           "available": false,
           "price": "1.90",
           "grams": 191,
-          "compare_at_price": "9.90",
+          "compare_at_price": "36.90",
           "position": 1,
           "product_id": 10261291893000,
           "created_at": "2025-05-28T14:59:18+02:00"
@@ -41037,7 +41151,7 @@
           "available": true,
           "price": "5.90",
           "grams": 99,
-          "compare_at_price": "19.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261309128968,
           "created_at": "2025-05-28T15:06:48+02:00"
@@ -41134,7 +41248,7 @@
           "available": true,
           "price": "4.90",
           "grams": 125,
-          "compare_at_price": "9.90",
+          "compare_at_price": "36.90",
           "position": 1,
           "product_id": 10261309227272,
           "created_at": "2025-05-28T15:06:50+02:00"
@@ -41298,7 +41412,7 @@
           "available": true,
           "price": "4.90",
           "grams": 126,
-          "compare_at_price": "9.90",
+          "compare_at_price": "36.90",
           "position": 1,
           "product_id": 10261317124360,
           "created_at": "2025-05-28T15:09:54+02:00"
@@ -43846,7 +43960,7 @@
           "available": true,
           "price": "19.90",
           "grams": 414,
-          "compare_at_price": "29.90",
+          "compare_at_price": "54.90",
           "position": 1,
           "product_id": 10261315158280,
           "created_at": "2025-05-28T15:09:04+02:00"
@@ -44095,7 +44209,7 @@
           "available": false,
           "price": "9.90",
           "grams": 533,
-          "compare_at_price": "39.90",
+          "compare_at_price": "89.90",
           "position": 1,
           "product_id": 10261321580808,
           "created_at": "2025-05-28T15:11:34+02:00"
@@ -52050,7 +52164,7 @@
           "available": true,
           "price": "9.90",
           "grams": 150,
-          "compare_at_price": "19.90",
+          "compare_at_price": "34.90",
           "position": 1,
           "product_id": 10261333770504,
           "created_at": "2025-05-28T15:16:00+02:00"
@@ -53522,7 +53636,7 @@
           "available": true,
           "price": "6.90",
           "grams": 100,
-          "compare_at_price": "9.90",
+          "compare_at_price": "17.90",
           "position": 1,
           "product_id": 10261338849544,
           "created_at": "2025-05-28T15:17:03+02:00"
@@ -53579,7 +53693,7 @@
           "available": true,
           "price": "9.90",
           "grams": 90,
-          "compare_at_price": "14.90",
+          "compare_at_price": "41.90",
           "position": 1,
           "product_id": 10261324333320,
           "created_at": "2025-05-28T15:12:32+02:00"
@@ -53656,7 +53770,7 @@
           "available": true,
           "price": "9.90",
           "grams": 85,
-          "compare_at_price": "14.90",
+          "compare_at_price": "41.90",
           "position": 1,
           "product_id": 10261324464392,
           "created_at": "2025-05-28T15:12:34+02:00"
@@ -53804,7 +53918,7 @@
           "available": true,
           "price": "2.90",
           "grams": 90,
-          "compare_at_price": "6.90",
+          "compare_at_price": "21.90",
           "position": 1,
           "product_id": 10261331738888,
           "created_at": "2025-05-28T15:15:19+02:00"
@@ -54093,7 +54207,7 @@
           "available": false,
           "price": "4.90",
           "grams": 179,
-          "compare_at_price": "19.90",
+          "compare_at_price": "45.90",
           "position": 1,
           "product_id": 10261338521864,
           "created_at": "2025-05-28T15:16:39+02:00"
@@ -54294,7 +54408,7 @@
           "available": false,
           "price": "4.90",
           "grams": 103,
-          "compare_at_price": "14.90",
+          "compare_at_price": "26.90",
           "position": 1,
           "product_id": 10261339603208,
           "created_at": "2025-05-28T15:17:23+02:00"
@@ -54361,7 +54475,7 @@
           "available": true,
           "price": "19.90",
           "grams": 97,
-          "compare_at_price": "29.90",
+          "compare_at_price": "41.90",
           "position": 1,
           "product_id": 10261319614728,
           "created_at": "2025-05-28T15:10:44+02:00"
@@ -54438,7 +54552,7 @@
           "available": true,
           "price": "19.90",
           "grams": 92,
-          "compare_at_price": "29.90",
+          "compare_at_price": "41.90",
           "position": 1,
           "product_id": 10261319680264,
           "created_at": "2025-05-28T15:10:45+02:00"
@@ -54525,7 +54639,7 @@
           "available": true,
           "price": "14.90",
           "grams": 97,
-          "compare_at_price": "29.90",
+          "compare_at_price": "41.90",
           "position": 1,
           "product_id": 10261324071176,
           "created_at": "2025-05-28T15:12:27+02:00"
@@ -54602,7 +54716,7 @@
           "available": true,
           "price": "14.90",
           "grams": 96,
-          "compare_at_price": "29.90",
+          "compare_at_price": "41.90",
           "position": 1,
           "product_id": 10261324136712,
           "created_at": "2025-05-28T15:12:29+02:00"
@@ -55319,7 +55433,7 @@
           "available": true,
           "price": "4.90",
           "grams": 112,
-          "compare_at_price": "9.90",
+          "compare_at_price": "21.90",
           "position": 1,
           "product_id": 10261332132104,
           "created_at": "2025-05-28T15:15:28+02:00"
@@ -55387,7 +55501,7 @@
           "available": true,
           "price": "7.90",
           "grams": 110,
-          "compare_at_price": "9.90",
+          "compare_at_price": "41.90",
           "position": 1,
           "product_id": 10261324497160,
           "created_at": "2025-05-28T15:12:36+02:00"
@@ -55894,7 +56008,7 @@
           "available": false,
           "price": "3.90",
           "grams": 160,
-          "compare_at_price": "14.90",
+          "compare_at_price": "38.90",
           "position": 1,
           "product_id": 10261327806728,
           "created_at": "2025-05-28T15:13:47+02:00"
@@ -56224,7 +56338,7 @@
           "available": true,
           "price": "12.90",
           "grams": 410,
-          "compare_at_price": "19.90",
+          "compare_at_price": "65.90",
           "position": 1,
           "product_id": 10261331542280,
           "created_at": "2025-05-28T15:15:16+02:00"
@@ -56328,7 +56442,7 @@
           "available": true,
           "price": "9.90",
           "grams": 106,
-          "compare_at_price": "14.90",
+          "compare_at_price": "26.90",
           "position": 1,
           "product_id": 10261339144456,
           "created_at": "2025-05-28T15:17:09+02:00"
@@ -66553,7 +66667,7 @@
           "available": true,
           "price": "9.90",
           "grams": 150,
-          "compare_at_price": "19.90",
+          "compare_at_price": "34.90",
           "position": 1,
           "product_id": 10261377712392,
           "created_at": "2025-05-28T15:28:36+02:00"
@@ -67984,7 +68098,7 @@
           "available": true,
           "price": "12.90",
           "grams": 150,
-          "compare_at_price": "19.90",
+          "compare_at_price": "34.90",
           "position": 1,
           "product_id": 10261398061320,
           "created_at": "2025-05-28T15:42:16+02:00"
@@ -69140,7 +69254,7 @@
           "available": true,
           "price": "14.90",
           "grams": 120,
-          "compare_at_price": "24.90",
+          "compare_at_price": "38.90",
           "position": 1,
           "product_id": 10261404811528,
           "created_at": "2025-05-28T15:45:10+02:00"
@@ -69252,7 +69366,7 @@
           "available": true,
           "price": "14.90",
           "grams": 100,
-          "compare_at_price": "33.90",
+          "compare_at_price": "25.00",
           "position": 1,
           "product_id": 10261404942600,
           "created_at": "2025-05-28T15:45:12+02:00"
@@ -69364,7 +69478,7 @@
           "available": true,
           "price": "9.90",
           "grams": 90,
-          "compare_at_price": "17.90",
+          "compare_at_price": "18.00",
           "position": 1,
           "product_id": 10261405040904,
           "created_at": "2025-05-28T15:45:16+02:00"
@@ -69421,7 +69535,7 @@
           "available": true,
           "price": "14.90",
           "grams": 100,
-          "compare_at_price": "29.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261405139208,
           "created_at": "2025-05-28T15:45:17+02:00"
@@ -69475,7 +69589,7 @@
           "available": true,
           "price": "14.90",
           "grams": 120,
-          "compare_at_price": "28.90",
+          "compare_at_price": "29.00",
           "position": 1,
           "product_id": 10353683857672,
           "created_at": "2025-06-18T10:44:24+02:00"
@@ -69532,7 +69646,7 @@
           "available": true,
           "price": "9.90",
           "grams": 100,
-          "compare_at_price": "19.90",
+          "compare_at_price": "34.90",
           "position": 1,
           "product_id": 10261405237512,
           "created_at": "2025-05-28T15:45:18+02:00"
@@ -70123,7 +70237,7 @@
           "available": true,
           "price": "4.90",
           "grams": 155,
-          "compare_at_price": "9.90",
+          "compare_at_price": "40.90",
           "position": 1,
           "product_id": 10261351072008,
           "created_at": "2025-05-28T15:20:15+02:00"
@@ -70267,7 +70381,7 @@
           "available": true,
           "price": "4.90",
           "grams": 113,
-          "compare_at_price": "9.90",
+          "compare_at_price": "21.90",
           "position": 1,
           "product_id": 10261351235848,
           "created_at": "2025-05-28T15:20:19+02:00"
@@ -70334,7 +70448,7 @@
           "available": true,
           "price": "17.90",
           "grams": 107,
-          "compare_at_price": "29.90",
+          "compare_at_price": "41.90",
           "position": 1,
           "product_id": 10261387804936,
           "created_at": "2025-05-28T15:36:23+02:00"
@@ -70411,7 +70525,7 @@
           "available": true,
           "price": "17.90",
           "grams": 106,
-          "compare_at_price": "29.90",
+          "compare_at_price": "41.90",
           "position": 1,
           "product_id": 10261387903240,
           "created_at": "2025-05-28T15:36:25+02:00"
@@ -70617,7 +70731,7 @@
           "available": true,
           "price": "9.90",
           "grams": 109,
-          "compare_at_price": "19.90",
+          "compare_at_price": "38.90",
           "position": 1,
           "product_id": 10261385511176,
           "created_at": "2025-05-28T15:34:54+02:00"
@@ -70852,7 +70966,7 @@
           "available": true,
           "price": "9.90",
           "grams": 110,
-          "compare_at_price": "19.90",
+          "compare_at_price": "38.90",
           "position": 1,
           "product_id": 10261385576712,
           "created_at": "2025-05-28T15:34:57+02:00"
@@ -70962,7 +71076,7 @@
           "available": true,
           "price": "4.90",
           "grams": 113,
-          "compare_at_price": "9.90",
+          "compare_at_price": "26.90",
           "position": 1,
           "product_id": 10261388198152,
           "created_at": "2025-05-28T15:36:31+02:00"
@@ -71030,7 +71144,7 @@
           "available": true,
           "price": "2.90",
           "grams": 121,
-          "compare_at_price": "6.90",
+          "compare_at_price": "21.90",
           "position": 1,
           "product_id": 10261388230920,
           "created_at": "2025-05-28T15:36:32+02:00"
@@ -71176,7 +71290,7 @@
           "available": true,
           "price": "9.90",
           "grams": 112,
-          "compare_at_price": "14.90",
+          "compare_at_price": "54.90",
           "position": 1,
           "product_id": 10261400584456,
           "created_at": "2025-05-28T15:43:00+02:00"
@@ -71255,7 +71369,7 @@
           "available": true,
           "price": "9.90",
           "grams": 112,
-          "compare_at_price": "14.90",
+          "compare_at_price": "54.90",
           "position": 1,
           "product_id": 10261400649992,
           "created_at": "2025-05-28T15:43:04+02:00"
@@ -71334,7 +71448,7 @@
           "available": true,
           "price": "9.90",
           "grams": 114,
-          "compare_at_price": "14.90",
+          "compare_at_price": "54.90",
           "position": 1,
           "product_id": 10261400682760,
           "created_at": "2025-05-28T15:43:05+02:00"
@@ -71480,7 +71594,7 @@
           "available": true,
           "price": "12.90",
           "grams": 182,
-          "compare_at_price": "29.90",
+          "compare_at_price": "49.90",
           "position": 1,
           "product_id": 10261388001544,
           "created_at": "2025-05-28T15:36:27+02:00"
@@ -71559,7 +71673,7 @@
           "available": true,
           "price": "15.90",
           "grams": 177,
-          "compare_at_price": "29.90",
+          "compare_at_price": "49.90",
           "position": 1,
           "product_id": 10261388132616,
           "created_at": "2025-05-28T15:36:29+02:00"
@@ -71636,7 +71750,7 @@
           "available": true,
           "price": "13.90",
           "grams": 81,
-          "compare_at_price": "29.90",
+          "compare_at_price": "41.90",
           "position": 1,
           "product_id": 10261388525832,
           "created_at": "2025-05-28T15:36:40+02:00"
@@ -71713,7 +71827,7 @@
           "available": true,
           "price": "13.90",
           "grams": 85,
-          "compare_at_price": "29.90",
+          "compare_at_price": "41.90",
           "position": 1,
           "product_id": 10261388558600,
           "created_at": "2025-05-28T15:36:42+02:00"
@@ -71790,7 +71904,7 @@
           "available": true,
           "price": "24.90",
           "grams": 120,
-          "compare_at_price": "39.90",
+          "compare_at_price": "49.90",
           "position": 1,
           "product_id": 10261389672712,
           "created_at": "2025-05-28T15:37:12+02:00"
@@ -72015,7 +72129,7 @@
           "available": true,
           "price": "24.90",
           "grams": 111,
-          "compare_at_price": "39.90",
+          "compare_at_price": "54.90",
           "position": 1,
           "product_id": 10261401501960,
           "created_at": "2025-05-28T15:43:23+02:00"
@@ -72094,7 +72208,7 @@
           "available": true,
           "price": "24.90",
           "grams": 112,
-          "compare_at_price": "39.90",
+          "compare_at_price": "54.90",
           "position": 1,
           "product_id": 10261401600264,
           "created_at": "2025-05-28T15:43:25+02:00"
@@ -72273,7 +72387,7 @@
           "available": true,
           "price": "24.90",
           "grams": 220,
-          "compare_at_price": "39.90",
+          "compare_at_price": "59.90",
           "position": 1,
           "product_id": 10261389934856,
           "created_at": "2025-05-28T15:37:17+02:00"
@@ -72331,7 +72445,7 @@
           "available": true,
           "price": "19.90",
           "grams": 270,
-          "compare_at_price": "34.90",
+          "compare_at_price": "54.90",
           "position": 1,
           "product_id": 10261390033160,
           "created_at": "2025-05-28T15:37:19+02:00"
@@ -72605,7 +72719,7 @@
           "available": false,
           "price": "19.90",
           "grams": 212,
-          "compare_at_price": "29.90",
+          "compare_at_price": "59.90",
           "position": 1,
           "product_id": 10261383971080,
           "created_at": "2025-05-28T15:34:10+02:00"
@@ -72715,7 +72829,7 @@
           "available": true,
           "price": "9.90",
           "grams": 414,
-          "compare_at_price": "19.90",
+          "compare_at_price": "54.90",
           "position": 1,
           "product_id": 10261383938312,
           "created_at": "2025-05-28T15:34:08+02:00"
@@ -73895,7 +74009,7 @@
           "available": true,
           "price": "13.90",
           "grams": 108,
-          "compare_at_price": "19.90",
+          "compare_at_price": "24.90",
           "position": 1,
           "product_id": 10261420605704,
           "created_at": "2025-05-28T15:50:39+02:00"
@@ -74208,7 +74322,7 @@
           "available": false,
           "price": "21.90",
           "grams": 112,
-          "compare_at_price": "39.90",
+          "compare_at_price": "59.90",
           "position": 1,
           "product_id": 10261421097224,
           "created_at": "2025-05-28T15:50:49+02:00"
@@ -74410,7 +74524,7 @@
           "available": false,
           "price": "10.90",
           "grams": 290,
-          "compare_at_price": "19.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261421392136,
           "created_at": "2025-05-28T15:50:54+02:00"
@@ -75332,7 +75446,7 @@
           "available": true,
           "price": "6.90",
           "grams": 261,
-          "compare_at_price": "9.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261424505096,
           "created_at": "2025-05-28T15:52:09+02:00"
@@ -75829,7 +75943,7 @@
           "available": true,
           "price": "9.90",
           "grams": 149,
-          "compare_at_price": "14.90",
+          "compare_at_price": "34.90",
           "position": 1,
           "product_id": 10261425258760,
           "created_at": "2025-05-28T15:52:21+02:00"
@@ -76393,7 +76507,7 @@
           "available": true,
           "price": "6.90",
           "grams": 110,
-          "compare_at_price": "9.90",
+          "compare_at_price": "34.90",
           "position": 1,
           "product_id": 10261426733320,
           "created_at": "2025-05-28T15:52:37+02:00"
@@ -76922,7 +77036,7 @@
           "available": true,
           "price": "6.90",
           "grams": 129,
-          "compare_at_price": "9.90",
+          "compare_at_price": "34.90",
           "position": 1,
           "product_id": 10261432369416,
           "created_at": "2025-05-28T15:53:38+02:00"
@@ -78120,7 +78234,7 @@
           "available": false,
           "price": "15.90",
           "grams": 444,
-          "compare_at_price": "29.90",
+          "compare_at_price": "59.90",
           "position": 1,
           "product_id": 10261436760328,
           "created_at": "2025-05-28T15:54:10+02:00"
@@ -79291,7 +79405,7 @@
           "available": true,
           "price": "7.90",
           "grams": 123,
-          "compare_at_price": "14.90",
+          "compare_at_price": "24.90",
           "position": 1,
           "product_id": 10261438759176,
           "created_at": "2025-05-28T15:54:40+02:00"
@@ -81894,7 +82008,7 @@
           "available": false,
           "price": "49.90",
           "grams": 2287,
-          "compare_at_price": "79.90",
+          "compare_at_price": "129.90",
           "position": 1,
           "product_id": 10261474148616,
           "created_at": "2025-05-28T16:01:00+02:00"
@@ -83126,6 +83240,8 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime",
         "Online"
       ],
@@ -83140,7 +83256,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "54.90",
           "grams": 360,
           "compare_at_price": "54.90",
@@ -87637,7 +87753,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "14.90",
           "grams": 0,
           "compare_at_price": "14.90",
@@ -91520,7 +91636,7 @@
           "available": false,
           "price": "15.90",
           "grams": 182,
-          "compare_at_price": "29.90",
+          "compare_at_price": "49.90",
           "position": 1,
           "product_id": 10261508194568,
           "created_at": "2025-05-28T16:16:00+02:00"
@@ -92473,7 +92589,7 @@
           "available": true,
           "price": "21.90",
           "grams": 167,
-          "compare_at_price": "39.90",
+          "compare_at_price": "59.90",
           "position": 1,
           "product_id": 10261509046536,
           "created_at": "2025-05-28T16:16:09+02:00"
@@ -93284,7 +93400,7 @@
           "available": true,
           "price": "15.90",
           "grams": 178,
-          "compare_at_price": "29.90",
+          "compare_at_price": "49.90",
           "position": 1,
           "product_id": 10261510357256,
           "created_at": "2025-05-28T16:16:33+02:00"
@@ -93836,7 +93952,7 @@
           "available": false,
           "price": "12.90",
           "grams": 140,
-          "compare_at_price": "24.90",
+          "compare_at_price": "34.90",
           "position": 1,
           "product_id": 10261515665672,
           "created_at": "2025-05-28T16:17:46+02:00"
@@ -109561,7 +109677,7 @@
           "available": true,
           "price": "14.90",
           "grams": 90,
-          "compare_at_price": "19.90",
+          "compare_at_price": "54.90",
           "position": 1,
           "product_id": 10261416640776,
           "created_at": "2025-05-28T15:49:18+02:00"
@@ -109639,7 +109755,7 @@
           "available": true,
           "price": "14.90",
           "grams": 90,
-          "compare_at_price": "19.90",
+          "compare_at_price": "54.90",
           "position": 1,
           "product_id": 10261416739080,
           "created_at": "2025-05-28T15:49:19+02:00"
@@ -109889,7 +110005,7 @@
           "available": false,
           "price": "19.90",
           "grams": 425,
-          "compare_at_price": "39.90",
+          "compare_at_price": "59.90",
           "position": 1,
           "product_id": 10540316721416,
           "created_at": "2025-10-02T12:13:03+02:00"
@@ -115621,7 +115737,7 @@
           "available": false,
           "price": "12.90",
           "grams": 133,
-          "compare_at_price": "24.90",
+          "compare_at_price": "34.90",
           "position": 1,
           "product_id": 10261540667656,
           "created_at": "2025-05-28T16:25:36+02:00"
@@ -116217,7 +116333,7 @@
           "available": true,
           "price": "26.90",
           "grams": 393,
-          "compare_at_price": "39.90",
+          "compare_at_price": "49.90",
           "position": 1,
           "product_id": 10261542371592,
           "created_at": "2025-05-28T16:26:02+02:00"
@@ -120732,6 +120848,60 @@
       ]
     },
     {
+      "id": 10270976672008,
+      "title": "Gods' Games We Play - Gesamtausgabe (Blu-ray)",
+      "handle": "25cr154-gods-games-we-play-gesamtausgabe-bluray",
+      "published_at": "2026-11-19T12:47:45+01:00",
+      "created_at": "2025-05-30T18:20:19+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [
+        "Flow:Releaseplan-Anime",
+        "Online"
+      ],
+      "variants": [
+        {
+          "id": 51568968728840,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "25cr154",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "69.90",
+          "grams": 0,
+          "compare_at_price": "69.90",
+          "position": 1,
+          "product_id": 10270976672008,
+          "created_at": "2025-05-30T18:20:20+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 73958508724488,
+          "created_at": "2025-10-29T20:17:06+01:00",
+          "position": 1,
+          "product_id": 10270976672008,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/gods-games-we-play-gesamtausgabe-blu-ray-gesamtausgabe-crunchyroll-288.webp?v=1769041182",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 10270976770312,
       "title": "Mushoku Tensei: Jobless Reincarnation - Season 2 - Vol. 4 (Blu-ray)",
       "handle": "25cr155-mushoku-tensei-jobless-reincarnation-staffel-2-vol-4-bluray",
@@ -120832,7 +121002,7 @@
           "available": false,
           "price": "12.90",
           "grams": 174,
-          "compare_at_price": "24.90",
+          "compare_at_price": "34.90",
           "position": 1,
           "product_id": 10270976835848,
           "created_at": "2025-05-30T18:20:23+02:00"
@@ -121888,7 +122058,7 @@
           "available": false,
           "price": "36.90",
           "grams": 311,
-          "compare_at_price": "39.90",
+          "compare_at_price": "44.90",
           "position": 1,
           "product_id": 10270977884424,
           "created_at": "2025-05-30T18:20:47+02:00"
@@ -128529,6 +128699,59 @@
       ]
     },
     {
+      "id": 10475336433928,
+      "title": "Blue Lock - Season 1 - Part 2 - Gesamtausgabe (DVD)",
+      "handle": "25cr272-blue-lock-gesamtausgabe-dvd",
+      "published_at": "2026-11-19T12:41:46+01:00",
+      "created_at": "2025-08-21T17:08:25+02:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [
+        "Online"
+      ],
+      "variants": [
+        {
+          "id": 52250664763656,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "25cr272",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "19.90",
+          "grams": 387,
+          "compare_at_price": "29.90",
+          "position": 1,
+          "product_id": 10475336433928,
+          "created_at": "2025-08-21T17:08:25+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 73961976987912,
+          "created_at": "2025-10-29T21:16:15+01:00",
+          "position": 1,
+          "product_id": 10475336433928,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/blue-lock-staffel-1-part-2-gesamtausgabe-dvd-gesamtausgabe-999.webp?v=1769046163",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 10475336532232,
       "title": "Higehiro: After Being Rejected - Gesamtausgabe (Blu-ray)",
       "handle": "25cr273-higehiro-after-being-rejected-bluray",
@@ -129247,7 +129470,7 @@
           "available": false,
           "price": "32.90",
           "grams": 731,
-          "compare_at_price": "59.90",
+          "compare_at_price": "79.90",
           "position": 1,
           "product_id": 10475330404616,
           "created_at": "2025-08-21T17:02:40+02:00"
@@ -132136,7 +132359,7 @@
     },
     {
       "id": 10431169757448,
-      "title": "One Piece - Socken - Skull Logo - Größe XL",
+      "title": "One Piece - Socken - Skull Logo - Größe M",
       "handle": "25her011-one-piece-skull-logo-socken",
       "published_at": "2025-07-25T17:52:24+02:00",
       "created_at": "2025-07-25T17:45:48+02:00",
@@ -132210,7 +132433,7 @@
     },
     {
       "id": 10431169790216,
-      "title": "Pokémon - Hoodie - Shadow Gengar - Größe S",
+      "title": "Pokémon - Hoodie - Shadow Gengar - Größe XXL",
       "handle": "25her012-pokemon-gengar-shadow-tshirt",
       "published_at": "2025-07-25T17:52:24+02:00",
       "created_at": "2025-07-25T17:45:49+02:00",
@@ -132642,7 +132865,7 @@
     },
     {
       "id": 10431169921288,
-      "title": "Pokémon - Hoodie - Halftone Pikachu - Größe L",
+      "title": "Pokémon - Hoodie - Halftone Pikachu - Größe XXL",
       "handle": "25her015-pokemon-halftone-pikachu-hoodie",
       "published_at": "2025-07-25T17:52:26+02:00",
       "created_at": "2025-07-25T17:45:51+02:00",
@@ -132793,7 +133016,7 @@
     },
     {
       "id": 10431169986824,
-      "title": "Pokémon - Hoodie - Katakana Pikachu - Größe L",
+      "title": "Pokémon - Hoodie - Katakana Pikachu - Größe XXL",
       "handle": "25her016-pokemon-pikachu-katakana-hoodie",
       "published_at": "2025-07-25T17:52:27+02:00",
       "created_at": "2025-07-25T17:45:53+02:00",
@@ -133837,7 +134060,7 @@
           "available": true,
           "price": "15.90",
           "grams": 169,
-          "compare_at_price": "29.90",
+          "compare_at_price": "49.90",
           "position": 1,
           "product_id": 10261546795272,
           "created_at": "2025-05-28T16:27:10+02:00"
@@ -133944,7 +134167,7 @@
           "available": true,
           "price": "15.90",
           "grams": 189,
-          "compare_at_price": "29.90",
+          "compare_at_price": "49.90",
           "position": 1,
           "product_id": 10261562786056,
           "created_at": "2025-05-28T16:31:55+02:00"
@@ -137700,7 +137923,7 @@
           "available": true,
           "price": "14.90",
           "grams": 240,
-          "compare_at_price": "29.90",
+          "compare_at_price": "69.80",
           "position": 1,
           "product_id": 10261548466440,
           "created_at": "2025-05-28T16:27:35+02:00"
@@ -137757,7 +137980,7 @@
           "available": true,
           "price": "9.90",
           "grams": 120,
-          "compare_at_price": "19.90",
+          "compare_at_price": "34.90",
           "position": 1,
           "product_id": 10261532410120,
           "created_at": "2025-05-28T16:23:27+02:00"
@@ -137814,7 +138037,7 @@
           "available": true,
           "price": "9.90",
           "grams": 120,
-          "compare_at_price": "19.90",
+          "compare_at_price": "34.90",
           "position": 1,
           "product_id": 10261532475656,
           "created_at": "2025-05-28T16:23:28+02:00"
@@ -138729,7 +138952,7 @@
           "available": true,
           "price": "11.90",
           "grams": 120,
-          "compare_at_price": "19.90",
+          "compare_at_price": "34.90",
           "position": 1,
           "product_id": 10261562425608,
           "created_at": "2025-05-28T16:31:48+02:00"
@@ -138785,7 +139008,7 @@
           "available": true,
           "price": "3.90",
           "grams": 140,
-          "compare_at_price": "9.90",
+          "compare_at_price": "19.90",
           "position": 1,
           "product_id": 10375277150472,
           "created_at": "2025-06-26T18:47:16+02:00"
@@ -138851,7 +139074,7 @@
           "available": true,
           "price": "6.90",
           "grams": 140,
-          "compare_at_price": "9.90",
+          "compare_at_price": "19.90",
           "position": 1,
           "product_id": 10375277281544,
           "created_at": "2025-06-26T18:47:18+02:00"
@@ -138917,7 +139140,7 @@
           "available": true,
           "price": "3.90",
           "grams": 140,
-          "compare_at_price": "9.90",
+          "compare_at_price": "19.90",
           "position": 1,
           "product_id": 10375277347080,
           "created_at": "2025-06-26T18:47:19+02:00"
@@ -162803,6 +163026,8 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -162816,7 +163041,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "62.90",
           "grams": 245,
           "compare_at_price": "62.90",
@@ -181824,7 +182049,7 @@
           "available": true,
           "price": "34.90",
           "grams": 184,
-          "compare_at_price": "59.90",
+          "compare_at_price": "69.90",
           "position": 1,
           "product_id": 11814283084040,
           "created_at": "2026-04-16T15:40:52+02:00"
@@ -181878,7 +182103,7 @@
           "available": true,
           "price": "24.90",
           "grams": 195,
-          "compare_at_price": "59.90",
+          "compare_at_price": "69.90",
           "position": 1,
           "product_id": 11814295208200,
           "created_at": "2026-04-16T15:46:20+02:00"
@@ -182286,7 +182511,7 @@
           "available": true,
           "price": "79.90",
           "grams": 0,
-          "compare_at_price": "85.40",
+          "compare_at_price": "89.90",
           "position": 1,
           "product_id": 10708273496328,
           "created_at": "2026-01-15T17:47:04+01:00"
@@ -205252,7 +205477,6 @@
       "product_type": "Gift",
       "tags": [
         "Click&Collect",
-        "Flow:ArtikelstatusAktiv",
         "Goodie",
         "Online"
       ],
@@ -205267,7 +205491,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.00",
           "grams": 10,
           "compare_at_price": "0.00",
@@ -206078,6 +206302,7 @@
         "exclude_rebuy",
         "exclude_recommendations",
         "exclude_review",
+        "Flow:ArtikelstatusAktiv",
         "hidden",
         "Hidden recommendation",
         "Hide",
@@ -206101,7 +206326,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.00",
           "grams": 10,
           "compare_at_price": "0.00",
@@ -207928,8 +208153,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Click&Collect",
-        "Flow:ArtikelstatusAktiv"
+        "Click&Collect"
       ],
       "variants": [
         {
@@ -207942,7 +208166,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.00",
           "grams": 10,
           "compare_at_price": "0.00",
@@ -224003,7 +224227,7 @@
           "available": true,
           "price": "14.90",
           "grams": 300,
-          "compare_at_price": "24.90",
+          "compare_at_price": "34.90",
           "position": 1,
           "product_id": 10387250086152,
           "created_at": "2025-07-03T15:27:35+02:00"
