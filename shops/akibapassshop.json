@@ -160177,7 +160177,9 @@
       "created_at": "2026-08-06T11:54:25+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:ArtikelstatusAktiv"
+      ],
       "variants": [
         {
           "id": 58378674110728,
@@ -161149,8 +161151,6 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen",
-        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -161164,7 +161164,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "24.90",
           "grams": 168,
           "compare_at_price": "24.90",
@@ -161833,6 +161833,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -161846,7 +161847,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "69.90",
           "grams": 201,
           "compare_at_price": "69.90",
@@ -166188,6 +166189,7 @@
       "vendor": "Hardball Films",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
         "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
@@ -166405,6 +166407,8 @@
       "vendor": "Hardball Films",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -166418,7 +166422,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "69.90",
           "grams": 336,
           "compare_at_price": "69.90",
@@ -166511,6 +166515,7 @@
       "vendor": "Hardball Films",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
         "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
@@ -205481,7 +205486,6 @@
       "product_type": "Gift",
       "tags": [
         "Click&Collect",
-        "Flow:ArtikelstatusAktiv",
         "Goodie",
         "Online"
       ],
@@ -205496,7 +205500,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.00",
           "grams": 10,
           "compare_at_price": "0.00",
@@ -206376,7 +206380,6 @@
         "exclude_rebuy",
         "exclude_recommendations",
         "exclude_review",
-        "Flow:ArtikelstatusAktiv",
         "hidden",
         "Hidden recommendation",
         "Hide",
@@ -206400,7 +206403,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.00",
           "grams": 10,
           "compare_at_price": "0.00",
@@ -208227,8 +208230,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Click&Collect",
-        "Flow:ArtikelstatusAktiv"
+        "Click&Collect"
       ],
       "variants": [
         {
@@ -208241,7 +208243,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.00",
           "grams": 10,
           "compare_at_price": "0.00",
