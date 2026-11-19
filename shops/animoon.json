@@ -6061,7 +6061,7 @@
               57246841438473
             ]
           },
-          "available": false,
+          "available": true,
           "price": "49.99",
           "grams": 400,
           "compare_at_price": "54.99",
@@ -38973,7 +38973,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "34.99",
           "grams": 100,
           "compare_at_price": null,
