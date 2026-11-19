@@ -26150,7 +26150,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "5.90",
           "grams": 200,
           "compare_at_price": "14.90",
@@ -83038,7 +83038,9 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Badge:Vorbestellen",
         "Crunchyroll",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime",
         "Online",
         "Shounen"
@@ -83054,9 +83056,9 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "64.90",
-          "grams": 0,
+          "grams": 320,
           "compare_at_price": "64.90",
           "position": 1,
           "product_id": 10261475557640,
@@ -83140,7 +83142,7 @@
           "featured_image": null,
           "available": false,
           "price": "54.90",
-          "grams": 0,
+          "grams": 360,
           "compare_at_price": "54.90",
           "position": 1,
           "product_id": 10261475623176,
@@ -109884,7 +109886,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "19.90",
           "grams": 425,
           "compare_at_price": "39.90",
@@ -160300,7 +160302,7 @@
           "featured_image": null,
           "available": true,
           "price": "44.90",
-          "grams": 0,
+          "grams": 218,
           "compare_at_price": "44.90",
           "position": 1,
           "product_id": 12205904396552,
@@ -160651,6 +160653,8 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -160664,9 +160668,9 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "39.90",
-          "grams": 0,
+          "grams": 113,
           "compare_at_price": "39.90",
           "position": 1,
           "product_id": 12205908525320,
@@ -160924,6 +160928,8 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -160937,9 +160943,9 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "24.90",
-          "grams": 0,
+          "grams": 168,
           "compare_at_price": "24.90",
           "position": 1,
           "product_id": 12205909999880,
@@ -160997,6 +161003,8 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -161010,9 +161018,9 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "24.90",
-          "grams": 170,
+          "grams": 169,
           "compare_at_price": "24.90",
           "position": 1,
           "product_id": 12205910294792,
@@ -161261,7 +161269,7 @@
           "featured_image": null,
           "available": false,
           "price": "39.90",
-          "grams": 210,
+          "grams": 209,
           "compare_at_price": "39.90",
           "position": 1,
           "product_id": 12205914226952,
@@ -161334,7 +161342,7 @@
           "featured_image": null,
           "available": false,
           "price": "34.90",
-          "grams": 0,
+          "grams": 207,
           "compare_at_price": "34.90",
           "position": 1,
           "product_id": 12205899186440,
@@ -161690,7 +161698,7 @@
           "featured_image": null,
           "available": true,
           "price": "69.90",
-          "grams": 0,
+          "grams": 202,
           "compare_at_price": "69.90",
           "position": 1,
           "product_id": 12205902528776,
@@ -161987,6 +161995,7 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -162000,7 +162009,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "39.90",
           "grams": 120,
           "compare_at_price": "39.90",
@@ -162133,6 +162142,8 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -162146,9 +162157,9 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "39.90",
-          "grams": 0,
+          "grams": 119,
           "compare_at_price": "39.90",
           "position": 1,
           "product_id": 12205913866504,
@@ -162221,7 +162232,7 @@
           "featured_image": null,
           "available": true,
           "price": "49.90",
-          "grams": 0,
+          "grams": 218,
           "compare_at_price": "49.90",
           "position": 1,
           "product_id": 12205915275528,
@@ -162405,6 +162416,8 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -162418,9 +162431,9 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "44.90",
-          "grams": 0,
+          "grams": 222,
           "compare_at_price": "44.90",
           "position": 1,
           "product_id": 12205916127496,
@@ -162722,7 +162735,7 @@
           "featured_image": null,
           "available": false,
           "price": "69.90",
-          "grams": 0,
+          "grams": 244,
           "compare_at_price": "69.90",
           "position": 1,
           "product_id": 12320715440392,
@@ -162805,7 +162818,7 @@
           "featured_image": null,
           "available": false,
           "price": "62.90",
-          "grams": 0,
+          "grams": 245,
           "compare_at_price": "62.90",
           "position": 1,
           "product_id": 12320715309320,
@@ -162888,7 +162901,7 @@
           "featured_image": null,
           "available": true,
           "price": "69.90",
-          "grams": 0,
+          "grams": 229,
           "compare_at_price": "69.90",
           "position": 1,
           "product_id": 12320751583496,
@@ -162971,7 +162984,7 @@
           "featured_image": null,
           "available": true,
           "price": "62.90",
-          "grams": 0,
+          "grams": 230,
           "compare_at_price": "62.90",
           "position": 1,
           "product_id": 12320751616264,
@@ -163386,7 +163399,7 @@
           "featured_image": null,
           "available": true,
           "price": "79.90",
-          "grams": 0,
+          "grams": 197,
           "compare_at_price": "79.90",
           "position": 1,
           "product_id": 12332157370632,
@@ -165217,6 +165230,8 @@
       "vendor": "Film Confect",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -165230,9 +165245,9 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "69.90",
-          "grams": 0,
+          "grams": 1918,
           "compare_at_price": "69.90",
           "position": 1,
           "product_id": 12332158124296,
@@ -165270,6 +165285,8 @@
       "vendor": "Film Confect",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -165283,9 +165300,9 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "49.90",
-          "grams": 0,
+          "grams": 1938,
           "compare_at_price": "49.90",
           "position": 1,
           "product_id": 12332158091528,
@@ -165962,7 +165979,7 @@
           "featured_image": null,
           "available": true,
           "price": "69.90",
-          "grams": 360,
+          "grams": 358,
           "compare_at_price": "69.90",
           "position": 1,
           "product_id": 12332157272328,
@@ -166015,7 +166032,7 @@
           "featured_image": null,
           "available": false,
           "price": "49.90",
-          "grams": 0,
+          "grams": 359,
           "compare_at_price": "49.90",
           "position": 1,
           "product_id": 12332157305096,
@@ -166068,7 +166085,7 @@
           "featured_image": null,
           "available": false,
           "price": "69.90",
-          "grams": 680,
+          "grams": 675,
           "compare_at_price": "69.90",
           "position": 1,
           "product_id": 12332157567240,
@@ -166121,7 +166138,7 @@
           "featured_image": null,
           "available": false,
           "price": "49.90",
-          "grams": 0,
+          "grams": 677,
           "compare_at_price": "49.90",
           "position": 1,
           "product_id": 12332157829384,
@@ -166174,7 +166191,7 @@
           "featured_image": null,
           "available": false,
           "price": "69.90",
-          "grams": 340,
+          "grams": 336,
           "compare_at_price": "69.90",
           "position": 1,
           "product_id": 12332157960456,
@@ -166227,7 +166244,7 @@
           "featured_image": null,
           "available": false,
           "price": "49.90",
-          "grams": 0,
+          "grams": 360,
           "compare_at_price": "49.90",
           "position": 1,
           "product_id": 12332158025992,
@@ -166281,7 +166298,7 @@
           "featured_image": null,
           "available": true,
           "price": "69.90",
-          "grams": 380,
+          "grams": 378,
           "compare_at_price": "69.90",
           "position": 1,
           "product_id": 12332157894920,
@@ -179330,6 +179347,8 @@
       "vendor": "Nipponart",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -179345,7 +179364,7 @@
           "featured_image": null,
           "available": true,
           "price": "39.90",
-          "grams": 0,
+          "grams": 541,
           "compare_at_price": "39.90",
           "position": 1,
           "product_id": 12332157239560,
@@ -179398,7 +179417,7 @@
           "featured_image": null,
           "available": false,
           "price": "29.90",
-          "grams": 0,
+          "grams": 528,
           "compare_at_price": "29.90",
           "position": 1,
           "product_id": 12332157337864,
@@ -180941,7 +180960,7 @@
           "featured_image": null,
           "available": true,
           "price": "29.90",
-          "grams": 0,
+          "grams": 731,
           "compare_at_price": "29.90",
           "position": 1,
           "product_id": 12438298591496,
@@ -180994,7 +181013,7 @@
           "featured_image": null,
           "available": true,
           "price": "49.90",
-          "grams": 0,
+          "grams": 419,
           "compare_at_price": "49.90",
           "position": 1,
           "product_id": 12438298722568,
@@ -181047,7 +181066,7 @@
           "featured_image": null,
           "available": true,
           "price": "29.90",
-          "grams": 0,
+          "grams": 745,
           "compare_at_price": "29.90",
           "position": 1,
           "product_id": 12438298624264,
@@ -181100,7 +181119,7 @@
           "featured_image": null,
           "available": true,
           "price": "49.90",
-          "grams": 0,
+          "grams": 493,
           "compare_at_price": "49.90",
           "position": 1,
           "product_id": 12438298689800,
@@ -181153,7 +181172,7 @@
           "featured_image": null,
           "available": true,
           "price": "29.90",
-          "grams": 0,
+          "grams": 574,
           "compare_at_price": "29.90",
           "position": 1,
           "product_id": 12438298755336,
@@ -181206,7 +181225,7 @@
           "featured_image": null,
           "available": true,
           "price": "49.90",
-          "grams": 0,
+          "grams": 419,
           "compare_at_price": "49.90",
           "position": 1,
           "product_id": 12438298657032,
@@ -181259,7 +181278,7 @@
           "featured_image": null,
           "available": true,
           "price": "49.90",
-          "grams": 0,
+          "grams": 1573,
           "compare_at_price": "49.90",
           "position": 1,
           "product_id": 12417349517576,
@@ -197693,6 +197712,106 @@
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-legendary-pack-booster-display-887.webp?v=1794998417",
           "width": 2500,
           "height": 2500
+        },
+        {
+          "id": 88817813225736,
+          "created_at": "2026-11-19T11:49:13+01:00",
+          "position": 2,
+          "product_id": 12473623478536,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-legendary-pack-booster-display-420.webp?v=1795085353",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817813848328,
+          "created_at": "2026-11-19T11:49:21+01:00",
+          "position": 3,
+          "product_id": 12473623478536,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-legendary-pack-booster-display-995.webp?v=1795085361",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817814438152,
+          "created_at": "2026-11-19T11:49:28+01:00",
+          "position": 4,
+          "product_id": 12473623478536,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-legendary-pack-booster-display-265.webp?v=1795085368",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817815617800,
+          "created_at": "2026-11-19T11:49:35+01:00",
+          "position": 5,
+          "product_id": 12473623478536,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-legendary-pack-booster-display-212.webp?v=1795085375",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817821483272,
+          "created_at": "2026-11-19T11:49:42+01:00",
+          "position": 6,
+          "product_id": 12473623478536,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-legendary-pack-booster-display-853.webp?v=1795085382",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817831969032,
+          "created_at": "2026-11-19T11:49:49+01:00",
+          "position": 7,
+          "product_id": 12473623478536,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-legendary-pack-booster-display-973.webp?v=1795085389",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817841963272,
+          "created_at": "2026-11-19T11:49:57+01:00",
+          "position": 8,
+          "product_id": 12473623478536,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-legendary-pack-booster-display-990.webp?v=1795085397",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817846124808,
+          "created_at": "2026-11-19T11:50:05+01:00",
+          "position": 9,
+          "product_id": 12473623478536,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-legendary-pack-booster-display-717.webp?v=1795085405",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817846583560,
+          "created_at": "2026-11-19T11:50:13+01:00",
+          "position": 10,
+          "product_id": 12473623478536,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-legendary-pack-booster-display-896.webp?v=1795085413",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817847468296,
+          "created_at": "2026-11-19T11:50:21+01:00",
+          "position": 11,
+          "product_id": 12473623478536,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-legendary-pack-booster-display-713.webp?v=1795085421",
+          "width": 2500,
+          "height": 2500
         }
       ],
       "options": [
@@ -197742,6 +197861,106 @@
           "product_id": 12473623380232,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-legendary-pack-booster-6-196.webp?v=1794998569",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817813291272,
+          "created_at": "2026-11-19T11:49:15+01:00",
+          "position": 2,
+          "product_id": 12473623380232,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-legendary-pack-booster-6-682.webp?v=1795085355",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817813913864,
+          "created_at": "2026-11-19T11:49:23+01:00",
+          "position": 3,
+          "product_id": 12473623380232,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-legendary-pack-booster-6-850.webp?v=1795085363",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817814569224,
+          "created_at": "2026-11-19T11:49:30+01:00",
+          "position": 4,
+          "product_id": 12473623380232,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-legendary-pack-booster-6-896.webp?v=1795085370",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817815716104,
+          "created_at": "2026-11-19T11:49:37+01:00",
+          "position": 5,
+          "product_id": 12473623380232,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-legendary-pack-booster-6-796.webp?v=1795085377",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817824366856,
+          "created_at": "2026-11-19T11:49:44+01:00",
+          "position": 6,
+          "product_id": 12473623380232,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-legendary-pack-booster-6-723.webp?v=1795085384",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817833541896,
+          "created_at": "2026-11-19T11:49:51+01:00",
+          "position": 7,
+          "product_id": 12473623380232,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-legendary-pack-booster-6-642.webp?v=1795085391",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817843503368,
+          "created_at": "2026-11-19T11:49:57+01:00",
+          "position": 8,
+          "product_id": 12473623380232,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-legendary-pack-booster-6-774.webp?v=1795085397",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817846190344,
+          "created_at": "2026-11-19T11:50:07+01:00",
+          "position": 9,
+          "product_id": 12473623380232,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-legendary-pack-booster-6-519.webp?v=1795085407",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817846780168,
+          "created_at": "2026-11-19T11:50:14+01:00",
+          "position": 10,
+          "product_id": 12473623380232,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-legendary-pack-booster-6-748.webp?v=1795085414",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817847501064,
+          "created_at": "2026-11-19T11:50:22+01:00",
+          "position": 11,
+          "product_id": 12473623380232,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-legendary-pack-booster-6-985.webp?v=1795085422",
           "width": 2500,
           "height": 2500
         }
@@ -197795,6 +198014,106 @@
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-shining-pack-booster-display-993.webp?v=1794998432",
           "width": 2500,
           "height": 2500
+        },
+        {
+          "id": 88817813389576,
+          "created_at": "2026-11-19T11:49:19+01:00",
+          "position": 2,
+          "product_id": 12473623609608,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-shining-pack-booster-display-233.webp?v=1795085359",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817814241544,
+          "created_at": "2026-11-19T11:49:26+01:00",
+          "position": 3,
+          "product_id": 12473623609608,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-shining-pack-booster-display-420.webp?v=1795085366",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817815421192,
+          "created_at": "2026-11-19T11:49:34+01:00",
+          "position": 4,
+          "product_id": 12473623609608,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-shining-pack-booster-display-660.webp?v=1795085374",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817819779336,
+          "created_at": "2026-11-19T11:49:41+01:00",
+          "position": 5,
+          "product_id": 12473623609608,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-shining-pack-booster-display-551.webp?v=1795085381",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817830232328,
+          "created_at": "2026-11-19T11:49:48+01:00",
+          "position": 6,
+          "product_id": 12473623609608,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-shining-pack-booster-display-442.webp?v=1795085388",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817840521480,
+          "created_at": "2026-11-19T11:49:55+01:00",
+          "position": 7,
+          "product_id": 12473623609608,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-shining-pack-booster-display-795.webp?v=1795085395",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817845960968,
+          "created_at": "2026-11-19T11:50:02+01:00",
+          "position": 8,
+          "product_id": 12473623609608,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-shining-pack-booster-display-398.webp?v=1795085402",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817846485256,
+          "created_at": "2026-11-19T11:50:11+01:00",
+          "position": 9,
+          "product_id": 12473623609608,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-shining-pack-booster-display-201.webp?v=1795085411",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817847140616,
+          "created_at": "2026-11-19T11:50:19+01:00",
+          "position": 10,
+          "product_id": 12473623609608,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-shining-pack-booster-display-425.webp?v=1795085419",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817847599368,
+          "created_at": "2026-11-19T11:50:26+01:00",
+          "position": 11,
+          "product_id": 12473623609608,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-shining-pack-booster-display-269.webp?v=1795085426",
+          "width": 2500,
+          "height": 2500
         }
       ],
       "options": [
@@ -197844,6 +198163,106 @@
           "product_id": 12473623347464,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-shining-pack-booster-5-234.webp?v=1794998442",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817923621128,
+          "created_at": "2026-11-19T11:52:12+01:00",
+          "position": 2,
+          "product_id": 12473623347464,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-shining-pack-booster-5-839.webp?v=1795085532",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817924243720,
+          "created_at": "2026-11-19T11:52:20+01:00",
+          "position": 3,
+          "product_id": 12473623347464,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-shining-pack-booster-5-809.webp?v=1795085540",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817926832392,
+          "created_at": "2026-11-19T11:52:27+01:00",
+          "position": 4,
+          "product_id": 12473623347464,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-shining-pack-booster-5-194.webp?v=1795085547",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817937940744,
+          "created_at": "2026-11-19T11:52:34+01:00",
+          "position": 5,
+          "product_id": 12473623347464,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-shining-pack-booster-5-408.webp?v=1795085554",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817950949640,
+          "created_at": "2026-11-19T11:52:42+01:00",
+          "position": 6,
+          "product_id": 12473623347464,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-shining-pack-booster-5-225.webp?v=1795085562",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817962254600,
+          "created_at": "2026-11-19T11:52:48+01:00",
+          "position": 7,
+          "product_id": 12473623347464,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-shining-pack-booster-5-378.webp?v=1795085569",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817963073800,
+          "created_at": "2026-11-19T11:52:56+01:00",
+          "position": 8,
+          "product_id": 12473623347464,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-shining-pack-booster-5-154.webp?v=1795085576",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817963860232,
+          "created_at": "2026-11-19T11:53:04+01:00",
+          "position": 9,
+          "product_id": 12473623347464,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-shining-pack-booster-5-798.webp?v=1795085584",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817965400328,
+          "created_at": "2026-11-19T11:53:11+01:00",
+          "position": 10,
+          "product_id": 12473623347464,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-shining-pack-booster-5-358.webp?v=1795085591",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817970708744,
+          "created_at": "2026-11-19T11:53:19+01:00",
+          "position": 11,
+          "product_id": 12473623347464,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/haikyu-manyc-cards-sammelkartenspiel-shining-pack-booster-5-181.webp?v=1795085599",
           "width": 2500,
           "height": 2500
         }
@@ -197899,22 +198318,152 @@
           "height": 2500
         },
         {
-          "id": 88815901147400,
-          "created_at": "2026-11-19T11:02:17+01:00",
+          "id": 88816381821192,
+          "created_at": "2026-11-19T11:18:40+01:00",
           "position": 2,
           "product_id": 12473623544072,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/6976327642657_JujutsuKaisen_Cards_LegendaryPack_1_550dc169-5ed5-4788-8c11-26aba1a71e1f.png?v=1795082540",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-legendary-pack-booster-619.webp?v=1795083520",
           "width": 2500,
           "height": 2500
         },
         {
-          "id": 88815901933832,
-          "created_at": "2026-11-19T11:02:18+01:00",
+          "id": 88816385327368,
+          "created_at": "2026-11-19T11:18:49+01:00",
           "position": 3,
           "product_id": 12473623544072,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/6976327642671_JujutsuKaisen_Cards_ShiningPack_2_41bc54c7-1cf3-4ea7-8fae-da5565423162.png?v=1795082541",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-legendary-pack-booster-628.webp?v=1795083529",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817880334600,
+          "created_at": "2026-11-19T11:51:00+01:00",
+          "position": 4,
+          "product_id": 12473623544072,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-legendary-pack-booster-600.webp?v=1795085460",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817883152648,
+          "created_at": "2026-11-19T11:51:10+01:00",
+          "position": 5,
+          "product_id": 12473623544072,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-legendary-pack-booster-990.webp?v=1795085470",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817883316488,
+          "created_at": "2026-11-19T11:51:19+01:00",
+          "position": 6,
+          "product_id": 12473623544072,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-legendary-pack-booster-368.webp?v=1795085479",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817884004616,
+          "created_at": "2026-11-19T11:51:28+01:00",
+          "position": 7,
+          "product_id": 12473623544072,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-legendary-pack-booster-254.webp?v=1795085488",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817887871240,
+          "created_at": "2026-11-19T11:51:37+01:00",
+          "position": 8,
+          "product_id": 12473623544072,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-legendary-pack-booster-653.webp?v=1795085497",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817901764872,
+          "created_at": "2026-11-19T11:51:46+01:00",
+          "position": 9,
+          "product_id": 12473623544072,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-legendary-pack-booster-724.webp?v=1795085506",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817915691272,
+          "created_at": "2026-11-19T11:51:55+01:00",
+          "position": 10,
+          "product_id": 12473623544072,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-legendary-pack-booster-929.webp?v=1795085515",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817917034760,
+          "created_at": "2026-11-19T11:52:04+01:00",
+          "position": 11,
+          "product_id": 12473623544072,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-legendary-pack-booster-143.webp?v=1795085524",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817923653896,
+          "created_at": "2026-11-19T11:52:13+01:00",
+          "position": 12,
+          "product_id": 12473623544072,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-legendary-pack-booster-257.webp?v=1795085533",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817924309256,
+          "created_at": "2026-11-19T11:52:23+01:00",
+          "position": 13,
+          "product_id": 12473623544072,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-legendary-pack-booster-829.webp?v=1795085543",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817933156616,
+          "created_at": "2026-11-19T11:52:32+01:00",
+          "position": 14,
+          "product_id": 12473623544072,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-legendary-pack-booster-652_4f1b1dae-3c72-4173-a068-834ea35ec0b0.webp?v=1795085552",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817948360968,
+          "created_at": "2026-11-19T11:52:40+01:00",
+          "position": 15,
+          "product_id": 12473623544072,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-legendary-pack-booster-944.webp?v=1795085560",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817962320136,
+          "created_at": "2026-11-19T11:52:50+01:00",
+          "position": 16,
+          "product_id": 12473623544072,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-legendary-pack-booster-214.webp?v=1795085570",
           "width": 2500,
           "height": 2500
         }
@@ -197970,22 +198519,152 @@
           "height": 2500
         },
         {
-          "id": 88815873818888,
-          "created_at": "2026-11-19T11:02:00+01:00",
+          "id": 88816380215560,
+          "created_at": "2026-11-19T11:18:31+01:00",
           "position": 2,
           "product_id": 12473623413000,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/6976327642657_JujutsuKaisen_Cards_LegendaryPack_1.png?v=1795082523",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-legendary-pack-booster-652.webp?v=1795083511",
           "width": 2500,
           "height": 2500
         },
         {
-          "id": 88815879192840,
-          "created_at": "2026-11-19T11:02:03+01:00",
+          "id": 88816382083336,
+          "created_at": "2026-11-19T11:18:42+01:00",
           "position": 3,
           "product_id": 12473623413000,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/6976327642671_JujutsuKaisen_Cards_ShiningPack_2_50346347-e61f-407a-bbb9-79b7c962f653.png?v=1795082527",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-legendary-pack-booster-758.webp?v=1795083522",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817874206984,
+          "created_at": "2026-11-19T11:50:56+01:00",
+          "position": 4,
+          "product_id": 12473623413000,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-legendary-pack-booster-200.webp?v=1795085456",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817882988808,
+          "created_at": "2026-11-19T11:51:05+01:00",
+          "position": 5,
+          "product_id": 12473623413000,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-legendary-pack-booster-156.webp?v=1795085465",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817883742472,
+          "created_at": "2026-11-19T11:51:26+01:00",
+          "position": 6,
+          "product_id": 12473623413000,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-legendary-pack-booster-663.webp?v=1795085486",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817884430600,
+          "created_at": "2026-11-19T11:51:34+01:00",
+          "position": 7,
+          "product_id": 12473623413000,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-legendary-pack-booster-480.webp?v=1795085494",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817897013512,
+          "created_at": "2026-11-19T11:51:43+01:00",
+          "position": 8,
+          "product_id": 12473623413000,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-legendary-pack-booster-609.webp?v=1795085503",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817910939912,
+          "created_at": "2026-11-19T11:51:52+01:00",
+          "position": 9,
+          "product_id": 12473623413000,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-legendary-pack-booster-635.webp?v=1795085512",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817916641544,
+          "created_at": "2026-11-19T11:52:01+01:00",
+          "position": 10,
+          "product_id": 12473623413000,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-legendary-pack-booster-243.webp?v=1795085521",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817917100296,
+          "created_at": "2026-11-19T11:52:05+01:00",
+          "position": 11,
+          "product_id": 12473623413000,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-legendary-pack-booster-635_7d75febc-a44d-4334-9ff7-422209fc16e6.webp?v=1795085525",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817923719432,
+          "created_at": "2026-11-19T11:52:14+01:00",
+          "position": 12,
+          "product_id": 12473623413000,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-legendary-pack-booster-484.webp?v=1795085534",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817924276488,
+          "created_at": "2026-11-19T11:52:22+01:00",
+          "position": 13,
+          "product_id": 12473623413000,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-legendary-pack-booster-596.webp?v=1795085542",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817931452680,
+          "created_at": "2026-11-19T11:52:31+01:00",
+          "position": 14,
+          "product_id": 12473623413000,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-legendary-pack-booster-687.webp?v=1795085551",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817947672840,
+          "created_at": "2026-11-19T11:52:40+01:00",
+          "position": 15,
+          "product_id": 12473623413000,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-legendary-pack-booster-159.webp?v=1795085560",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817961894152,
+          "created_at": "2026-11-19T11:52:48+01:00",
+          "position": 16,
+          "product_id": 12473623413000,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-legendary-pack-booster-416.webp?v=1795085568",
           "width": 2500,
           "height": 2500
         }
@@ -198051,12 +198730,142 @@
           "height": 2500
         },
         {
-          "id": 88815789048072,
-          "created_at": "2026-11-19T11:00:15+01:00",
+          "id": 88816253174024,
+          "created_at": "2026-11-19T11:14:15+01:00",
           "position": 3,
           "product_id": 12473623642376,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/6976327642671_JujutsuKaisen_Cards_ShiningPack_2.png?v=1795082419",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-shining-pack-booster-427.webp?v=1795083255",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817601839368,
+          "created_at": "2026-11-19T11:46:46+01:00",
+          "position": 4,
+          "product_id": 12473623642376,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-shining-pack-booster-565.webp?v=1795085206",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817608327432,
+          "created_at": "2026-11-19T11:46:56+01:00",
+          "position": 5,
+          "product_id": 12473623642376,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-shining-pack-booster-545.webp?v=1795085216",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817631232264,
+          "created_at": "2026-11-19T11:47:06+01:00",
+          "position": 6,
+          "product_id": 12473623642376,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-shining-pack-booster-866.webp?v=1795085226",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817653186824,
+          "created_at": "2026-11-19T11:47:16+01:00",
+          "position": 7,
+          "product_id": 12473623642376,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-shining-pack-booster-585.webp?v=1795085236",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817659019528,
+          "created_at": "2026-11-19T11:47:25+01:00",
+          "position": 8,
+          "product_id": 12473623642376,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-shining-pack-booster-174.webp?v=1795085245",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817662165256,
+          "created_at": "2026-11-19T11:47:34+01:00",
+          "position": 9,
+          "product_id": 12473623642376,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-shining-pack-booster-604.webp?v=1795085254",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817666883848,
+          "created_at": "2026-11-19T11:47:42+01:00",
+          "position": 10,
+          "product_id": 12473623642376,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-shining-pack-booster-688.webp?v=1795085262",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817672225032,
+          "created_at": "2026-11-19T11:47:51+01:00",
+          "position": 11,
+          "product_id": 12473623642376,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-shining-pack-booster-809.webp?v=1795085271",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817691197704,
+          "created_at": "2026-11-19T11:48:00+01:00",
+          "position": 12,
+          "product_id": 12473623642376,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-shining-pack-booster-849.webp?v=1795085280",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817708368136,
+          "created_at": "2026-11-19T11:48:10+01:00",
+          "position": 13,
+          "product_id": 12473623642376,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-shining-pack-booster-215.webp?v=1795085290",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817729798408,
+          "created_at": "2026-11-19T11:48:19+01:00",
+          "position": 14,
+          "product_id": 12473623642376,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-shining-pack-booster-491.webp?v=1795085299",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817754374408,
+          "created_at": "2026-11-19T11:48:28+01:00",
+          "position": 15,
+          "product_id": 12473623642376,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-shining-pack-booster-874.webp?v=1795085309",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817774821640,
+          "created_at": "2026-11-19T11:48:37+01:00",
+          "position": 16,
+          "product_id": 12473623642376,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-shining-pack-booster-751.webp?v=1795085317",
           "width": 2500,
           "height": 2500
         }
@@ -198112,22 +198921,152 @@
           "height": 2500
         },
         {
-          "id": 88815727116552,
-          "created_at": "2026-11-19T10:58:09+01:00",
+          "id": 88816259105032,
+          "created_at": "2026-11-19T11:14:39+01:00",
           "position": 2,
           "product_id": 12473623773448,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/6976327642671_JujutsuKaisen_Cards_ShiningPack_1.png?v=1795082292",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-shining-pack-booster-5-569.webp?v=1795083279",
           "width": 2500,
           "height": 2500
         },
         {
-          "id": 88815799173384,
-          "created_at": "2026-11-19T11:00:23+01:00",
+          "id": 88816264577288,
+          "created_at": "2026-11-19T11:14:49+01:00",
           "position": 3,
           "product_id": 12473623773448,
           "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/6976327642671_JujutsuKaisen_Cards_ShiningPack_2_6f6858f4-52d1-4fce-a762-ead917daa85d.png?v=1795082428",
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-shining-pack-booster-5-516.webp?v=1795083289",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817616650504,
+          "created_at": "2026-11-19T11:47:00+01:00",
+          "position": 4,
+          "product_id": 12473623773448,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-shining-pack-booster-5-719.webp?v=1795085220",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817637916936,
+          "created_at": "2026-11-19T11:47:09+01:00",
+          "position": 5,
+          "product_id": 12473623773448,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-shining-pack-booster-5-754.webp?v=1795085229",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817658495240,
+          "created_at": "2026-11-19T11:47:19+01:00",
+          "position": 6,
+          "product_id": 12473623773448,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-shining-pack-booster-5-928.webp?v=1795085239",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817659609352,
+          "created_at": "2026-11-19T11:47:29+01:00",
+          "position": 7,
+          "product_id": 12473623773448,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-shining-pack-booster-5-595.webp?v=1795085249",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817664622856,
+          "created_at": "2026-11-19T11:47:39+01:00",
+          "position": 8,
+          "product_id": 12473623773448,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-shining-pack-booster-5-236.webp?v=1795085259",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817671176456,
+          "created_at": "2026-11-19T11:47:48+01:00",
+          "position": 9,
+          "product_id": 12473623773448,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-shining-pack-booster-5-471.webp?v=1795085268",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817685135624,
+          "created_at": "2026-11-19T11:47:57+01:00",
+          "position": 10,
+          "product_id": 12473623773448,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-shining-pack-booster-5-297.webp?v=1795085277",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817703584008,
+          "created_at": "2026-11-19T11:48:07+01:00",
+          "position": 11,
+          "product_id": 12473623773448,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-shining-pack-booster-5-274.webp?v=1795085287",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817722884360,
+          "created_at": "2026-11-19T11:48:17+01:00",
+          "position": 12,
+          "product_id": 12473623773448,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-shining-pack-booster-5-228.webp?v=1795085297",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817746346248,
+          "created_at": "2026-11-19T11:48:25+01:00",
+          "position": 13,
+          "product_id": 12473623773448,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-shining-pack-booster-5-303.webp?v=1795085305",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817769283848,
+          "created_at": "2026-11-19T11:48:35+01:00",
+          "position": 14,
+          "product_id": 12473623773448,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-shining-pack-booster-5-696.webp?v=1795085315",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817778786568,
+          "created_at": "2026-11-19T11:48:45+01:00",
+          "position": 15,
+          "product_id": 12473623773448,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-shining-pack-booster-5-475.webp?v=1795085325",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817791861000,
+          "created_at": "2026-11-19T11:48:54+01:00",
+          "position": 16,
+          "product_id": 12473623773448,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-shining-pack-booster-5-882.webp?v=1795085334",
           "width": 2500,
           "height": 2500
         }
@@ -198181,6 +199120,166 @@
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-legendary-pack-booster-748.webp?v=1794997975",
           "width": 2500,
           "height": 2500
+        },
+        {
+          "id": 88816531833096,
+          "created_at": "2026-11-19T11:28:33+01:00",
+          "position": 2,
+          "product_id": 12473623740680,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-legendary-pack-booster-490.webp?v=1795084113",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816534847752,
+          "created_at": "2026-11-19T11:28:43+01:00",
+          "position": 3,
+          "product_id": 12473623740680,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-legendary-pack-booster-893.webp?v=1795084123",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816537829640,
+          "created_at": "2026-11-19T11:28:52+01:00",
+          "position": 4,
+          "product_id": 12473623740680,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-legendary-pack-booster-795.webp?v=1795084132",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816539238664,
+          "created_at": "2026-11-19T11:29:01+01:00",
+          "position": 5,
+          "product_id": 12473623740680,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-legendary-pack-booster-477.webp?v=1795084141",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816542974216,
+          "created_at": "2026-11-19T11:29:10+01:00",
+          "position": 6,
+          "product_id": 12473623740680,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-legendary-pack-booster-747.webp?v=1795084150",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816558997768,
+          "created_at": "2026-11-19T11:29:19+01:00",
+          "position": 7,
+          "product_id": 12473623740680,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-legendary-pack-booster-594.webp?v=1795084159",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816593666312,
+          "created_at": "2026-11-19T11:29:28+01:00",
+          "position": 8,
+          "product_id": 12473623740680,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-legendary-pack-booster-939.webp?v=1795084168",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816615653640,
+          "created_at": "2026-11-19T11:29:36+01:00",
+          "position": 9,
+          "product_id": 12473623740680,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-legendary-pack-booster-248.webp?v=1795084176",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816633938184,
+          "created_at": "2026-11-19T11:29:45+01:00",
+          "position": 10,
+          "product_id": 12473623740680,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-legendary-pack-booster-844.webp?v=1795084185",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816641999112,
+          "created_at": "2026-11-19T11:29:54+01:00",
+          "position": 11,
+          "product_id": 12473623740680,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-legendary-pack-booster-623.webp?v=1795084194",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816645243144,
+          "created_at": "2026-11-19T11:30:04+01:00",
+          "position": 12,
+          "product_id": 12473623740680,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-legendary-pack-booster-646.webp?v=1795084204",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816648716552,
+          "created_at": "2026-11-19T11:30:15+01:00",
+          "position": 13,
+          "product_id": 12473623740680,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-legendary-pack-booster-679.webp?v=1795084215",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816673161480,
+          "created_at": "2026-11-19T11:30:25+01:00",
+          "position": 14,
+          "product_id": 12473623740680,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-legendary-pack-booster-397.webp?v=1795084225",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816706748680,
+          "created_at": "2026-11-19T11:30:33+01:00",
+          "position": 15,
+          "product_id": 12473623740680,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-legendary-pack-booster-734.webp?v=1795084233",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816716054792,
+          "created_at": "2026-11-19T11:30:43+01:00",
+          "position": 16,
+          "product_id": 12473623740680,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-legendary-pack-booster-612.webp?v=1795084243",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816717594888,
+          "created_at": "2026-11-19T11:30:52+01:00",
+          "position": 17,
+          "product_id": 12473623740680,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-legendary-pack-booster-567.webp?v=1795084252",
+          "width": 2500,
+          "height": 2500
         }
       ],
       "options": [
@@ -198230,6 +199329,166 @@
           "product_id": 12473623281928,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-legendary-pack-booster-6-620.webp?v=1794997981",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816382214408,
+          "created_at": "2026-11-19T11:18:44+01:00",
+          "position": 2,
+          "product_id": 12473623281928,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-legendary-pack-booster-6-706.webp?v=1795083524",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816875012360,
+          "created_at": "2026-11-19T11:34:39+01:00",
+          "position": 3,
+          "product_id": 12473623281928,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-legendary-pack-booster-6-672.webp?v=1795084479",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816892576008,
+          "created_at": "2026-11-19T11:34:49+01:00",
+          "position": 4,
+          "product_id": 12473623281928,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-legendary-pack-booster-6-553.webp?v=1795084489",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816901947656,
+          "created_at": "2026-11-19T11:34:59+01:00",
+          "position": 5,
+          "product_id": 12473623281928,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-legendary-pack-booster-6-375.webp?v=1795084499",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816904732936,
+          "created_at": "2026-11-19T11:35:10+01:00",
+          "position": 6,
+          "product_id": 12473623281928,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-legendary-pack-booster-6-529.webp?v=1795084510",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816906830088,
+          "created_at": "2026-11-19T11:35:21+01:00",
+          "position": 7,
+          "product_id": 12473623281928,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-legendary-pack-booster-6-920.webp?v=1795084521",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816908468488,
+          "created_at": "2026-11-19T11:35:30+01:00",
+          "position": 8,
+          "product_id": 12473623281928,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-legendary-pack-booster-6-670.webp?v=1795084530",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816910270728,
+          "created_at": "2026-11-19T11:35:39+01:00",
+          "position": 9,
+          "product_id": 12473623281928,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-legendary-pack-booster-6-495.webp?v=1795084539",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816924131592,
+          "created_at": "2026-11-19T11:35:48+01:00",
+          "position": 10,
+          "product_id": 12473623281928,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-legendary-pack-booster-6-480.webp?v=1795084548",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816940777736,
+          "created_at": "2026-11-19T11:35:58+01:00",
+          "position": 11,
+          "product_id": 12473623281928,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-legendary-pack-booster-6-175.webp?v=1795084558",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816948576520,
+          "created_at": "2026-11-19T11:36:07+01:00",
+          "position": 12,
+          "product_id": 12473623281928,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-legendary-pack-booster-6-124.webp?v=1795084567",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816951427336,
+          "created_at": "2026-11-19T11:36:17+01:00",
+          "position": 13,
+          "product_id": 12473623281928,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-legendary-pack-booster-6-458.webp?v=1795084577",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816969613576,
+          "created_at": "2026-11-19T11:36:25+01:00",
+          "position": 14,
+          "product_id": 12473623281928,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-legendary-pack-booster-6-565.webp?v=1795084585",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816986521864,
+          "created_at": "2026-11-19T11:36:34+01:00",
+          "position": 15,
+          "product_id": 12473623281928,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-legendary-pack-booster-6-955.webp?v=1795084594",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817006969096,
+          "created_at": "2026-11-19T11:36:43+01:00",
+          "position": 16,
+          "product_id": 12473623281928,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-legendary-pack-booster-6-740.webp?v=1795084603",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88817022861576,
+          "created_at": "2026-11-19T11:36:52+01:00",
+          "position": 17,
+          "product_id": 12473623281928,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-legendary-pack-booster-6-965.webp?v=1795084612",
           "width": 2500,
           "height": 2500
         }
@@ -198283,6 +199542,166 @@
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-shining-pack-booster-752.webp?v=1794998116",
           "width": 2500,
           "height": 2500
+        },
+        {
+          "id": 88816534651144,
+          "created_at": "2026-11-19T11:28:43+01:00",
+          "position": 2,
+          "product_id": 12473623445768,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-shining-pack-booster-742.webp?v=1795084123",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816537731336,
+          "created_at": "2026-11-19T11:28:51+01:00",
+          "position": 3,
+          "product_id": 12473623445768,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-shining-pack-booster-837.webp?v=1795084131",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816539271432,
+          "created_at": "2026-11-19T11:29:01+01:00",
+          "position": 4,
+          "product_id": 12473623445768,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-shining-pack-booster-195.webp?v=1795084141",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816543006984,
+          "created_at": "2026-11-19T11:29:10+01:00",
+          "position": 5,
+          "product_id": 12473623445768,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-shining-pack-booster-286.webp?v=1795084150",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816562503944,
+          "created_at": "2026-11-19T11:29:20+01:00",
+          "position": 6,
+          "product_id": 12473623445768,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-shining-pack-booster-483.webp?v=1795084160",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816597991688,
+          "created_at": "2026-11-19T11:29:29+01:00",
+          "position": 7,
+          "product_id": 12473623445768,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-shining-pack-booster-851.webp?v=1795084169",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816620142856,
+          "created_at": "2026-11-19T11:29:39+01:00",
+          "position": 8,
+          "product_id": 12473623445768,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-shining-pack-booster-271.webp?v=1795084179",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816636985608,
+          "created_at": "2026-11-19T11:29:48+01:00",
+          "position": 9,
+          "product_id": 12473623445768,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-shining-pack-booster-927.webp?v=1795084188",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816642654472,
+          "created_at": "2026-11-19T11:29:58+01:00",
+          "position": 10,
+          "product_id": 12473623445768,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-shining-pack-booster-151.webp?v=1795084198",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816647667976,
+          "created_at": "2026-11-19T11:30:09+01:00",
+          "position": 11,
+          "product_id": 12473623445768,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-shining-pack-booster-283.webp?v=1795084209",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816659136776,
+          "created_at": "2026-11-19T11:30:20+01:00",
+          "position": 12,
+          "product_id": 12473623445768,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-shining-pack-booster-487.webp?v=1795084220",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816691216648,
+          "created_at": "2026-11-19T11:30:29+01:00",
+          "position": 13,
+          "product_id": 12473623445768,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-shining-pack-booster-713.webp?v=1795084229",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816715071752,
+          "created_at": "2026-11-19T11:30:38+01:00",
+          "position": 14,
+          "product_id": 12473623445768,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-shining-pack-booster-151_92922705-5dea-410b-87a7-b9814827ecb5.webp?v=1795084238",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816716480776,
+          "created_at": "2026-11-19T11:30:47+01:00",
+          "position": 15,
+          "product_id": 12473623445768,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-shining-pack-booster-365.webp?v=1795084247",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816718479624,
+          "created_at": "2026-11-19T11:30:57+01:00",
+          "position": 16,
+          "product_id": 12473623445768,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-shining-pack-booster-136.webp?v=1795084257",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816719921416,
+          "created_at": "2026-11-19T11:31:06+01:00",
+          "position": 17,
+          "product_id": 12473623445768,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-shining-pack-booster-835.webp?v=1795084266",
+          "width": 2500,
+          "height": 2500
         }
       ],
       "options": [
@@ -198332,6 +199751,166 @@
           "product_id": 12473623314696,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-shining-pack-booster-5-653.webp?v=1794998116",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816533668104,
+          "created_at": "2026-11-19T11:28:39+01:00",
+          "position": 2,
+          "product_id": 12473623314696,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-shining-pack-booster-5-255.webp?v=1795084119",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816537075976,
+          "created_at": "2026-11-19T11:28:48+01:00",
+          "position": 3,
+          "product_id": 12473623314696,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-shining-pack-booster-5-188.webp?v=1795084128",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816538779912,
+          "created_at": "2026-11-19T11:28:58+01:00",
+          "position": 4,
+          "product_id": 12473623314696,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-shining-pack-booster-5-896.webp?v=1795084138",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816540320008,
+          "created_at": "2026-11-19T11:29:07+01:00",
+          "position": 5,
+          "product_id": 12473623314696,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-shining-pack-booster-5-931.webp?v=1795084147",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816553885960,
+          "created_at": "2026-11-19T11:29:17+01:00",
+          "position": 6,
+          "product_id": 12473623314696,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-shining-pack-booster-5-277.webp?v=1795084157",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816586195208,
+          "created_at": "2026-11-19T11:29:26+01:00",
+          "position": 7,
+          "product_id": 12473623314696,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-shining-pack-booster-5-174.webp?v=1795084166",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816612638984,
+          "created_at": "2026-11-19T11:29:35+01:00",
+          "position": 8,
+          "product_id": 12473623314696,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-shining-pack-booster-5-408.webp?v=1795084175",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816633086216,
+          "created_at": "2026-11-19T11:29:44+01:00",
+          "position": 9,
+          "product_id": 12473623314696,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-shining-pack-booster-5-584.webp?v=1795084184",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816641966344,
+          "created_at": "2026-11-19T11:29:54+01:00",
+          "position": 10,
+          "product_id": 12473623314696,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-shining-pack-booster-5-637.webp?v=1795084194",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816646455560,
+          "created_at": "2026-11-19T11:30:04+01:00",
+          "position": 11,
+          "product_id": 12473623314696,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-shining-pack-booster-5-214.webp?v=1795084205",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816648683784,
+          "created_at": "2026-11-19T11:30:15+01:00",
+          "position": 12,
+          "product_id": 12473623314696,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-shining-pack-booster-5-531.webp?v=1795084215",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816670998792,
+          "created_at": "2026-11-19T11:30:24+01:00",
+          "position": 13,
+          "product_id": 12473623314696,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-shining-pack-booster-5-868.webp?v=1795084224",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816706421000,
+          "created_at": "2026-11-19T11:30:33+01:00",
+          "position": 14,
+          "product_id": 12473623314696,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-shining-pack-booster-5-429.webp?v=1795084233",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816716120328,
+          "created_at": "2026-11-19T11:30:43+01:00",
+          "position": 15,
+          "product_id": 12473623314696,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-shining-pack-booster-5-643.webp?v=1795084243",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816717627656,
+          "created_at": "2026-11-19T11:30:52+01:00",
+          "position": 16,
+          "product_id": 12473623314696,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-shining-pack-booster-5-761.webp?v=1795084252",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88816718905608,
+          "created_at": "2026-11-19T11:31:00+01:00",
+          "position": 17,
+          "product_id": 12473623314696,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/solo-leveling-manyc-cards-sammelkartenspiel-shining-pack-booster-5-412.webp?v=1795084260",
           "width": 2500,
           "height": 2500
         }
