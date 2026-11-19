@@ -89604,7 +89604,6 @@
       "product_type": "",
       "tags": [
         "Anime",
-        "Flow:ArtikelstatusAktiv",
         "Magical Girl",
         "Nipponart",
         "Online",
@@ -89621,7 +89620,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "2.90",
           "grams": 100,
           "compare_at_price": "9.90",
@@ -183881,7 +183880,6 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -183895,7 +183893,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "79.90",
           "grams": 0,
           "compare_at_price": "79.90",
@@ -183998,7 +183996,6 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -184012,7 +184009,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "39.90",
           "grams": 222,
           "compare_at_price": "39.90",
@@ -205484,6 +205481,7 @@
       "product_type": "Gift",
       "tags": [
         "Click&Collect",
+        "Flow:ArtikelstatusAktiv",
         "Goodie",
         "Online"
       ],
@@ -205498,7 +205496,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.00",
           "grams": 10,
           "compare_at_price": "0.00",
@@ -206308,7 +206306,6 @@
         "exclude_rebuy",
         "exclude_recommendations",
         "exclude_review",
-        "Flow:ArtikelstatusAktiv",
         "hidden",
         "Hidden recommendation",
         "Hide",
@@ -206332,7 +206329,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.00",
           "grams": 10,
           "compare_at_price": "0.00",
@@ -208229,7 +208226,8 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Click&Collect"
+        "Click&Collect",
+        "Flow:ArtikelstatusAktiv"
       ],
       "variants": [
         {
@@ -208242,7 +208240,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.00",
           "grams": 10,
           "compare_at_price": "0.00",
