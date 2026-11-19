@@ -83054,7 +83054,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "64.90",
           "grams": 0,
           "compare_at_price": "64.90",
@@ -83138,7 +83138,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "54.90",
           "grams": 0,
           "compare_at_price": "54.90",
@@ -152116,7 +152116,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "26.90",
           "grams": 0,
           "compare_at_price": "26.90",
@@ -160664,7 +160664,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "39.90",
           "grams": 0,
           "compare_at_price": "39.90",
@@ -160937,7 +160937,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "24.90",
           "grams": 0,
           "compare_at_price": "24.90",
@@ -161010,7 +161010,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "24.90",
           "grams": 170,
           "compare_at_price": "24.90",
@@ -162146,7 +162146,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "39.90",
           "grams": 0,
           "compare_at_price": "39.90",
@@ -162418,7 +162418,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "44.90",
           "grams": 0,
           "compare_at_price": "44.90",
@@ -162720,7 +162720,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "69.90",
           "grams": 0,
           "compare_at_price": "69.90",
@@ -162803,7 +162803,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "62.90",
           "grams": 0,
           "compare_at_price": "62.90",
@@ -165230,7 +165230,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "69.90",
           "grams": 0,
           "compare_at_price": "69.90",
@@ -165283,7 +165283,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "49.90",
           "grams": 0,
           "compare_at_price": "49.90",
@@ -166119,7 +166119,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "49.90",
           "grams": 0,
           "compare_at_price": "49.90",
@@ -197897,6 +197897,26 @@
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-legendary-pack-booster-393.webp?v=1794997933",
           "width": 2500,
           "height": 2500
+        },
+        {
+          "id": 88815901147400,
+          "created_at": "2026-11-19T11:02:17+01:00",
+          "position": 2,
+          "product_id": 12473623544072,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/6976327642657_JujutsuKaisen_Cards_LegendaryPack_1_550dc169-5ed5-4788-8c11-26aba1a71e1f.png?v=1795082540",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88815901933832,
+          "created_at": "2026-11-19T11:02:18+01:00",
+          "position": 3,
+          "product_id": 12473623544072,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/6976327642671_JujutsuKaisen_Cards_ShiningPack_2_41bc54c7-1cf3-4ea7-8fae-da5565423162.png?v=1795082541",
+          "width": 2500,
+          "height": 2500
         }
       ],
       "options": [
@@ -197946,6 +197966,26 @@
           "product_id": 12473623413000,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-legendary-pack-booster-224.webp?v=1794997826",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88815873818888,
+          "created_at": "2026-11-19T11:02:00+01:00",
+          "position": 2,
+          "product_id": 12473623413000,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/6976327642657_JujutsuKaisen_Cards_LegendaryPack_1.png?v=1795082523",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88815879192840,
+          "created_at": "2026-11-19T11:02:03+01:00",
+          "position": 3,
+          "product_id": 12473623413000,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/6976327642671_JujutsuKaisen_Cards_ShiningPack_2_50346347-e61f-407a-bbb9-79b7c962f653.png?v=1795082527",
           "width": 2500,
           "height": 2500
         }
@@ -198009,6 +198049,16 @@
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-shining-pack-booster-786.webp?v=1794997022",
           "width": 2500,
           "height": 2500
+        },
+        {
+          "id": 88815789048072,
+          "created_at": "2026-11-19T11:00:15+01:00",
+          "position": 3,
+          "product_id": 12473623642376,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/6976327642671_JujutsuKaisen_Cards_ShiningPack_2.png?v=1795082419",
+          "width": 2500,
+          "height": 2500
         }
       ],
       "options": [
@@ -198058,6 +198108,26 @@
           "product_id": 12473623773448,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/jujutsu-kaisen-manyc-cards-sammelkartenspiel-shining-pack-booster-5-468.webp?v=1794997832",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88815727116552,
+          "created_at": "2026-11-19T10:58:09+01:00",
+          "position": 2,
+          "product_id": 12473623773448,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/6976327642671_JujutsuKaisen_Cards_ShiningPack_1.png?v=1795082292",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 88815799173384,
+          "created_at": "2026-11-19T11:00:23+01:00",
+          "position": 3,
+          "product_id": 12473623773448,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/6976327642671_JujutsuKaisen_Cards_ShiningPack_2_6f6858f4-52d1-4fce-a762-ead917daa85d.png?v=1795082428",
           "width": 2500,
           "height": 2500
         }
@@ -205361,6 +205431,8 @@
       "vendor": "Hardball Films",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
