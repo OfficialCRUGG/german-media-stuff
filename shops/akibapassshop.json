@@ -143214,7 +143214,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "29.90",
           "grams": 0,
           "compare_at_price": "29.90",
@@ -144199,7 +144199,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "29.90",
           "grams": 0,
           "compare_at_price": "29.90",
@@ -163025,8 +163025,6 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen",
-        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -163040,7 +163038,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "62.90",
           "grams": 245,
           "compare_at_price": "62.90",
@@ -189268,6 +189266,8 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Merch"
       ],
       "variants": [
@@ -189281,7 +189281,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "39.90",
           "grams": 1850,
           "compare_at_price": "49.90",
@@ -206306,6 +206306,7 @@
         "exclude_rebuy",
         "exclude_recommendations",
         "exclude_review",
+        "Flow:ArtikelstatusAktiv",
         "hidden",
         "Hidden recommendation",
         "Hide",
@@ -206329,7 +206330,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.00",
           "grams": 10,
           "compare_at_price": "0.00",
@@ -215390,6 +215391,8 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Merch"
       ],
       "variants": [
@@ -215403,7 +215406,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "22.90",
           "grams": 503,
           "compare_at_price": "0.00",
