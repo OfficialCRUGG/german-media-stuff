@@ -57614,7 +57614,6 @@
       "product_type": "",
       "tags": [
         "Anime",
-        "Flow:ArtikelstatusAktiv",
         "Online",
         "peppermint anime",
         "Romance",
@@ -94210,7 +94209,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "24.90",
           "grams": 86,
           "compare_at_price": "24.90",
@@ -119887,7 +119886,6 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Online",
         "sale-november-2026"
       ],
@@ -137433,7 +137431,6 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Online",
         "sale-november-2026"
       ],
@@ -137448,7 +137445,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "149.90",
           "grams": 1100,
           "compare_at_price": "199.90",
@@ -193055,6 +193052,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
         "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Merch"
       ],
@@ -193069,7 +193067,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "98.90",
           "grams": 0,
           "compare_at_price": "119.40",
@@ -203931,7 +203929,6 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -203945,7 +203942,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "64.90",
           "grams": 750,
           "compare_at_price": "64.90",
