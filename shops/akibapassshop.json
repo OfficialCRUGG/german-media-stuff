@@ -8664,6 +8664,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "peppermint anime",
         "sale-november-2026",
@@ -71790,7 +71791,6 @@
       "tags": [
         "Action",
         "Anime",
-        "Flow:ArtikelstatusAktiv",
         "Online",
         "peppermint anime",
         "sale-november-2026"
@@ -230960,7 +230960,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "34.90",
           "grams": 0,
           "compare_at_price": "49.90",
