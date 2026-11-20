@@ -41040,6 +41040,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "peppermint anime",
         "sale-november-2026",
@@ -54505,6 +54506,7 @@
       "tags": [
         "Anime",
         "Fantasy",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "peppermint anime",
         "sale-november-2026"
@@ -57846,7 +57848,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "7.90",
           "grams": 794,
           "compare_at_price": "54.90",
@@ -74066,7 +74068,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "13.90",
           "grams": 108,
           "compare_at_price": "24.90",
@@ -131130,7 +131132,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.00",
           "grams": 20,
           "compare_at_price": "0.00",
@@ -139380,6 +139382,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "peppermint anime",
         "sale-november-2026",
@@ -139566,6 +139569,7 @@
       "tags": [
         "Anime",
         "Blu-ray",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "Romance",
         "sale-august-2026",
@@ -139708,6 +139712,7 @@
         "Anime",
         "Click&Collect",
         "Drama",
+        "Flow:ArtikelstatusAktiv",
         "Musik",
         "Online",
         "peppermint anime",
@@ -214474,7 +214479,6 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Frisch eingetroffen",
         "Goodie",
         "OhneRabatt",
@@ -214491,7 +214495,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.00",
           "grams": 20,
           "compare_at_price": "0.00",
