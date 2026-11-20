@@ -23044,15 +23044,15 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": {
-            "id": 80834110128393,
+            "id": 82169791414537,
             "product_id": 15577509560585,
             "position": 1,
-            "created_at": "2026-05-22T18:24:08+02:00",
-            "updated_at": "2026-05-22T18:24:14+02:00",
+            "created_at": "2026-11-20T19:23:19+01:00",
+            "updated_at": "2026-11-20T19:23:22+01:00",
             "alt": null,
             "width": 1848,
             "height": 1848,
-            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Inazuma_S1_CE_Vorab_R1.png?v=1779467054",
+            "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/InazumaEleven-Season1_Schuber.png?v=1795199002",
             "variant_ids": [
               57077485273353
             ]
@@ -23068,21 +23068,31 @@
       ],
       "images": [
         {
-          "id": 80834110128393,
-          "created_at": "2026-05-22T18:24:08+02:00",
+          "id": 82169791414537,
+          "created_at": "2026-11-20T19:23:19+01:00",
           "position": 1,
           "product_id": 15577509560585,
           "variant_ids": [
             57077485273353
           ],
-          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/Inazuma_S1_CE_Vorab_R1.png?v=1779467054",
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/InazumaEleven-Season1_Schuber.png?v=1795199002",
+          "width": 1848,
+          "height": 1848
+        },
+        {
+          "id": 82169791447305,
+          "created_at": "2026-11-20T19:23:19+01:00",
+          "position": 2,
+          "product_id": 15577509560585,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/InazumaEleven-Season1_Komplett.png?v=1795199003",
           "width": 1848,
           "height": 1848
         },
         {
           "id": 80833766424841,
           "created_at": "2026-05-22T18:02:15+02:00",
-          "position": 2,
+          "position": 3,
           "product_id": 15577509560585,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/IE_S01E026_16x9_95f3447c-d9f4-4c5a-b7ee-591c5b5f99e9.jpg?v=1779465739",
@@ -23092,7 +23102,7 @@
         {
           "id": 80833766392073,
           "created_at": "2026-05-22T18:02:14+02:00",
-          "position": 3,
+          "position": 4,
           "product_id": 15577509560585,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/IE_S01E019_16x9_59b1f619-18f3-493f-ab60-f934b4f8d74c.jpg?v=1779465738",
@@ -23102,7 +23112,7 @@
         {
           "id": 80833766359305,
           "created_at": "2026-05-22T18:02:14+02:00",
-          "position": 4,
+          "position": 5,
           "product_id": 15577509560585,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/IE_S01E008_16x9_979721dd-5b4d-4d22-a340-8494d1b69b1f.jpg?v=1779465739",
@@ -23112,7 +23122,7 @@
         {
           "id": 80833766293769,
           "created_at": "2026-05-22T18:02:14+02:00",
-          "position": 5,
+          "position": 6,
           "product_id": 15577509560585,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0652/3541/9401/files/IE_S01E025_16x9_7941cdc6-1be4-4256-ae4a-0359a511e4f2.jpg?v=1779465738",
