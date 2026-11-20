@@ -4500,7 +4500,6 @@
       "tags": [
         "Dauersale",
         "Drama",
-        "Flow:ArtikelstatusAktiv",
         "Frisch eingetroffen",
         "Online",
         "peppermint anime",
@@ -4518,7 +4517,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.90",
           "grams": 0,
           "compare_at_price": "41.90",
@@ -31255,7 +31254,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "4.90",
           "grams": 96,
           "compare_at_price": "39.90",
@@ -55652,7 +55651,6 @@
       "tags": [
         "Auf Lager",
         "Dauersale",
-        "Flow:ArtikelstatusAktiv",
         "Online",
         "sale-november-2026"
       ],
@@ -55667,7 +55665,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "3.90",
           "grams": 103,
           "compare_at_price": "41.90",
@@ -205499,6 +205497,7 @@
       "product_type": "Gift",
       "tags": [
         "Click&Collect",
+        "Flow:ArtikelstatusAktiv",
         "Goodie",
         "Online"
       ],
@@ -205513,7 +205512,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.00",
           "grams": 10,
           "compare_at_price": "0.00",
@@ -208243,7 +208242,8 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Click&Collect"
+        "Click&Collect",
+        "Flow:ArtikelstatusAktiv"
       ],
       "variants": [
         {
@@ -208256,7 +208256,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.00",
           "grams": 10,
           "compare_at_price": "0.00",
