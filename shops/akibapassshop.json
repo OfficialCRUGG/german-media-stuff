@@ -44292,7 +44292,6 @@
       "tags": [
         "Anime",
         "Dauersale",
-        "Flow:ArtikelstatusAktiv",
         "Online",
         "peppermint anime",
         "sale-november-2026",
@@ -168402,7 +168401,6 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
-        "Flow:ReleaseInfoOffen",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -192848,7 +192846,6 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen",
         "Flow:Releaseplan-Merch"
       ],
       "variants": [
@@ -192862,7 +192859,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "176.90",
           "grams": 0,
           "compare_at_price": "202.80",
@@ -193056,7 +193053,6 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen",
         "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Merch"
       ],
@@ -193071,7 +193067,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "98.90",
           "grams": 0,
           "compare_at_price": "119.40",
@@ -199838,9 +199834,7 @@
       "created_at": "2026-11-17T16:38:31+01:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [
-        "Flow:ArtikelstatusAktiv"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 59547291844872,
@@ -205581,7 +205575,6 @@
       "product_type": "Gift",
       "tags": [
         "Click&Collect",
-        "Flow:ArtikelstatusAktiv",
         "Goodie",
         "Online"
       ],
@@ -205596,7 +205589,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.00",
           "grams": 10,
           "compare_at_price": "0.00",
@@ -208326,8 +208319,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Click&Collect",
-        "Flow:ArtikelstatusAktiv"
+        "Click&Collect"
       ],
       "variants": [
         {
@@ -208340,7 +208332,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.00",
           "grams": 10,
           "compare_at_price": "0.00",
