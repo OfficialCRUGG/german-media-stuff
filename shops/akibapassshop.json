@@ -7260,7 +7260,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "2.90",
           "grams": 100,
           "compare_at_price": "38.90",
@@ -13013,7 +13013,8 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -13027,7 +13028,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "12.90",
+          "price": "9.90",
           "grams": 100,
           "compare_at_price": "12.90",
           "position": 1,
@@ -13070,7 +13071,8 @@
         "Flow:ArtikelstatusAktiv",
         "Online",
         "Pokémon",
-        "polyband anime"
+        "polyband anime",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -13084,7 +13086,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "14.90",
+          "price": "10.90",
           "grams": 0,
           "compare_at_price": "14.90",
           "position": 1,
@@ -13126,7 +13128,8 @@
         "Anime",
         "Online",
         "Pokémon",
-        "polyband anime"
+        "polyband anime",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -13140,7 +13143,7 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "9.90",
+          "price": "7.90",
           "grams": 200,
           "compare_at_price": "9.90",
           "position": 1,
@@ -13180,7 +13183,8 @@
       "product_type": "",
       "tags": [
         "Flow:ArtikelstatusAktiv",
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -13194,7 +13198,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "12.90",
+          "price": "10.90",
           "grams": 100,
           "compare_at_price": "12.90",
           "position": 1,
@@ -13233,7 +13237,8 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -13247,7 +13252,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "10.90",
+          "price": "8.90",
           "grams": 120,
           "compare_at_price": "10.90",
           "position": 1,
@@ -13287,7 +13292,8 @@
       "product_type": "",
       "tags": [
         "Flow:ArtikelstatusAktiv",
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -13301,7 +13307,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "12.90",
+          "price": "10.90",
           "grams": 100,
           "compare_at_price": "12.90",
           "position": 1,
@@ -13340,7 +13346,8 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -13354,7 +13361,7 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "9.90",
+          "price": "7.90",
           "grams": 120,
           "compare_at_price": "9.90",
           "position": 1,
@@ -13394,7 +13401,8 @@
       "product_type": "",
       "tags": [
         "Flow:ArtikelstatusAktiv",
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -13408,7 +13416,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "13.90",
+          "price": "10.90",
           "grams": 100,
           "compare_at_price": "13.90",
           "position": 1,
@@ -13447,7 +13455,8 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -13461,7 +13470,7 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "13.90",
+          "price": "10.90",
           "grams": 120,
           "compare_at_price": "13.90",
           "position": 1,
@@ -13500,7 +13509,8 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -13514,7 +13524,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "15.90",
+          "price": "12.90",
           "grams": 100,
           "compare_at_price": "15.90",
           "position": 1,
@@ -13553,7 +13563,8 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -13567,7 +13578,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "15.90",
+          "price": "12.90",
           "grams": 120,
           "compare_at_price": "15.90",
           "position": 1,
@@ -13606,7 +13617,8 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -13620,7 +13632,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "17.90",
+          "price": "14.90",
           "grams": 100,
           "compare_at_price": "17.90",
           "position": 1,
@@ -13659,7 +13671,8 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -13673,7 +13686,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "10.90",
+          "price": "8.90",
           "grams": 120,
           "compare_at_price": "10.90",
           "position": 1,
@@ -13716,7 +13729,8 @@
         "Flow:ArtikelstatusAktiv",
         "Online",
         "Pokémon",
-        "polyband anime"
+        "polyband anime",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -13730,7 +13744,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "13.90",
+          "price": "10.90",
           "grams": 0,
           "compare_at_price": "13.90",
           "position": 1,
@@ -13769,7 +13783,8 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -13783,7 +13798,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "10.90",
+          "price": "8.90",
           "grams": 120,
           "compare_at_price": "10.90",
           "position": 1,
@@ -13823,7 +13838,8 @@
       "product_type": "",
       "tags": [
         "Flow:ArtikelstatusAktiv",
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -13837,7 +13853,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "13.90",
+          "price": "10.90",
           "grams": 100,
           "compare_at_price": "13.90",
           "position": 1,
@@ -13876,7 +13892,8 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -13890,7 +13907,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "10.90",
+          "price": "8.90",
           "grams": 120,
           "compare_at_price": "10.90",
           "position": 1,
@@ -13932,7 +13949,8 @@
         "Anime",
         "Online",
         "Pokémon",
-        "polyband anime"
+        "polyband anime",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -13946,7 +13964,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "13.90",
+          "price": "10.90",
           "grams": 0,
           "compare_at_price": "13.90",
           "position": 1,
@@ -14154,7 +14172,8 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -14168,7 +14187,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "10.90",
+          "price": "8.90",
           "grams": 120,
           "compare_at_price": "10.90",
           "position": 1,
@@ -14210,7 +14229,8 @@
         "Anime",
         "Online",
         "Pokémon",
-        "polyband anime"
+        "polyband anime",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -14224,7 +14244,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "13.90",
+          "price": "10.90",
           "grams": 0,
           "compare_at_price": "13.90",
           "position": 1,
@@ -14366,7 +14386,8 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -14380,7 +14401,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "10.90",
+          "price": "8.90",
           "grams": 120,
           "compare_at_price": "10.90",
           "position": 1,
@@ -14419,7 +14440,8 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -14433,7 +14455,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "13.90",
+          "price": "10.90",
           "grams": 100,
           "compare_at_price": "13.90",
           "position": 1,
@@ -14472,7 +14494,8 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -14486,7 +14509,7 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "10.90",
+          "price": "8.90",
           "grams": 120,
           "compare_at_price": "10.90",
           "position": 1,
@@ -14525,7 +14548,8 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -14539,7 +14563,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "13.90",
+          "price": "10.90",
           "grams": 100,
           "compare_at_price": "13.90",
           "position": 1,
@@ -14957,7 +14981,8 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -14971,7 +14996,7 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "10.90",
+          "price": "8.90",
           "grams": 120,
           "compare_at_price": "10.90",
           "position": 1,
@@ -15011,7 +15036,8 @@
       "product_type": "",
       "tags": [
         "Flow:ArtikelstatusAktiv",
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -15025,7 +15051,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "13.90",
+          "price": "10.90",
           "grams": 100,
           "compare_at_price": "13.90",
           "position": 1,
@@ -15194,7 +15220,8 @@
       "product_type": "",
       "tags": [
         "Online",
-        "polyband anime"
+        "polyband anime",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -15208,7 +15235,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "32.90",
+          "price": "24.90",
           "grams": 260,
           "compare_at_price": "32.90",
           "position": 1,
@@ -15248,7 +15275,8 @@
       "product_type": "",
       "tags": [
         "Online",
-        "polyband anime"
+        "polyband anime",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -15262,7 +15290,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "12.90",
+          "price": "8.90",
           "grams": 120,
           "compare_at_price": "12.90",
           "position": 1,
@@ -15303,7 +15331,8 @@
       "tags": [
         "Blu-ray",
         "Online",
-        "polyband anime"
+        "polyband anime",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -15317,7 +15346,7 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "15.90",
+          "price": "10.90",
           "grams": 100,
           "compare_at_price": "15.90",
           "position": 1,
@@ -15357,7 +15386,8 @@
       "product_type": "",
       "tags": [
         "Online",
-        "polyband anime"
+        "polyband anime",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -15371,7 +15401,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "12.90",
+          "price": "8.90",
           "grams": 120,
           "compare_at_price": "12.90",
           "position": 1,
@@ -15411,7 +15441,8 @@
       "product_type": "",
       "tags": [
         "Online",
-        "polyband anime"
+        "polyband anime",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -15425,7 +15456,7 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "15.90",
+          "price": "10.90",
           "grams": 120,
           "compare_at_price": "15.90",
           "position": 1,
@@ -15465,7 +15496,8 @@
       "product_type": "",
       "tags": [
         "Online",
-        "polyband anime"
+        "polyband anime",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -15479,7 +15511,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "42.90",
+          "price": "32.90",
           "grams": 260,
           "compare_at_price": "42.90",
           "position": 1,
@@ -15519,7 +15551,8 @@
       "product_type": "",
       "tags": [
         "Online",
-        "polyband anime"
+        "polyband anime",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -15533,7 +15566,7 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "46.90",
+          "price": "39.90",
           "grams": 260,
           "compare_at_price": "46.90",
           "position": 1,
@@ -15575,7 +15608,8 @@
         "Anime",
         "Online",
         "Pokémon",
-        "polyband anime"
+        "polyband anime",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -15589,7 +15623,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "42.90",
+          "price": "28.90",
           "grams": 0,
           "compare_at_price": "42.90",
           "position": 1,
@@ -16022,7 +16056,8 @@
         "Flow:ArtikelstatusAktiv",
         "Online",
         "Pokémon",
-        "polyband anime"
+        "polyband anime",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -16036,7 +16071,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "32.90",
+          "price": "24.90",
           "grams": 0,
           "compare_at_price": "32.90",
           "position": 1,
@@ -16078,7 +16113,8 @@
         "Anime",
         "Online",
         "Pokémon",
-        "polyband anime"
+        "polyband anime",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -16092,7 +16128,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "12.90",
+          "price": "8.90",
           "grams": 0,
           "compare_at_price": "12.90",
           "position": 1,
@@ -16131,7 +16167,8 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -16145,7 +16182,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "15.90",
+          "price": "10.90",
           "grams": 100,
           "compare_at_price": "15.90",
           "position": 1,
@@ -16184,7 +16221,8 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -16198,7 +16236,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "39.90",
+          "price": "32.90",
           "grams": 260,
           "compare_at_price": "39.90",
           "position": 1,
@@ -33987,7 +34025,6 @@
       "tags": [
         "Action",
         "Anime",
-        "Flow:ArtikelstatusAktiv",
         "Online",
         "peppermint anime",
         "sale-november-2026"
@@ -34003,7 +34040,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "1.90",
           "grams": 100,
           "compare_at_price": "39.90",
@@ -40735,6 +40772,7 @@
       "tags": [
         "Anime",
         "Dauersale",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "peppermint anime",
         "sale-november-2026",
@@ -40751,7 +40789,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "1.90",
           "grams": 96,
           "compare_at_price": "24.90",
@@ -41465,6 +41503,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "peppermint anime",
         "sale-november-2026",
@@ -41481,7 +41520,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "5.90",
           "grams": 96,
           "compare_at_price": "39.90",
@@ -44253,6 +44292,7 @@
       "tags": [
         "Anime",
         "Dauersale",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "peppermint anime",
         "sale-november-2026",
@@ -44269,7 +44309,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "17.90",
           "grams": 408,
           "compare_at_price": "99.90",
@@ -44889,7 +44929,8 @@
       "vendor": "Polyband",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -44903,7 +44944,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "34.90",
+          "price": "28.90",
           "grams": 260,
           "compare_at_price": "34.90",
           "position": 1,
@@ -46159,7 +46200,8 @@
       "vendor": "Polyband",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -46173,7 +46215,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "39.90",
+          "price": "32.90",
           "grams": 260,
           "compare_at_price": "39.90",
           "position": 1,
@@ -46212,7 +46254,8 @@
       "vendor": "Polyband",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -46226,7 +46269,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "39.90",
+          "price": "32.90",
           "grams": 260,
           "compare_at_price": "39.90",
           "position": 1,
@@ -46265,7 +46308,8 @@
       "vendor": "Polyband",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -46279,7 +46323,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "39.90",
+          "price": "32.90",
           "grams": 260,
           "compare_at_price": "39.90",
           "position": 1,
@@ -47154,7 +47198,8 @@
       "vendor": "Polyband",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -47168,7 +47213,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "39.90",
+          "price": "32.90",
           "grams": 260,
           "compare_at_price": "39.90",
           "position": 1,
@@ -54119,7 +54164,6 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Frisch eingetroffen",
         "Online",
         "sale-november-2026"
@@ -54135,7 +54179,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "4.90",
           "grams": 186,
           "compare_at_price": "45.90",
@@ -54195,7 +54239,6 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Frisch eingetroffen",
         "Online",
         "sale-november-2026"
@@ -54211,7 +54254,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "4.90",
           "grams": 179,
           "compare_at_price": "45.90",
@@ -54705,6 +54748,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "peppermint anime",
         "sale-november-2026"
@@ -57475,7 +57519,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "19.90",
           "grams": 215,
           "compare_at_price": "59.90",
@@ -57529,7 +57573,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "4.90",
           "grams": 404,
           "compare_at_price": "54.90",
@@ -57570,6 +57614,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "peppermint anime",
         "Romance",
@@ -57959,6 +58004,7 @@
         "Action",
         "Anime",
         "Dauersale",
+        "Flow:ArtikelstatusAktiv",
         "Frisch eingetroffen",
         "Online",
         "peppermint anime",
@@ -58745,7 +58791,9 @@
       "created_at": "2026-10-02T11:13:41+02:00",
       "vendor": "Polyband",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "sale-november-2026"
+      ],
       "variants": [
         {
           "id": 58952170045704,
@@ -58758,7 +58806,7 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "44.90",
+          "price": "39.90",
           "grams": 260,
           "compare_at_price": "44.90",
           "position": 1,
@@ -59558,7 +59606,8 @@
       "vendor": "Polyband",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -59572,7 +59621,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "39.90",
+          "price": "32.90",
           "grams": 260,
           "compare_at_price": "39.90",
           "position": 1,
@@ -59944,7 +59993,8 @@
       "product_type": "",
       "tags": [
         "Dauersale",
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -59958,7 +60008,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "34.90",
+          "price": "24.90",
           "grams": 0,
           "compare_at_price": "39.90",
           "position": 1,
@@ -61259,7 +61309,8 @@
         "Anime",
         "Online",
         "Pokémon",
-        "polyband anime"
+        "polyband anime",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -61273,7 +61324,7 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "34.90",
+          "price": "32.90",
           "grams": 260,
           "compare_at_price": "34.90",
           "position": 1,
@@ -61325,7 +61376,8 @@
         "Anime",
         "Online",
         "Pokémon",
-        "polyband anime"
+        "polyband anime",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -61339,7 +61391,7 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "34.90",
+          "price": "32.90",
           "grams": 260,
           "compare_at_price": "34.90",
           "position": 1,
@@ -61391,7 +61443,8 @@
         "Anime",
         "Online",
         "Pokémon",
-        "polyband anime"
+        "polyband anime",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -61405,7 +61458,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "39.90",
+          "price": "32.90",
           "grams": 0,
           "compare_at_price": "39.90",
           "position": 1,
@@ -71740,6 +71793,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "peppermint anime",
         "sale-november-2026"
@@ -73247,7 +73301,8 @@
         "Anime",
         "Online",
         "Pokémon",
-        "polyband anime"
+        "polyband anime",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -73261,7 +73316,7 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "32.90",
+          "price": "24.90",
           "grams": 0,
           "compare_at_price": "32.90",
           "position": 1,
@@ -79892,7 +79947,8 @@
         "Anime",
         "Online",
         "Pokémon",
-        "polyband anime"
+        "polyband anime",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -79906,7 +79962,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "12.90",
+          "price": "8.90",
           "grams": 0,
           "compare_at_price": "12.90",
           "position": 1,
@@ -79948,7 +80004,8 @@
         "Anime",
         "Online",
         "Pokémon",
-        "polyband anime"
+        "polyband anime",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -79962,9 +80019,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "15.90",
+          "price": "10.90",
           "grams": 200,
-          "compare_at_price": "15.40",
+          "compare_at_price": "15.90",
           "position": 1,
           "product_id": 10261442003208,
           "created_at": "2025-05-28T15:54:57+02:00"
@@ -80004,7 +80061,8 @@
         "Anime",
         "Online",
         "Pokémon",
-        "polyband anime"
+        "polyband anime",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -80018,7 +80076,7 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "29.90",
+          "price": "24.90",
           "grams": 160,
           "compare_at_price": "29.90",
           "position": 1,
@@ -80628,7 +80686,8 @@
         "Anime",
         "Online",
         "Pokémon",
-        "polyband anime"
+        "polyband anime",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -80642,7 +80701,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "39.90",
+          "price": "32.90",
           "grams": 250,
           "compare_at_price": "39.90",
           "position": 1,
@@ -80684,7 +80743,8 @@
         "Anime",
         "Online",
         "Pokémon",
-        "polyband anime"
+        "polyband anime",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -80698,7 +80758,7 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "39.90",
+          "price": "32.90",
           "grams": 250,
           "compare_at_price": "39.90",
           "position": 1,
@@ -80740,7 +80800,8 @@
         "Anime",
         "Online",
         "Pokémon",
-        "polyband anime"
+        "polyband anime",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -80754,7 +80815,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "29.90",
+          "price": "24.90",
           "grams": 160,
           "compare_at_price": "29.90",
           "position": 1,
@@ -87060,7 +87121,8 @@
         "Anime",
         "Online",
         "Pokémon",
-        "polyband anime"
+        "polyband anime",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -87074,7 +87136,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "39.90",
+          "price": "32.90",
           "grams": 250,
           "compare_at_price": "39.90",
           "position": 1,
@@ -87695,7 +87757,8 @@
         "Anime",
         "Online",
         "Pokémon",
-        "polyband anime"
+        "polyband anime",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -87709,7 +87772,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "29.90",
+          "price": "24.90",
           "grams": 0,
           "compare_at_price": "29.90",
           "position": 1,
@@ -87748,7 +87811,8 @@
       "vendor": "Polyband",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -87762,7 +87826,7 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "14.90",
+          "price": "9.90",
           "grams": 0,
           "compare_at_price": "14.90",
           "position": 1,
@@ -90642,7 +90706,8 @@
         "Anime",
         "Online",
         "Pokémon",
-        "polyband anime"
+        "polyband anime",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -90656,7 +90721,7 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "39.90",
+          "price": "32.90",
           "grams": 0,
           "compare_at_price": "39.90",
           "position": 1,
@@ -90851,7 +90916,8 @@
         "Anime",
         "Online",
         "Pokémon",
-        "polyband anime"
+        "polyband anime",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -90865,7 +90931,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "14.90",
+          "price": "12.90",
           "grams": 90,
           "compare_at_price": "14.90",
           "position": 1,
@@ -90907,7 +90973,8 @@
         "Anime",
         "Online",
         "Pokémon",
-        "polyband anime"
+        "polyband anime",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -90921,7 +90988,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "14.90",
+          "price": "12.90",
           "grams": 90,
           "compare_at_price": "14.90",
           "position": 1,
@@ -110009,7 +110076,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "19.90",
           "grams": 425,
           "compare_at_price": "59.90",
@@ -139390,7 +139457,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "29.90",
           "grams": 99,
           "compare_at_price": "43.90",
@@ -140918,6 +140985,7 @@
       "tags": [
         "Anime",
         "Click&Collect",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "peppermint anime",
         "sale-november-2026",
@@ -141457,6 +141525,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Flow:ArtikelstatusAktiv",
         "Frisch eingetroffen",
         "Online",
         "peppermint anime",
@@ -141979,7 +142048,8 @@
         "Anime",
         "Online",
         "Pokémon",
-        "polyband anime"
+        "polyband anime",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -141993,7 +142063,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "39.90",
+          "price": "32.90",
           "grams": 0,
           "compare_at_price": "39.90",
           "position": 1,
@@ -142035,7 +142105,8 @@
         "Anime",
         "Online",
         "Pokémon",
-        "polyband anime"
+        "polyband anime",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -142049,7 +142120,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "12.90",
+          "price": "8.90",
           "grams": 90,
           "compare_at_price": "12.90",
           "position": 1,
@@ -142091,7 +142162,8 @@
         "Anime",
         "Online",
         "Pokémon",
-        "polyband anime"
+        "polyband anime",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -142105,7 +142177,7 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "14.90",
+          "price": "10.90",
           "grams": 110,
           "compare_at_price": "14.90",
           "position": 1,
@@ -142147,7 +142219,8 @@
         "Anime",
         "Online",
         "Pokémon",
-        "polyband anime"
+        "polyband anime",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -142161,7 +142234,7 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "12.90",
+          "price": "8.90",
           "grams": 0,
           "compare_at_price": "12.90",
           "position": 1,
@@ -142203,7 +142276,8 @@
         "Anime",
         "Online",
         "Pokémon",
-        "polyband anime"
+        "polyband anime",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -142217,7 +142291,7 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "14.90",
+          "price": "10.90",
           "grams": 0,
           "compare_at_price": "14.90",
           "position": 1,
@@ -142256,7 +142330,8 @@
       "vendor": "Polyband",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -142270,7 +142345,7 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "39.90",
+          "price": "32.90",
           "grams": 230,
           "compare_at_price": "39.90",
           "position": 1,
@@ -143050,7 +143125,8 @@
       "product_type": "",
       "tags": [
         "Frisch eingetroffen",
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -143064,7 +143140,7 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "39.90",
+          "price": "32.90",
           "grams": 260,
           "compare_at_price": "39.90",
           "position": 1,
@@ -143209,7 +143285,8 @@
       "vendor": "Polyband",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -143223,7 +143300,7 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "29.90",
+          "price": "24.90",
           "grams": 0,
           "compare_at_price": "29.90",
           "position": 1,
@@ -143317,7 +143394,8 @@
       "vendor": "Polyband",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -143331,7 +143409,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "29.90",
+          "price": "24.90",
           "grams": 0,
           "compare_at_price": "29.90",
           "position": 1,
@@ -144084,7 +144162,8 @@
       "product_type": "",
       "tags": [
         "Frisch eingetroffen",
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -144098,7 +144177,7 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "39.90",
+          "price": "32.90",
           "grams": 0,
           "compare_at_price": "39.90",
           "position": 1,
@@ -144194,7 +144273,8 @@
       "product_type": "",
       "tags": [
         "Frisch eingetroffen",
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -144208,7 +144288,7 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "29.90",
+          "price": "24.90",
           "grams": 0,
           "compare_at_price": "29.90",
           "position": 1,
@@ -144248,7 +144328,8 @@
       "product_type": "",
       "tags": [
         "Frisch eingetroffen",
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -144262,7 +144343,7 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "89.90",
+          "price": "79.90",
           "grams": 260,
           "compare_at_price": "89.90",
           "position": 1,
@@ -144302,7 +144383,8 @@
       "product_type": "",
       "tags": [
         "Dauersale",
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -144316,7 +144398,7 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "129.90",
+          "price": "109.90",
           "grams": 710,
           "compare_at_price": "161.90",
           "position": 1,
@@ -144356,7 +144438,8 @@
       "product_type": "",
       "tags": [
         "Dauersale",
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -144370,7 +144453,7 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "109.90",
+          "price": "89.90",
           "grams": 730,
           "compare_at_price": "129.99",
           "position": 1,
@@ -144420,7 +144503,8 @@
       "product_type": "",
       "tags": [
         "Frisch eingetroffen",
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -144434,7 +144518,7 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "39.90",
+          "price": "32.90",
           "grams": 0,
           "compare_at_price": "39.90",
           "position": 1,
@@ -181669,6 +181753,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "sale-november-2026"
       ],
       "variants": [
@@ -181682,7 +181767,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "39.90",
           "grams": 390,
           "compare_at_price": "59.90",
@@ -181989,6 +182074,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "sale-august-2026",
         "sale-november-2026"
@@ -182004,7 +182090,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "49.90",
           "grams": 169,
           "compare_at_price": "69.90",
@@ -182610,6 +182696,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "sale-november-2026"
       ],
@@ -183095,7 +183182,8 @@
       "vendor": "Polyband",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -183109,7 +183197,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "59.90",
+          "price": "49.90",
           "grams": 260,
           "compare_at_price": "59.90",
           "position": 1,
@@ -183257,7 +183345,8 @@
       "product_type": "",
       "tags": [
         "Anime",
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -183271,7 +183360,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "18.90",
+          "price": "15.90",
           "grams": 0,
           "compare_at_price": "18.90",
           "position": 1,
@@ -183949,7 +184038,8 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -183963,7 +184053,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "15.90",
+          "price": "10.90",
           "grams": 0,
           "compare_at_price": "15.90",
           "position": 1,
@@ -203334,7 +203424,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "14.90",
           "grams": 407,
           "compare_at_price": "59.90",
@@ -218029,7 +218119,8 @@
       "vendor": "Polyband",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -218043,7 +218134,7 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "15.90",
+          "price": "10.90",
           "grams": 0,
           "compare_at_price": "15.90",
           "position": 1,
@@ -229810,7 +229901,8 @@
       "vendor": "Polyband",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -229824,9 +229916,9 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "10.00",
+          "price": "9.90",
           "grams": 0,
-          "compare_at_price": "10.00",
+          "compare_at_price": "14.90",
           "position": 1,
           "product_id": 10261388296456,
           "created_at": "2025-05-28T15:36:34+02:00"
@@ -229864,7 +229956,8 @@
       "product_type": "",
       "tags": [
         "Dauersale",
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -229878,7 +229971,7 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "23.00",
+          "price": "24.90",
           "grams": 210,
           "compare_at_price": "34.90",
           "position": 1,
@@ -229917,7 +230010,8 @@
       "vendor": "Polyband",
       "product_type": "",
       "tags": [
-        "Online"
+        "Online",
+        "sale-november-2026"
       ],
       "variants": [
         {
@@ -229931,9 +230025,9 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "21.00",
+          "price": "19.90",
           "grams": 0,
-          "compare_at_price": "21.00",
+          "compare_at_price": "24.90",
           "position": 1,
           "product_id": 10261388329224,
           "created_at": "2025-05-28T15:36:35+02:00"
