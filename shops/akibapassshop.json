@@ -63,6 +63,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "sale-november-2026"
       ],
@@ -77,7 +78,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "2.90",
           "grams": 190,
           "compare_at_price": "39.90",
@@ -171,6 +172,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "sale-november-2026"
       ],
@@ -185,7 +187,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "2.90",
           "grams": 190,
           "compare_at_price": "39.90",
@@ -284,6 +286,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "peppermint anime",
         "sale-november-2026"
@@ -299,7 +302,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "4.90",
           "grams": 100,
           "compare_at_price": "41.90",
@@ -2801,6 +2804,7 @@
         "Anime",
         "Comedy",
         "Dauersale",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "peppermint anime",
         "sale-november-2026"
@@ -2816,7 +2820,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.90",
           "grams": 187,
           "compare_at_price": "36.90",
@@ -2859,6 +2863,7 @@
         "Anime",
         "Comedy",
         "Dauersale",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "peppermint anime",
         "sale-november-2026"
@@ -2874,7 +2879,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.90",
           "grams": 188,
           "compare_at_price": "36.90",
@@ -2917,6 +2922,7 @@
         "Anime",
         "Comedy",
         "Dauersale",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "peppermint anime",
         "sale-november-2026"
@@ -2932,7 +2938,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.90",
           "grams": 193,
           "compare_at_price": "36.90",
@@ -4494,6 +4500,7 @@
       "tags": [
         "Dauersale",
         "Drama",
+        "Flow:ArtikelstatusAktiv",
         "Frisch eingetroffen",
         "Online",
         "peppermint anime",
@@ -4511,7 +4518,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.90",
           "grams": 0,
           "compare_at_price": "41.90",
@@ -6899,6 +6906,7 @@
         "Anime",
         "Comedy",
         "Dauersale",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "peppermint anime",
         "sale-november-2026"
@@ -6914,7 +6922,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.90",
           "grams": 188,
           "compare_at_price": "36.90",
@@ -33986,6 +33994,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "peppermint anime",
         "sale-november-2026"
@@ -34001,7 +34010,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "1.90",
           "grams": 100,
           "compare_at_price": "39.90",
@@ -35273,6 +35282,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "sale-november-2026"
       ],
@@ -35287,7 +35297,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "1.90",
           "grams": 119,
           "compare_at_price": "19.90",
@@ -37213,6 +37223,7 @@
         "Anime",
         "Dauersale",
         "Fantasy",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "peppermint anime",
         "sale-november-2026"
@@ -37228,7 +37239,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "2.90",
           "grams": 99,
           "compare_at_price": "29.90",
@@ -39607,6 +39618,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "sale-november-2026"
       ],
@@ -39621,7 +39633,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "1.90",
           "grams": 179,
           "compare_at_price": "36.90",
@@ -54114,6 +54126,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Frisch eingetroffen",
         "Online",
         "sale-november-2026"
@@ -54129,7 +54142,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "4.90",
           "grams": 186,
           "compare_at_price": "45.90",
@@ -54189,6 +54202,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Frisch eingetroffen",
         "Online",
         "sale-november-2026"
@@ -54204,7 +54218,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "4.90",
           "grams": 179,
           "compare_at_price": "45.90",
@@ -55638,6 +55652,7 @@
       "tags": [
         "Auf Lager",
         "Dauersale",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "sale-november-2026"
       ],
@@ -55652,7 +55667,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "3.90",
           "grams": 103,
           "compare_at_price": "41.90",
@@ -55991,6 +56006,7 @@
       "product_type": "",
       "tags": [
         "Dauersale",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "sale-november-2026"
       ],
@@ -56005,7 +56021,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "3.90",
           "grams": 160,
           "compare_at_price": "38.90",
@@ -57727,6 +57743,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "sale-november-2026"
       ],
@@ -57741,7 +57758,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "9.90",
           "grams": 407,
           "compare_at_price": "59.90",
@@ -148674,7 +148691,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "22.90",
           "grams": 0,
           "compare_at_price": "36.90",
@@ -166019,7 +166036,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "79.90",
           "grams": 205,
           "compare_at_price": "79.90",
@@ -206306,7 +206323,6 @@
         "exclude_rebuy",
         "exclude_recommendations",
         "exclude_review",
-        "Flow:ArtikelstatusAktiv",
         "hidden",
         "Hidden recommendation",
         "Hide",
@@ -206330,7 +206346,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.00",
           "grams": 10,
           "compare_at_price": "0.00",

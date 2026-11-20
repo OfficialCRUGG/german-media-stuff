@@ -8300,7 +8300,7 @@
         "4K UHD",
         "Action & Thriller",
         "Blu-Ray",
-        "preorder",
+        "Neuheiten",
         "Steelbooks",
         "UHD"
       ],
@@ -8315,7 +8315,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "34.99",
           "grams": 0,
           "compare_at_price": null,
@@ -10216,7 +10216,7 @@
         "4K UHD",
         "Action & Thriller",
         "Blu-Ray",
-        "preorder",
+        "Neuheiten",
         "Steelbooks",
         "UHD"
       ],
@@ -17803,6 +17803,207 @@
       ]
     },
     {
+      "id": 15515174895669,
+      "title": "Ebenezer - Eine Weihnachtsgeschichte",
+      "handle": "ebenezer-eine-weihnachtsgeschichte",
+      "published_at": "2026-11-20T11:54:39+01:00",
+      "created_at": "2026-11-20T11:06:15+01:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "DVD",
+      "tags": [
+        "Action & Thriller",
+        "DVD",
+        "Filme",
+        "preorder"
+      ],
+      "variants": [
+        {
+          "id": 68036663050293,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00808",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "14.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15515174895669,
+          "created_at": "2026-11-20T11:06:15+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39570028625973,
+          "created_at": "2026-11-20T11:09:17+01:00",
+          "position": 1,
+          "product_id": 15515174895669,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122983180201jpg-249647.jpg?v=1795169358",
+          "width": 1530,
+          "height": 2163
+        },
+        {
+          "id": 39570028691509,
+          "created_at": "2026-11-20T11:09:20+01:00",
+          "position": 2,
+          "product_id": 15515174895669,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122983180202jpg-249698.jpg?v=1795169361",
+          "width": 1174,
+          "height": 1879
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15515174830133,
+      "title": "Ebenezer - Eine Weihnachtsgeschichte 4K UHD + Blu-ray",
+      "handle": "ebenezer-eine-weihnachtsgeschichte-4k-uhd-blu-ray",
+      "published_at": "2026-11-20T11:53:14+01:00",
+      "created_at": "2026-11-20T11:06:05+01:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "4K",
+        "4K UHD",
+        "Action & Thriller",
+        "Blu-ray",
+        "Disney",
+        "Filme",
+        "preorder"
+      ],
+      "variants": [
+        {
+          "id": 68036662984757,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00806",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "29.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15515174830133,
+          "created_at": "2026-11-20T11:06:05+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39570028199989,
+          "created_at": "2026-11-20T11:09:02+01:00",
+          "position": 1,
+          "product_id": 15515174830133,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122983189501jpg-249239.jpg?v=1795169343",
+          "width": 1500,
+          "height": 1915
+        },
+        {
+          "id": 39570028265525,
+          "created_at": "2026-11-20T11:09:06+01:00",
+          "position": 2,
+          "product_id": 15515174830133,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122983189502jpg-249290.jpg?v=1795169347",
+          "width": 1172,
+          "height": 1680
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15515174862901,
+      "title": "Ebenezer - Eine Weihnachtsgeschichte Blu-ray",
+      "handle": "ebenezer-eine-weihnachtsgeschichte-blu-ray",
+      "published_at": "2026-11-20T11:54:02+01:00",
+      "created_at": "2026-11-20T11:06:13+01:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "BluRay",
+      "tags": [
+        "Action & Thriller",
+        "Blu-ray",
+        "Filme",
+        "preorder"
+      ],
+      "variants": [
+        {
+          "id": 68036663017525,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00807",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "17.99",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15515174862901,
+          "created_at": "2026-11-20T11:06:13+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39570028462133,
+          "created_at": "2026-11-20T11:09:09+01:00",
+          "position": 1,
+          "product_id": 15515174862901,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122983181901jpg-249443.jpg?v=1795169351",
+          "width": 1500,
+          "height": 1915
+        },
+        {
+          "id": 39570028560437,
+          "created_at": "2026-11-20T11:09:13+01:00",
+          "position": 2,
+          "product_id": 15515174862901,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122983181902jpg-249494.jpg?v=1795169354",
+          "width": 1172,
+          "height": 1680
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 8149584904245,
       "title": "Eddington 4K UHD + Blu-ray Collector's Edition",
       "handle": "eddington-4k-uhd-blu-ray-collectors-edition",
@@ -18675,6 +18876,85 @@
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229831598_02.jpg?v=1790762104",
           "width": 1172,
           "height": 1680
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15514579075125,
+      "title": "Eiserne Wildnis - Heart of the Beast 4K UHD + Blu-ray Lim. Steelbook",
+      "handle": "eiserne-wildnis-heart-of-the-beast-4k-uhd-blu-ray-lim-steelbook",
+      "published_at": "2026-11-20T11:43:08+01:00",
+      "created_at": "2026-11-19T16:02:30+01:00",
+      "vendor": "LEONINE Distribution GmbH",
+      "product_type": "4K UHD",
+      "tags": [
+        "4K",
+        "4K UHD",
+        "Action & Thriller",
+        "Blu-ray",
+        "preorder",
+        "Serien",
+        "Steelbooks"
+      ],
+      "variants": [
+        {
+          "id": 68032953090101,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "LEO-00805",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "34.99",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15514579075125,
+          "created_at": "2026-11-19T16:02:30+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39570028003381,
+          "created_at": "2026-11-20T11:08:53+01:00",
+          "position": 1,
+          "product_id": 15514579075125,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122983157401jpg-249768.jpg?v=1795169334",
+          "width": 1607,
+          "height": 2023
+        },
+        {
+          "id": 39570027937845,
+          "created_at": "2026-11-20T11:08:49+01:00",
+          "position": 2,
+          "product_id": 15514579075125,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122983157402jpg-249716.jpg?v=1795169330",
+          "width": 1169,
+          "height": 1627
+        },
+        {
+          "id": 39570028068917,
+          "created_at": "2026-11-20T11:08:57+01:00",
+          "position": 3,
+          "product_id": 15514579075125,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122983157403jpg-249819.jpg?v=1795169338",
+          "width": 5100,
+          "height": 3300
         }
       ],
       "options": [
@@ -33869,7 +34149,7 @@
         "Blu-ray",
         "Family & Kids",
         "Filme",
-        "preorder"
+        "Neuheiten"
       ],
       "variants": [
         {
