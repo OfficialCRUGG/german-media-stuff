@@ -199739,7 +199739,9 @@
       "created_at": "2026-11-17T16:38:31+01:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:ArtikelstatusAktiv"
+      ],
       "variants": [
         {
           "id": 59547291844872,
