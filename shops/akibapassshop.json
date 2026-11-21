@@ -13068,7 +13068,6 @@
       "product_type": "",
       "tags": [
         "Anime",
-        "Flow:ArtikelstatusAktiv",
         "Online",
         "Pokémon",
         "polyband anime",
@@ -13085,7 +13084,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "10.90",
           "grams": 0,
           "compare_at_price": "14.90",
@@ -125506,7 +125505,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "69.90",
           "grams": 146,
           "compare_at_price": "69.90",
@@ -156195,7 +156194,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "69.90",
           "grams": 186,
           "compare_at_price": "69.90",
@@ -173402,7 +173401,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "69.90",
           "grams": 0,
           "compare_at_price": "69.90",
@@ -201754,9 +201753,7 @@
       "created_at": "2026-08-06T09:51:39+02:00",
       "vendor": "Crunchyroll",
       "product_type": "",
-      "tags": [
-        "Flow:ArtikelstatusAktiv"
-      ],
+      "tags": [],
       "variants": [
         {
           "id": 58377113108744,
@@ -201768,7 +201765,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "44.90",
           "grams": 269,
           "compare_at_price": "44.00",
