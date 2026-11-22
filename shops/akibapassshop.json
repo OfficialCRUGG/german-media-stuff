@@ -43806,7 +43806,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "36.90",
           "grams": 150,
           "compare_at_price": "36.90",
@@ -83304,7 +83304,6 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen",
         "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime",
         "Online"
@@ -166263,7 +166262,6 @@
       "vendor": "Hardball Films",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen",
         "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
@@ -166371,7 +166369,6 @@
       "vendor": "Hardball Films",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen",
         "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
@@ -166426,7 +166423,6 @@
       "vendor": "Hardball Films",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen",
         "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
@@ -166481,7 +166477,6 @@
       "vendor": "Hardball Films",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen",
         "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
@@ -166589,7 +166584,6 @@
       "vendor": "Hardball Films",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen",
         "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
@@ -167903,7 +167897,6 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen",
         "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
