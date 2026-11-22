@@ -33786,7 +33786,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "1.90",
           "grams": 96,
           "compare_at_price": "39.90",
@@ -134124,7 +134124,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "15.90",
           "grams": 169,
           "compare_at_price": "49.90",
@@ -162447,7 +162447,6 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen",
         "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
