@@ -214405,7 +214405,6 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Frisch eingetroffen",
         "Goodie",
         "OhneRabatt",
@@ -214422,7 +214421,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.00",
           "grams": 20,
           "compare_at_price": "0.00",
