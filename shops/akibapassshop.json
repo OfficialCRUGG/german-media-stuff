@@ -179440,6 +179440,8 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Merch",
         "Online",
         "warenpost"
@@ -179455,7 +179457,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "14.90",
           "grams": 20,
           "compare_at_price": "14.90",
@@ -179551,6 +179553,8 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Merch",
         "Online",
         "warenpost"
@@ -179566,7 +179570,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "9.90",
           "grams": 150,
           "compare_at_price": "9.90",
