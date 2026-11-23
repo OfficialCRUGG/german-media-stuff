@@ -126658,7 +126658,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "49.90",
           "grams": 370,
           "compare_at_price": "49.90",
@@ -169663,7 +169663,6 @@
       "vendor": "Leonine Anime",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Online"
       ],
       "variants": [
@@ -169677,7 +169676,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "59.90",
           "grams": 350,
           "compare_at_price": "59.90",
