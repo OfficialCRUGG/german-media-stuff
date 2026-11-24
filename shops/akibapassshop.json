@@ -118265,7 +118265,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "25.90",
           "grams": 137,
           "compare_at_price": "39.90",
@@ -128717,6 +128717,7 @@
       "tags": [
         "Anime",
         "Crunchyroll",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "sale-november-2026",
         "Sport"
