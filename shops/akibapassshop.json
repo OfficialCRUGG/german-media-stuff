@@ -219784,7 +219784,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "4.90",
           "grams": 0,
           "compare_at_price": "12.90",
@@ -227692,7 +227692,6 @@
       "product_type": "",
       "tags": [
         "Clearfiles",
-        "Flow:ArtikelstatusAktiv",
         "Online",
         "sale-november-2026"
       ],
@@ -227707,7 +227706,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "8.90",
           "grams": 90,
           "compare_at_price": "12.90",
