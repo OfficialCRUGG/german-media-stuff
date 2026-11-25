@@ -15681,7 +15681,7 @@
           "available": false,
           "price": "24.90",
           "grams": 220,
-          "compare_at_price": "38.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261322400008,
           "created_at": "2025-05-28T15:11:48+02:00"
@@ -15811,9 +15811,9 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "35.90",
+          "price": "39.90",
           "grams": 0,
-          "compare_at_price": "35.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261322531080,
           "created_at": "2025-05-28T15:11:52+02:00"
@@ -44998,7 +44998,7 @@
           "available": false,
           "price": "35.90",
           "grams": 0,
-          "compare_at_price": "35.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261332197640,
           "created_at": "2025-05-28T15:15:30+02:00"
@@ -45107,7 +45107,7 @@
           "available": false,
           "price": "35.90",
           "grams": 0,
-          "compare_at_price": "35.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261332361480,
           "created_at": "2025-05-28T15:15:33+02:00"
@@ -57846,7 +57846,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "7.90",
           "grams": 794,
           "compare_at_price": "54.90",
@@ -61324,7 +61324,7 @@
           "available": false,
           "price": "32.90",
           "grams": 260,
-          "compare_at_price": "34.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261410316552,
           "created_at": "2025-05-28T15:46:51+02:00"
@@ -61391,7 +61391,7 @@
           "available": false,
           "price": "32.90",
           "grams": 260,
-          "compare_at_price": "34.90",
+          "compare_at_price": "39.90",
           "position": 1,
           "product_id": 10261410447624,
           "created_at": "2025-05-28T15:46:53+02:00"
@@ -72248,6 +72248,7 @@
       "tags": [
         "Anime",
         "Fantasy",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "peppermint anime",
         "sale-august-2026",
@@ -90929,7 +90930,7 @@
           "available": false,
           "price": "12.90",
           "grams": 90,
-          "compare_at_price": "14.90",
+          "compare_at_price": "15.90",
           "position": 1,
           "product_id": 10261489615112,
           "created_at": "2025-05-28T16:10:03+02:00"
@@ -141523,6 +141524,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Flow:ArtikelstatusAktiv",
         "Frisch eingetroffen",
         "Online",
         "peppermint anime",
@@ -144342,7 +144344,7 @@
           "available": false,
           "price": "79.90",
           "grams": 260,
-          "compare_at_price": "89.90",
+          "compare_at_price": "90.90",
           "position": 1,
           "product_id": 10540392022280,
           "created_at": "2025-10-02T13:49:01+02:00"
@@ -185776,7 +185778,7 @@
           "available": true,
           "price": "49.90",
           "grams": 0,
-          "compare_at_price": "49.90",
+          "compare_at_price": "54.90",
           "position": 1,
           "product_id": 12217377685768,
           "created_at": "2026-09-02T18:14:48+02:00"
@@ -185830,7 +185832,7 @@
           "available": true,
           "price": "84.90",
           "grams": 0,
-          "compare_at_price": "84.90",
+          "compare_at_price": "89.90",
           "position": 1,
           "product_id": 12217377653000,
           "created_at": "2026-09-02T18:14:42+02:00"
@@ -185867,6 +185869,7 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
+        "Flow:ReleaseInfoOffen",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -186252,7 +186255,7 @@
           "available": true,
           "price": "84.90",
           "grams": 0,
-          "compare_at_price": "84.90",
+          "compare_at_price": "89.90",
           "position": 1,
           "product_id": 12364556042504,
           "created_at": "2026-10-20T18:31:56+02:00"
@@ -186307,7 +186310,7 @@
           "available": true,
           "price": "84.90",
           "grams": 0,
-          "compare_at_price": "84.90",
+          "compare_at_price": "89.90",
           "position": 1,
           "product_id": 12364556009736,
           "created_at": "2026-10-20T18:31:56+02:00"
@@ -186362,7 +186365,7 @@
           "available": true,
           "price": "84.90",
           "grams": 0,
-          "compare_at_price": "84.90",
+          "compare_at_price": "89.90",
           "position": 1,
           "product_id": 12364556108040,
           "created_at": "2026-10-20T18:31:57+02:00"
@@ -186416,7 +186419,7 @@
           "available": true,
           "price": "84.90",
           "grams": 0,
-          "compare_at_price": "84.90",
+          "compare_at_price": "89.90",
           "position": 1,
           "product_id": 12364555944200,
           "created_at": "2026-10-20T18:31:55+02:00"
@@ -186470,7 +186473,7 @@
           "available": true,
           "price": "84.90",
           "grams": 0,
-          "compare_at_price": "84.90",
+          "compare_at_price": "89.90",
           "position": 1,
           "product_id": 12364555845896,
           "created_at": "2026-10-20T18:31:55+02:00"
@@ -186524,7 +186527,7 @@
           "available": true,
           "price": "84.90",
           "grams": 0,
-          "compare_at_price": "84.90",
+          "compare_at_price": "89.90",
           "position": 1,
           "product_id": 12364555878664,
           "created_at": "2026-10-20T18:31:55+02:00"
@@ -231141,7 +231144,7 @@
           "available": true,
           "price": "19.90",
           "grams": 0,
-          "compare_at_price": "24.90",
+          "compare_at_price": "26.90",
           "position": 1,
           "product_id": 10261388329224,
           "created_at": "2025-05-28T15:36:35+02:00"
