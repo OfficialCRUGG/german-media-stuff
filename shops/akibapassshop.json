@@ -44996,7 +44996,7 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "35.90",
+          "price": "39.90",
           "grams": 0,
           "compare_at_price": "39.90",
           "position": 1,
@@ -45105,7 +45105,7 @@
           "taxable": true,
           "featured_image": null,
           "available": false,
-          "price": "35.90",
+          "price": "39.90",
           "grams": 0,
           "compare_at_price": "39.90",
           "position": 1,
@@ -139566,6 +139566,7 @@
       "tags": [
         "Anime",
         "Blu-ray",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "Romance",
         "sale-august-2026",
@@ -165474,7 +165475,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "29.90",
           "grams": 450,
           "compare_at_price": "29.90",
@@ -185776,7 +185777,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "49.90",
+          "price": "54.90",
           "grams": 0,
           "compare_at_price": "54.90",
           "position": 1,
@@ -185830,7 +185831,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "84.90",
+          "price": "89.90",
           "grams": 0,
           "compare_at_price": "89.90",
           "position": 1,
@@ -186253,7 +186254,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "84.90",
+          "price": "89.90",
           "grams": 0,
           "compare_at_price": "89.90",
           "position": 1,
@@ -186308,7 +186309,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "84.90",
+          "price": "89.90",
           "grams": 0,
           "compare_at_price": "89.90",
           "position": 1,
@@ -186363,7 +186364,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "84.90",
+          "price": "89.90",
           "grams": 0,
           "compare_at_price": "89.90",
           "position": 1,
@@ -186417,7 +186418,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "84.90",
+          "price": "89.90",
           "grams": 0,
           "compare_at_price": "89.90",
           "position": 1,
@@ -186471,7 +186472,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "84.90",
+          "price": "89.90",
           "grams": 0,
           "compare_at_price": "89.90",
           "position": 1,
@@ -186525,7 +186526,7 @@
           "taxable": true,
           "featured_image": null,
           "available": true,
-          "price": "84.90",
+          "price": "89.90",
           "grams": 0,
           "compare_at_price": "89.90",
           "position": 1,
@@ -186541,6 +186542,312 @@
           "product_id": 12364555878664,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/pokemon-season-23-25-reisen-dvd-standard-edition-polyband-anime-338_2f81fac7-63ff-4f1e-9c67-96b813df966b.webp?v=1793277004",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12524652986632,
+      "title": "SHIN CHAN - Die Serie - Boxset mit Vol. 9-12 - Limited Edition mit Stickerfolie (DVD)",
+      "handle": "26pol055-shin-chan-die-serie-boxset-vol-9-12-limited-dvd",
+      "published_at": "2026-11-25T17:51:28+01:00",
+      "created_at": "2026-11-25T16:38:56+01:00",
+      "vendor": "polyband anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59683826925832,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26pol055",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "49.90",
+          "grams": 0,
+          "compare_at_price": "49.90",
+          "position": 1,
+          "product_id": 12524652986632,
+          "created_at": "2026-11-25T16:38:56+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 89094638371080,
+          "created_at": "2026-11-25T17:56:52+01:00",
+          "position": 1,
+          "product_id": 12524652986632,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/shin-chan-serie-boxset-vol-9-12-limited-edition-stickerfolie-dvd-991.webp?v=1795625812",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12524653019400,
+      "title": "ARTE - Die komplette Serie (Blu-ray)",
+      "handle": "26pol056-arte-die-komplette-serie-bluray",
+      "published_at": "2026-11-25T17:51:29+01:00",
+      "created_at": "2026-11-25T16:38:56+01:00",
+      "vendor": "polyband anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59683826958600,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26pol056",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "32.90",
+          "grams": 0,
+          "compare_at_price": "32.90",
+          "position": 1,
+          "product_id": 12524653019400,
+          "created_at": "2026-11-25T16:38:56+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 89094665502984,
+          "created_at": "2026-11-25T18:00:15+01:00",
+          "position": 1,
+          "product_id": 12524653019400,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/arte-komplette-serie-blu-ray-gesamtausgabe-polyband-anime-652.webp?v=1795626015",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12524653183240,
+      "title": "Infinite Stratos - Season 1 - Die komplette Staffel - Softbox-Edition (Blu-ray)",
+      "handle": "26pol057-infinite-stratos-season-1-komplette-staffel-softbox-bluray",
+      "published_at": "2026-11-25T17:51:31+01:00",
+      "created_at": "2026-11-25T16:38:56+01:00",
+      "vendor": "polyband anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59683827122440,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26pol057",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "24.90",
+          "grams": 0,
+          "compare_at_price": "24.90",
+          "position": 1,
+          "product_id": 12524653183240,
+          "created_at": "2026-11-25T16:38:57+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 89094640107784,
+          "created_at": "2026-11-25T17:57:11+01:00",
+          "position": 1,
+          "product_id": 12524653183240,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/infinite-stratos-season-1-komplette-staffel-softbox-edition-blu-ray-786.webp?v=1795625831",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12524653084936,
+      "title": "Infinite Stratos - Season 2 - Die komplette Staffel - Softbox-Edition (Blu-ray)",
+      "handle": "26pol058-infinite-stratos-season-2-komplette-staffel-softbox-bluray",
+      "published_at": "2026-11-25T17:51:29+01:00",
+      "created_at": "2026-11-25T16:38:56+01:00",
+      "vendor": "polyband anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59683826991368,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26pol058",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "24.90",
+          "grams": 0,
+          "compare_at_price": "24.90",
+          "position": 1,
+          "product_id": 12524653084936,
+          "created_at": "2026-11-25T16:38:56+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 89094639091976,
+          "created_at": "2026-11-25T17:57:03+01:00",
+          "position": 1,
+          "product_id": 12524653084936,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/infinite-stratos-season-2-komplette-staffel-softbox-edition-blu-ray-664.webp?v=1795625823",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12524653150472,
+      "title": "Kill Blue - Season 1 - Vol. 1 - Limited Edition mit Sammelschuber & Magnet-Sticker (Blu-ray)",
+      "handle": "26pol059-kill-blue-season-1-vol-1-limited-bluray",
+      "published_at": "2026-11-25T17:51:31+01:00",
+      "created_at": "2026-11-25T16:38:56+01:00",
+      "vendor": "polyband anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59683827089672,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26pol059",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "42.90",
+          "grams": 0,
+          "compare_at_price": "42.90",
+          "position": 1,
+          "product_id": 12524653150472,
+          "created_at": "2026-11-25T16:38:57+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 89094648693000,
+          "created_at": "2026-11-25T17:58:14+01:00",
+          "position": 1,
+          "product_id": 12524653150472,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/kill-blue-season-1-vol-1-limited-edition-sammelschuber-magnet-843.webp?v=1795625894",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12524653117704,
+      "title": "Shiboyugi: Das Phantom-Mädchen im Spiel des Todes - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
+      "handle": "26pol060-shiboyugi-vol-1-limited-bluray",
+      "published_at": "2026-11-25T17:51:30+01:00",
+      "created_at": "2026-11-25T16:38:56+01:00",
+      "vendor": "polyband anime",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59683827056904,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26pol060",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "42.90",
+          "grams": 0,
+          "compare_at_price": "42.90",
+          "position": 1,
+          "product_id": 12524653117704,
+          "created_at": "2026-11-25T16:38:56+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 89094643777800,
+          "created_at": "2026-11-25T17:57:15+01:00",
+          "position": 1,
+          "product_id": 12524653117704,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/shiboyugi-phantom-maedchen-spiel-todes-vol-1-limited-edition-669.webp?v=1795625835",
           "width": 2500,
           "height": 2500
         }
@@ -205121,7 +205428,6 @@
       "vendor": "polyband anime",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -205135,7 +205441,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "59.90",
           "grams": 750,
           "compare_at_price": "59.90",
@@ -206704,6 +207010,7 @@
       "product_type": "Gift",
       "tags": [
         "Click&Collect",
+        "Flow:ArtikelstatusAktiv",
         "Goodie",
         "Online"
       ],
@@ -206718,7 +207025,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.00",
           "grams": 10,
           "compare_at_price": "0.00",
@@ -209447,7 +209754,8 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Click&Collect"
+        "Click&Collect",
+        "Flow:ArtikelstatusAktiv"
       ],
       "variants": [
         {
@@ -209460,7 +209768,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.00",
           "grams": 10,
           "compare_at_price": "0.00",
