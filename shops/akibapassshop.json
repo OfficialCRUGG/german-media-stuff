@@ -153004,7 +153004,7 @@
           "featured_image": null,
           "available": false,
           "price": "2.90",
-          "grams": 0,
+          "grams": 15000,
           "compare_at_price": "2.90",
           "position": 1,
           "product_id": 10704917659912,
@@ -165058,6 +165058,850 @@
       ]
     },
     {
+      "id": 12509903388936,
+      "title": "Blue Lock - Season 1 - Part 1 - Vol. 1 - Limited Edition mit Sammelschuber (Blu-ray)",
+      "handle": "26cr184-blue-lock-season-1-part-1-vol-1-limited-bluray",
+      "published_at": "2026-11-25T10:12:00+01:00",
+      "created_at": "2026-11-21T20:42:35+01:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [
+        "Kategorie:Neuheiten:Ausblenden",
+        "Restposten"
+      ],
+      "variants": [
+        {
+          "id": 59632905257224,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr184",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "9.90",
+          "grams": 280,
+          "compare_at_price": "9.90",
+          "position": 1,
+          "product_id": 12509903388936,
+          "created_at": "2026-11-21T20:42:35+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 89038325907720,
+          "created_at": "2026-11-23T10:48:36+01:00",
+          "position": 1,
+          "product_id": 12509903388936,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/blue-lock-season-1-part-1-vol-1-limited-edition-sammelschuber-blu-347.webp?v=1795427316",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 89038326137096,
+          "created_at": "2026-11-23T10:48:45+01:00",
+          "position": 2,
+          "product_id": 12509903388936,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/blue-lock-season-1-part-1-vol-1-limited-edition-sammelschuber-blu-827.webp?v=1795427325",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12509903028488,
+      "title": "Blue Lock - Season 1 - Part 1 - Vol. 2 (Blu-ray)",
+      "handle": "26cr185-blue-lock-season-1-part-1-vol-2-bluray",
+      "published_at": "2026-11-25T10:11:54+01:00",
+      "created_at": "2026-11-21T20:42:34+01:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [
+        "Kategorie:Neuheiten:Ausblenden",
+        "Restposten"
+      ],
+      "variants": [
+        {
+          "id": 59632904896776,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr185",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "9.90",
+          "grams": 150,
+          "compare_at_price": "9.90",
+          "position": 1,
+          "product_id": 12509903028488,
+          "created_at": "2026-11-21T20:42:34+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 89038093877512,
+          "created_at": "2026-11-23T10:20:18+01:00",
+          "position": 1,
+          "product_id": 12509903028488,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/blue-lock-season-1-part-1-vol-2-blu-ray-standard-edition-950.webp?v=1795425618",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 89038094401800,
+          "created_at": "2026-11-23T10:20:28+01:00",
+          "position": 2,
+          "product_id": 12509903028488,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/blue-lock-season-1-part-1-vol-2-blu-ray-standard-edition-706.webp?v=1795425628",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12509903192328,
+      "title": "Meine Wiedergeburt als Schleim in einer anderen Welt: Die Schleim-Tagebücher - Vol. 1 (Blu-ray)",
+      "handle": "26cr186-die-schleim-tagebuecher-vol-1-bluray",
+      "published_at": "2026-11-25T10:11:56+01:00",
+      "created_at": "2026-11-21T20:42:35+01:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [
+        "Kategorie:Neuheiten:Ausblenden",
+        "Restposten"
+      ],
+      "variants": [
+        {
+          "id": 59632905060616,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr186",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "9.90",
+          "grams": 160,
+          "compare_at_price": "9.90",
+          "position": 1,
+          "product_id": 12509903192328,
+          "created_at": "2026-11-21T20:42:35+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 89038198669576,
+          "created_at": "2026-11-23T10:30:15+01:00",
+          "position": 1,
+          "product_id": 12509903192328,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/wiedergeburt-schleim-anderen-welt-schleim-tagebuecher-vol-1-blu-934.webp?v=1795426215",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 89038199390472,
+          "created_at": "2026-11-23T10:30:26+01:00",
+          "position": 2,
+          "product_id": 12509903192328,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/wiedergeburt-schleim-anderen-welt-schleim-tagebuecher-vol-1-blu-543.webp?v=1795426226",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12509903094024,
+      "title": "Spy x Family - Season 1 - Part 1 - Vol. 2 (Blu-ray)",
+      "handle": "26cr187-spy-x-family-season-1-part-1-vol-2-bluray",
+      "published_at": "2026-11-25T10:11:55+01:00",
+      "created_at": "2026-11-21T20:42:34+01:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [
+        "Kategorie:Neuheiten:Ausblenden",
+        "Restposten"
+      ],
+      "variants": [
+        {
+          "id": 59632904929544,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr187",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "4.90",
+          "grams": 135,
+          "compare_at_price": "4.90",
+          "position": 1,
+          "product_id": 12509903094024,
+          "created_at": "2026-11-21T20:42:35+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 89038126416136,
+          "created_at": "2026-11-23T10:24:12+01:00",
+          "position": 1,
+          "product_id": 12509903094024,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/spy-x-family-season-1-part-1-vol-2-blu-ray-standard-edition-191.webp?v=1795425852",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 89038127005960,
+          "created_at": "2026-11-23T10:24:20+01:00",
+          "position": 2,
+          "product_id": 12509903094024,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/spy-x-family-season-1-part-1-vol-2-blu-ray-standard-edition-910.webp?v=1795425860",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12509903290632,
+      "title": "Spy x Family - Season 1 - Part 1 - Vol. 3 (Blu-ray)",
+      "handle": "26cr188-spy-x-family-season-1-part-1-vol-3-bluray",
+      "published_at": "2026-11-25T10:11:58+01:00",
+      "created_at": "2026-11-21T20:42:35+01:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [
+        "Kategorie:Neuheiten:Ausblenden",
+        "Restposten"
+      ],
+      "variants": [
+        {
+          "id": 59632905093384,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr188",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "4.90",
+          "grams": 135,
+          "compare_at_price": "4.90",
+          "position": 1,
+          "product_id": 12509903290632,
+          "created_at": "2026-11-21T20:42:35+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 89038278033672,
+          "created_at": "2026-11-23T10:38:13+01:00",
+          "position": 1,
+          "product_id": 12509903290632,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/spy-x-family-season-1-part-1-vol-3-blu-ray-standard-edition-406.webp?v=1795426693",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 89038278590728,
+          "created_at": "2026-11-23T10:38:21+01:00",
+          "position": 2,
+          "product_id": 12509903290632,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/spy-x-family-season-1-part-1-vol-3-blu-ray-standard-edition-796.webp?v=1795426701",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12509903356168,
+      "title": "Tokyo Ghoul - Season 1 - Gesamtausgabe (Blu-ray)",
+      "handle": "26cr189-tokyo-ghoul-season-1-gesamtausgabe-bluray",
+      "published_at": "2026-11-25T10:12:00+01:00",
+      "created_at": "2026-11-21T20:42:35+01:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59632905224456,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr189",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "29.90",
+          "grams": 360,
+          "compare_at_price": "29.90",
+          "position": 1,
+          "product_id": 12509903356168,
+          "created_at": "2026-11-21T20:42:35+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 89038315684104,
+          "created_at": "2026-11-23T10:44:45+01:00",
+          "position": 1,
+          "product_id": 12509903356168,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/tokyo-ghoul-season-1-gesamtausgabe-blu-ray-gesamtausgabe-840.webp?v=1795427085",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 89038315847944,
+          "created_at": "2026-11-23T10:44:53+01:00",
+          "position": 2,
+          "product_id": 12509903356168,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/tokyo-ghoul-season-1-gesamtausgabe-blu-ray-gesamtausgabe-224.webp?v=1795427093",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 89038316044552,
+          "created_at": "2026-11-23T10:45:02+01:00",
+          "position": 3,
+          "product_id": 12509903356168,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/tokyo-ghoul-season-1-gesamtausgabe-blu-ray-gesamtausgabe-590.webp?v=1795427102",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12509903225096,
+      "title": "Tokyo Ghoul √A - Season 2 - Gesamtausgabe (Blu-ray)",
+      "handle": "26cr190-tokyo-ghoul-root-a-season-2-gesamtausgabe-bluray",
+      "published_at": "2026-11-25T10:11:57+01:00",
+      "created_at": "2026-11-21T20:42:35+01:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59632905027848,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr190",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "29.90",
+          "grams": 450,
+          "compare_at_price": "29.90",
+          "position": 1,
+          "product_id": 12509903225096,
+          "created_at": "2026-11-21T20:42:35+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 89038210924808,
+          "created_at": "2026-11-23T10:32:17+01:00",
+          "position": 1,
+          "product_id": 12509903225096,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/tokyo-ghoul-a-season-2-gesamtausgabe-blu-ray-gesamtausgabe-374.webp?v=1795426337",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 89038211645704,
+          "created_at": "2026-11-23T10:32:25+01:00",
+          "position": 2,
+          "product_id": 12509903225096,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/tokyo-ghoul-a-season-2-gesamtausgabe-blu-ray-gesamtausgabe-640.webp?v=1795426345",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 89038212104456,
+          "created_at": "2026-11-23T10:32:34+01:00",
+          "position": 3,
+          "product_id": 12509903225096,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/tokyo-ghoul-a-season-2-gesamtausgabe-blu-ray-gesamtausgabe-763.webp?v=1795426354",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12509902930184,
+      "title": "Tokyo Ghoul:re - Gesamtausgabe - Box 1 (Blu-ray)",
+      "handle": "26cr191-tokyo-ghoul-re-gesamtausgabe-box-1-bluray",
+      "published_at": "2026-11-25T10:11:53+01:00",
+      "created_at": "2026-11-21T20:42:34+01:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [
+        "Kategorie:Neuheiten:Ausblenden",
+        "Restposten"
+      ],
+      "variants": [
+        {
+          "id": 59632904798472,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr191",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "29.90",
+          "grams": 460,
+          "compare_at_price": "29.90",
+          "position": 1,
+          "product_id": 12509902930184,
+          "created_at": "2026-11-21T20:42:34+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 89038054916360,
+          "created_at": "2026-11-23T10:16:25+01:00",
+          "position": 1,
+          "product_id": 12509902930184,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/tokyo-ghoul-re-gesamtausgabe-box-1-blu-ray-gesamtausgabe-743.webp?v=1795425385",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 89038055244040,
+          "created_at": "2026-11-23T10:16:33+01:00",
+          "position": 2,
+          "product_id": 12509902930184,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/tokyo-ghoul-re-gesamtausgabe-box-1-blu-ray-gesamtausgabe-894.webp?v=1795425393",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12509903421704,
+      "title": "Tokyo Ghoul:re - Gesamtausgabe - Box 2 (Blu-ray)",
+      "handle": "26cr192-tokyo-ghoul-re-gesamtausgabe-box-2-bluray",
+      "published_at": "2026-11-25T10:12:01+01:00",
+      "created_at": "2026-11-21T20:42:35+01:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [
+        "Kategorie:Neuheiten:Ausblenden",
+        "Restposten"
+      ],
+      "variants": [
+        {
+          "id": 59632905289992,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr192",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "19.90",
+          "grams": 350,
+          "compare_at_price": "19.90",
+          "position": 1,
+          "product_id": 12509903421704,
+          "created_at": "2026-11-21T20:42:35+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 89038328987912,
+          "created_at": "2026-11-23T10:50:21+01:00",
+          "position": 1,
+          "product_id": 12509903421704,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/tokyo-ghoul-re-gesamtausgabe-box-2-blu-ray-gesamtausgabe-938.webp?v=1795427421",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 89038329708808,
+          "created_at": "2026-11-23T10:50:31+01:00",
+          "position": 2,
+          "product_id": 12509903421704,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/tokyo-ghoul-re-gesamtausgabe-box-2-blu-ray-gesamtausgabe-763.webp?v=1795427431",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12509903126792,
+      "title": "Fairy Tail - Movie 1: Phoenix Priestess (Blu-ray)",
+      "handle": "26cr193-fairy-tail-movie-1-phoenix-priestess-bluray",
+      "published_at": "2026-11-25T10:11:55+01:00",
+      "created_at": "2026-11-21T20:42:35+01:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59632904995080,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr193",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "4.90",
+          "grams": 140,
+          "compare_at_price": "4.90",
+          "position": 1,
+          "product_id": 12509903126792,
+          "created_at": "2026-11-21T20:42:35+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 89038146306312,
+          "created_at": "2026-11-23T10:26:16+01:00",
+          "position": 1,
+          "product_id": 12509903126792,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/fairy-tail-movie-1-phoenix-priestess-blu-ray-standard-edition-120.webp?v=1795425976",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 89038146633992,
+          "created_at": "2026-11-23T10:26:26+01:00",
+          "position": 2,
+          "product_id": 12509903126792,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/fairy-tail-movie-1-phoenix-priestess-blu-ray-standard-edition-208.webp?v=1795425986",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 89038146961672,
+          "created_at": "2026-11-23T10:26:36+01:00",
+          "position": 3,
+          "product_id": 12509903126792,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/fairy-tail-movie-1-phoenix-priestess-blu-ray-standard-edition-444.webp?v=1795425996",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12509903323400,
+      "title": "Fairy Tail - Movie 2: Dragon Cry (Blu-ray)",
+      "handle": "26cr194-fairy-tail-movie-2-dragon-cry-bluray",
+      "published_at": "2026-11-25T10:11:59+01:00",
+      "created_at": "2026-11-21T20:42:35+01:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59632905191688,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr194",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "4.90",
+          "grams": 80,
+          "compare_at_price": "4.90",
+          "position": 1,
+          "product_id": 12509903323400,
+          "created_at": "2026-11-21T20:42:35+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 89038285046024,
+          "created_at": "2026-11-23T10:40:16+01:00",
+          "position": 1,
+          "product_id": 12509903323400,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/fairy-tail-movie-2-dragon-cry-blu-ray-standard-edition-391.webp?v=1795426816",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 89038285472008,
+          "created_at": "2026-11-23T10:40:27+01:00",
+          "position": 2,
+          "product_id": 12509903323400,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/fairy-tail-movie-2-dragon-cry-blu-ray-standard-edition-381.webp?v=1795426828",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12509903618312,
+      "title": "Twittering Birds Never Fly - OVA (Blu-ray)",
+      "handle": "26cr195-twittering-birds-never-fly-ova-bluray",
+      "published_at": "2026-11-25T10:12:03+01:00",
+      "created_at": "2026-11-21T20:42:41+01:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59632905453832,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr195",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "4.90",
+          "grams": 100,
+          "compare_at_price": "4.90",
+          "position": 1,
+          "product_id": 12509903618312,
+          "created_at": "2026-11-21T20:42:41+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 89038531428616,
+          "created_at": "2026-11-23T11:06:36+01:00",
+          "position": 1,
+          "product_id": 12509903618312,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/twittering-birds-never-fly-ova-blu-ray-standard-edition-644.webp?v=1795428396",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 89038532280584,
+          "created_at": "2026-11-23T11:06:43+01:00",
+          "position": 2,
+          "product_id": 12509903618312,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/twittering-birds-never-fly-ova-blu-ray-standard-edition-651.webp?v=1795428403",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12509903257864,
+      "title": "Das Verschwinden der Haruhi Suzumiya - Der Film (Blu-ray)",
+      "handle": "26cr196-das-verschwinden-der-haruhi-suzumiya-der-film-bluray",
+      "published_at": "2026-11-25T10:11:57+01:00",
+      "created_at": "2026-11-21T20:42:35+01:00",
+      "vendor": "Crunchyroll",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 59632905158920,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26cr196",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "9.90",
+          "grams": 90,
+          "compare_at_price": "9.90",
+          "position": 1,
+          "product_id": 12509903257864,
+          "created_at": "2026-11-21T20:42:35+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 89038255128840,
+          "created_at": "2026-11-23T10:36:13+01:00",
+          "position": 1,
+          "product_id": 12509903257864,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/verschwinden-haruhi-suzumiya-film-blu-ray-standard-edition-223.webp?v=1795426573",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 89038255685896,
+          "created_at": "2026-11-23T10:36:21+01:00",
+          "position": 2,
+          "product_id": 12509903257864,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/verschwinden-haruhi-suzumiya-film-blu-ray-standard-edition-790.webp?v=1795426581",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
       "id": 11211387535624,
       "title": "Solo Leveling - Tragetasche",
       "handle": "26crm001-solo-leveling-tote-bag",
@@ -165611,6 +166455,306 @@
           "product_id": 12332158091528,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/shakugan-no-shana-season-1-2-gesamtausgabe-dvd-gesamtausgabe-film-586.webp?v=1791469268",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12509903683848,
+      "title": "Shakugan no Shana - Season 1 - Vol. 1 - Limited Steelbook-Edition (Blu-ray)",
+      "handle": "26fc007-shakugan-no-shana-season-1-vol-1-limited-steelbook-bluray",
+      "published_at": "2026-11-25T10:12:04+01:00",
+      "created_at": "2026-11-21T20:42:41+01:00",
+      "vendor": "Film Confect",
+      "product_type": "",
+      "tags": [
+        "Kategorie:Neuheiten:Ausblenden",
+        "Restposten"
+      ],
+      "variants": [
+        {
+          "id": 59632905519368,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26fc007",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "9.90",
+          "grams": 340,
+          "compare_at_price": "9.90",
+          "position": 1,
+          "product_id": 12509903683848,
+          "created_at": "2026-11-21T20:42:41+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 89038647492872,
+          "created_at": "2026-11-23T11:18:15+01:00",
+          "position": 1,
+          "product_id": 12509903683848,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/shakugan-no-shana-season-1-vol-1-limited-steelbook-edition-blu-ray-590.webp?v=1795429095",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 89038647787784,
+          "created_at": "2026-11-23T11:18:24+01:00",
+          "position": 2,
+          "product_id": 12509903683848,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/shakugan-no-shana-season-1-vol-1-limited-steelbook-edition-blu-ray-939.webp?v=1795429104",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12509903585544,
+      "title": "Shakugan no Shana - Season 1 - Vol. 2 - Steelbook-Edition (Blu-ray)",
+      "handle": "26fc008-shakugan-no-shana-season-1-vol-2-steelbook-bluray",
+      "published_at": "2026-11-25T10:12:02+01:00",
+      "created_at": "2026-11-21T20:42:40+01:00",
+      "vendor": "Film Confect",
+      "product_type": "",
+      "tags": [
+        "Kategorie:Neuheiten:Ausblenden",
+        "Restposten"
+      ],
+      "variants": [
+        {
+          "id": 59632905421064,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26fc008",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "9.90",
+          "grams": 165,
+          "compare_at_price": "9.90",
+          "position": 1,
+          "product_id": 12509903585544,
+          "created_at": "2026-11-21T20:42:40+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 89038523105544,
+          "created_at": "2026-11-23T11:04:22+01:00",
+          "position": 1,
+          "product_id": 12509903585544,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/shakugan-no-shana-season-1-vol-2-steelbook-edition-blu-ray-758.webp?v=1795428262",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 89038523236616,
+          "created_at": "2026-11-23T11:04:32+01:00",
+          "position": 2,
+          "product_id": 12509903585544,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/shakugan-no-shana-season-1-vol-2-steelbook-edition-blu-ray-255.webp?v=1795428272",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12509903651080,
+      "title": "Shakugan no Shana - Season 1 - Vol. 3 - Steelbook-Edition (Blu-ray)",
+      "handle": "26fc009-shakugan-no-shana-season-1-vol-3-steelbook-bluray",
+      "published_at": "2026-11-25T10:12:03+01:00",
+      "created_at": "2026-11-21T20:42:41+01:00",
+      "vendor": "Film Confect",
+      "product_type": "",
+      "tags": [
+        "Kategorie:Neuheiten:Ausblenden",
+        "Restposten"
+      ],
+      "variants": [
+        {
+          "id": 59632905486600,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26fc009",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "9.90",
+          "grams": 165,
+          "compare_at_price": "9.90",
+          "position": 1,
+          "product_id": 12509903651080,
+          "created_at": "2026-11-21T20:42:41+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 89038574092552,
+          "created_at": "2026-11-23T11:08:38+01:00",
+          "position": 1,
+          "product_id": 12509903651080,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/shakugan-no-shana-season-1-vol-3-steelbook-edition-blu-ray-721.webp?v=1795428518",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12509903814920,
+      "title": "Shakugan no Shana - Season 1 - Vol. 4 - Steelbook-Edition (Blu-ray)",
+      "handle": "26fc010-shakugan-no-shana-season-1-vol-4-steelbook-bluray",
+      "published_at": "2026-11-25T10:12:06+01:00",
+      "created_at": "2026-11-21T20:42:42+01:00",
+      "vendor": "Film Confect",
+      "product_type": "",
+      "tags": [
+        "Kategorie:Neuheiten:Ausblenden",
+        "Restposten"
+      ],
+      "variants": [
+        {
+          "id": 59632907092232,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26fc010",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "9.90",
+          "grams": 165,
+          "compare_at_price": "9.90",
+          "position": 1,
+          "product_id": 12509903814920,
+          "created_at": "2026-11-21T20:42:42+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 89038611677448,
+          "created_at": "2026-11-23T11:12:28+01:00",
+          "position": 1,
+          "product_id": 12509903814920,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/shakugan-no-shana-season-1-vol-4-steelbook-edition-blu-ray-475.webp?v=1795428748",
+          "width": 2500,
+          "height": 2500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12509903716616,
+      "title": "Shakugan no Shana - Season 1 - Vol. 5 - Steelbook-Edition (Blu-ray)",
+      "handle": "26fc011-shakugan-no-shana-season-1-vol-5-steelbook-bluray",
+      "published_at": "2026-11-25T10:12:05+01:00",
+      "created_at": "2026-11-21T20:42:41+01:00",
+      "vendor": "Film Confect",
+      "product_type": "",
+      "tags": [
+        "Kategorie:Neuheiten:Ausblenden",
+        "Restposten"
+      ],
+      "variants": [
+        {
+          "id": 59632905552136,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "26fc011",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "9.90",
+          "grams": 165,
+          "compare_at_price": "9.90",
+          "position": 1,
+          "product_id": 12509903716616,
+          "created_at": "2026-11-21T20:42:41+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 89038610301192,
+          "created_at": "2026-11-23T11:12:17+01:00",
+          "position": 1,
+          "product_id": 12509903716616,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/shakugan-no-shana-season-1-vol-5-steelbook-edition-blu-ray-211.webp?v=1795428737",
+          "width": 2500,
+          "height": 2500
+        },
+        {
+          "id": 89038611317000,
+          "created_at": "2026-11-23T11:12:25+01:00",
+          "position": 2,
+          "product_id": 12509903716616,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/shakugan-no-shana-season-1-vol-5-steelbook-edition-blu-ray-799.webp?v=1795428745",
           "width": 2500,
           "height": 2500
         }
@@ -206446,6 +207590,7 @@
         "exclude_rebuy",
         "exclude_recommendations",
         "exclude_review",
+        "Flow:ArtikelstatusAktiv",
         "hidden",
         "Hidden recommendation",
         "Hide",
@@ -206469,7 +207614,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.00",
           "grams": 10,
           "compare_at_price": "0.00",
