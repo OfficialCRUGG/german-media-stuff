@@ -41365,6 +41365,7 @@
       "product_type": "",
       "tags": [
         "Anime",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "peppermint anime",
         "sale-november-2026",
@@ -56881,6 +56882,7 @@
       "tags": [
         "Action",
         "Anime",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "peppermint anime",
         "sale-november-2026"
@@ -57843,7 +57845,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "7.90",
           "grams": 794,
           "compare_at_price": "54.90",
@@ -139561,7 +139563,6 @@
       "tags": [
         "Anime",
         "Blu-ray",
-        "Flow:ArtikelstatusAktiv",
         "Online",
         "Romance",
         "sale-august-2026",
@@ -141519,7 +141520,6 @@
       "tags": [
         "Action",
         "Anime",
-        "Flow:ArtikelstatusAktiv",
         "Frisch eingetroffen",
         "Online",
         "peppermint anime",
