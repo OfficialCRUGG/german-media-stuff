@@ -95580,7 +95580,6 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Online",
         "sale-november-2026"
       ],
@@ -95595,7 +95594,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "8.90",
           "grams": 100,
           "compare_at_price": "10.90",
@@ -169529,7 +169528,6 @@
       "vendor": "KSM Anime",
       "product_type": "",
       "tags": [
-        "Flow:ReleaseInfoOffen",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -207281,6 +207279,7 @@
         "exclude_rebuy",
         "exclude_recommendations",
         "exclude_review",
+        "Flow:ArtikelstatusAktiv",
         "hidden",
         "Hidden recommendation",
         "Hide",
@@ -207304,7 +207303,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.00",
           "grams": 50,
           "compare_at_price": "0.00",
