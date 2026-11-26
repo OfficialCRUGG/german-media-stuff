@@ -8481,7 +8481,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "4.90",
           "grams": 124,
           "compare_at_price": "36.90",
@@ -57573,7 +57573,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "4.90",
           "grams": 404,
           "compare_at_price": "54.90",
@@ -137693,6 +137693,7 @@
       "tags": [
         "Acrylaufsteller",
         "Dauersale",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "warenpost"
       ],
@@ -137707,7 +137708,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "22.50",
           "grams": 60,
           "compare_at_price": "29.70",
@@ -207012,6 +207013,7 @@
       "product_type": "Gift",
       "tags": [
         "Click&Collect",
+        "Flow:ArtikelstatusAktiv",
         "Goodie",
         "Online"
       ],
@@ -207026,7 +207028,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.00",
           "grams": 10,
           "compare_at_price": "0.00",
@@ -209755,7 +209757,8 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Click&Collect"
+        "Click&Collect",
+        "Flow:ArtikelstatusAktiv"
       ],
       "variants": [
         {
@@ -209768,7 +209771,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.00",
           "grams": 10,
           "compare_at_price": "0.00",
