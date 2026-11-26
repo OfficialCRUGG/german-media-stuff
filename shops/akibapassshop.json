@@ -56884,7 +56884,6 @@
       "tags": [
         "Action",
         "Anime",
-        "Flow:ArtikelstatusAktiv",
         "Online",
         "peppermint anime",
         "sale-november-2026"
@@ -161562,7 +161561,6 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -183474,7 +183472,6 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Online",
         "sale-november-2026"
       ],
@@ -199597,7 +199594,9 @@
       "created_at": "2026-11-17T16:38:31+01:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Badge:Vorbestellen"
+      ],
       "variants": [
         {
           "id": 59547291779336,
@@ -199899,7 +199898,10 @@
       "created_at": "2026-11-17T16:38:31+01:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv"
+      ],
       "variants": [
         {
           "id": 59547291746568,
@@ -200251,7 +200253,9 @@
       "created_at": "2026-11-17T16:38:31+01:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Badge:Vorbestellen"
+      ],
       "variants": [
         {
           "id": 59547291812104,
@@ -200653,7 +200657,9 @@
       "created_at": "2026-11-17T16:38:33+01:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Badge:Vorbestellen"
+      ],
       "variants": [
         {
           "id": 59547292631304,
@@ -201065,7 +201071,10 @@
       "created_at": "2026-11-17T16:38:31+01:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv"
+      ],
       "variants": [
         {
           "id": 59547291681032,
@@ -201487,7 +201496,9 @@
       "created_at": "2026-11-17T16:38:31+01:00",
       "vendor": "Sakami Merchandise",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Badge:Vorbestellen"
+      ],
       "variants": [
         {
           "id": 59547291713800,
@@ -207013,6 +207024,7 @@
       "product_type": "Gift",
       "tags": [
         "Click&Collect",
+        "Flow:ArtikelstatusAktiv",
         "Goodie",
         "Online"
       ],
@@ -207027,7 +207039,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.00",
           "grams": 10,
           "compare_at_price": "0.00",
@@ -209756,7 +209768,8 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Click&Collect"
+        "Click&Collect",
+        "Flow:ArtikelstatusAktiv"
       ],
       "variants": [
         {
@@ -209769,7 +209782,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "0.00",
           "grams": 10,
           "compare_at_price": "0.00",
