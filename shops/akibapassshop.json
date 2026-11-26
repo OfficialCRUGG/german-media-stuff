@@ -140989,6 +140989,7 @@
       "tags": [
         "Anime",
         "Click&Collect",
+        "Flow:ArtikelstatusAktiv",
         "Online",
         "peppermint anime",
         "sale-november-2026",
@@ -182829,6 +182830,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
+        "Flow:ArtikelstatusAktiv",
         "sale-november-2026"
       ],
       "variants": [
@@ -182896,7 +182898,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "39.90",
           "grams": 390,
           "compare_at_price": "59.90",
@@ -190048,6 +190050,7 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
         "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Merch"
       ],
@@ -207013,7 +207016,6 @@
       "product_type": "Gift",
       "tags": [
         "Click&Collect",
-        "Flow:ArtikelstatusAktiv",
         "Goodie",
         "Online"
       ],
@@ -207028,7 +207030,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.00",
           "grams": 10,
           "compare_at_price": "0.00",
@@ -209757,8 +209759,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Click&Collect",
-        "Flow:ArtikelstatusAktiv"
+        "Click&Collect"
       ],
       "variants": [
         {
@@ -209771,7 +209772,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.00",
           "grams": 10,
           "compare_at_price": "0.00",
@@ -217096,7 +217097,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "19.90",
           "grams": 185,
           "compare_at_price": "0.00",

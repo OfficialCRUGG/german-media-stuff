@@ -31393,7 +31393,28 @@
           "created_at": "2026-11-26T09:02:51+01:00"
         }
       ],
-      "images": [],
+      "images": [
+        {
+          "id": 39640508694581,
+          "created_at": "2026-11-26T12:05:07+01:00",
+          "position": 1,
+          "product_id": 15534043824181,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/meinefrauschwiegertochterichuhdbdpackshot2djpg-250997.jpg?v=1795691109",
+          "width": 1500,
+          "height": 1915
+        },
+        {
+          "id": 39640511414325,
+          "created_at": "2026-11-26T12:05:11+01:00",
+          "position": 2,
+          "product_id": 15534043824181,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/meinefrauschwiegertochterichuhdbdpackshot3djpg-251048.jpg?v=1795691112",
+          "width": 1172,
+          "height": 1680
+        }
+      ],
       "options": [
         {
           "name": "Title",
