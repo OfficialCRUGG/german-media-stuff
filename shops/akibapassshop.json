@@ -80022,7 +80022,7 @@
           "available": true,
           "price": "10.90",
           "grams": 200,
-          "compare_at_price": "15.90",
+          "compare_at_price": "15.40",
           "position": 1,
           "product_id": 10261442003208,
           "created_at": "2025-05-28T15:54:57+02:00"
@@ -186569,7 +186569,9 @@
       "created_at": "2026-11-25T16:38:56+01:00",
       "vendor": "polyband anime",
       "product_type": "",
-      "tags": [],
+      "tags": [
+        "Flow:ReleaseInfoOffen"
+      ],
       "variants": [
         {
           "id": 59683826925832,
@@ -207017,7 +207019,6 @@
       "product_type": "Gift",
       "tags": [
         "Click&Collect",
-        "Flow:ArtikelstatusAktiv",
         "Goodie",
         "Online"
       ],
@@ -207032,7 +207033,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.00",
           "grams": 10,
           "compare_at_price": "0.00",
@@ -209761,8 +209762,7 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Click&Collect",
-        "Flow:ArtikelstatusAktiv"
+        "Click&Collect"
       ],
       "variants": [
         {
@@ -209775,7 +209775,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "0.00",
           "grams": 10,
           "compare_at_price": "0.00",
