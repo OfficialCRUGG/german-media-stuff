@@ -25236,24 +25236,24 @@
       ],
       "images": [
         {
-          "id": 39570549702709,
-          "created_at": "2026-11-20T15:47:54+01:00",
-          "position": 1,
-          "product_id": 15515204386869,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/iplayrockyo-card3dpackshot1png-250310.png?v=1795186077",
-          "width": 1169,
-          "height": 1626
-        },
-        {
           "id": 39570549866549,
           "created_at": "2026-11-20T15:47:59+01:00",
-          "position": 2,
+          "position": 1,
           "product_id": 15515204386869,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122970527101jpg-250360.jpg?v=1795186081",
           "width": 1607,
           "height": 2023
+        },
+        {
+          "id": 39570549702709,
+          "created_at": "2026-11-20T15:47:54+01:00",
+          "position": 2,
+          "product_id": 15515204386869,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/iplayrockyo-card3dpackshot1png-250310.png?v=1795186077",
+          "width": 1169,
+          "height": 1626
         }
       ],
       "options": [
@@ -25302,24 +25302,24 @@
       ],
       "images": [
         {
-          "id": 39570549899317,
-          "created_at": "2026-11-20T15:48:04+01:00",
-          "position": 1,
-          "product_id": 15515204419637,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/iplayrockybd3dpackshotpng-250411.png?v=1795186087",
-          "width": 1172,
-          "height": 1680
-        },
-        {
           "id": 39570550685749,
           "created_at": "2026-11-20T15:48:12+01:00",
-          "position": 2,
+          "position": 1,
           "product_id": 15515204419637,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/iplayrockybd2dpackshotjpg-250462.jpg?v=1795186093",
           "width": 1500,
           "height": 1915
+        },
+        {
+          "id": 39570549899317,
+          "created_at": "2026-11-20T15:48:04+01:00",
+          "position": 2,
+          "product_id": 15515204419637,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/iplayrockybd3dpackshotpng-250411.png?v=1795186087",
+          "width": 1172,
+          "height": 1680
         }
       ],
       "options": [
