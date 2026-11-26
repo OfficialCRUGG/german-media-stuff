@@ -6478,7 +6478,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "45.90",
           "grams": 120,
           "compare_at_price": "45.90",
@@ -166433,7 +166433,6 @@
       "vendor": "Film Confect",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -166447,7 +166446,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "49.90",
           "grams": 1938,
           "compare_at_price": "49.90",
@@ -206520,8 +206519,6 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Badge:Vorbestellen",
-        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Merch"
       ],
       "variants": [
@@ -206535,7 +206532,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "8.90",
           "grams": 50,
           "compare_at_price": "0.00",
@@ -206588,7 +206585,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "8.90",
           "grams": 50,
           "compare_at_price": "0.00",
@@ -208585,7 +208582,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "63.80",
           "grams": 400,
           "compare_at_price": "79.80",
@@ -231127,7 +231124,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "39.90",
           "grams": 0,
           "compare_at_price": "39.90",
