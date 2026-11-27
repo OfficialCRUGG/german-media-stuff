@@ -7983,7 +7983,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "4.90",
           "grams": 123,
           "compare_at_price": "36.90",
@@ -16934,7 +16934,7 @@
             "position": 1,
             "created_at": "2025-10-29T13:10:49+01:00",
             "updated_at": "2026-01-21T18:40:17+01:00",
-            "alt": "Free! - T-Shirt Penguin (Girlie) - S",
+            "alt": "Schwarzes kurzarm-t-shirt mit stilisiertem pinguinmotiv und gelbem stern auf dem kopf, free merchandise anime blu-ray",
             "width": 1000,
             "height": 1000,
             "src": "https://cdn.shopify.com/s/files/1/0882/2630/0168/files/free-t-shirt-penguin-girlie-peppermint-anime-701.webp?v=1769017217",
@@ -41448,7 +41448,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "4.90",
           "grams": 126,
           "compare_at_price": "36.90",
@@ -182831,7 +182831,6 @@
       "vendor": "peppermint anime",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "sale-november-2026"
       ],
       "variants": [
