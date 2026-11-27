@@ -161037,6 +161037,8 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -161050,7 +161052,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "39.90",
           "grams": 0,
           "compare_at_price": "39.90",
@@ -162522,6 +162524,8 @@
       "vendor": "Crunchyroll",
       "product_type": "",
       "tags": [
+        "Badge:Vorbestellen",
+        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Anime"
       ],
       "variants": [
@@ -162535,7 +162539,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "49.90",
           "grams": 218,
           "compare_at_price": "49.90",
