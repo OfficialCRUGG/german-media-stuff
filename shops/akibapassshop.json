@@ -189193,7 +189193,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "22.90",
           "grams": 510,
           "compare_at_price": "22.90",
@@ -190545,7 +190545,6 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Flow:Releaseplan-Merch"
       ],
       "variants": [
@@ -190559,7 +190558,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "16.90",
           "grams": 250,
           "compare_at_price": "18.90",
@@ -230594,7 +230593,6 @@
       "vendor": "Sakami Merchandise",
       "product_type": "",
       "tags": [
-        "Flow:ArtikelstatusAktiv",
         "Online",
         "Wallscroll",
         "Wandbanner"
@@ -230610,7 +230608,7 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "19.90",
           "grams": 0,
           "compare_at_price": "19.90",
